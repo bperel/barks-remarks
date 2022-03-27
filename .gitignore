@@ -1,3 +1,4 @@
 .idea
 deepgram-key.txt
 node_modules
+subtitles/*.mp3
