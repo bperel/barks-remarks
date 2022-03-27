@@ -1,0 +1,3224 @@
+1
+00:00:21,426 --> 00:00:37,883
+Hello, and welcome to Barks remarks. The podcast where we talk about the stories from the legendary Carl Barks creator of sc Mc and writer and artist of the greatest Donald and Scrooge cl of all time join us as we explore his longer adventure stories in their chronological
+
+2
+00:00:38,221 --> 00:00:55,014
+publishing order. We'll talk about what makes them so enduring their historical context and how well they hold up today. So get out your reprint and get ready to enjoy our remarks. Welcome back to Barks remark I'm Mark Sever, a grown man who enjoys donald duck comics.
+
+3
+00:00:55,593 --> 00:01:11,500
+I've got a new first time guest host who is joining me to talk about the famous Barks story land of the tote poles. Guess host, if you could please introduce yourself and tell us a little bit about your background
+
+4
+00:01:11,920 --> 00:01:12,420
+and
+
+5
+00:01:12,960 --> 00:01:13,920
+experience with comics.
+
+6
+00:01:14,453 --> 00:01:50,540
+Hi. This is Susan Bailey. Hi, Barks, Thanks. I'm really happy to be here. I'm excited. I've been hearing a lot about Barks remarks for my husband who is another guest guest host on this this podcast. I never really read Comics as a kid. There was still that stigma but it didn't count as reading in an academic sense and I was very goody two shoes doing exactly what my teacher said. So I read I read books with no pictures, because that's what big girls at. And so I I kinda came him in the comics later, my husband as I said it's very much in comics and they're a big background
+
+7
+00:01:50,916 --> 00:02:02,070
+in in our life and I I've read a few that I really enjoy, but this was my first time with the Carl Barks awesome. Yeah. First first experience with one of the the Disney comics, the Ducktales comics.
+
+8
+00:02:03,085 --> 00:02:07,863
+Your husband, of course is is Ryan Bailey, one of our more prolific
+
+9
+00:02:08,199 --> 00:02:12,818
+guest host, but I'm I'm very excited to get your perspective for this one too
+
+10
+00:02:13,195 --> 00:02:16,247
+because you I know you've got a bit of a creative writing background.
+
+11
+00:02:16,624 --> 00:02:17,124
+And,
+
+12
+00:02:17,461 --> 00:02:37,310
+you know, this one, this is a little bit of a challenging story for me. The because... I mean, it's in the title. Right? Land of the tote pulls and the fact that this is from nineteen forty nine should clue listeners in that, you know, we're gonna be talking a little bit about the treatment of the the first nations people and this.
+
+13
+00:02:38,323 --> 00:03:09,354
+Little disclaimer. You know, Neither of us were not like, first nations were not of this northwest tribe. I I felt like it would be a little bit phony to try and find you know, some some random person from the Pacific Northwest to try and account for this because, you know, i I like to talk to people that I know or have a background duck comics. But it's important to consider, I think the depictions in this. And so while we're not, like representatives of these civic Northwest first nations people. I know you you grew up your, like
+
+14
+00:03:09,730 --> 00:03:25,235
+near a lot of native Americans your reservation. Right? I did. Yeah. I grew up next to the Navajo reservation. And so I I don't speak for them, but I I can tell. I can tell you with no uncertainty that this this would be problematic for them. Yeah. Absolutely.
+
+15
+00:03:25,734 --> 00:03:33,074
+So there's kind of a careful balance with these. Right? Because Carl Barks fans, you know, Barks did the majority of these in the nineteen
+
+16
+00:03:33,530 --> 00:03:35,545
+forties and fifties and into the sixties.
+
+17
+00:03:36,081 --> 00:03:38,030
+And society obviously had
+
+18
+00:03:38,570 --> 00:03:44,810
+a different idea. So I always say, you know, it's it's unfair to hold people to the standards,
+
+19
+00:03:45,345 --> 00:03:45,845
+of
+
+20
+00:03:46,305 --> 00:03:58,620
+twenty twenty one. But at the same time, we do have to recognize that it's not that it wasn't wrong. It's it's that we didn't know better and just because all of society was engaging in these stereotypes doesn't mean we can't
+
+21
+00:03:59,200 --> 00:04:02,860
+recognize what's wrong. At the same time, there are, like some weird traces
+
+22
+00:04:03,294 --> 00:04:09,014
+of of of the representation that he does in this one that that is a little more accurate
+
+23
+00:04:09,590 --> 00:04:17,125
+than you might expect. And we'll we'll talk a little bit about, you know the background. But but again, it's important to know we
+
+24
+00:04:17,543 --> 00:04:18,442
+were in Arizona
+
+25
+00:04:18,954 --> 00:04:20,451
+for a time. And
+
+26
+00:04:20,788 --> 00:04:32,273
+again, you know, the the main native culture there is Navajo in that area. And so again, I'm not trying to speak for, like the first nations people. It's I don't want to commit the sin that so many people
+
+27
+00:04:32,731 --> 00:04:37,480
+do when creating pop culture and media that shows native Americans.
+
+28
+00:04:37,855 --> 00:04:40,115
+Right? And and and that is to basically
+
+29
+00:04:40,895 --> 00:04:43,315
+act like they're all the same.
+
+30
+00:04:43,735 --> 00:04:44,235
+Right?
+
+31
+00:04:45,135 --> 00:04:49,160
+The the people of the Pacific northwest have a very distinct culture.
+
+32
+00:04:49,855 --> 00:04:50,355
+Even
+
+33
+00:04:50,851 --> 00:04:52,166
+within specific tribes,
+
+34
+00:04:52,763 --> 00:04:53,675
+they're are very.
+
+35
+00:04:54,094 --> 00:05:04,508
+You know I I looked a little bit into tote pulls for this one, which to me is the the fascinating hook of this one and there are incredibly distinct styles and cultural
+
+36
+00:05:05,087 --> 00:05:07,065
+representations of of tote pulls,
+
+37
+00:05:07,564 --> 00:05:11,380
+you know, certain certain tribes will use different
+
+38
+00:05:11,774 --> 00:05:22,931
+creatures when they are creating their tote poles, for example. Sue, do you know much about tote and poles? I I know absolutely not thing about total pulls. I I really... That's not something
+
+39
+00:05:23,628 --> 00:05:27,238
+that is really obvious in any of the, like, peripheral
+
+40
+00:05:28,493 --> 00:05:34,485
+experience that I have with native cultures. Right. Right. And there'd be no reason for you too.
+
+41
+00:05:35,145 --> 00:05:56,105
+And and I didn't either, but I... But I looked... I learned a little bit about it. Before intending to cover this comic and and they're really interesting. Right? Because they they kind of tell a tribe history. I I find it interesting that there's kind of a mis number. You know, we have that saying like the low man on the tote pole. Apparently, that's kind of backwards. Usually the the lower
+
+42
+00:05:57,001 --> 00:06:07,214
+representation on the tote pole is is is more important. That was... That was something... Yeah. That I I thought was interesting that I learned. I don't wanna go too deeply into it, but,
+
+43
+00:06:07,554 --> 00:06:19,856
+you know, I I did learn that tote pulls kind of they do range in the area that the ducks are gonna go to in this story. They actually were used by first Nations people ranging from the very southern tip of Alaska
+
+44
+00:06:20,235 --> 00:06:23,344
+down into the very very northern tip of California.
+
+45
+00:06:23,881 --> 00:06:33,259
+Again, they're very different depending on, you know, what tribe is creating them. They're they're made generally from Cedar wood and
+
+46
+00:06:33,679 --> 00:06:42,311
+they were radically affected by like the arrival of Americans. Right? Because that that brought tools that would allow people who made tote
+
+47
+00:06:42,770 --> 00:06:47,426
+to make them much larger. Oh, there's an alternate name too. They're sometimes called monumental.
+
+48
+00:06:48,138 --> 00:06:55,132
+Polls. For for a time, tote poles were being, like, either destroyed or taken away
+
+49
+00:06:55,563 --> 00:07:02,719
+by people who wanted to really stamp out indigenous culture. And there's been this big, like fascinating rep
+
+50
+00:07:03,056 --> 00:07:03,529
+movement
+
+51
+00:07:04,108 --> 00:07:11,191
+I would love to to go more into the history of tote polls, but I I guess my perspective is that the these
+
+52
+00:07:11,544 --> 00:07:13,083
+are very important
+
+53
+00:07:13,822 --> 00:07:15,361
+right, to the native peoples
+
+54
+00:07:15,740 --> 00:07:20,115
+And this story, unfortunately is gonna to treat them as as more of a narrative
+
+55
+00:07:20,908 --> 00:07:25,617
+Yeah. No. When when I got to that page, and I we'll talk about it more. I was like, oh,
+
+56
+00:07:26,136 --> 00:07:28,551
+okay. That's not what I thought was going
+
+57
+00:07:29,743 --> 00:07:32,919
+Hi. And I think it's kind of gonna be a case of backwards storytelling.
+
+58
+00:07:33,458 --> 00:07:36,768
+You know, I I just did an episode with my wife that was
+
+59
+00:07:37,264 --> 00:07:42,385
+really fun where Donald and sc get involved in this fight
+
+60
+00:07:42,881 --> 00:07:55,398
+with steam shovel. Right? Like, they're duke it out in steam shovel. And and I I theorized that Barks, you know, he had that panel in mind where he really wanted to create a steam shovel any kind of backwards
+
+61
+00:07:55,736 --> 00:07:59,284
+engineer the story around it. And and I think that he
+
+62
+00:07:59,662 --> 00:08:04,975
+he wanted to do the same here. Right? He had an idea of that panel that we'll we'll get into.
+
+63
+00:08:05,429 --> 00:08:35,825
+So I don't wanna take too long before getting into the actual story. Let's talk about a little bit of the kind of the background of of land of the tote poles. This one is one of our last stories that's in the forties. Right? This was... Had to cover date of December nineteen forty nine. Was published in the old one shot series four color number, two hundred and sixty three And and I'm sue I've been tracking how many time stories have been reprinted. This one has not been reprinted as as often
+
+64
+00:08:36,203 --> 00:08:43,990
+as many of the other stories. I suspect because it it is problematic. Right? That does not the surprise made. Yeah. It's only had six
+
+65
+00:08:44,610 --> 00:08:45,110
+reprint
+
+66
+00:08:45,690 --> 00:09:09,379
+in the United States at least. And it is a little shorter than many of the adventure length stories. This one's a twenty four pager If I had to create a synapse for this, I would say that you, this is about donald blu his way into a sales job in the northern forests of the Pacific Northwest. Let's see a little little bit of background trivia about the story itself and and the creation.
+
+67
+00:09:09,858 --> 00:09:10,378
+So Sue,
+
+68
+00:09:11,097 --> 00:09:31,030
+Barks did so many of these stories. That, you know, and he kind of toil anonymously for much of his career. So he kind of felt sometimes like, he could go back to the same well. And he would reuse some of his story beats. And so this this is a story that he kind of re adapted again a decade or so later in
+
+69
+00:09:31,450 --> 00:09:43,826
+a story called city of Golden Roofs. And I I think I read that one before. I read this one and I actually enjoy... I think I enjoy that one a little bit more than this one. It has its own problematic
+
+70
+00:09:44,163 --> 00:09:47,249
+stuff. As you might imagine, but I don't think it's quite as Al
+
+71
+00:09:48,208 --> 00:09:52,305
+eyebrow raising. And then, you know, Don been a salesman a couple of times.
+
+72
+00:09:53,123 --> 00:10:13,502
+There's a ten pager story called salesman Mcdonald's. So that's an interesting hook for this one. And I find it interesting that you know, Carl Marx had this career where he did all these like, globe spanning stories he himself didn't really do much travel until much later in life. And one of his only documented vacations actually is in the Pacific
+
+73
+00:10:13,920 --> 00:10:22,705
+northwest. And so he got a lot of inspiration for this story from the from the vacation that he took and and he was actually referencing
+
+74
+00:10:23,140 --> 00:10:36,089
+some of the, I think the the native artifacts that he saw and some of the scenery, You know, the lo cows that he saw. And and sue, I don't know if you got the impression that it was created from a reference.
+
+75
+00:10:36,548 --> 00:10:39,625
+When I when I was looking at their their their travel specifically,
+
+76
+00:10:39,999 --> 00:10:55,006
+it made... It made me feel very like, it it was very grounded. Like, this is something that could happen. This is something that probably did happen a lot where they're where's the road? You know what I mean? And I think right up until they get to the Native village,
+
+77
+00:10:55,459 --> 00:11:03,631
+it feels like, yeah. Maybe maybe he was there maybe he saw this this kind of scenery this kind of attitude of, like, there's no road mister.
+
+78
+00:11:04,170 --> 00:11:10,565
+Very interesting. Yeah. Yeah. The only the only travel that he did early on was, like just down into the border,
+
+79
+00:11:11,522 --> 00:11:13,635
+you know, the California Mexico burger.
+
+80
+00:11:14,048 --> 00:11:14,788
+And then
+
+81
+00:11:15,124 --> 00:11:19,586
+and then this northwest vacation. So it's interesting because you get this, like,
+
+82
+00:11:20,383 --> 00:11:20,883
+visually
+
+83
+00:11:21,314 --> 00:11:46,794
+when we get to it, we'll see. But the the native village actually looks very lovingly rendered. And if you just look at it visually, I think it's a very good depiction. Right? Because, like, it shows these long houses. And I and I think there's I wanna say there's fish drying, You know, it kinda shows this, like, everyday life. The way the natives... The first nations people like interact and talk is more in keeping with that like, hollywood
+
+84
+00:11:47,251 --> 00:11:49,227
+trope of the the savage
+
+85
+00:11:50,099 --> 00:11:50,419
+Indian.
+
+86
+00:11:50,899 --> 00:12:06,494
+I'm not gonna, like, repeat that word, but but it's important much, but it's important to say, you know, that's that's how they're gonna be referred to in this one a lot. And I don't know about you too. I'm I'm a little bit older than you and I grew up watching a lot of like Nick at night and
+
+87
+00:12:06,795 --> 00:12:08,535
+nineteen fifties Tv.
+
+88
+00:12:08,929 --> 00:12:12,709
+And and it's important to say that, like this was the widespread
+
+89
+00:12:13,209 --> 00:12:18,803
+depiction of native peoples at this time. They were they were treated Al story book characters
+
+90
+00:12:19,379 --> 00:12:25,339
+I would say, there was never really an acknowledgment that natives are real people that you could actually
+
+91
+00:12:25,676 --> 00:12:34,294
+meet. Like, that that experience is completely foreign to me. I didn't watch a lot of Tv as a kid. And since I grew up with natives, my first
+
+92
+00:12:34,753 --> 00:13:04,228
+encounters with problematic media, depicting natives were like, let's like, why are they doing this? It does it didn't make any sense to me. The first time I I saw it. And then as I got older, I realized how widespread spread. It was. Yeah. No. It was it was a bit of a shock to me the first time because again, I knew native people before I knew media representations of native people. That's really interest I must have been really striking to see some of those. I do remember, I do remember
+
+93
+00:13:04,686 --> 00:13:11,554
+speaking with some some of my friends about it. And, like, you know, you got you've gotta to dig deep if you want real
+
+94
+00:13:12,734 --> 00:13:26,022
+representation of of native culture like sherman and Alex alexa right beautiful novels. And those are those are real depictions where they're real people whereas, you know, in Hollywood probably up until the eighties, they were just characters.
+
+95
+00:13:26,494 --> 00:13:29,586
+Per they needed a canned bad guy or they needed
+
+96
+00:13:30,043 --> 00:13:31,819
+somebody to make the white man look smart.
+
+97
+00:13:32,196 --> 00:13:51,984
+Right. Or like, the noble savage trope. Oh, yeah. That one. That one that one was probably popular even longer because it feels less problematic probably to the story creators, but but it's not Yeah. That that's that's a great point. Right? Like, that was what we started to see, I think into the eighties where we could pat ourselves on the back.
+
+98
+00:13:52,719 --> 00:13:56,854
+Right. But it it's still... It was still a trope. Just a little more background.
+
+99
+00:13:57,193 --> 00:14:07,905
+This was published in the same issue as our story from the next episode the trail of the unicorn, that was not very common. And then Barks actually listed this one frequently as one of his favorites.
+
+100
+00:14:08,639 --> 00:14:11,019
+Saying that he really enjoyed the multiple elements.
+
+101
+00:14:11,399 --> 00:14:18,827
+And this really is kind of this hodgepodge of different concepts that he's gonna bring into And then this this is something that Barks did
+
+102
+00:14:19,364 --> 00:14:26,819
+occasionally early on. The the first nations people in this are actually drawn as humans rather than the kind of dog
+
+103
+00:14:27,278 --> 00:14:33,350
+that he'll use later for, like, generic background characters. You know, that kind of Disney dog knows.
+
+104
+00:14:34,363 --> 00:14:36,920
+Representation that. And that was an editorial Ducktales.
+
+105
+00:14:37,040 --> 00:15:03,309
+Titles from around the world so, I didn't I didn't prep you for this So let me just run down a couple of these really quickly and we'll get into it I like to share some of the alternate titles unless do you want me to put a couple in the chat for you to say? No. You go... You go ahead. I'm I'm curious about this. Most of the publications from around the world have used the original title, you know, land of the tote poles or something like that in their native language. In Brazil it was Ata d
+
+106
+00:15:04,069 --> 00:15:07,289
+At the land of the idol. In Denmark, It was tote
+
+107
+00:15:07,669 --> 00:15:08,169
+hall
+
+108
+00:15:08,509 --> 00:15:11,264
+land, Tote Polls land. France was,
+
+109
+00:15:14,084 --> 00:15:17,464
+Don Land of Tote. But a couple interesting ones. Germany
+
+110
+00:15:17,845 --> 00:15:19,438
+called it the math
+
+111
+00:15:20,295 --> 00:15:25,466
+the power of sounds for one publication. And in the Netherlands, it was bet
+
+112
+00:15:26,403 --> 00:15:26,903
+Tote.
+
+113
+00:15:27,441 --> 00:15:31,554
+Which Google translate tells me hon tote.
+
+114
+00:15:33,574 --> 00:15:44,760
+I think that's the perfect title. Also, I'm really glad that I didn't have you send those over to the chat because I would've have butcher those. Yeah. I'm I'm sure I butcher you're them pretty good. But but I have fun pretending, I didn't.
+
+115
+00:15:45,534 --> 00:15:52,465
+Alright. So I got a little bit of more like, historical and geographical stuff to talk about, but I'll kind of embed it into the
+
+116
+00:15:52,939 --> 00:16:00,741
+the story itself. You ready to to talk about this one too? Yeah. Let's jump in. So Land the tote poles opens
+
+117
+00:16:01,414 --> 00:16:05,510
+with a kind of a very dated concept. Right? Donald is
+
+118
+00:16:06,009 --> 00:16:18,461
+reading the newspaper, and he's looking at a job class Al classified ad that's published, seeking super salesman to sell a high priced gizmo and the job offers
+
+119
+00:16:19,014 --> 00:16:20,154
+huge commissions.
+
+120
+00:16:20,535 --> 00:16:21,035
+And,
+
+121
+00:16:21,495 --> 00:16:44,365
+you know, he he rushes. He's very excited about this salesman job and he rushes to the place where he can interview to see that there's a line of people waiting to do the same. And he's gonna use this old trick to get himself into the head of the line. He's gonna bundle up a bunch of newspapers and blessed her his way in and acting like he's got a very important package.
+
+122
+00:16:44,819 --> 00:16:58,115
+And and I'm curious when you think about this open or sue, but this is really interesting to me because this feels this feels incredibly date right? The idea of a door to door salesman job and being excited about that. I I thought it was delightful...
+
+123
+00:16:58,455 --> 00:17:03,967
+Some of the other comics that you that you had me read. I was looking at, like, seems like Donald is always trying to make a Quick.
+
+124
+00:17:04,347 --> 00:17:04,847
+Yeah.
+
+125
+00:17:05,465 --> 00:17:13,653
+And so the fact that he would be excited about this seems right in character and I just love the the like, tricky plays to to get into
+
+126
+00:17:14,151 --> 00:17:20,605
+get into the office where pushing people aside oh, I've got a very important package. Very important package. But I think my favorite
+
+127
+00:17:20,959 --> 00:17:31,784
+favorite bit of this page is the very last panel where he's climbing over the applicant. And the and the guy is like, leaning forward, and there's just Al little sign on his desk that says, I'm him
+
+128
+00:17:32,324 --> 00:17:38,524
+exclamation point. Yeah. It's it's... This one, this page is like packed with really great background gag.
+
+129
+00:17:38,979 --> 00:17:49,362
+And well constructed little funny elements. You know, he's going to forty four forty four forty fourth Street. He he runs past this like, classic depiction of a tram h.
+
+130
+00:17:50,501 --> 00:18:05,993
+It's it's very dated, but it's very funny. And then, you know, he that little gag you mentioned was preceded by him saying important package for the manager. One side one side, and then the sign seems to be referencing that. So, you know, it's it's very visual. This is a podcast.
+
+131
+00:18:06,331 --> 00:18:29,363
+So, like, one of the worst things you can do is say, oh, look at these funny elements and appreciate them. But but really, this this is a great. Page it's... I think it's a very strong opening. Then I I like the very Barks like sales manager. You know. He again, feels like this very classic typo technology. Donald successfully blessed his way in and he reveals his and and, you know, predictably,
+
+132
+00:18:29,700 --> 00:18:53,339
+the guy is really annoyed. At Donald, this doesn't seem to be the best way to make an impression. He says you suck me with the oldest gang in the book. Donald stave him off with a coat rack while telling him. You know, I'm I'm showing you some initiative. I'm a super salesman You need me. And, you know, the guy the guy considers it, and you can see him...
+
+133
+00:18:53,679 --> 00:18:53,839
+I mean,
+
+134
+00:18:54,559 --> 00:19:07,892
+sue, do you mind telling me your impression of of what I think is very visible to the reader. It's not trying to show that he's considering his idea. I think he's got this like, curling smile and these like pointed eyebrows, anything.
+
+135
+00:19:08,907 --> 00:19:13,099
+I feel like he is he's realizing oh, I can use this sucker.
+
+136
+00:19:13,559 --> 00:19:14,059
+Right.
+
+137
+00:19:14,399 --> 00:19:18,989
+Yeah. He's he's deciding he's gonna give him the work. Says you would have said back then.
+
+138
+00:19:19,525 --> 00:19:25,087
+And and he he says this overt. He says you're just the kind of guy I'd like to see get the business.
+
+139
+00:19:25,798 --> 00:19:29,051
+So he's gonna set Donald up. Right? Because
+
+140
+00:19:29,589 --> 00:19:33,201
+he tells him he's got this. He he says that it's Al lucrative.
+
+141
+00:19:33,873 --> 00:19:42,759
+Block of territory up north. And he swallows the line about what the actual sales item is. He says, how do you like to sell our
+
+142
+00:19:43,299 --> 00:19:43,799
+product?
+
+143
+00:19:44,339 --> 00:19:50,732
+And and he he references a sales contest. You know, Donald is is very confident in this full of blu.
+
+144
+00:19:51,151 --> 00:19:53,049
+And so he pretty much agrees
+
+145
+00:19:53,388 --> 00:20:28,174
+sign on scene. I just I just love how like, the guy swallows it in the first line, but then it looks like, you know, you'll have a chance of the grand prize, which goes to the s, which sells the most and honestly like, I'm sure to win that all one myself. He almost had the opportunity there to figure out what it was that he was selling but he just doesn't care. Right. He he blessed his way into this problem. So on the next page, on the third page, you know, he he gets home and he tells the boys to pack their bags their heading up north for his new salesman job, and he tells them that it's gonna be on the kick me quick river,
+
+146
+00:20:28,514 --> 00:20:30,389
+which is Al pretty flip
+
+147
+00:20:30,729 --> 00:20:46,489
+geographical name. But i admittedly, it sounds like something that could be in the Pacific Northwest. And so he doesn't even know where it is. He has the kids look up on the map and they find that it is up in the wildest country there is and and they're kind of pointing to the border between Al last
+
+148
+00:20:47,307 --> 00:20:55,243
+in Northwest Canada. So we kind of figure out that this is either in the Yukon territory or the northern part of British Columbia. And when the nephews...
+
+149
+00:20:55,981 --> 00:21:09,034
+Do you mind telling us sue when... What what Donald says when the Nephews asked about what he's selling I love I love this because he he's obviously not even thinking about it He's like some kind of pressure cooker, I think. And he's like trying to
+
+150
+00:21:10,092 --> 00:21:24,534
+squeeze everything that he can into this giant suitcase that's bigger than he is. He still doesn't know what he's selling. He's packing his Barks. He still doesn't nobody he's selling, but it's gonna be fine. Yeah. And you can kinda tell that the the sales boss must have kind of
+
+151
+00:21:25,313 --> 00:21:35,089
+talked his way around what it is. It it obviously has something to do with steam. And and so the nephews, you know, they consider, hey, if we're up there we might as well
+
+152
+00:21:35,589 --> 00:21:48,015
+try and sell something too. So they decide to get a get a line of goods And you know, this is a pretty common setup for this kind of story where the nephews will be in the same line of business
+
+153
+00:21:48,489 --> 00:21:54,929
+as Donald, and it's gonna kinda set up this like little rivalry. This is a well that Barks is gonna go to a lot.
+
+154
+00:21:55,704 --> 00:22:03,204
+And and then can you tell us about their arrival sue at the end of this page? This is probably my favorite frame of the whole page.
+
+155
+00:22:03,544 --> 00:22:04,264
+Of fish.
+
+156
+00:22:05,079 --> 00:22:17,994
+Fish just kills me. It's like on top of the water running like his fins our legs, and I just... I don't I don't know what it is about it, but something just does it me, and I'm like, where is that fish going? And and we'll see later what that fish is running from
+
+157
+00:22:18,414 --> 00:22:23,683
+as he his he draws in the clue, but I I love just the little hint that that fish is like, I'm out of here.
+
+158
+00:22:24,579 --> 00:22:28,570
+Yeah. The Barks really goes kinda wild with the background gag in this Love it.
+
+159
+00:22:29,422 --> 00:22:31,536
+Yeah. And and and it's a nice panel.
+
+160
+00:22:32,174 --> 00:22:38,555
+The the site is great. But they like arrive in the jumping off place, which is Chilled, British, Columbia,
+
+161
+00:22:39,129 --> 00:22:41,749
+and you know, they can tell that it's not a very crowded
+
+162
+00:22:42,169 --> 00:22:49,100
+country at all. And on the next page, Donald is finally gonna encounter his sample case.
+
+163
+00:22:49,658 --> 00:22:56,497
+But the the guy who he asked is, like, yeah. If you wanna call that a sample case, and he indicates a
+
+164
+00:22:57,169 --> 00:23:10,564
+truck with a covered bed and and Donald takes a look under the the cloth that's hiding it and, you know, we just get his reaction as reader. And I really like this device
+
+165
+00:23:10,864 --> 00:23:28,004
+sue where Barks is kinda setting up this you know, this mystery, this question, What do you think about that? I think I think he does this brilliantly. Like, he could have revealed it here that he drags it on just a little bit longer. I I love how we get to see the manager's reaction to what Donald gonna sell with his like,
+
+166
+00:23:28,977 --> 00:23:33,943
+kind of a sinister smile, and then we got Donald reaction of just like pure
+
+167
+00:23:34,280 --> 00:23:56,011
+shock and like, oh, man, what have I gotten myself into? And and we still... like, the nephews are like, well, what is it? What is it? We still don't get that until further on. And I think I think it's a lovely lovely device that I'm sure. The target audience of ti would have really really enjoyed. Yeah. I mean, I I had to kinda think back to the first time I read this. And I I do remember being in like, big suspense.
+
+168
+00:23:56,786 --> 00:23:58,203
+So, you know, Donald,
+
+169
+00:23:58,859 --> 00:24:02,906
+he he seems a little bit per and he's not willing to reveal
+
+170
+00:24:03,538 --> 00:24:07,325
+his pride, won't let him reveal what he has to try and sell to the nephews.
+
+171
+00:24:07,764 --> 00:24:13,701
+And they try to make their way on the next page into the terror cory and they
+
+172
+00:24:14,038 --> 00:24:16,571
+they encounter kind of a g old fisherman
+
+173
+00:24:17,028 --> 00:24:30,701
+who tells them, you know, you're looking for a road, but there ain't no road miss the the only way to go up the Kick mc quick river is to go up the river. And and so, you know, Donald again, he's he's in that very stubborn mode and he
+
+174
+00:24:31,174 --> 00:24:34,874
+decides to hire some men to build a raft.
+
+175
+00:24:35,214 --> 00:24:43,320
+And, you know, we we train... This is obviously a huge undertaking so, we we transition and we get get right into it.
+
+176
+00:24:43,657 --> 00:24:51,911
+Can you kinda close out this page for us? Yeah. I was... When I was reading that like, we're gonna get some men to build me raft and I was like, who, the fisherman?
+
+177
+00:24:52,409 --> 00:24:59,707
+And he Karl Barks just skips right over. Like, the next morning, they've got this raft. It's got like a paddle wheel and everything, and they've got...
+
+178
+00:25:00,045 --> 00:25:02,320
+They're like, alright. We're gonna go find ourselves some customers.
+
+179
+00:25:02,814 --> 00:25:14,587
+And they go for miles and miles and miles without a house without a shack, not a single soul, in which they could sell anything too. Until finally, at the last panel, you see this kind of
+
+180
+00:25:14,964 --> 00:25:28,637
+rams shack house that's like, cropped up on a board with steam or smoke coming out the chimney, and they're like, they're finally a trap shack, a customer it lasts. And you just know, like this person is not going to buy whatever
+
+181
+00:25:29,575 --> 00:25:32,433
+in the back of your truck that's bigger than their house.
+
+182
+00:25:33,091 --> 00:25:34,850
+Yeah. Very well said.
+
+183
+00:25:35,742 --> 00:25:43,176
+You know, you mentioned that transition. I I'm reflecting and and there are times when Barks does this in a way that I kind of appreciate now
+
+184
+00:25:44,089 --> 00:25:46,509
+he has to be a very spare storyteller
+
+185
+00:25:46,849 --> 00:25:49,389
+to to tell this in twenty four pages
+
+186
+00:25:49,769 --> 00:25:54,564
+And when I think about it, I don't need to see a bunch of guys building a raft.
+
+187
+00:25:54,904 --> 00:26:25,709
+Right? Like, it... It's interesting to think in storytelling that sometimes you can give yourself permission to just skip some of the boring parts. Yeah. No. You gotta know when to slow down and when to speed up when to Zoom in and went to Zoom out. And I think this was a perfect example of of him being able to do that because he could have gotten some, you know, funny site gag or some, you know, good good last out of them trying to find enough people to build the thing. But it wasn't worth it. And so he just skips right over it. Yeah. So on the next page, we see Donald approach
+
+188
+00:26:26,049 --> 00:26:32,324
+to this shack. And you know, i I wanna be careful here because, like, the the depiction of the person
+
+189
+00:26:32,664 --> 00:26:33,724
+inside is
+
+190
+00:26:34,064 --> 00:26:38,579
+it's very funny. It's also very like mock Right? But
+
+191
+00:26:39,039 --> 00:26:49,634
+do you... Do you mind telling us about his encounter? His depiction of every person he's sells to is very mocking. There there is nobody that he sells to who is not being made fun of.
+
+192
+00:26:50,054 --> 00:26:53,449
+The first one, the second one and then when we get to the native village, and
+
+193
+00:26:54,107 --> 00:26:58,882
+and yeah, I just... Went like, you can't help but kind of laugh at that h
+
+194
+00:26:59,300 --> 00:27:02,766
+look of Yep. This is my house. I'm the lady of house.
+
+195
+00:27:03,940 --> 00:27:08,279
+Right. And I like the kind of approach. You know, he doesn't quite wanna reveal
+
+196
+00:27:09,097 --> 00:27:17,110
+the mac of what they're selling yet. Right? So he has the sales pitch take place through the Nephews eyes.
+
+197
+00:27:17,604 --> 00:27:27,938
+Where they're talking about, you know, I wish we could hear his pitch. And we just kinda see a little bit of a reference to on a pressure of three hundred and twenty five pounds, you would get it. Etcetera, etcetera.
+
+198
+00:27:28,475 --> 00:27:31,170
+It's very funny. He comes to
+
+199
+00:27:31,508 --> 00:27:34,261
+the the cost of the item that he wants to sell.
+
+200
+00:27:35,074 --> 00:27:40,454
+And he looks it up in the book for the very first time and sue, how much does this mon
+
+201
+00:27:40,954 --> 00:27:49,535
+cost? I love this. I love this but they. He had no idea what he Al no idea how much he's selling for. He looks it up and it's twenty two thousand dollars.
+
+202
+00:27:49,912 --> 00:27:57,594
+Yeah. Oh that's beautiful. Ninety two grand in nineteen forty nine is is about a quarter of a million bucks.
+
+203
+00:27:58,274 --> 00:28:00,294
+This this basically trap,
+
+204
+00:28:00,674 --> 00:28:01,394
+trap lady.
+
+205
+00:28:02,209 --> 00:28:07,903
+And she says, I like her line. Three three sci too much. I got twenty two dollars.
+
+206
+00:28:08,242 --> 00:28:12,589
+And and so of course, he is stumped. At his first sale attempt.
+
+207
+00:28:13,086 --> 00:28:17,215
+The nephews go in and try and they say they had wonderful
+
+208
+00:28:17,832 --> 00:28:33,500
+and they sold twenty two dollars worth And so you know, we're set up for this dynamic that we're gonna get a lot with Donald and the Nephews where they're they're kinda... They have that kind of golden type. Right? Barks wants to see them succeed. And he wants to put Donald.
+
+209
+00:28:33,959 --> 00:28:45,060
+He likes Donald as an underdog. I mean, he's not... He's not like that lovable underdog in this one because he's doing everything wrong. But... But on the next page, we see them transition
+
+210
+00:28:45,414 --> 00:28:50,414
+up to up the river a little bit farther, looking for the next customer.
+
+211
+00:28:51,254 --> 00:28:54,614
+And again, it's just transitions to more miles pass.
+
+212
+00:28:55,109 --> 00:28:56,929
+And tell us about
+
+213
+00:28:57,669 --> 00:29:05,942
+the approach for the next customer so. This is where this is where I started to get nervous because I knew that there were going to be some problematic
+
+214
+00:29:06,401 --> 00:29:11,377
+depictions of native peoples. And we get to this cave, just this cave with like bones
+
+215
+00:29:11,836 --> 00:29:15,108
+outside and smoke coming up but I'm like, if they
+
+216
+00:29:15,487 --> 00:29:21,640
+depict native people as some sort of primitive cave men, I'm not gonna be able to finish. Right.
+
+217
+00:29:22,532 --> 00:29:29,366
+And so, you know, they... He's he's like, calling his truck up onto the onto this like cliff face and
+
+218
+00:29:29,799 --> 00:29:38,129
+the nephews are like, we're gonna go first like down and he's like, no. You get back. I'm I'm gonna go first. This is this is my job here. Steals their stuff. Yeah.
+
+219
+00:29:38,767 --> 00:29:52,762
+I can't sell. He can't sell his own stuff. They had a great luck selling this... This makeup to this... Oh, no. We don't know what it is yet. Do we. Right He just... He just... He still doesn't know what it is, but he knows it has to be better than what he's selling. Right. And and
+
+220
+00:29:53,259 --> 00:30:01,387
+I think that kids actually love this sort of sense of outrage here. Right? Like this, this raises your hack as the reader instantly.
+
+221
+00:30:01,923 --> 00:30:09,903
+You are so upset with Donald. For doing this for a common during for stealing, as you said, they're their sales line.
+
+222
+00:30:10,681 --> 00:30:21,016
+They kind of accept it. And they're like, okay. Well, this this thing, whatever it is is is ours now to sell. So we get the big reveal
+
+223
+00:30:21,569 --> 00:30:22,069
+and
+
+224
+00:30:22,489 --> 00:30:27,669
+tell us to tell us they on earth and what is it sue? They've got this big giant
+
+225
+00:30:28,464 --> 00:30:43,689
+steam oregon. They call it a steam kelly. I had actually never read that word before, but it's it's just massive with this big boiler engine and these giant giant pipes and this like decorative scrolling around it. It's just it's just a beautiful mon.
+
+226
+00:30:44,389 --> 00:30:50,347
+It it really is. Like I find it very appealing to look at. Right. And you called it a steam Al,
+
+227
+00:30:51,064 --> 00:30:55,208
+and that's that's how I read it as a kid. For many years.
+
+228
+00:30:55,746 --> 00:30:58,883
+Before I learned that many people call it a
+
+229
+00:30:59,621 --> 00:31:03,332
+Right? But... Oh, there you go. But don't feel bad because
+
+230
+00:31:03,831 --> 00:31:05,130
+according of wikipedia,
+
+231
+00:31:05,469 --> 00:31:20,994
+there there's a lot of contention about how you're supposed to pronounce it. People might chuckle and say or mispronouncing, you know if you say Al. But back when these things were like, a fixture and pop culture because they would be like attached to steam ships
+
+232
+00:31:21,654 --> 00:31:22,954
+or they would be pulled
+
+233
+00:31:23,254 --> 00:31:25,074
+alongside steam, you know, engines
+
+234
+00:31:25,454 --> 00:31:25,954
+locomotives
+
+235
+00:31:26,254 --> 00:31:38,084
+as sort of a like audience get for carnival and stuff, that there was debate and and many people would pronounce it Tally, and there were a couple of songs that would kind of make fun the two different
+
+236
+00:31:38,503 --> 00:31:46,729
+pronunciations that you could make. So so again, as a kid, I pronounced its steam call in my head until I learned one day it was,
+
+237
+00:31:47,428 --> 00:31:50,482
+and then I switched over. So I'm thinking of as a steam.
+
+238
+00:31:51,100 --> 00:31:58,044
+But this... I think it's notable that this thing is dated even by the standard of like, seventy years ago.
+
+239
+00:31:58,384 --> 00:32:03,499
+This thing is a crazy thing to sell in nineteen forty nine absolutely
+
+240
+00:32:04,557 --> 00:32:10,471
+anywhere. But in the Pacific Northwest, on the K quick River, of course, this this is a farce.
+
+241
+00:32:11,110 --> 00:32:11,944
+And so
+
+242
+00:32:12,364 --> 00:32:18,416
+And so, yeah, Donald doesn't even know what it is. This is what he referred to as a pressure cooker what the nephews point out
+
+243
+00:32:18,915 --> 00:32:26,500
+on the next page And we see Donald going up into this sinister looking cave as you called it. And he encounters a character.
+
+244
+00:32:27,213 --> 00:32:30,867
+Right? Tell tell us about the hermit so. Herman the hermit
+
+245
+00:32:31,445 --> 00:32:31,945
+very
+
+246
+00:32:32,283 --> 00:32:33,501
+very little there.
+
+247
+00:32:34,079 --> 00:32:38,909
+He comes out into the light, and he's just he's just hair. Like, he's just hair with us.
+
+248
+00:32:39,569 --> 00:32:42,149
+And you wonder what is this guy supposed to be?
+
+249
+00:32:43,742 --> 00:32:50,675
+See supposed to be big foot? Is he supposed to be a human like what? What is this guy supposed to be? And you don't really ever get an answer.
+
+250
+00:32:51,169 --> 00:33:07,367
+No. You don't. He... He's such a wild character that I don't think you can even like... He's not problem at it. He's just weird. Right? No. He's just weird. Like I don't know who he would be making fun of. He's just weird. So I I think back in the day, there was more of this like idea of the
+
+251
+00:33:08,239 --> 00:33:10,257
+you pronounce a ace acidic aesthetic...
+
+252
+00:33:10,716 --> 00:33:16,370
+You know, the spartan man who goes out into the woods and just lives this life of hermit
+
+253
+00:33:17,324 --> 00:33:28,999
+You know, you that that that's still a thing, but I think it was more of a thing back then and he is just like the the Uber cliche of this verse who obviously hasn't seen a barber in in many decades.
+
+254
+00:33:29,739 --> 00:33:30,239
+Yes.
+
+255
+00:33:31,459 --> 00:33:33,239
+So so Donald discovers
+
+256
+00:33:33,713 --> 00:33:35,848
+what the kids line of
+
+257
+00:33:36,226 --> 00:33:43,359
+of goods is, Tell us about it too. This is this is the perfect spot to reveal what the kids are selling. They they could have they could have told you earlier, but the fact
+
+258
+00:33:43,699 --> 00:33:57,971
+he opens up this giant box and it's just lipstick and nail polish and just a million products that this guy has zero. You four. Right. Right. And it's become clear why they had some success with the trap lady previously.
+
+259
+00:33:58,586 --> 00:34:01,999
+So On the next page, Donald she tries to sell.
+
+260
+00:34:03,119 --> 00:34:06,419
+But, you know, he's he's offering things like luminous
+
+261
+00:34:06,879 --> 00:34:10,291
+eyebrow pains to make your step oh in the dark.
+
+262
+00:34:10,730 --> 00:34:14,104
+There are some admittedly great lines in here.
+
+263
+00:34:14,642 --> 00:34:17,936
+You know, the hermit, he seems like doing some lipstick for your girlfriend.
+
+264
+00:34:18,528 --> 00:34:19,547
+I don't have a girlfriend
+
+265
+00:34:19,965 --> 00:34:25,350
+and I don't want one. So, you know, after five minutes of trying, he's like, alright. This is the last cause.
+
+266
+00:34:25,843 --> 00:34:29,774
+And then nephew you sort, like, you know, we we might as well give it a shot.
+
+267
+00:34:30,152 --> 00:34:32,806
+And and they just kind of announce
+
+268
+00:34:33,279 --> 00:34:37,919
+they cut their hands and announce into the cave. Oh in there. Wanna buy a steam Al
+
+269
+00:34:38,879 --> 00:34:39,379
+and
+
+270
+00:34:39,959 --> 00:34:41,179
+tell us about Herman
+
+271
+00:34:41,479 --> 00:34:45,474
+response there. So this frame is is so beautiful Al he's like
+
+272
+00:34:45,814 --> 00:34:52,008
+leap out of his cave with his arms in the air and all of his hair is standing up on him. He's like, a esteem
+
+273
+00:34:52,507 --> 00:34:53,167
+like it's...
+
+274
+00:34:53,505 --> 00:34:55,723
+Like it's his fun story.
+
+275
+00:34:56,702 --> 00:35:07,588
+Oh, and then and then the best part is when they come down the hill to tell Donald, but they've made a cell and they've got their biggest sack. The big sack that just has twenty two thousand.
+
+276
+00:35:09,602 --> 00:35:15,390
+Like the Her had a sack of exactly twenty two thousand dollars with the amount written on it inside of his little cave.
+
+277
+00:35:16,163 --> 00:35:17,382
+Right. It's it's Al.
+
+278
+00:35:18,079 --> 00:35:22,450
+It's a great site gag. And and I neglected to mention that herman referenced,
+
+279
+00:35:22,987 --> 00:35:32,192
+you know, there's he is only one desire in the world and you wouldn't be selling it. So, you know, this is Barks poetic justice. Right, For the Nephew.
+
+280
+00:35:32,864 --> 00:35:41,664
+He he loves this kind of setup. And this is this a pretty common trope, but... But I think it's well played here. I'm not a big fan of the, like,
+
+281
+00:35:42,719 --> 00:35:43,219
+comedic
+
+282
+00:35:43,519 --> 00:35:46,899
+suicide attempt is Donald like, for laughs jumps in.
+
+283
+00:35:47,239 --> 00:35:53,348
+Oh I didn't even notice that. There he is. He's jumping off. I just thought, you know, you're frustrated you gotta a jump.
+
+284
+00:35:53,886 --> 00:36:00,026
+Yeah. I maybe it's not. Maybe it's not that old trope. Maybe he's just jumping in out of fresh frustration. But
+
+285
+00:36:00,721 --> 00:36:09,129
+but, you know, again, that's just one of the tropes of the day. And and so So we continue up the up the K me quick river.
+
+286
+00:36:10,265 --> 00:36:15,435
+Donald is just stew at this point because he can't take it back. Right? He already
+
+287
+00:36:16,029 --> 00:36:18,966
+all's all's fair and and love warren and salesman.
+
+288
+00:36:19,505 --> 00:36:20,005
+And
+
+289
+00:36:20,544 --> 00:36:21,284
+and Donald,
+
+290
+00:36:21,743 --> 00:36:25,054
+he's like, he's done with the whole thing. He tells them turn... Turn the
+
+291
+00:36:25,713 --> 00:36:31,198
+over to the hermit and call it quits. But they're like, no. That's our sample case.
+
+292
+00:36:32,709 --> 00:36:37,184
+Like, they're gonna find another hermit who fond the stream is natalie i'm somewhere open in those bills.
+
+293
+00:36:37,943 --> 00:36:44,012
+Right. Right. This has already been the best case scenario. As far as I'm concerned they, it really should turn back. But...
+
+294
+00:36:44,431 --> 00:36:45,331
+But they don't?
+
+295
+00:36:45,670 --> 00:36:50,205
+No. They they consult the map and they find out that, you know, the the river almost
+
+296
+00:36:50,879 --> 00:36:52,497
+ended, and and
+
+297
+00:36:53,275 --> 00:36:57,390
+we get a little throw a line about how no one has ever been farther.
+
+298
+00:36:58,401 --> 00:37:06,969
+This is something that we heater in a couple of Barks stories, you know, and he wants to create this sense of danger. We're deeper in the ever Gladstone and any man has ever been
+
+299
+00:37:07,908 --> 00:37:15,934
+obviously, it's any quote white and and and the Ducktales do represent like white people. Right? They are explicitly coated as white
+
+300
+00:37:16,634 --> 00:37:19,254
+And and literally, they're they're white Ducktales.
+
+301
+00:37:19,514 --> 00:37:28,506
+And and so, you know, they're they're talking it over and they've realized, yeah, they should turn back at this point. But then Donald see some smoke signals in the distance
+
+302
+00:37:29,045 --> 00:37:35,872
+before they're thereabouts turnaround around. And you know onto to the next page, they realized that this this must be they say Indians
+
+303
+00:37:36,730 --> 00:37:40,587
+up up in that area, most people would would say first nations
+
+304
+00:37:41,485 --> 00:37:42,124
+or natives.
+
+305
+00:37:42,539 --> 00:37:56,434
+Are sending messages. Right? And and then After you have a moment of of t where they... Again, they call it they call them savage indians. This is the trope at the time. Because because all modern indians use telephones,
+
+306
+00:37:57,269 --> 00:38:02,329
+and donald is thinking that this is a great opportunity. Right? Because he's gotten now this
+
+307
+00:38:02,629 --> 00:38:04,209
+suitcase full of lipstick
+
+308
+00:38:05,029 --> 00:38:07,740
+that he could sell to
+
+309
+00:38:08,317 --> 00:38:09,375
+to these natives.
+
+310
+00:38:10,351 --> 00:38:15,597
+I think the implication is, right, They must use war pain, so this is a great opportunity
+
+311
+00:38:16,469 --> 00:38:24,960
+This is where the story really takes a a pretty cringey turn. Right? It still has some fun elements, but it's it's gonna be colored by
+
+312
+00:38:25,795 --> 00:38:34,190
+by these attitudes for me, and and I I'm guessing for you as well. Agreed. Yeah. No. And I went into it expecting some cringe and
+
+313
+00:38:34,650 --> 00:38:37,630
+I'll be honest that if I had to...
+
+314
+00:38:38,329 --> 00:38:40,470
+If you force me to write a
+
+315
+00:38:41,410 --> 00:38:43,842
+parity scene, of some really
+
+316
+00:38:44,458 --> 00:38:52,470
+gross stereotypes about native peoples. I would not like, just go over the top with it would not have been able to be
+
+317
+00:38:52,770 --> 00:38:56,710
+to the next few pages before. I was a little bit shocked.
+
+318
+00:38:57,170 --> 00:39:19,820
+Yeah. And and I I like bringing newbies in to read these. Right? Because people who have grown up with these comics, we kind of just we don't think about them or we tend not to think about some of these representations or we kind of like sweep it under the rug. And and again, it's worth acknowledge that these these were universal attitude. Right? This was not him trying to be hateful.
+
+319
+00:39:20,157 --> 00:39:27,994
+This was just how society was. It doesn't excuse it. But... Oh, it's just lazy. He's not being hateful. He's just being lazy.
+
+320
+00:39:28,873 --> 00:39:36,504
+He he's reverting to these tropes that were They were the language of storytelling at the time. We we have storytelling language
+
+321
+00:39:36,924 --> 00:39:57,414
+these days that that is lazy to in different ways and we understand better but there there just... There are tropes where everyone understands this is how native people act. In nineteen forty nine. So I'm sure I'm sure eighty years from now the people will look back at our story telling tropes and Cringe and whatever we've gotten wrong.
+
+322
+00:39:58,348 --> 00:39:59,607
+Yes. Exactly.
+
+323
+00:40:00,146 --> 00:40:04,859
+So, you know, they they... There's a neat little scene where they crash into the end of the river.
+
+324
+00:40:05,473 --> 00:40:09,443
+And, you know, the nephews are pondering. Well, what do we do now? We run out of river.
+
+325
+00:40:09,980 --> 00:40:10,539
+And Donald,
+
+326
+00:40:11,137 --> 00:40:11,916
+he's like
+
+327
+00:40:12,548 --> 00:40:19,920
+I've just got this suitcase so I'm gonna head forward on foot, and this is one of those scenes where he's gonna just abandon the nephews.
+
+328
+00:40:21,174 --> 00:40:23,394
+Has one dogs with children in the wilderness.
+
+329
+00:40:23,894 --> 00:40:33,284
+Right. Right. But but, you know, this is a little bit of kind of wish fulfillment too. Right? These Huey, dewey movie are very resourceful. So we're not worried about them. Donald
+
+330
+00:40:33,823 --> 00:40:36,920
+on the next page he heads for the the smoke signals.
+
+331
+00:40:37,553 --> 00:40:38,053
+And
+
+332
+00:40:38,910 --> 00:41:03,259
+there's a a couple of fun side gag, a little bird carrying a big fish in the day. I was gonna say the fish. The fish keeps going throughout because you've got the first fish who's running away and and you wonder why he's running away, and then you get the the seagull with the fish and his mouth and the hard popping out of his head and then you get the fisherman and then you've got this bird with this fish and soon we're gonna get to the village with all the other fish. It's a very dangerous place for a fish. It's true.
+
+333
+00:41:03,718 --> 00:41:08,613
+So so Donald is pushing his his his ware through this wilderness.
+
+334
+00:41:09,312 --> 00:41:11,530
+And then he comes across
+
+335
+00:41:12,083 --> 00:41:14,697
+it's it's a tote pole. Right? We get this little
+
+336
+00:41:15,035 --> 00:41:18,726
+gag shock scene where he's he's frightened and faint.
+
+337
+00:41:19,318 --> 00:41:25,730
+Because of a tote pole that's obscured behind a bush. And again, these are very important symbols
+
+338
+00:41:26,243 --> 00:41:38,643
+but they're like this novelty for white people. Right? Like, they're they're fascinating and and they're beautiful too. So I get why this was a good hook. It's it's very touristy. Right?
+
+339
+00:41:39,181 --> 00:41:44,124
+Oh, yes. Very touristy. So on the next page, you know, we have him wake up
+
+340
+00:41:44,623 --> 00:41:46,682
+and kinda of realize with embarrassment
+
+341
+00:41:47,340 --> 00:41:50,776
+that he took a big fright over just tote and pole.
+
+342
+00:41:51,455 --> 00:41:57,009
+Continues onward. And we kind of flash forward to the native village. There's this
+
+343
+00:41:57,509 --> 00:42:07,716
+narrative box that describes it. As you know a Barks Dell a short distance ahead is the village of the most primitive Indian tribe in North America.
+
+344
+00:42:08,709 --> 00:42:11,449
+I'm not gonna use the the term. But.
+
+345
+00:42:11,949 --> 00:42:29,356
+Yeah. The the... They refer to to, you know, their skin these these natives have never seen white men, but they've heard lots of things about them all bad. So so there's a a lot wrapped up in that narrative. A lot to unpack in this in this frame right here.
+
+346
+00:42:29,813 --> 00:42:34,280
+Tell. I think I think it's interesting that he uses the slur and yet,
+
+347
+00:42:35,014 --> 00:42:39,509
+he draws the natives Al very fair skinned to people. They
+
+348
+00:42:40,047 --> 00:42:45,849
+look like white people. Like, did he just not have the tools? To draw them with with docker skin.
+
+349
+00:42:47,244 --> 00:42:48,860
+A brief interruption that
+
+350
+00:42:49,316 --> 00:42:51,150
+Barks wouldn't have colored.
+
+351
+00:42:51,604 --> 00:42:56,004
+These... Oh, okay. Right? He he did the drawing, but someone else would have colored.
+
+352
+00:42:56,564 --> 00:43:04,359
+But I think that that this is probably how he would have expected them. To to have been colored because he drew them as like humans.
+
+353
+00:43:04,739 --> 00:43:12,532
+Mh. But it's it's... I don't know. There's so much to unpack here. Right? That these These natives have never seen whites
+
+354
+00:43:13,111 --> 00:43:16,467
+men, but they've heard lots of things about them, all bad.
+
+355
+00:43:17,266 --> 00:43:18,185
+I know some truth.
+
+356
+00:43:19,119 --> 00:43:25,219
+There's some truth. I'm not I'm not trying to, like, cast versions against all white people. But from the perspective
+
+357
+00:43:25,559 --> 00:43:31,074
+of someone in the pacific Northwest. I think it's a fair. I think it's a fair attitude.
+
+358
+00:43:32,214 --> 00:43:34,929
+Right. And then What do you think about the village
+
+359
+00:43:35,869 --> 00:43:38,409
+itself? The village itself is really interesting.
+
+360
+00:43:39,589 --> 00:43:54,016
+Because you did... You did say, like, there's there's all the fish drying on the racks and, you know, people are working and they've got this lovely canoe that they're they're writing in, and and and it's just dotted with tote pulls, which I thought was really strange because
+
+361
+00:43:54,594 --> 00:43:56,930
+in my understanding, they were they were something
+
+362
+00:43:57,363 --> 00:44:22,057
+sacred and something that you would have like one off for the village and maybe I'm wrong and how that works, but it just seemed very tote and po to me. Yeah. I mean, I think they are grouped sometimes. But I think you're right. They're usually more spa and they're usually like way markers, I think. You know, Al entrances and stuff. To me, this this village is like very lovingly drawn. Right? And it and it's showing these long houses,
+
+363
+00:44:22,608 --> 00:44:32,360
+you know, Donald references on a previous page that he can he can go on foot to sell from T p to t b. So he doesn't... He does the classic American thing of
+
+364
+00:44:32,713 --> 00:44:33,773
+confusing all natives
+
+365
+00:44:34,112 --> 00:44:35,091
+for one another.
+
+366
+00:44:35,430 --> 00:44:37,408
+But you know, Barks is
+
+367
+00:44:37,947 --> 00:44:43,299
+differentiating them. He obviously knows what what it looks like up there. And and the
+
+368
+00:44:43,639 --> 00:44:53,634
+the dress that's shown for the medicine man, he's very stereotypes, but I I feel like the dress is drawn from reference, you know, the the outfit.
+
+369
+00:44:54,454 --> 00:44:58,234
+And and we can see like fish drying. We can see people
+
+370
+00:44:58,669 --> 00:45:06,669
+at work and at play. I I think he gets a little bit of credit for kind of drawing what looks like a society, you know.
+
+371
+00:45:07,564 --> 00:45:11,544
+I I don't wanna I don't wanna like, get go overboard because
+
+372
+00:45:11,844 --> 00:45:13,784
+again, there's some very
+
+373
+00:45:15,057 --> 00:45:15,996
+like cliche
+
+374
+00:45:16,613 --> 00:45:19,665
+very like racist of its time
+
+375
+00:45:20,082 --> 00:45:37,593
+attitudes on display here. But but there is also a little bit more care and and detail. I I think by the standards of of the time, he actually was going out of his way to show them a little bit more complex and I kinda ruins that when he when he opens their mouths. Right. No.
+
+376
+00:45:38,509 --> 00:45:42,112
+Because, you know, you get here and you're like, okay. This could be worse.
+
+377
+00:45:42,711 --> 00:45:52,805
+But but, yeah, he does a ruin it when they open their mouth. Yeah. You know, So we get we get a couple of the natives talking to each other it's the medicine man and the chief.
+
+378
+00:45:53,463 --> 00:45:56,557
+Okay. So he references them holding a pow.
+
+379
+00:45:56,975 --> 00:45:59,170
+Right? And that's not what pow is french.
+
+380
+00:45:59,703 --> 00:46:01,239
+No. It's it's not
+
+381
+00:46:02,013 --> 00:46:09,550
+not what a pow is. I think that that is like a navajo term. Right? Yeah. No. It's it's it's a very ceremonial
+
+382
+00:46:09,970 --> 00:46:27,006
+sacred thing. It's not like I know, you know, now we're like, let's pile out about this. It's like a meeting or a discussion, but for for them, it was it was like a big thing. But when I read that, I'm like, nope. That's not what pow wow is guys. But but they meet up to talk about, you know, they've obviously
+
+383
+00:46:27,423 --> 00:46:27,923
+scout
+
+384
+00:46:28,698 --> 00:46:29,795
+Donald and the boys
+
+385
+00:46:30,132 --> 00:46:30,491
+approach.
+
+386
+00:46:31,064 --> 00:46:31,564
+And
+
+387
+00:46:32,461 --> 00:46:34,517
+they reference the smoke writing
+
+388
+00:46:34,975 --> 00:46:35,795
+that says
+
+389
+00:46:36,292 --> 00:46:42,920
+that someone else has communicated to them that some pale faces are coming. Right? This is the old trope of of natives
+
+390
+00:46:44,140 --> 00:47:00,193
+referring to White men pale face. And I think this was in use. I don't think it was used the way that it is in Hollywood all the time. But, you know, they're they're talking about... They they understand what donald coming for. There he's coming to sell, bad medicine,
+
+391
+00:47:00,930 --> 00:47:04,783
+right? Some bum goods. And they're using that very pigeon Hollywood
+
+392
+00:47:05,201 --> 00:47:07,873
+Indian. Type of speech that I'm not gonna replicate.
+
+393
+00:47:08,732 --> 00:47:08,971
+Thank you.
+
+394
+00:47:09,770 --> 00:47:10,590
+They're they're
+
+395
+00:47:10,929 --> 00:47:27,751
+they're referencing, you know, what they're gonna do. They're saying that we're not scared of of these men coming. We're very brave, and that's a little setup for Donald sudden arrival. Can you can you describe for us his is sudden arrival and that natives response.
+
+396
+00:47:28,309 --> 00:47:31,890
+Yeah. They're... Like, in the frame before, they're... It's all calm, everybody's
+
+397
+00:47:32,467 --> 00:47:50,895
+going about their business and then the next frame, donald appears to have popped out of nowhere. Yeah. He's standing up a high on A rock, and he's just shouting just like right this way ladies and gents lovely lovely warm paint and I curl and give away like, he is just shouting at the top of his lungs and, like all the people are like, whoa.
+
+398
+00:47:51,394 --> 00:47:58,145
+And know people are like, hiding and diving behind things and running away because he is very loud and he came out of nowhere.
+
+399
+00:47:58,485 --> 00:48:06,877
+Right. And and I think it's supposed to be like a a play... It's it's supposed to do a couple of things. Right? It's supposed to show the natives as super
+
+400
+00:48:07,855 --> 00:48:09,474
+or or, you know, t.
+
+401
+00:48:10,293 --> 00:48:15,841
+It's also supposed to show Donald in a pretty poor light that sort of like ugly American trope,
+
+402
+00:48:16,339 --> 00:48:17,477
+you know, that blu.
+
+403
+00:48:18,295 --> 00:48:24,319
+I I think that Barks is definitely poking a little bit of fun at him because who does this. Right.
+
+404
+00:48:24,738 --> 00:48:28,914
+He's this is the hard cell approach that someone might do
+
+405
+00:48:29,253 --> 00:48:31,471
+Al a place that they know
+
+406
+00:48:31,865 --> 00:48:34,025
+you know, mcdonald is just going into this,
+
+407
+00:48:34,665 --> 00:48:35,645
+not knowing anything.
+
+408
+00:48:36,025 --> 00:48:43,900
+And trying this hard sell approach. And they're comic running away. They're climbing up Tote Paul, which I gotta... I gotta
+
+409
+00:48:44,360 --> 00:49:02,220
+believe is no no. Oh, yeah. I don't know anything About tote bowls, but I I'm pretty sure that's a no no. Right. One of them is burrow into the ground. Is is very funny, but it's also, like, it's not a great one. No. Alright. Welcome back to... You and I took a short little break there because time zones are hard,
+
+410
+00:49:02,780 --> 00:49:03,280
+But
+
+411
+00:49:04,075 --> 00:49:07,331
+but it also gave me a little bit of an opportunity
+
+412
+00:49:07,950 --> 00:49:10,985
+to educate myself about tote pulls a bit.
+
+413
+00:49:11,520 --> 00:49:15,260
+And I I just wanted to jump back a little bit to the page that we covered
+
+414
+00:49:15,600 --> 00:49:20,000
+Two pages ago, the one that gives us such a nice view of the actual village.
+
+415
+00:49:20,615 --> 00:49:25,115
+It's it's interesting to me. I've I've since realized that Barb actually
+
+416
+00:49:25,655 --> 00:49:30,641
+did go to some some care, I think to to get some things right about it.
+
+417
+00:49:31,338 --> 00:49:37,155
+And and I've I've relied a little bit on a an entry in the Canadian and encyclopedia that talks about
+
+418
+00:49:37,734 --> 00:49:46,848
+tote poles and, you know, again, I'm I'm not gonna go on and on. But it is it is worth noting what he got right. So we were talking a little bit
+
+419
+00:49:47,957 --> 00:50:00,725
+ago about, you know, you mentioned it's striking that there are so many tote poles like right outside people's houses in the village. Right? And and that that is apparently a thing. You know, they they would commonly have house
+
+420
+00:50:01,065 --> 00:50:06,486
+tote or or how you polls. And they might be part of the construction of the house. They might be
+
+421
+00:50:06,943 --> 00:50:09,753
+supporting it. And they might show someone's family lineage.
+
+422
+00:50:10,265 --> 00:50:12,877
+But I noticed in that picture that they're all
+
+423
+00:50:13,413 --> 00:50:18,036
+they're all facing that river. You know, and that's a detail that apparently is accurate.
+
+424
+00:50:19,088 --> 00:50:21,144
+Apparently tote poles would be oriented
+
+425
+00:50:21,802 --> 00:50:23,738
+towards the nearest body of water.
+
+426
+00:50:24,395 --> 00:50:26,191
+That is fascinating. I had no idea.
+
+427
+00:50:26,924 --> 00:50:27,943
+Yeah. So
+
+428
+00:50:28,281 --> 00:50:34,866
+it it... It's telling me that he actually... I think he probably thought of himself as going to some level of care.
+
+429
+00:50:35,479 --> 00:50:39,611
+And respect when he was making this. And and I think he
+
+430
+00:50:39,949 --> 00:50:40,449
+probably
+
+431
+00:50:40,906 --> 00:50:42,164
+didn't even
+
+432
+00:50:42,861 --> 00:50:43,261
+envision.
+
+433
+00:50:43,754 --> 00:50:52,818
+Not using some of the tropes that are just such a pattern of thought that people didn't realize. It's it's like breathing the air, you know? Yeah. No.
+
+434
+00:50:53,456 --> 00:51:07,108
+You don't know what you don't know. You don't know what what thought patterns are just ingrained into your society until they're pointed out to you. Right. And so I'm not I'm not trying to excuse him for, you know, the the treatment that we're gonna get on the next few pages.
+
+435
+00:51:07,607 --> 00:51:19,645
+It's it's more about... I always say, I it doesn't skews it. It just helps you understand it. As far as the tote themselves, you know, I I learned that they will, of course commonly depict animals and and animals
+
+436
+00:51:19,945 --> 00:51:25,277
+include, like, beaver and wolf and bear and Barks and killer whale. Which sounds awesome.
+
+437
+00:51:25,677 --> 00:51:31,526
+Raven, eagle, frog, mosquito, and these represent, like, kinship and group membership
+
+438
+00:51:31,864 --> 00:51:33,282
+and and identity
+
+439
+00:51:34,075 --> 00:51:39,370
+and then they will also show supernatural beings or humans as well.
+
+440
+00:51:39,869 --> 00:51:43,346
+And I think that's probably we're getting kind of a mix of the two.
+
+441
+00:51:44,080 --> 00:51:45,858
+So, hey, we've just
+
+442
+00:51:46,237 --> 00:51:53,222
+passed the page where Donald has created a big commotion a big stir by trying to, like, very vulgar
+
+443
+00:51:53,559 --> 00:51:59,997
+hawk his ware to the village. You know. And it's supposed to be for comic the fact that's definitely kind of an ugly American
+
+444
+00:52:00,470 --> 00:52:11,010
+stereotype or where I guess, even a, like a colonize or stereotype. And and so on the next page, you know, Donald has noticed that everyone's cleared out And so he's gonna approach
+
+445
+00:52:11,347 --> 00:52:14,717
+them with the hard Al. He's he's pounding on
+
+446
+00:52:15,134 --> 00:52:15,634
+doors
+
+447
+00:52:16,050 --> 00:52:17,427
+and he decides
+
+448
+00:52:18,139 --> 00:52:19,436
+so, do you mind highlighting
+
+449
+00:52:19,933 --> 00:52:24,303
+his his strategy when he can't get anyone to listen to his sales pitch?
+
+450
+00:52:25,175 --> 00:52:27,992
+He goes banging on doors and shouting at people and
+
+451
+00:52:29,370 --> 00:52:32,268
+makes a suggestion about bringing some tear gas that he's
+
+452
+00:52:33,046 --> 00:52:42,791
+disappointed. He hasn't brought along. And eventually, he gets to the point where he decides that he's just gonna put on a show. And he's gonna demonstrate how p he is when he's wearing his lipstick.
+
+453
+00:52:43,325 --> 00:52:43,825
+And
+
+454
+00:52:44,125 --> 00:52:45,825
+he's got this lovely picture of him
+
+455
+00:52:46,525 --> 00:52:50,725
+with his his bill up with big giant red lips at the end.
+
+456
+00:52:51,300 --> 00:52:56,713
+Mh. And it's admittedly pretty funny. You know? I I consider this an uncomfortable
+
+457
+00:52:57,131 --> 00:52:58,005
+situation that is
+
+458
+00:52:58,944 --> 00:53:07,567
+nonetheless pretty funny, because it's a it's a very silly image. It's interesting to me that Donald, you know, goes there. He's not, like, he's not worrying about his masculinity
+
+459
+00:53:07,905 --> 00:53:11,597
+in this case. There are gonna be a lot of comic comics where he's
+
+460
+00:53:12,055 --> 00:53:20,348
+super worried about his masculinity, but he's he's desperate to be a super salesman so he's demonstrating. And what's the response that this generates?
+
+461
+00:53:21,204 --> 00:53:23,937
+They they mob him and he is
+
+462
+00:53:24,370 --> 00:53:41,755
+he is just... It's like the opposite of the of the panel above where they're all running away and exploding out. Now they're all exploding in and there's even more bodies in the frame and they're all converging on his his suitcase of Al lipstick and makeup there. Right. Yeah. That's a good description. It is the opposite.
+
+463
+00:53:42,270 --> 00:53:45,850
+And and so on the next page, you know, the next page is basically
+
+464
+00:53:46,870 --> 00:53:47,370
+devoted
+
+465
+00:53:47,750 --> 00:53:48,250
+entirely
+
+466
+00:53:48,910 --> 00:53:49,410
+to
+
+467
+00:53:50,310 --> 00:53:51,490
+the the silly
+
+468
+00:53:52,043 --> 00:53:52,543
+concept
+
+469
+00:53:52,920 --> 00:53:54,257
+of of these
+
+470
+00:53:55,072 --> 00:53:55,890
+these natives
+
+471
+00:53:56,427 --> 00:53:56,927
+trying,
+
+472
+00:53:57,503 --> 00:53:58,401
+trying cosmetics
+
+473
+00:53:58,977 --> 00:53:59,477
+and
+
+474
+00:53:59,830 --> 00:54:06,030
+failing to understand it properly to to comic effect. Do you wanna any of them stand out to you?
+
+475
+00:54:06,670 --> 00:54:08,730
+When I was going through this
+
+476
+00:54:09,084 --> 00:54:09,944
+I did
+
+477
+00:54:10,482 --> 00:54:12,620
+enjoy the guys eating soap
+
+478
+00:54:13,078 --> 00:54:13,578
+because
+
+479
+00:54:14,037 --> 00:54:15,735
+I have been in many
+
+480
+00:54:16,129 --> 00:54:20,345
+artists and soap shops where they smell good enough to.
+
+481
+00:54:20,684 --> 00:54:31,665
+And I'm like, I buy that. I buy you take some some delicious food smelling thing into some people that don't know what it is, and that they'll take a bite out of it because I almost once.
+
+482
+00:54:32,440 --> 00:54:38,620
+Right. Yeah. That... That's that's another good point. But like. I've been a child who's like, this... This stuff smells
+
+483
+00:54:38,960 --> 00:54:42,355
+these fragrances smell so good. How could it taste bad.
+
+484
+00:54:42,734 --> 00:54:46,795
+So, you know, it's it's kind of a balance here. Right? These are all some pretty good
+
+485
+00:54:47,215 --> 00:54:54,035
+comic images that are they they've nonetheless to me, they feel very uncomfortable. Right? They feel exploit.
+
+486
+00:54:55,091 --> 00:54:55,370
+Yeah.
+
+487
+00:54:55,928 --> 00:54:59,673
+It definitely feels like they're saying, look at these stupid
+
+488
+00:55:00,169 --> 00:55:02,501
+stupid people that don't know anything about anything
+
+489
+00:55:02,957 --> 00:55:05,626
+and isn't it funny. Isn't a funny that they don't know what we know.
+
+490
+00:55:06,359 --> 00:55:15,175
+Right. And and I I've realized that there, you know, definitely fans that kind of share my perspective in my mindset. And then there are fans that have been reading these for
+
+491
+00:55:15,713 --> 00:55:26,200
+you know, since they came out, and they definitely have a a different perspective. And they would point out, oh, you know, Barks makes fun of everyone this way. Barks will put anyone in in these ridiculous
+
+492
+00:55:26,540 --> 00:55:27,040
+situations.
+
+493
+00:55:27,500 --> 00:55:33,880
+And and I I hear what they're saying, it's just that, like, to me, it's really hard to get past
+
+494
+00:55:34,315 --> 00:55:38,374
+what what this feels like? I think that if they
+
+495
+00:55:39,075 --> 00:55:42,055
+had Al lit allowed the characters to speak naturally
+
+496
+00:55:42,795 --> 00:55:49,223
+without the because the crunch, if you just look at the pictures, it's funny. It's funny because you're like, oh, somebody's is eating
+
+497
+00:55:49,682 --> 00:55:55,448
+soap and somebody's is, you know, the man is wearing lipstick. It's funny until you read the words that are coming out of their mouths.
+
+498
+00:55:56,166 --> 00:55:59,779
+Yeah. Yeah. You're you're right. Because it's got that sort of, like, Hollywood
+
+499
+00:56:00,676 --> 00:56:01,176
+typical
+
+500
+00:56:01,730 --> 00:56:13,245
+way that natives were poor portrayed. And right, we... And and Barks didn't have to do that. Right? Because we're hand waving the fact that if these this is a remote village, there's no way they should be speaking English.
+
+501
+00:56:13,705 --> 00:56:15,965
+Right? So it's it's a decision
+
+502
+00:56:16,345 --> 00:56:19,165
+to make them speak in this like, pigeon.
+
+503
+00:56:19,958 --> 00:56:20,458
+Indian.
+
+504
+00:56:21,154 --> 00:56:24,007
+But again, this was just like the language of
+
+505
+00:56:24,345 --> 00:56:26,480
+papa art. You know, you put the
+
+506
+00:56:27,017 --> 00:56:29,192
+at the end of a verb, smell.
+
+507
+00:56:29,744 --> 00:56:47,011
+You you you take out you take out all the auxiliary, the the is is and the rs. It's a pigeon speak. And For some people, they grew up with that and it's like, evo evo, I think of of media that they've always consumed and they don't view it as
+
+508
+00:56:47,324 --> 00:56:51,931
+it's not problematic to them. And some people had that that switch flipped
+
+509
+00:56:54,143 --> 00:57:01,570
+where it it's just incredibly cringe worthy. But again, you're right. Like, on their own, these are these are just funny imagery.
+
+510
+00:57:01,990 --> 00:57:10,818
+It's artistic. There's some funny ideas here. So onto the next page, we kinda get the fallout of them trying all of these make, and cosmetics
+
+511
+00:57:11,357 --> 00:57:11,857
+and
+
+512
+00:57:12,476 --> 00:57:16,664
+things like one of them has has applied nail polish to his face.
+
+513
+00:57:17,122 --> 00:57:18,539
+Someone has drink
+
+514
+00:57:18,917 --> 00:57:19,896
+has drank
+
+515
+00:57:20,274 --> 00:57:21,652
+perfume or something
+
+516
+00:57:22,364 --> 00:57:24,124
+do you wanna describe any of them?
+
+517
+00:57:24,564 --> 00:57:26,584
+Yeah. I think I think the
+
+518
+00:57:27,084 --> 00:57:30,104
+the most amusing one is the chief not having any hair.
+
+519
+00:57:31,539 --> 00:57:33,319
+Because it it's funny.
+
+520
+00:57:33,659 --> 00:57:35,959
+Well people are funny. Sorry bald people.
+
+521
+00:57:36,299 --> 00:57:37,679
+I don't know why you're funny.
+
+522
+00:57:38,274 --> 00:57:42,350
+One day, maybe somebody will look back on this and Scrooge it Me laughing Al both people, but, you know.
+
+523
+00:57:43,788 --> 00:57:49,038
+You know, I as someone who's very proud of the tiny amount of follicles he has, I I hear you.
+
+524
+00:57:49,637 --> 00:57:52,775
+You know, my knowledge too is, like, I remember
+
+525
+00:57:53,234 --> 00:57:54,333
+Navajo people
+
+526
+00:57:54,992 --> 00:58:12,204
+in Arizona for whom the hair is like it's an incredibly important thing. Right. Which is why it's less funny. I don't know anything about the Pacific Northwest Right. And so I don't know if They have the same, you know, kind of regard for it. Some of the other tribes do. And if they did, that I wanna make it even prettier.
+
+527
+00:58:12,943 --> 00:58:13,443
+Right...
+
+528
+00:58:14,101 --> 00:58:15,854
+But... Yeah. No. I see
+
+529
+00:58:16,314 --> 00:58:18,212
+I see the humor he was going for.
+
+530
+00:58:18,591 --> 00:58:26,977
+Kids think it's funny, one grown do stupid things. And so I I understand what he was trying to do there. But it's really hard to separate it from the...
+
+531
+00:58:27,356 --> 00:58:29,295
+Just the v era of cringe worthiness.
+
+532
+00:58:30,273 --> 00:58:36,284
+Right. So so Donald realized he's Gottfredson angry mob. Coming after him and he's got a head for the hills.
+
+533
+00:58:36,964 --> 00:58:37,984
+And so
+
+534
+00:58:38,564 --> 00:58:43,559
+on the next page, he is figuring out how to hide. And we get this kind of meanwhile
+
+535
+00:58:44,058 --> 00:58:46,552
+transition, and we check in on the Nephews.
+
+536
+00:58:47,329 --> 00:58:47,829
+And,
+
+537
+00:58:48,526 --> 00:59:12,872
+you know, this this sets up a pretty cool part of the comment. I think probably one of the... One of the most memorable parts. I like this. Do you do you want tell us about what the Nephews user are up to Yeah. They're they're waiting for him. And I I imagine that all of the stuff that he's doing is taking some time. And so they decide that they're gonna they're gonna play their their little steam organ there. And they you you gotta see him, you know, getting his logs so we can
+
+538
+00:59:13,729 --> 00:59:19,356
+light the fire and get the steam and they play louder and louder and louder and then like
+
+539
+00:59:19,695 --> 00:59:25,169
+the earth is shaking because they're playing so loud, and then suddenly the rocks start falling down the clips.
+
+540
+00:59:26,460 --> 00:59:27,478
+And then they have
+
+541
+00:59:28,054 --> 00:59:32,755
+some disaster, but I don't know if you wanna stay on this page for another minute before moving on to their disaster.
+
+542
+00:59:33,289 --> 00:59:39,621
+Well, I I do wanna move on. I just... I just wanna point out to me it's it's such a neat little situation. Right? I imagine
+
+543
+00:59:39,960 --> 00:59:40,740
+three boys
+
+544
+00:59:41,253 --> 00:59:44,587
+with nothing to do, and I'm in charge of esteem,
+
+545
+00:59:45,443 --> 00:59:49,456
+and I'm surrounded by the the wood that I would need to stoke the boiler
+
+546
+00:59:50,048 --> 00:59:50,548
+Absolutely.
+
+547
+00:59:51,084 --> 00:59:58,220
+Right? What what are you gonna? Why not. You you wanna hear it. You wanna see it in action. Yeah. Go. Go ahead. Keep... Keep telling us about the outcome.
+
+548
+00:59:58,954 --> 01:00:04,294
+Okay. So they're they're playing so so comic loud but it's making the shake. And then
+
+549
+01:00:05,114 --> 01:00:14,359
+the cliffs side, it starts to cave in and the the whole side of the gorge just just comes down on them. Makes the huge landslide and it opens up a path.
+
+550
+01:00:15,052 --> 01:00:17,284
+To where they think Donald has gone.
+
+551
+01:00:17,842 --> 01:00:18,342
+I'm
+
+552
+01:00:18,759 --> 01:00:19,936
+impressed at how
+
+553
+01:00:20,273 --> 01:00:22,505
+intact they are. Right sure.
+
+554
+01:00:22,918 --> 01:00:24,733
+A giant landslide in the gorge.
+
+555
+01:00:25,468 --> 01:00:39,786
+Yeah. It's it's pretty unlikely. This is one of those things where we gotta accept the comic book physics of it. But it it does... It makes for a great situation. And I love the sequence on these two pages where, you know, they're talking about what they're they're gonna play the William Al overt.
+
+556
+01:00:40,259 --> 01:01:07,093
+With all the steam they've got, and they're just ex and getting it louder and louder and than the Nephew who's manning the the keyboard says I couldn't play louder if I had cannons for base. I do love that line. So on the next page, you know, we we transition we transition Al the end of this page back to Donald who's gone in hiding, and the the villagers are looking for him. And eventually, they have to give up because he seems to have escaped.
+
+557
+01:01:07,791 --> 01:01:08,291
+And,
+
+558
+01:01:08,710 --> 01:01:10,289
+you know, we transition
+
+559
+01:01:10,628 --> 01:01:12,007
+to just this average
+
+560
+01:01:12,426 --> 01:01:14,024
+village who's a little boy.
+
+561
+01:01:14,959 --> 01:01:16,259
+Very cute little boy
+
+562
+01:01:16,639 --> 01:01:18,699
+who asks his dad
+
+563
+01:01:19,399 --> 01:01:39,003
+tell us sue about what he's asking his father. He's he's asking his dad if tote and polls grow, which I think is very... I I like the the the person that noticed this. Wasn't one of the one of the people out searching and hunting was just a little kid, who notices a tiny detail that's different and says hey dad, do tote
+
+564
+01:01:39,340 --> 01:01:39,500
+grow.
+
+565
+01:01:40,233 --> 01:01:44,304
+And it's it's a funny detail. Right? It's a funny little punch line. It sets up.
+
+566
+01:01:45,022 --> 01:01:52,689
+The dad's like, what a silly question. Why are you asking? And he points out one of the village tote poles is two feet taller than yesterday.
+
+567
+01:01:53,429 --> 01:01:55,369
+And of course, we're getting
+
+568
+01:01:55,843 --> 01:01:58,295
+this setup that that is part of the
+
+569
+01:01:58,791 --> 01:02:00,464
+part of the comic appeal,
+
+570
+01:02:01,061 --> 01:02:02,455
+I think for people,
+
+571
+01:02:02,949 --> 01:02:08,376
+who read this originally, because this is even shown on the cover, you know, Donald hiding.
+
+572
+01:02:08,735 --> 01:02:11,031
+And it's it's this weird
+
+573
+01:02:11,743 --> 01:02:16,564
+dynamic for me. Well, like, in and of itself, it it is funny.
+
+574
+01:02:17,241 --> 01:02:17,741
+It's
+
+575
+01:02:18,078 --> 01:02:18,578
+clever
+
+576
+01:02:19,209 --> 01:02:30,144
+And and again, it just has this element of cringe of, you know, where where he's hiding, and it's hard for me to separate it. From that. And and I'm sure there are people who are
+
+577
+01:02:30,720 --> 01:02:31,220
+annoyed
+
+578
+01:02:31,836 --> 01:02:34,927
+by my woke tan or whatever. But
+
+579
+01:02:35,439 --> 01:02:42,679
+But that but that's where I am. It's impossible for me to appreciate this one the way I could as a kid.
+
+580
+01:02:43,293 --> 01:02:51,375
+And I'll note that this was never really one of my favorites as a kid. I I certainly enjoyed parts of it. But but that... That's where I
+
+581
+01:02:51,689 --> 01:02:54,006
+and with this this kind of key moment.
+
+582
+01:02:54,486 --> 01:02:55,964
+No. I think that makes sense. I mean,
+
+583
+01:02:56,923 --> 01:03:08,705
+we're all different people at different stages of our lives and that's where you are now and don't think there's nothing wrong with it. And I don't think there's anything wrong with you enjoying it as a kid. You know, you know what you know when you know it and you do the best you can.
+
+584
+01:03:09,479 --> 01:03:15,211
+Yeah. So so we transition to, you know, him having been captured and the indians
+
+585
+01:03:15,550 --> 01:03:16,029
+planning.
+
+586
+01:03:16,603 --> 01:03:20,736
+The the villagers planning for what they're gonna do with him. And
+
+587
+01:03:21,114 --> 01:03:26,245
+you know, it's interesting here so, he he the chief is deciding to
+
+588
+01:03:26,997 --> 01:03:35,712
+give them a punishment that's kind of slaps. Right? Because they it could go a totally different area. There were references to scalp earlier.
+
+589
+01:03:36,624 --> 01:03:42,924
+They're gonna... They're gonna meet up with paddle boards. They're talking about brewing up a batch of medicine that
+
+590
+01:03:43,304 --> 01:03:44,884
+that is like a hair remover
+
+591
+01:03:45,278 --> 01:03:53,723
+and Donald is calling out for his nephews to help him. And we see them approaching carefully with the in the truck with the steam.
+
+592
+01:03:54,221 --> 01:03:57,395
+So then on the next page, they're they're approaching
+
+593
+01:03:57,853 --> 01:04:01,346
+and they noticed that they they can hear drums in the background
+
+594
+01:04:02,059 --> 01:04:09,839
+and they're questioning whether the people are gonna like steam music, they're kinda reassess whether they can be good customers.
+
+595
+01:04:11,232 --> 01:04:11,732
+There's
+
+596
+01:04:12,948 --> 01:04:13,688
+there's a
+
+597
+01:04:14,585 --> 01:04:16,003
+another very cringey
+
+598
+01:04:16,461 --> 01:04:21,324
+panel where they talked about how only ignorant Indians still be tom toms.
+
+599
+01:04:22,179 --> 01:04:25,548
+Usually, the nephews are gonna be much more sensitive than donald, but
+
+600
+01:04:26,005 --> 01:04:30,388
+one of the Nephews goes had to scout out the village. And he sees the situation
+
+601
+01:04:30,925 --> 01:04:40,709
+right away with Donald, and so they immediately kinda convert back to a rescue mission. And they're thinking that they're gonna use the steam
+
+602
+01:04:41,329 --> 01:04:42,069
+to divert
+
+603
+01:04:42,449 --> 01:04:44,389
+their the attention of the villagers
+
+604
+01:04:44,744 --> 01:04:48,564
+so that they can save What I think this is an excellent plan on their part
+
+605
+01:04:49,064 --> 01:04:51,364
+because they just played this
+
+606
+01:04:51,664 --> 01:05:06,087
+this organ. This be loud enough to cause a landslide in a course. So I think I think they're thinking on this is spot on like if we can cause that kind of ru with this thing, surely we can cause a big enough diversion to say save our uncle here.
+
+607
+01:05:06,546 --> 01:05:13,512
+Yeah. For sure. So they they make way down the hill, but they encounter a bump that sends the the Al
+
+608
+01:05:14,551 --> 01:05:15,930
+and the truck toppling
+
+609
+01:05:16,403 --> 01:05:18,859
+over. I'm crashing pretty horrific.
+
+610
+01:05:19,515 --> 01:05:20,015
+And,
+
+611
+01:05:20,912 --> 01:05:22,170
+you know, we see the nephews
+
+612
+01:05:22,588 --> 01:05:31,344
+and a lot of the components. Of the client bound down the hill. And we flashback Barks to that clever little boy who's pointing out to his
+
+613
+01:05:31,843 --> 01:05:34,240
+father that he heard a a distant crash.
+
+614
+01:05:34,920 --> 01:05:39,474
+The father is now not really regarding him again. He says it's just a tree that fell down.
+
+615
+01:05:39,969 --> 01:05:52,284
+And, you know, the Nephews kind of gather themselves. They realize that they're injured, but basically un unheard, you know, they they don't have their their strategy anymore. So they've gotta to figure out a better way to
+
+616
+01:05:53,184 --> 01:05:54,784
+to scare them out of town,
+
+617
+01:05:55,359 --> 01:05:58,359
+and that that gives them a a slightly different idea.
+
+618
+01:05:59,279 --> 01:06:00,139
+And so
+
+619
+01:06:00,559 --> 01:06:08,905
+it it becomes clear on the next page what their idea is. Right? They want to... Why don't you tell us sue about their plan here? They're
+
+620
+01:06:09,363 --> 01:06:13,469
+they're they're kind of walking around the the crash site and sc pieces
+
+621
+01:06:14,289 --> 01:06:15,749
+trying to see if they can
+
+622
+01:06:16,249 --> 01:06:27,324
+find enough parts that they can still make some noise, and they find some some whistles and part of the keyboard and but they find their pipes. Their pipes are all rec up. Their pipes are not gonna work. And so
+
+623
+01:06:27,624 --> 01:06:29,899
+one of the... One of the the little ducks
+
+624
+01:06:30,756 --> 01:06:33,491
+notices that the tote poles have
+
+625
+01:06:33,948 --> 01:06:45,244
+big holes in them in their hollow. And so they get the idea that we we need something to follow. We need something to be pipe. Let's try this. Right. So they're they're gonna use the tote as
+
+626
+01:06:45,598 --> 01:06:46,737
+there pipes
+
+627
+01:06:47,156 --> 01:06:50,213
+for for the ka. One of them says we're gonna have a
+
+628
+01:06:50,592 --> 01:06:51,550
+that is Al.
+
+629
+01:06:52,509 --> 01:06:54,303
+And that that line always
+
+630
+01:06:54,961 --> 01:07:04,629
+always perplexed me as a kid because it feels like it should have some kind of double meaning but he's referencing there, but I couldn't really ever figure that out. So I always got kinda hung up on that one.
+
+631
+01:07:05,209 --> 01:07:07,068
+But we transition to Dawn
+
+632
+01:07:07,769 --> 01:07:11,129
+when they're gonna take when the village is gonna take their vengeance.
+
+633
+01:07:11,744 --> 01:07:12,604
+On Donald.
+
+634
+01:07:13,144 --> 01:07:13,644
+And,
+
+635
+01:07:14,024 --> 01:07:20,404
+you know, the chief calls upon the ancestors. This is that sort of like Hollywood, early Hollywood
+
+636
+01:07:21,278 --> 01:07:22,456
+this era of comics,
+
+637
+01:07:23,870 --> 01:07:26,404
+h come, right, where someone is making up
+
+638
+01:07:26,901 --> 01:07:30,769
+some sort of sacred tradition. Who knows if this is something that they would have done.
+
+639
+01:07:31,622 --> 01:07:40,554
+At this time at least it made for it made for a ceremony. Right. And and you need them to cast their attention on the tote.
+
+640
+01:07:41,409 --> 01:07:41,909
+And,
+
+641
+01:07:42,369 --> 01:07:44,229
+you know, the tote basically
+
+642
+01:07:44,929 --> 01:07:58,988
+respond the way that we the reader know that they're about to. And and tell us about this. He's got... He's got, like, almost a whole have page here with the the tote. I I don't know where the river went, but they're no all facing
+
+643
+01:07:59,325 --> 01:08:00,264
+towards the people,
+
+644
+01:08:00,600 --> 01:08:10,442
+like all of them are like, bearing down at them like some sort of like angry god, and they've got steam and Scrooge and hoo and whatever coming out of them, there's a wood picker
+
+645
+01:08:10,899 --> 01:08:12,077
+flying for its life
+
+646
+01:08:12,453 --> 01:08:14,766
+and there is a lot of noise.
+
+647
+01:08:15,818 --> 01:08:18,277
+Right. Yeah. It's it's created this huge
+
+648
+01:08:18,776 --> 01:08:26,881
+catastrophe of noise It's terrified the villagers. They they do exactly what the nephews have hoped. They run for the hills,
+
+649
+01:08:27,417 --> 01:08:34,955
+and it seems like it's worked. But but we flash to that clever little boy again, who notices what's going on and processes it.
+
+650
+01:08:35,689 --> 01:08:38,749
+And heads to tell his father as the ducks
+
+651
+01:08:39,089 --> 01:08:40,749
+are also running
+
+652
+01:08:41,089 --> 01:08:41,889
+from the hills.
+
+653
+01:08:42,264 --> 01:08:46,244
+And I alluded to this earlier, but, like, I think that this panel
+
+654
+01:08:46,824 --> 01:08:55,527
+was like a sort of back engineered thing. I don't I didn't read this in any background. I'm I'm just speculating that it felt like Barks had the idea
+
+655
+01:08:55,903 --> 01:08:58,214
+to have to incorporate a steam Al
+
+656
+01:09:00,142 --> 01:09:05,909
+into this story with tote and poles and he wanted to put them together in this really
+
+657
+01:09:06,247 --> 01:09:22,659
+spectacular way that the plot was gonna hinge on. I I can see that. This is this is definitely a moment where, you know, an artist would wanna hang hang their plot on a really interesting idea and an interesting visual image. And I I can see how you could reach the conclusion that he
+
+658
+01:09:23,197 --> 01:09:39,209
+reverse engineered the story to build to this moment. Right. And and it is a really interesting and and technically beautiful page, I think it's got some great detail, the fun background gag of the Wood pe. You know, again, it's just... It's hard for me to get past how
+
+659
+01:09:39,709 --> 01:09:41,986
+I realized this is a rescue mission. Right?
+
+660
+01:09:42,944 --> 01:10:05,615
+Just on the face of it. If you... I think if you presented this to a native person, this would be really profoundly gross to them. So so that that has colored for me what is otherwise a a pretty artistic cool moments. And and so the the next Scrooge is the final one, and we get a lot of before we... Before we move on to that, I just noticed something on this page that I was like
+
+661
+01:10:06,352 --> 01:10:23,934
+just just took my level of cringe to the next just make up and notch even though I didn't think it was possible. Where where the the natives are running and they're saying the Tote are mad And this is the only speech bubble. I'm gonna read. They gone lo. And I just like really you're in Canada.
+
+662
+01:10:24,354 --> 01:10:28,026
+Local is from way down the other direction you guys.
+
+663
+01:10:28,445 --> 01:10:28,945
+Like
+
+664
+01:10:29,364 --> 01:10:32,719
+like, we couldn't tell which brown people we were making fun of here.
+
+665
+01:10:33,494 --> 01:10:42,489
+Yeah. I had that thought too. And I and yeah like, I was thinking on it too much, But you're right. I I think this is from that sort of, like, cowboys and Indians
+
+666
+01:10:42,829 --> 01:10:43,329
+idea
+
+667
+01:10:43,789 --> 01:10:47,949
+because, you know, in the Wild wild West where most native representation was,
+
+668
+01:10:48,510 --> 01:10:51,741
+you would also be kind of a a lot of that cowboy
+
+669
+01:10:52,279 --> 01:10:52,779
+jargon
+
+670
+01:10:53,236 --> 01:11:00,111
+was very mexican influenced. So... Yeah. That's that's how they've got they've he's got him using the word lo.
+
+671
+01:11:00,589 --> 01:11:06,564
+So the the last page is an interesting wrap up. Right? Because we have the the villagers
+
+672
+01:11:07,023 --> 01:11:08,841
+recapture the Ducktales pretty quickly.
+
+673
+01:11:10,059 --> 01:11:13,574
+The docs are protesting. You know, they're worried about their fate.
+
+674
+01:11:14,109 --> 01:11:19,129
+And they're saying, you know, one of the nephew says, what do you want with us and uses a?
+
+675
+01:11:19,909 --> 01:11:24,624
+And the chief says make the Tote sing again. We like it.
+
+676
+01:11:25,405 --> 01:11:27,985
+I... I think this is another another
+
+677
+01:11:29,019 --> 01:11:39,038
+point for your your theory that he just reversed engineered the whole plot to reach that one that one moment because now that he's had that moment, like, He's done. He's done with the story. It's time to wrap it up.
+
+678
+01:11:39,535 --> 01:11:58,454
+Right. We're we're wrapping it up really quickly. We're... I guess I like that that they kinda go out on on decent terms. Right? It it gives the... It gives the the first nations people at least a little bit of a sense of agency that they've, like, figured things out. They've understood things and
+
+679
+01:11:58,834 --> 01:11:59,954
+they're they're able to, like,
+
+680
+01:12:01,167 --> 01:12:06,411
+advocate for something that they want now and that they like. That... That's probably like damning it with faint praise.
+
+681
+01:12:06,868 --> 01:12:11,091
+But, you know, at least it's not the Ducktales just running from the hills,
+
+682
+01:12:11,787 --> 01:12:12,566
+leaving everything
+
+683
+01:12:13,462 --> 01:12:15,596
+unresolved. There there's kind of a mutual...
+
+684
+01:12:16,213 --> 01:12:18,467
+They they arrive at some sort of mutual
+
+685
+01:12:19,059 --> 01:12:26,390
+faction, I guess is the best I can say. And so we we transition to a couple weeks later with with Donald in the office
+
+686
+01:12:26,823 --> 01:12:27,642
+of that
+
+687
+01:12:28,339 --> 01:12:29,636
+sales supervisor,
+
+688
+01:12:30,253 --> 01:12:34,661
+explaining that he and his helpers have sold five hundred
+
+689
+01:12:35,038 --> 01:12:35,538
+pillows.
+
+690
+01:12:37,809 --> 01:12:50,469
+Do you wanna wrap up the the, like, transaction here? And, like, the the the sales manager or whatever is is is clearly shocked because like, did did they even run into five hundred people
+
+691
+01:12:51,166 --> 01:13:00,453
+on their journey up in the up in the spa wilderness there. But anyway, Donald tells him that you know, he's got the train loads of payment in the station, and
+
+692
+01:13:00,989 --> 01:13:11,795
+and he's like, well, say something. And then the the manager just faint backwards in this chair and you've got this a fun image of the, like, the boots up on the up on the table because he just cannot believe it. Yeah.
+
+693
+01:13:12,409 --> 01:13:20,141
+Yeah. It's it's pretty funny. And and the the people have paid for it with train loads, you mentioned of min skins. I don't even know if
+
+694
+01:13:21,173 --> 01:13:26,693
+I guess that that clocks but that's Al that's a just a fantastic load of new skins.
+
+695
+01:13:28,559 --> 01:13:30,820
+And and we transitioned to
+
+696
+01:13:31,439 --> 01:13:34,539
+Donald having clearly won the competition
+
+697
+01:13:35,079 --> 01:13:35,914
+and he's
+
+698
+01:13:36,534 --> 01:13:44,809
+Daisy kinda pops in at the very end here. We don't get to see a lot of daisy in in these adventure stories usually. She's usually devoted. To the ten page
+
+699
+01:13:45,389 --> 01:13:46,829
+comedic stories that he does.
+
+700
+01:13:47,469 --> 01:13:47,969
+But
+
+701
+01:13:48,590 --> 01:14:06,461
+tell us about, you know, what he's shot sharing. She's she's only stepping into the story to kinda receive this last little bit. Right? Right. Right. She's just there. So he can have someone to brag to. He's got his his hand on his I guess duck hip. I don't I don't know. He's he's obviously very proud of himself. And then the next page seems like
+
+702
+01:14:06,814 --> 01:14:12,065
+straighten his bow tie and popping is chest up in the air and he's got the grand prize for being the super salesman,
+
+703
+01:14:12,443 --> 01:14:16,270
+and it's it's is one of the steam compliance. It's just
+
+704
+01:14:16,649 --> 01:14:17,149
+gigantic
+
+705
+01:14:18,044 --> 01:14:18,982
+in their time.
+
+706
+01:14:20,594 --> 01:14:27,173
+It's a good gag. It's a good way to finish it off. It is. I I do like that ending. I like the the image of the Nephews
+
+707
+01:14:27,872 --> 01:14:34,505
+very annoyed keeping it polished and cleaned, and it's just the most impractical thing ever.
+
+708
+01:14:34,880 --> 01:14:36,219
+To have in your home.
+
+709
+01:14:36,679 --> 01:14:40,420
+Stay in your home, it's not gonna it in your home. It's outside of your home.
+
+710
+01:14:41,079 --> 01:14:42,139
+Yeah. Absolutely.
+
+711
+01:14:43,199 --> 01:14:43,675
+So
+
+712
+01:14:44,253 --> 01:14:47,265
+So that wraps up the actual story contents
+
+713
+01:14:47,682 --> 01:14:49,595
+of land of the tote poles.
+
+714
+01:14:50,154 --> 01:14:54,896
+And, you know, this is this a really interesting one. It's it's short it's brisk.
+
+715
+01:14:55,753 --> 01:15:07,916
+You can certainly tell by the conflicted way that I've been talking about it. That this one doesn't hold up for me. I I do see as we talk about it, I do see a lot of things that I like about it. You know? There's...
+
+716
+01:15:08,372 --> 01:15:10,666
+There's all these neat little site gag
+
+717
+01:15:11,058 --> 01:15:21,423
+the the structure of the story is pretty cool. And I I think I really enjoy it basically the... What you had said up until they get to the outskirts
+
+718
+01:15:21,919 --> 01:15:23,256
+of the native village.
+
+719
+01:15:24,269 --> 01:15:25,925
+It's it's a pretty fun
+
+720
+01:15:26,261 --> 01:15:29,367
+far silly story. And it just gets
+
+721
+01:15:29,745 --> 01:15:39,082
+too challenging for me after that. There there are still like, elements that are a lot of fun and exciting and and drawn well and cleverly and funny,
+
+722
+01:15:39,421 --> 01:15:59,482
+but but it's hard to get past some of that stuff. I know that you... This is your first mark story. And I wanted to... I wanted to curate it a little I asked you to read a couple of other Barks stories because I hated the idea of this, you know, being such a g want. Do you mind telling me what you thought of this story? And then if
+
+723
+01:16:00,178 --> 01:16:08,515
+maybe you didn't care for the other ones, that's fine. But I'm curious how it compared to I I had asked you to read ghost of the g which is one of my personal favorites
+
+724
+01:16:08,894 --> 01:16:09,714
+and then also
+
+725
+01:16:10,333 --> 01:16:13,670
+lost in the Andes, which is is a personal favorite, but is also
+
+726
+01:16:14,183 --> 01:16:16,097
+regarded it as one of his very best.
+
+727
+01:16:16,615 --> 01:16:17,115
+Yeah.
+
+728
+01:16:17,493 --> 01:16:30,685
+I I agree with what you were saying earlier that the story was really fun right up until the end there. I think I think that, you know, if they were to reprint this with some careful editing of some of the
+
+729
+01:16:31,261 --> 01:16:31,699
+dialogue,
+
+730
+01:16:32,074 --> 01:16:33,534
+and just ended after
+
+731
+01:16:34,114 --> 01:16:35,174
+the the nephews
+
+732
+01:16:35,474 --> 01:16:35,974
+sell
+
+733
+01:16:37,914 --> 01:16:39,074
+clarity to her and the hermit.
+
+734
+01:16:39,848 --> 01:16:49,740
+I think it would be funny short story. Like, I I think that part stands well on its own but but you're right. It was it was harder to get into. I think as far as story structure goes,
+
+735
+01:16:50,557 --> 01:16:56,446
+I think I I think it's structured a little bit better. It surprises me that you're saying that the
+
+736
+01:16:56,759 --> 01:17:07,773
+what was the the one with the square eggs tone Austin andy. Oh place It surprises me that that's one of the the all time favorites. Because I think that was my least favorite of the three that I read
+
+737
+01:17:08,392 --> 01:17:11,729
+You strip away if you strip away the c of of this one.
+
+738
+01:17:12,068 --> 01:17:15,285
+I I really enjoyed ghosts in the g. I think it had a really
+
+739
+01:17:15,599 --> 01:17:20,048
+fun kind of spooky element to it and some good
+
+740
+01:17:20,665 --> 01:17:32,970
+foreshadowing of the, you know, the the kids that go missing every every fifty years or whatever, and I really liked the the way that they kind of built up this possibility of supernatural and then they had it all blamed out.
+
+741
+01:17:33,470 --> 01:17:39,710
+Right on. So, yeah, that's interesting to me. But but... Yeah. It's... So you did see some things to like in this one.
+
+742
+01:17:40,405 --> 01:17:41,544
+Oh, yeah. Definitely.
+
+743
+01:17:43,321 --> 01:17:48,029
+I knew I knew the cringe was coming. And so I was prepared for it. Mostly.
+
+744
+01:17:48,843 --> 01:17:51,733
+I I did tell you that it was more than I was expecting.
+
+745
+01:17:52,986 --> 01:18:09,841
+But again, I don't I don't consume a lot of media from the forties. So Right. I I just wasn't used to it. This just wasn't something that was part of any any media consumption I've ever I've ever had, but there were really nice moments. And I did I did tell you. My favorite thing was the fish.
+
+746
+01:18:11,014 --> 01:18:13,189
+Just the just the image of that fish
+
+747
+01:18:13,726 --> 01:18:20,186
+running for his life on the top of the water and you can see as the goes on all the horrible faith of all the other fish in this area.
+
+748
+01:18:20,999 --> 01:18:23,093
+Just thought it was a great site gag. And so...
+
+749
+01:18:23,429 --> 01:18:33,707
+Yeah. Barks loves his site gag. And this is definitely near the top of of his site gag game, because there there are some really great ones in here. There's some really great expressive miss.
+
+750
+01:18:34,283 --> 01:18:36,018
+I I love the salesman
+
+751
+01:18:36,889 --> 01:18:40,125
+stuff. I think. You know, that's my favorite aspect of it.
+
+752
+01:18:40,885 --> 01:18:44,435
+Again, I think this story wants to do that. Really cool
+
+753
+01:18:44,815 --> 01:18:48,415
+it viewed is really cool mel of the tote pulls and the steam Al.
+
+754
+01:18:49,215 --> 01:18:58,210
+And this is kind of a kitchen sink story. It feels like, right where he's got... He's got this aspect with Native Americans and tote poles. And he's got this aspect with salesman
+
+755
+01:18:58,590 --> 01:19:10,401
+and and Al already outdated steam in Ka that he's he's bringing in just because he wants to have them collide and For me, that's part of why it doesn't work as much as some others
+
+756
+01:19:10,899 --> 01:19:14,371
+because he's he's just kind of throwing everything together that he wants.
+
+757
+01:19:15,025 --> 01:19:20,218
+Yeah, it's a really interesting story. You know, it's it's a fan favorite so. I Al.
+
+758
+01:19:21,777 --> 01:19:23,076
+Yeah. I always
+
+759
+01:19:23,870 --> 01:19:30,665
+I always check it on a site called Index. Right? Not index, but du, which is like a crowds sourced
+
+760
+01:19:31,443 --> 01:19:45,565
+resource where fans can also vote on they can rate these stories. And so enough fans do that it gives you a pretty good idea of what the community thinks. Not perfect, but this one has an eight point two out of ten, which is
+
+761
+01:19:46,024 --> 01:19:48,362
+very very high. There
+
+762
+01:19:48,821 --> 01:19:50,280
+like forty one thousand
+
+763
+01:19:50,593 --> 01:19:51,890
+Disney comics
+
+764
+01:19:52,426 --> 01:20:00,872
+overall rated on this story. Because Disney comics have been around for, you know, a super long time and so That's good enough to make this one ranked eighteenth
+
+765
+01:20:01,649 --> 01:20:04,582
+out of all forty one thousand some stories.
+
+766
+01:20:05,134 --> 01:20:14,860
+It it is biased towards the carl Barks stories. Right? Because he's the legendary duck man. So, like, you don't even get a a non Barks story until you're, like
+
+767
+01:20:15,279 --> 01:20:17,098
+down in the mid twenties.
+
+768
+01:20:17,636 --> 01:20:18,136
+But
+
+769
+01:20:18,835 --> 01:20:28,489
+I I think that this... I think that people really remember it for the hook Barks himself probably talked it up a lot because it was a personal favorite of his.
+
+770
+01:20:29,185 --> 01:20:35,683
+And and then, you know, I think that a lot of people have rated these over the years with their fond memories.
+
+771
+01:20:36,301 --> 01:20:54,389
+And and this did come out of what was considered as golden age from, like, roughly nineteen forty eight to fifty too. So so I I... There are a few stories in that range that I view is maybe not mediocre but not quite living up to the others. And I think they just get a little bit of shine of his golden name. But,
+
+772
+01:20:54,849 --> 01:20:55,909
+you know, I...
+
+773
+01:20:57,010 --> 01:21:03,681
+Different strokes and different folks. I I do like aspects of this one. It's just it's hard to get past some of that.
+
+774
+01:21:04,419 --> 01:21:04,498
+Yep.
+
+775
+01:21:05,936 --> 01:21:11,005
+Let's see. We we've talked a lot about how it holds up which is say it really doesn't.
+
+776
+01:21:11,739 --> 01:21:19,524
+I like to mention sue if he ever made one of his famous oil paintings for a subject. I don't believe he did make one And then
+
+777
+01:21:20,023 --> 01:21:26,435
+sometimes the Duck tales shows will have adapted some of these stories. And I am not aware of them ever
+
+778
+01:21:26,948 --> 01:21:27,448
+adapting
+
+779
+01:21:27,865 --> 01:21:28,365
+anything
+
+780
+01:21:29,779 --> 01:21:35,635
+from from this story at all. I like to talk a little bit about the educational value that these stories have
+
+781
+01:21:36,094 --> 01:21:48,881
+I do feel like this one was actually a bit educational about the first nations because it it seems like it did get a lot of stuff right by the standards of the time. It just was so wedded to those, like, late forties
+
+782
+01:21:49,379 --> 01:21:50,517
+universal depictions.
+
+783
+01:21:50,975 --> 01:21:54,643
+So, did you you talked about some panels that stood out to you.
+
+784
+01:21:55,381 --> 01:21:59,912
+Are are the fish side gag, your favorite panels or is there one that kinda comes out
+
+785
+01:22:00,409 --> 01:22:02,365
+comes up to your memory as a favorite?
+
+786
+01:22:02,899 --> 01:22:05,112
+I I really do think the fish is my favorite.
+
+787
+01:22:05,648 --> 01:22:08,300
+I like... I I do also enjoy
+
+788
+01:22:08,677 --> 01:22:10,572
+the way that the hermit
+
+789
+01:22:11,521 --> 01:22:12,858
+leaps out of his cave
+
+790
+01:22:13,235 --> 01:22:18,929
+so delighted about let's i be... I like I just like the body language in that one. Just how
+
+791
+01:22:19,588 --> 01:22:27,824
+delighted and joyful it is and and the the nephews with their their sack of sack of money with to twenty two thousand pounds
+
+792
+01:22:28,201 --> 01:22:33,510
+labeled on it. What's good stuff. Yeah. That is good. I really liked the sequence
+
+793
+01:22:33,849 --> 01:22:35,348
+just leading up to the Nephews,
+
+794
+01:22:35,887 --> 01:22:39,758
+having fun s the boiler of the and causing in the landslide.
+
+795
+01:22:40,255 --> 01:22:46,155
+And I like that shrewd look that the sales manager gives at the beginning. Oh, yeah. That's a great
+
+796
+01:22:46,653 --> 01:22:53,739
+Yeah. So thank thank you so much for joining me. I hope I hope there's a a good one to have you on back for
+
+797
+01:22:54,278 --> 01:22:58,562
+maybe maybe sometime we could coordinate one where you and Ryan
+
+798
+01:22:59,098 --> 01:23:07,832
+could both join me. That that could be a lot of fun. That'll be a lot of fun. You might have to send me some tranquil as darts for my kids. And. We'll work it out. Yeah.
+
+799
+01:23:08,570 --> 01:23:10,645
+Any final thoughts before we wrap this one up?
+
+800
+01:23:11,657 --> 01:23:16,140
+I had more fun, than I thought I was gonna have three comics from the forties. So, you know
+
+801
+01:23:16,596 --> 01:23:22,824
+awesome. Yeah. Thanks thanks for that. I like to think that they definitely stand up better than most from this era.
+
+802
+01:23:23,804 --> 01:23:26,000
+So next episode, hope,
+
+803
+01:23:27,096 --> 01:23:37,662
+I haven't put off too many people with my attitude towards this one, but we're gonna talk about the the second story that was published in this issue. Trail of the unicorn.
+
+804
+01:23:38,080 --> 01:23:40,935
+And as always, people can get in touch with me
+
+805
+01:23:42,072 --> 01:23:46,813
+or share comments on the Facebook page or Barks remark. At g dot com.
+
+806
+01:23:47,268 --> 01:23:47,864
+Thanks again.
+

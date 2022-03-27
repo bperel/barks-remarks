@@ -1,0 +1,4776 @@
+1
+00:00:21,422 --> 00:00:48,505
+Hello, and welcome to Barks remark. The podcast where we talk about the stories from the legendary Carl Barks, creator of sc Mc and writer and artist of the greatest Donald and Scrooge comics of all time. Join us as we explore his longer adventure stories in their chronological publishing or We'll talk about what makes them so enduring their historical context and how well they hold up today. So get out your reprint and get ready to enjoy our remarks.
+
+2
+00:00:48,960 --> 00:00:52,860
+This is this is Mark. Just wanted to cut in before the podcast
+
+3
+00:00:53,480 --> 00:00:53,980
+and
+
+4
+00:00:54,440 --> 00:01:02,942
+people know that we're talking about Voodoo Who do today. Which is a story that has some content based on some deeply racist
+
+5
+00:01:03,320 --> 00:01:22,720
+tropes and imagery. I wanted to provide this as both a content warning and I also wanted to explicitly repeat something that I don't get to say the episode until near the very end, which is that while I do enjoy many aspects of this story, I consider it largely un redeem from a modern context.
+
+6
+00:01:23,180 --> 00:01:24,960
+Boo hut is obviously
+
+7
+00:01:25,420 --> 00:01:26,840
+a very problematic
+
+8
+00:01:27,180 --> 00:01:32,015
+story, and I'm grateful to Sarah for helping me process it. We
+
+9
+00:01:32,395 --> 00:01:46,332
+really wanna recognize you know, we're we're gonna do our best to talk about this one in a thought full sensitive manner, but, you know, by nature of what happens in this story, it's going to be
+
+10
+00:01:46,710 --> 00:01:52,145
+difficult not to talk about it in a way that might be upsetting and
+
+11
+00:01:52,445 --> 00:02:01,024
+we want to convey our intentions and not to use problematic language as much as possible. Sarah, can you
+
+12
+00:02:01,401 --> 00:02:08,424
+chime in? Yeah. Mark and I are are doing our best but we are not black people. We are not
+
+13
+00:02:08,805 --> 00:02:15,040
+experts, and we don't wish to speak for people who are. We are
+
+14
+00:02:15,380 --> 00:02:25,005
+representing the position of people who are doing our best and have a pretty good idea of what is upsetting, but we obviously
+
+15
+00:02:25,622 --> 00:02:32,790
+will get it wrong because we are not perfect. Yes. Thank you very well said. That said, enjoy our conversation.
+
+16
+00:02:33,430 --> 00:02:39,822
+Hello, and welcome back to Barks remarks. I'm Mark Sever a longtime Carl Barks fan. I
+
+17
+00:02:40,280 --> 00:02:45,528
+enjoy talking about these Golden age Donald duck and now sc comics
+
+18
+00:02:45,946 --> 00:02:46,446
+with
+
+19
+00:02:47,000 --> 00:02:54,480
+guest hosts that have never read them and got a returning guest host today. I'll let her introduce herself.
+
+20
+00:02:55,133 --> 00:03:06,725
+Hi. I'm Sarah Santiago I've been here before, and I'm not generally a fan of comics, but I think I've read more comics for your podcast and I ever have in my entire life combined.
+
+21
+00:03:07,604 --> 00:03:11,320
+Excellent. So we're expanding horizons here on Barks room.
+
+22
+00:03:11,895 --> 00:03:15,035
+And I I've had you come back for several of these.
+
+23
+00:03:15,695 --> 00:03:26,033
+Number one because I I think you've got a great voice for it. Just number two. I think you're really good at helping me process some of these really challenging
+
+24
+00:03:26,849 --> 00:03:27,947
+stories. And
+
+25
+00:03:28,404 --> 00:03:31,908
+we have a doo of a challenging story today.
+
+26
+00:03:32,245 --> 00:03:43,287
+We're gonna be talking about Carl Barks Voodoo Who do. I think we're both gonna have a lot to save because this this one is probably probably his most controversial
+
+27
+00:03:43,864 --> 00:03:44,364
+story
+
+28
+00:03:44,742 --> 00:03:45,500
+I would say.
+
+29
+00:03:46,312 --> 00:03:49,163
+And again, I think you're really good at at processing
+
+30
+00:03:49,699 --> 00:03:52,987
+these stories and you don't have some of the baggage of
+
+31
+00:03:53,379 --> 00:03:57,760
+you, I first read this one in nineteen eighty nine
+
+32
+00:03:58,660 --> 00:04:02,660
+before I had some awareness of some of the the challenges.
+
+33
+00:04:03,275 --> 00:04:05,815
+Sarah, what are what are kind of some of your initial
+
+34
+00:04:06,515 --> 00:04:09,135
+impressions just before I even get into the
+
+35
+00:04:09,715 --> 00:04:12,583
+details of the story. I started
+
+36
+00:04:13,239 --> 00:04:14,217
+in my notes
+
+37
+00:04:14,873 --> 00:04:15,891
+writing a yikes
+
+38
+00:04:16,507 --> 00:04:17,286
+for each
+
+39
+00:04:17,623 --> 00:04:18,654
+individual yikes
+
+40
+00:04:18,994 --> 00:04:25,885
+and the yikes per page average was getting so high that my hand was getting tired. So
+
+41
+00:04:26,239 --> 00:04:32,044
+I gave up on that. It's very high average yikes per page in
+
+42
+00:04:32,381 --> 00:04:32,860
+this comic.
+
+43
+00:04:33,554 --> 00:04:36,131
+Yeah. So I I guess a disclaimer
+
+44
+00:04:36,670 --> 00:04:44,494
+right away. Right? We're gonna acknowledge that this story was created in nineteen forty nine.
+
+45
+00:04:45,232 --> 00:04:50,283
+We are talking about it in two thousand twenty one. I'm not saying that we're gonna
+
+46
+00:04:50,661 --> 00:04:52,853
+excuse it for its
+
+47
+00:04:53,192 --> 00:04:54,651
+very challenging content.
+
+48
+00:04:54,990 --> 00:04:59,885
+But we're gonna recognize that it it did come out of a different world. It came out of a culture
+
+49
+00:05:00,360 --> 00:05:01,180
+in which
+
+50
+00:05:02,040 --> 00:05:03,180
+the racial car
+
+51
+00:05:03,560 --> 00:05:04,820
+and depictions
+
+52
+00:05:05,720 --> 00:05:07,020
+were widespread
+
+53
+00:05:07,720 --> 00:05:08,220
+almost
+
+54
+00:05:08,639 --> 00:05:09,120
+universal.
+
+55
+00:05:09,815 --> 00:05:12,055
+Across the comics industry at this time.
+
+56
+00:05:12,695 --> 00:05:14,355
+However, there there were definitely
+
+57
+00:05:15,295 --> 00:05:16,615
+creators at the margins.
+
+58
+00:05:17,268 --> 00:05:22,953
+Who are not engaging in these kinds of tropes and and that's important to say too because
+
+59
+00:05:23,689 --> 00:05:35,246
+we should recognize that you know, it's it's not out of our role and that there are people in in those earlier times who did get it. Right? I think we're gonna be very critical of this story
+
+60
+00:05:35,958 --> 00:05:42,085
+I have a little more baggage with it. Right? Because I read it so young before I had real awareness
+
+61
+00:05:42,423 --> 00:05:53,702
+of of some of the the problematic content. So I might be a little bit more defensive of it. That's not to say that I don't see a lot to criticize in it.
+
+62
+00:05:54,478 --> 00:06:00,055
+So Sarah, I sent you scans from the the recent fan graf
+
+63
+00:06:01,429 --> 00:06:06,270
+reprint. I thought it was important to do that because that one presented it as it was originally
+
+64
+00:06:06,726 --> 00:06:13,720
+published. Right? And Carl Barks wouldn't have had anything to do with the coloring decisions that were made in that one. But
+
+65
+00:06:14,180 --> 00:06:14,680
+subsequent
+
+66
+00:06:14,980 --> 00:06:16,520
+reprint of Voodoo hut
+
+67
+00:06:16,874 --> 00:06:18,571
+will have included
+
+68
+00:06:19,628 --> 00:06:20,886
+significant sensory.
+
+69
+00:06:21,504 --> 00:06:28,210
+Right? So the version that I read in nineteen eighty nine, which was published by Gladstone,
+
+70
+00:06:28,750 --> 00:06:30,169
+made some edits
+
+71
+00:06:30,630 --> 00:06:33,930
+to kind of remove some of the racial car
+
+72
+00:06:34,844 --> 00:06:41,770
+of some of the African characters. That would have downplayed at least like, the oversized lips. Kind of the racial
+
+73
+00:06:42,547 --> 00:06:43,047
+dialect.
+
+74
+00:06:44,080 --> 00:06:45,699
+However, it made a couple of edits
+
+75
+00:06:46,360 --> 00:06:54,472
+that Barks wished he could have done. Right? Weirdly, his publishers asked him not to refer to characters as being
+
+76
+00:06:54,891 --> 00:07:10,425
+dead. So in in the version Sarah that you read they are referred to as done for Right? Anytime you see done for, he he originally wrote it as dead. I I guess it's a good time also to talk about one other change that was voiced upon Barks.
+
+77
+00:07:10,985 --> 00:07:15,845
+He originally drew bomb the zombie having kind of vacant classy eyes,
+
+78
+00:07:16,225 --> 00:07:17,125
+but his editors
+
+79
+00:07:17,718 --> 00:07:25,650
+objected to this, and they asked him to give him or they put in some some pupils for this one to make him look a little bit less.
+
+80
+00:07:26,264 --> 00:07:26,764
+Men.
+
+81
+00:07:27,181 --> 00:07:30,074
+Maybe it's because I read it that way originally, but I actually...
+
+82
+00:07:30,610 --> 00:07:35,577
+I think I prefer that because I think it it me the zombie, like, more of a lovable
+
+83
+00:07:36,249 --> 00:07:36,749
+sleepy
+
+84
+00:07:37,168 --> 00:07:40,784
+look to him? Yeah. He does have pretty droop eyelids.
+
+85
+00:07:41,403 --> 00:07:50,456
+Yeah. He looks just kinda sleepy and tired. Right. And and then one of the really notable things about this story is that this is the first
+
+86
+00:07:50,834 --> 00:07:51,852
+instance where
+
+87
+00:07:52,269 --> 00:07:53,846
+Marx is gonna show
+
+88
+00:07:54,517 --> 00:07:57,904
+an a character that's coded as African America.
+
+89
+00:07:58,501 --> 00:07:58,740
+Right?
+
+90
+00:07:59,657 --> 00:08:07,638
+Bop on the very first page I had no idea in my printing because again, they kind of took out his dialect
+
+91
+00:08:08,337 --> 00:08:18,183
+and they colored him coded as quote white. And and so, you know, in in that one, he kinda just comes across as, like, a a a juvenile
+
+92
+00:08:19,532 --> 00:08:20,590
+eccentric person,
+
+93
+00:08:21,008 --> 00:08:29,183
+whereas I think the intent in Barks original one is to just show kind of a, quote, average African American,
+
+94
+00:08:29,521 --> 00:08:31,378
+like a a jazz musician,
+
+95
+00:08:31,756 --> 00:08:34,270
+again, who who is coded is being immature,
+
+96
+00:08:35,401 --> 00:08:36,978
+It's still a very stereotype
+
+97
+00:08:38,112 --> 00:08:43,370
+representation, but I I definitely think that Barks was kind of trying to knock
+
+98
+00:08:44,107 --> 00:08:45,841
+himself from only having,
+
+99
+00:08:46,218 --> 00:08:54,314
+you know, sinister black characters in that one. I did have a question about popped up because he had the
+
+100
+00:08:54,735 --> 00:08:55,235
+stereotypical
+
+101
+00:08:56,295 --> 00:08:56,795
+min
+
+102
+00:08:57,535 --> 00:08:59,370
+white mouth blackface
+
+103
+00:09:00,510 --> 00:09:04,745
+appearance. And I wanted to ask about that, you know, how intentional was that
+
+104
+00:09:05,403 --> 00:09:08,455
+was it changed in the revised versions?
+
+105
+00:09:09,391 --> 00:09:10,449
+Yeah. So
+
+106
+00:09:10,786 --> 00:09:18,127
+let me do our our background details. And then why don't we talk about that. It's just since he comes up right on that first page. Right?
+
+107
+00:09:18,466 --> 00:09:28,230
+Sure. Yeah. Because because Bob up for for his, like, just two frames of appearances is really interest I think he says a lot about Barks
+
+108
+00:09:28,470 --> 00:09:38,572
+intentions with this story. So let's let's go ahead. Boy. I I I have a lot to say about this one. I'm sure you do too. K. Right. So Voodoo Hut
+
+109
+00:09:38,951 --> 00:09:39,451
+was
+
+110
+00:09:39,990 --> 00:09:44,619
+it's it's cover date is August nineteen forty nine. You know, we're still
+
+111
+00:09:45,277 --> 00:09:47,255
+we're we're roaring to the fifties
+
+112
+00:09:47,569 --> 00:09:56,340
+we're still definitely in that post war era. Very crucially for for this story, we're in a very, like post colonial.
+
+113
+00:09:56,754 --> 00:09:58,451
+Era, right? Because
+
+114
+00:09:58,790 --> 00:10:01,405
+these are kind of the waning days of colonialism.
+
+115
+00:10:02,102 --> 00:10:10,524
+Not that colonialism and its effects are ever gonna truly wan. But this was published in four color two hundred and thirty eight.
+
+116
+00:10:10,983 --> 00:10:14,060
+It has maybe more reprint than you might guess.
+
+117
+00:10:14,675 --> 00:10:15,574
+There are seven
+
+118
+00:10:15,995 --> 00:10:19,235
+including the original in the United States at least.
+
+119
+00:10:19,795 --> 00:10:23,629
+And this one is a thirty two pager. It's
+
+120
+00:10:24,048 --> 00:10:27,456
+definitely one of his longer ones. I'll just give a Al synopsis
+
+121
+00:10:28,032 --> 00:10:30,763
+as Donald and the boys traveled to Africa,
+
+122
+00:10:31,314 --> 00:10:35,134
+to attempt to lift a voodoo curse. And that's a pretty
+
+123
+00:10:36,995 --> 00:10:39,915
+representation of the story. So we'll get much more into detail.
+
+124
+00:10:41,208 --> 00:10:44,106
+Alright. So so for a little bit of background Trivia,
+
+125
+00:10:44,525 --> 00:10:53,068
+right away, I would characterize that this one really stands out as being one of Carl Barks most horrific stories. Right?
+
+126
+00:10:53,645 --> 00:10:59,149
+You were here for the old Castle Secret, which, you know, he drew some inspiration from, like the old Ec
+
+127
+00:10:59,526 --> 00:11:00,545
+horror comics.
+
+128
+00:11:01,122 --> 00:11:05,131
+I would say that this one maybe wears its horror movie
+
+129
+00:11:05,468 --> 00:11:08,321
+Dna even more so than that one. And
+
+130
+00:11:08,874 --> 00:11:09,694
+he was
+
+131
+00:11:10,274 --> 00:11:11,574
+inspired directly
+
+132
+00:11:12,154 --> 00:11:12,654
+by
+
+133
+00:11:13,035 --> 00:11:13,814
+the famous
+
+134
+00:11:14,235 --> 00:11:28,379
+old class zombie movie, the Be Lug film white zombie, you know, which is where the rock band also took their name from. That one came out way back in nineteen thirty two. And there was this like, really
+
+135
+00:11:29,115 --> 00:11:35,095
+spooky scene. I had never seen this before and I watched Al clip of this scene last night and it's it's pretty haunting.
+
+136
+00:11:35,550 --> 00:11:41,209
+Where there's like this sugar mill that is being run by by zombies.
+
+137
+00:11:41,750 --> 00:11:44,750
+Right? The the zombies are providing the labor for it.
+
+138
+00:11:45,323 --> 00:11:47,378
+And every once in a while,
+
+139
+00:11:47,716 --> 00:11:50,329
+one of the zombies will kind of just
+
+140
+00:11:50,746 --> 00:11:51,246
+stumble
+
+141
+00:11:51,743 --> 00:11:53,399
+and fall placid
+
+142
+00:11:53,816 --> 00:11:55,129
+into the machinery
+
+143
+00:11:55,788 --> 00:12:03,260
+and just be ground up, you know, they did they don't show you any gore, but they really don't need to, because you know what hap. Just to see that happen,
+
+144
+00:12:04,033 --> 00:12:05,609
+it it was very, very.
+
+145
+00:12:06,067 --> 00:12:09,996
+I recommend any listeners check it out. You can find it pretty easily on Youtube.
+
+146
+00:12:10,334 --> 00:12:16,237
+Obviously, something that's stuck with Carl Barks when he's saw, he was quoted as saying
+
+147
+00:12:16,616 --> 00:12:22,790
+every few seconds, zombie would lose his footing and fall into the grinder where he silently got ground into Hamburger
+
+148
+00:12:23,184 --> 00:12:33,239
+I became convinced that zombies do not feel and I set out to preach their virtue as ideal stu for anyone who needed a dangerous job done cheaply.
+
+149
+00:12:34,213 --> 00:12:34,713
+And
+
+150
+00:12:36,764 --> 00:12:38,021
+further inspiration
+
+151
+00:12:38,358 --> 00:12:43,382
+came from a painting the Carl Barks saw in a publication called the American weekly.
+
+152
+00:12:43,880 --> 00:12:44,380
+It's
+
+153
+00:12:45,079 --> 00:12:48,355
+accompanied a story called I met a zombie.
+
+154
+00:12:48,809 --> 00:12:55,670
+And, you know, he kind of toned down the, like, gruesome appearance, but he got some inspiration for Bam.
+
+155
+00:12:56,125 --> 00:13:02,265
+In that one. Right now might be a good time to kind of talk about the origins of the zombie
+
+156
+00:13:02,965 --> 00:13:03,440
+myth
+
+157
+00:13:04,616 --> 00:13:05,116
+archetype.
+
+158
+00:13:05,493 --> 00:13:06,831
+Yeah. Entity to,
+
+159
+00:13:07,288 --> 00:13:09,184
+they're a part of haitian
+
+160
+00:13:09,880 --> 00:13:13,411
+voodoo culture. Mh. And they are
+
+161
+00:13:13,843 --> 00:13:16,316
+specifically a re animated Barks.
+
+162
+00:13:16,994 --> 00:13:19,090
+And so I thought it was really interesting
+
+163
+00:13:19,507 --> 00:13:22,536
+that in the in the comic book, they
+
+164
+00:13:22,914 --> 00:13:27,965
+referred to him as done for. Right. Instead of saying that he was a re animated corpse and then they
+
+165
+00:13:28,463 --> 00:13:31,810
+said that once the we know whatever Zombie potion
+
+166
+00:13:32,147 --> 00:13:37,910
+wears off that he'll have a nice and full life because that's not how the, you know, original
+
+167
+00:13:38,367 --> 00:13:38,867
+zombie
+
+168
+00:13:39,820 --> 00:13:49,172
+and works. Yeah. I do wanna take a second to point out too that there's a difference between Food religion and Voodoo religion.
+
+169
+00:13:49,631 --> 00:13:50,970
+They're both dia
+
+170
+00:13:51,829 --> 00:13:53,607
+religions that were created
+
+171
+00:13:53,986 --> 00:13:55,525
+that that grew in
+
+172
+00:13:55,999 --> 00:13:57,297
+slave enslaved people's
+
+173
+00:13:57,715 --> 00:14:01,169
+communities based on west and central African,
+
+174
+00:14:01,507 --> 00:14:07,211
+like religions that were, you know, brought along with the slaves. Right. But they were not
+
+175
+00:14:07,709 --> 00:14:08,209
+necessarily
+
+176
+00:14:08,787 --> 00:14:09,287
+practiced
+
+177
+00:14:09,745 --> 00:14:10,844
+in Africa
+
+178
+00:14:11,302 --> 00:14:14,890
+themselves. Although Voodoo do was based more direct
+
+179
+00:14:15,587 --> 00:14:16,844
+on an African
+
+180
+00:14:17,300 --> 00:14:21,107
+religion. Who do was purely a North American
+
+181
+00:14:21,602 --> 00:14:26,609
+off screen. So my understanding is that a who do is like a curse.
+
+182
+00:14:27,128 --> 00:14:28,068
+Right, But
+
+183
+00:14:28,526 --> 00:14:30,840
+called who. Yeah. And it's
+
+184
+00:14:31,460 --> 00:14:33,280
+it's very similar
+
+185
+00:14:33,660 --> 00:14:36,820
+and it's the way that it's kind of en with
+
+186
+00:14:37,500 --> 00:14:43,495
+Christianity is quite interesting too the way that I was kind of seeing this was that Voodoo
+
+187
+00:14:43,995 --> 00:14:44,495
+was
+
+188
+00:14:44,875 --> 00:14:47,188
+wrapped up more with catholicism.
+
+189
+00:14:47,687 --> 00:14:48,187
+And
+
+190
+00:14:48,606 --> 00:14:49,506
+who do
+
+191
+00:14:49,925 --> 00:14:50,664
+tied into
+
+192
+00:14:51,523 --> 00:14:52,023
+protestantism.
+
+193
+00:14:52,642 --> 00:15:02,735
+Yes. That's that's interesting. See I knew that Voodoo of course had like this rich history. Right? And and like you say, it's it's kind of centered around haiti.
+
+194
+00:15:03,309 --> 00:15:08,679
+But it does bring in a lot of elements of these like, very old African
+
+195
+00:15:09,017 --> 00:15:19,188
+traditions, but it is mostly through Haiti, which is not mentioned. Here at all. I've seen who to used in comics of this era as kind of a noun.
+
+196
+00:15:19,686 --> 00:15:22,600
+So I I think that it has like a c
+
+197
+00:15:23,700 --> 00:15:25,600
+definition as curse.
+
+198
+00:15:25,940 --> 00:15:32,644
+No. No. Absolutely right. But it's not necessarily evil in the way white
+
+199
+00:15:33,181 --> 00:15:35,116
+centric American Christians
+
+200
+00:15:35,573 --> 00:15:39,717
+like to take the evil elements of other people's
+
+201
+00:15:40,333 --> 00:15:40,833
+religions
+
+202
+00:15:41,209 --> 00:15:41,709
+and
+
+203
+00:15:42,165 --> 00:15:48,663
+import them into their stories. Yeah. And and that's a really important point that you're making. Right? Because
+
+204
+00:15:49,122 --> 00:15:50,101
+both of these
+
+205
+00:15:50,720 --> 00:15:55,616
+belief systems, are things that have been given this really sinister
+
+206
+00:15:56,409 --> 00:15:58,508
+ting. Immediately, you say Voodoo.
+
+207
+00:15:58,887 --> 00:16:04,940
+I don't know about you, but growing up. If I heard the word Voodoo, it just had this very dark mysterious
+
+208
+00:16:05,453 --> 00:16:05,953
+evil
+
+209
+00:16:06,450 --> 00:16:06,950
+connotation,
+
+210
+00:16:07,327 --> 00:16:13,607
+but it's just another belief system that has a very specific set of values
+
+211
+00:16:13,999 --> 00:16:16,215
+that has been coded as evil
+
+212
+00:16:16,873 --> 00:16:18,450
+because of white
+
+213
+00:16:18,948 --> 00:16:30,655
+fear of black power I would say in black agency I would say that too. I think that as kids who grew up, you know, primarily Christian churches and communities,
+
+214
+00:16:31,149 --> 00:16:43,969
+we are kind of brought up to believe that any kind of witchcraft at all is quote unquote evil. Right. And then as we've grown older and I don't know about you, but I've met so many
+
+215
+00:16:44,428 --> 00:16:47,937
+practitioners of witchcraft of from all over
+
+216
+00:16:48,593 --> 00:16:50,170
+so many varying practices
+
+217
+00:16:50,548 --> 00:16:51,048
+and
+
+218
+00:16:51,385 --> 00:16:53,919
+all of them have experienced marginal
+
+219
+00:16:54,974 --> 00:16:56,525
+because of the
+
+220
+00:16:57,023 --> 00:17:00,836
+witchcraft element, but it's a very specific type of marginal
+
+221
+00:17:01,693 --> 00:17:06,996
+as far as these black practitioners of... Yeah. I think the key is that
+
+222
+00:17:07,572 --> 00:17:09,069
+christianity was really
+
+223
+00:17:09,766 --> 00:17:13,913
+suspicious of any religion that seemed to like revel and Al
+
+224
+00:17:14,751 --> 00:17:24,849
+kind of elevating the natural world, which of course, Voodoo does. And yeah I... Another element limit too is that who do was created specifically
+
+225
+00:17:25,308 --> 00:17:25,808
+by
+
+226
+00:17:26,227 --> 00:17:27,806
+enslaved African Americans
+
+227
+00:17:28,345 --> 00:17:28,845
+as
+
+228
+00:17:29,184 --> 00:17:29,684
+resistance.
+
+229
+00:17:30,183 --> 00:17:39,655
+And and I see you know, one line that would Wikipedia has that just says the word who do means spirit work. So, yeah You're you're absolutely right. Oh, you know it's it's also
+
+230
+00:17:40,035 --> 00:18:09,281
+just briefly we'll note, of course that like in these days, we hear zombie and we immediately have another idea of like a kind of movie monster zombie. Right? So this doesn't even touch on that element Of zombies and pop culture. That came out of what George romero night of the living dead that was still... That hasn't come out yet. I do think it's neat to see this other take on a zombie. And, you know what Barks is gonna do in this story is he's gonna mine
+
+231
+00:18:09,595 --> 00:18:12,015
+the kind of idea of a zombie
+
+232
+00:18:12,355 --> 00:18:30,475
+as this... As a boo man it's it's impossible to remove it from some of these like, cultural anchors. But but, you know, I I think he he saw that movie. He thought this this would make a really interesting idea I'm gonna craft this story. And of course, I'm gonna use these tropes that
+
+233
+00:18:30,815 --> 00:18:32,875
+all of these other comic creators
+
+234
+00:18:33,190 --> 00:18:36,890
+are doing, and I'm gonna give it this little v of science
+
+235
+00:18:37,230 --> 00:18:42,700
+and make a memorable story out of it. So I also think when we talk about the background to the story,
+
+236
+00:18:43,038 --> 00:18:46,093
+that it is set in, quote, Africa.
+
+237
+00:18:46,591 --> 00:18:49,486
+Right, Generic Africa. This is something that western
+
+238
+00:18:50,198 --> 00:18:56,281
+almost always do. You know, my reading of the story is that it's meant to be somewhere
+
+239
+00:18:56,698 --> 00:18:57,198
+around
+
+240
+00:18:57,695 --> 00:19:06,485
+what is today what the democratic Republic of the congo. Part of the setting is Al a rubber plantation, which has its own very dark history,
+
+241
+00:19:07,039 --> 00:19:08,818
+And and then the word Zombie
+
+242
+00:19:09,356 --> 00:19:23,535
+itself was first recorded in eighteen nineteen in a history of Brazil by the Poet Roberts south in the form of Zombie without an e. And it actually is thought to refer to the Al Brazilian rebel leader named Zombie,
+
+243
+00:19:24,069 --> 00:19:24,569
+but
+
+244
+00:19:25,028 --> 00:19:28,444
+you already mentioned it very well, but in haitian folk a zombie
+
+245
+00:19:28,783 --> 00:19:33,215
+is an animated corpse raised by magical means such as witchcraft.
+
+246
+00:19:33,955 --> 00:19:38,670
+Any... Alright. So I see as far as some other translations around the world
+
+247
+00:19:39,128 --> 00:19:39,628
+that
+
+248
+00:19:40,084 --> 00:19:44,767
+when it was first published in Brazil, it had the more Ana title, Donald
+
+249
+00:19:45,383 --> 00:19:45,883
+Africa
+
+250
+00:19:46,554 --> 00:19:47,612
+Donald in Africa.
+
+251
+00:19:48,348 --> 00:19:49,486
+That's in Portuguese.
+
+252
+00:19:50,461 --> 00:19:55,685
+I see that its first danish publication used the same title Voodoo Hut.
+
+253
+00:19:56,379 --> 00:20:01,488
+I see in Finland and finnish in nineteen seventy two is published as Arp,
+
+254
+00:20:02,526 --> 00:20:05,341
+which I think is the word for Donald Duck, y.
+
+255
+00:20:05,974 --> 00:20:13,377
+Right? So it's probably something like Donald duck and the zombie b. But this is interesting in in French in nineteen
+
+256
+00:20:14,328 --> 00:20:18,153
+Its first publication in French was not till nineteen seventy six.
+
+257
+00:20:19,109 --> 00:20:20,565
+And and it was called Don
+
+258
+00:20:22,032 --> 00:20:24,922
+Goof because later on, it was called just
+
+259
+00:20:25,299 --> 00:20:28,388
+bam zombie. Mh. And then
+
+260
+00:20:28,899 --> 00:20:29,877
+So in Italy,
+
+261
+00:20:30,215 --> 00:20:31,193
+we've got Papa
+
+262
+00:20:31,690 --> 00:20:32,190
+and
+
+263
+00:20:33,125 --> 00:20:33,625
+Fit
+
+264
+00:20:34,401 --> 00:20:35,699
+and then later on
+
+265
+00:20:37,352 --> 00:20:37,830
+voodoo.
+
+266
+00:20:38,365 --> 00:20:39,225
+So translate
+
+267
+00:20:39,764 --> 00:20:40,164
+says that
+
+268
+00:20:40,924 --> 00:20:46,085
+Is fetish. I wonder if it's like referring to the little doll as as a fetish.
+
+269
+00:20:46,659 --> 00:20:55,804
+Right. And the just sense of it. Because that that can sometimes be called, like, a fetish doll. Right? Right. Yeah. Yeah. Good point. Okay. I'm gonna
+
+270
+00:20:56,144 --> 00:20:57,504
+talk about the story now.
+
+271
+00:20:58,705 --> 00:21:00,345
+So Voodoo who do?
+
+272
+00:21:01,039 --> 00:21:07,252
+Opens up with Donald walking throughout Ducktales and over hearing people talking
+
+273
+00:21:07,990 --> 00:21:08,345
+about
+
+274
+00:21:09,203 --> 00:21:12,537
+a zombie that's been cited in town. And
+
+275
+00:21:12,995 --> 00:21:14,413
+this this page really
+
+276
+00:21:15,071 --> 00:21:23,980
+sets this up as something that everyone is talking about Donald is just over hearing it at this point. It's it's setting up this very creepy
+
+277
+00:21:24,440 --> 00:21:24,940
+atmosphere.
+
+278
+00:21:25,320 --> 00:21:29,115
+And eventually, he's gonna talk to bob bob. Who he mentioned.
+
+279
+00:21:30,255 --> 00:21:31,835
+Donald is gonna kinda ridicule
+
+280
+00:21:32,255 --> 00:21:35,955
+everyone talking about this zombie sighting until he
+
+281
+00:21:36,335 --> 00:21:38,484
+trips over the actual zombie
+
+282
+00:21:38,861 --> 00:21:41,394
+in the very last panel of the page.
+
+283
+00:21:42,010 --> 00:21:49,514
+This page had so much going on. Right? The first panel are some, like, streets sweep.
+
+284
+00:21:50,255 --> 00:21:54,595
+I thought it was funny that one of them was, like, sitting down on the fire hydrant
+
+285
+00:21:54,949 --> 00:22:06,134
+And then the second panel was really cool. It was just like a guy at a food counter, and Donald was over hearing him. The third panel made me crack up because it was these very
+
+286
+00:22:06,434 --> 00:22:07,695
+fancy wealthy
+
+287
+00:22:08,075 --> 00:22:09,494
+ladies with fir.
+
+288
+00:22:09,874 --> 00:22:12,914
+Yeah. And one of them says to the other a zombie,
+
+289
+00:22:13,489 --> 00:22:14,868
+he should be jailed,
+
+290
+00:22:15,247 --> 00:22:24,431
+and another one says what for He hasn't done anything but walk around sleepy the eyed and the first thought I had was every white woman
+
+291
+00:22:24,850 --> 00:22:28,705
+who calls the cops on a black person just for
+
+292
+00:22:29,258 --> 00:22:45,017
+Yeah. Oh, absolutely. This first woman is definitely that person. And and then the second woman, you know, she is offering up this mild defense and pointing out, he hasn't committed a crime. He's just exists. First one is not in my backyard,
+
+293
+00:22:45,476 --> 00:22:46,750
+and the second one is
+
+294
+00:22:47,567 --> 00:22:48,983
+maybe not in my backyard.
+
+295
+00:22:50,077 --> 00:22:55,973
+Yeah. Exactly. And I I remember distinctly when I read this one as a kid. I was I was horrified
+
+296
+00:22:56,309 --> 00:22:56,809
+by
+
+297
+00:22:57,824 --> 00:23:00,914
+society, high society lady number one's, just
+
+298
+00:23:01,769 --> 00:23:02,725
+incredible nose.
+
+299
+00:23:03,179 --> 00:23:19,336
+It it really disturbed me. Well, all of the wrinkles around her mouth, like you can just see what a bitter frown woman she is. Yeah. She she's grow test. And I think Barks literally drew her nose so that she could turn it up at Donald.
+
+300
+00:23:20,055 --> 00:23:20,415
+Zombie.
+
+301
+00:23:21,108 --> 00:23:21,608
+And,
+
+302
+00:23:22,304 --> 00:23:25,357
+you know, the the original printing has them colored
+
+303
+00:23:25,934 --> 00:23:26,992
+weirdly dark
+
+304
+00:23:27,369 --> 00:23:41,879
+because in reprint, they depict them as the very white women that they are. Mh. And and then we get to bath. Right? We already talked a little bit about pop, but it's Again, I really think that this is Barks
+
+305
+00:23:42,796 --> 00:23:50,448
+his intent here and and this is gonna sound like a defense of him but but his intent here is to show that Donald is actually very comfortable
+
+306
+00:23:50,864 --> 00:23:58,640
+talking with him. And to maybe Peg Don this a little bit of an out cast him south. Right? Because he's talking with a Jazz musician
+
+307
+00:23:59,100 --> 00:24:00,000
+very comfortably
+
+308
+00:24:00,460 --> 00:24:02,240
+in in a very familiar manner.
+
+309
+00:24:02,580 --> 00:24:05,335
+You know, he knows bob bob very well. Obviously.
+
+310
+00:24:06,115 --> 00:24:18,030
+So there... There's a lot going on in these two panels of Donald just interacting casually with this black jazz musician. Yeah. It's extremely problematic and that he's drawn with that min
+
+311
+00:24:18,690 --> 00:24:23,085
+white mouth And then his his dialogue, which I'm not even gonna read
+
+312
+00:24:24,422 --> 00:24:27,995
+I don't feel comfortable enough even reading that. Right. It's very
+
+313
+00:24:28,493 --> 00:24:29,751
+that old time
+
+314
+00:24:30,209 --> 00:24:39,275
+gone with the wind era. Oh like Amos and andy or something. Right? Yeah. And and and so, you know, what do we do? We we tend to
+
+315
+00:24:39,653 --> 00:24:50,173
+go to our black friends because they're experts on, you know, x y z, which we is generally a micro gretchen because we're generally coming to them for oh
+
+316
+00:24:50,551 --> 00:24:59,409
+you're a black guy, please. Tell me about this question I have about rap. Right? You know, it's just Right. It's generally, like, horrible things, horrible
+
+317
+00:25:00,026 --> 00:25:02,801
+examples of micro questions when we go to people
+
+318
+00:25:03,140 --> 00:25:24,530
+who are black and ask them questions about things But I thought it was really interesting. He was like, Huey, hop up. You're an expert on ghost stuff. What is this zombie be? And I thought that was just like a... Oh okay. Like it just happens that pop is an expert on ghost stuff. You're right. Right... It's not the fact he's not approaching him ostensibly because he's black.
+
+319
+00:25:24,910 --> 00:25:44,372
+Because he's just an expert on ghost stuff because their friends, you have an extremely good point. Like, he's just chatting with his friend. These two panels are doing a lot of heavy lifting and and there is. It may be a little tortured, but there is a progressive read on them. You know, it's it's very dated and it's problematic
+
+320
+00:25:44,710 --> 00:25:46,048
+in and of itself.
+
+321
+00:25:46,425 --> 00:25:46,925
+But,
+
+322
+00:25:47,582 --> 00:25:51,415
+you know, it Barks I I think that what he is intending
+
+323
+00:25:51,835 --> 00:25:55,575
+here is to say, Donald does not have a problem
+
+324
+00:25:55,955 --> 00:25:56,635
+with Black.
+
+325
+00:25:57,050 --> 00:25:58,630
+Right? Donald has
+
+326
+00:25:59,090 --> 00:26:09,824
+an issue with the Voodoo curse that he's been placed on that that's been placed on him. I think it's maybe the nineteen forties way of saying, I don't see color.
+
+327
+00:26:10,559 --> 00:26:11,830
+And that it's
+
+328
+00:26:12,330 --> 00:26:13,510
+your intentions
+
+329
+00:26:13,850 --> 00:26:18,470
+are so good and and I know what you mean, but your execution
+
+330
+00:26:19,105 --> 00:26:19,605
+is
+
+331
+00:26:20,303 --> 00:26:22,002
+very lacking. Mh.
+
+332
+00:26:22,700 --> 00:26:36,791
+And then so bob up is also shown as very juvenile too is my read on Right? Because he's on this little tiny motorbike. And so that that was part of My read was like, oh, you you're very childish. Right? You like ghost stories
+
+333
+00:26:37,303 --> 00:26:42,365
+and then I know we're spending a lot of time on this page, but, you know, Donald again, he trips over.
+
+334
+00:26:43,122 --> 00:26:45,075
+We're gonna learn that it's bomb the zombie b.
+
+335
+00:26:45,848 --> 00:26:47,745
+And and, you know, tell me Sarah
+
+336
+00:26:48,084 --> 00:26:51,497
+a little bit about your impressions just visually, but also
+
+337
+00:26:52,075 --> 00:26:52,575
+stylist
+
+338
+00:26:52,913 --> 00:26:53,991
+of of bam.
+
+339
+00:26:54,805 --> 00:26:59,545
+So so Bam wearing he's very tall. He has these long
+
+340
+00:26:59,885 --> 00:27:01,405
+hanging droop arms.
+
+341
+00:27:02,220 --> 00:27:02,720
+Almost
+
+342
+00:27:03,300 --> 00:27:08,240
+like a great ape and he's he's dark skinned. He has
+
+343
+00:27:08,980 --> 00:27:10,820
+ring piercing in his nose,
+
+344
+00:27:11,355 --> 00:27:18,895
+his ear lobes are stretched out. His clothes, his white shirt thing is is tat. He has something
+
+345
+00:27:19,275 --> 00:27:22,544
+white on his head. That actually shows up on
+
+346
+00:27:23,120 --> 00:27:30,772
+some of the characters when they get to Africa, and I'm not sure was that supposed to be an a in the color missed it?
+
+347
+00:27:31,110 --> 00:27:42,150
+I I think it is. I think kind about that. Well, I think it shows, no. I think it's his hair. It's just he's very old. Right? He's been around for a long time. So he's scott white hair at this point.
+
+348
+00:27:42,790 --> 00:27:45,890
+Okay. Yeah. And he's just got this, like, very
+
+349
+00:27:46,645 --> 00:27:47,505
+dead looking
+
+350
+00:27:48,005 --> 00:27:50,745
+gaze. Right? And we've got a little background of
+
+351
+00:27:51,085 --> 00:27:53,025
+someone looking at him in
+
+352
+00:27:53,499 --> 00:28:01,240
+puzzle or terror. Mh. Out of window. Yeah. Right. So on the next page, Donald, you know, interacts with him,
+
+353
+00:28:01,814 --> 00:28:02,793
+and he
+
+354
+00:28:03,370 --> 00:28:04,150
+pretty quickly
+
+355
+00:28:04,528 --> 00:28:07,281
+realizes that this guy doesn't look like he's alive,
+
+356
+00:28:07,919 --> 00:28:09,856
+and the zombie he
+
+357
+00:28:10,170 --> 00:28:12,950
+Yeah. He reaches out and he hands
+
+358
+00:28:13,450 --> 00:28:16,930
+donald a a doll like a fright doll.
+
+359
+00:28:17,330 --> 00:28:20,362
+Britain has this, like, history of these
+
+360
+00:28:20,740 --> 00:28:29,159
+dolls called... Can I say dolly logs? Is is it... So I it reminds me of what the, like, very popular
+
+361
+00:28:29,578 --> 00:28:47,288
+in the sort of commonwealth countries would call a gu log, these old dolls. It would look up really quick. Oh, god. Doesn't that look like okay. Yeah. I... You know, I was wondering I looked up voodoo dolls. I looked up the... There's kind of carved wooden dolls that Al Fuji dolls,
+
+362
+00:28:47,666 --> 00:28:59,076
+which as you said earlier are generally not used in the practice of Voodoo. Right. But there there is another kind of doll that is that's based on a,
+
+363
+00:28:59,454 --> 00:29:01,150
+you know, western central
+
+364
+00:29:01,647 --> 00:29:02,147
+African
+
+365
+00:29:02,739 --> 00:29:04,752
+So... And I just... I looked all over
+
+366
+00:29:05,129 --> 00:29:15,359
+like played around and wikipedia couldn't figure out what that was And there you go. Yeah. So I don't I didn't see that reference anywhere, but that's what the doll reminded me of.
+
+367
+00:29:16,038 --> 00:29:25,963
+And these were you know, pretty popular for a long time especially actually in I think the Uk and Australia. And, you know, it's interesting the story never goes into sort of the classic voodoo
+
+368
+00:29:26,394 --> 00:29:36,740
+you know, controlling someone through a doll, even though it has a voodoo doll. So I wonder that must have been a trope that wasn't really in place. Or that's just not what he was interested in. But anyway,
+
+369
+00:29:37,280 --> 00:29:37,780
+Bam
+
+370
+00:29:38,560 --> 00:29:44,706
+where the zombie be at this point, he he hands him the doll, and then he just kinda walks away. And,
+
+371
+00:29:45,759 --> 00:29:59,170
+you know, Donald kind of puzzles over this doll and kinda reconcile, Oh well. Just some screw ball. I'm gonna take it home show the kids. I'm me to kick out of it. And then as the zombies walking away, Donald realizes
+
+372
+00:29:59,923 --> 00:30:04,312
+Oh, everybody is afraid of it and running away. I wonder if that's the zombie.
+
+373
+00:30:04,870 --> 00:30:06,966
+I like that image of the
+
+374
+00:30:07,560 --> 00:30:13,720
+incredibly white looking woman. Right, Blonde haired young white woman, running in terror.
+
+375
+00:30:14,533 --> 00:30:17,661
+We haven't even talked about this as kind of a sub
+
+376
+00:30:18,197 --> 00:30:24,377
+for what was happening in America at the time. Right? Is is that black people were moving into the suburbs,
+
+377
+00:30:24,836 --> 00:30:28,413
+And and I don't think that I don't think anyone consciously
+
+378
+00:30:28,872 --> 00:30:30,390
+thinks that they're gonna write a story.
+
+379
+00:30:31,085 --> 00:30:37,625
+About that. But would you think that this is that there's some sub for this? I don't know since I'm not
+
+380
+00:30:38,779 --> 00:30:55,945
+I don't know a lot about what was going on in the Us at that time. You know, the the Gi bill was Mh was just starting to make this popular for some of this mobility. Or so I think this is some of the the sub here. On the following page, Donald gets home
+
+381
+00:30:56,500 --> 00:31:10,600
+he is he's not scared at all at this point. He looks very placid, and he presents the doll to the nash fuse. And one of them, you know, I'm just gonna quote says it's an ugly thing. Squeeze it. Maybe it goes b or something.
+
+382
+00:31:11,177 --> 00:31:14,207
+Donald gives it a quick squeeze and he immediately
+
+383
+00:31:14,625 --> 00:31:16,082
+recoil and pain
+
+384
+00:31:16,580 --> 00:31:20,632
+saying that there was a thorn in it that stuck in his... That stuck is
+
+385
+00:31:21,663 --> 00:31:25,670
+and he very quickly feels faint and collapses.
+
+386
+00:31:26,246 --> 00:31:35,363
+And the Nephews freaked out, they say that they need call a doctor because I'm Mcdonald's been poisoned. Right? It's a very c way of saying poisoned.
+
+387
+00:31:35,802 --> 00:31:37,600
+I am... I like this page,
+
+388
+00:31:38,015 --> 00:31:40,795
+you know, it's it's some cool storytelling.
+
+389
+00:31:41,095 --> 00:31:41,595
+It...
+
+390
+00:31:42,095 --> 00:31:53,830
+It's very frightening. I think. You know, it his his faint team spell looked very frightening and very threatening to me. When I read this as a kid, I should I I should note. This scared me a lot.
+
+391
+00:31:55,205 --> 00:32:00,025
+Alright. Oh, man. This next page again, this does... There's a lot of storytelling
+
+392
+00:32:00,525 --> 00:32:04,719
+really quickly in this one. You know, we get this news boy doing classic.
+
+393
+00:32:05,057 --> 00:32:06,315
+X x
+
+394
+00:32:06,693 --> 00:32:09,167
+read all about the guy, what Gottfredson
+
+395
+00:32:09,447 --> 00:32:10,785
+pa voodoo doll.
+
+396
+00:32:11,123 --> 00:32:12,160
+That's great dialogue.
+
+397
+00:32:13,691 --> 00:32:31,550
+We've got your society ladies. Do you wanna tell me a little bit about their interaction here? The care in one is the... That's... All you gave in the doll. I knew It was up to no good. And then the other one out of nowhere is just saying they say, Donald Duck is turning to brass. Like...
+
+398
+00:32:32,127 --> 00:32:38,270
+So I'm just so confused about why this information got to the news boy. And then
+
+399
+00:32:38,809 --> 00:32:39,309
+around
+
+400
+00:32:39,687 --> 00:32:40,546
+everybody in the
+
+401
+00:32:41,642 --> 00:32:44,276
+in then in the next couple of panels,
+
+402
+00:32:44,715 --> 00:32:51,116
+Uncle Sc is reading about it in his in the newspaper while he's sitting at a fast full of his money. Mh.
+
+403
+00:32:51,754 --> 00:32:55,865
+Yeah. And and then uncle Scrooge, you know, immediately pays on all the visit.
+
+404
+00:32:56,600 --> 00:32:57,100
+And
+
+405
+00:32:57,800 --> 00:33:00,300
+takes a look at that doll and references,
+
+406
+00:33:00,640 --> 00:33:01,920
+boy. That's quite a story.
+
+407
+00:33:02,720 --> 00:33:06,034
+And he does actually say the words Voodoo Who do. And
+
+408
+00:33:06,493 --> 00:33:18,483
+and and the thing about turning to brass is weird to me, I think that must have just been a a kind of joke about how Stubborn Donald is. That's how I've always read it, but I admittedly didn't look that up.
+
+409
+00:33:18,922 --> 00:33:22,572
+You know there's so much going on that I didn't either. And there's
+
+410
+00:33:22,924 --> 00:33:25,620
+there's so much that I don't understand
+
+411
+00:33:26,278 --> 00:33:27,576
+from this jennifer generation
+
+412
+00:33:28,074 --> 00:33:32,266
+I just was like, that must be something they just said back then.
+
+413
+00:33:32,840 --> 00:33:33,340
+Yeah.
+
+414
+00:33:33,719 --> 00:33:40,931
+But, you know, then the the first the karen society lady had her own panel just dedicated to her.
+
+415
+00:33:41,485 --> 00:33:46,385
+Saying sniff. He hasn't far to go. He was already solid from the nick.
+
+416
+00:33:46,765 --> 00:33:47,165
+Yeah. Like,
+
+417
+00:33:48,005 --> 00:33:48,905
+super able
+
+418
+00:33:49,419 --> 00:33:51,358
+commentary on his intelligence,
+
+419
+00:33:52,296 --> 00:33:58,685
+but she's just drawn so specifically with all of those wrinkles and that nose that's
+
+420
+00:33:59,304 --> 00:34:01,122
+claw downward almost.
+
+421
+00:34:01,781 --> 00:34:03,958
+Yeah. She's just a very
+
+422
+00:34:04,297 --> 00:34:06,210
+specific drawing isn't she
+
+423
+00:34:06,710 --> 00:34:12,090
+she is very specific. Yeah. That she kinda lives rent free in my head. She's drawn some.
+
+424
+00:34:12,550 --> 00:34:20,955
+Yeah. That Yeah. It's it's saying a lot how much she stuck with me in this story that has a zombie and a witch doctor and a shrunk man.
+
+425
+00:34:22,608 --> 00:34:23,108
+No
+
+426
+00:34:23,766 --> 00:34:24,266
+spoilers.
+
+427
+00:34:25,604 --> 00:34:26,104
+Yeah.
+
+428
+00:34:26,563 --> 00:34:27,063
+So
+
+429
+00:34:27,602 --> 00:34:29,580
+we go on to the next page where
+
+430
+00:34:30,054 --> 00:34:31,672
+sc starts to reveal
+
+431
+00:34:32,052 --> 00:34:32,552
+that
+
+432
+00:34:33,130 --> 00:34:45,661
+this was a curse that was intended for him, and it was meant to shrink him about the size of a rat. And, you know, sc is not showing very much empathy here. This is this is the more villainous
+
+433
+00:34:46,334 --> 00:34:56,315
+version of sc that Barks is gonna pretty quickly course correct here. You know, he he hadn't figured out what kind of character he wanted to make him, but this is
+
+434
+00:34:56,852 --> 00:34:58,808
+just about his most villainous us.
+
+435
+00:34:59,846 --> 00:35:02,301
+You know, and this is gonna start Donald
+
+436
+00:35:03,014 --> 00:35:05,429
+complete freak out. You know Donald gonna be
+
+437
+00:35:06,365 --> 00:35:06,865
+very
+
+438
+00:35:07,442 --> 00:35:09,618
+terrified and coward and
+
+439
+00:35:10,076 --> 00:35:16,937
+preoccupied. For most of the rest of this story. And I didn't really talk about that version of the characters. That's something that's been interesting
+
+440
+00:35:17,315 --> 00:35:26,218
+me. You know, Donald role here is now to be scared and desperate for the rest of the story. And Sc is is one of the antagonists.
+
+441
+00:35:26,797 --> 00:35:35,488
+But he's never like, quite represented has a a pure of villain in this one, even though the the kind of references that he makes to his history,
+
+442
+00:35:36,702 --> 00:35:39,649
+you know, paint him in a very villainous light.
+
+443
+00:35:40,505 --> 00:35:49,356
+And because he says some old enemies of mine wanted to give me the works, but Donald here gets the work in dead and he laughs at that.
+
+444
+00:35:49,813 --> 00:35:54,721
+And, you know, Donald kinda fights him and and he starts to tell more about the story.
+
+445
+00:35:55,294 --> 00:35:57,389
+Yeah. It wasn't sure how
+
+446
+00:35:57,965 --> 00:36:00,597
+whether this was just like normal slaps stick. Like.
+
+447
+00:36:01,354 --> 00:36:05,140
+I'm on Scrooge and I think poorly of everybody or
+
+448
+00:36:05,840 --> 00:36:06,900
+if he was
+
+449
+00:36:07,280 --> 00:36:15,872
+really just a bad guy because he doesn't just make fun of Donald and say, you're getting this punishment that was meant for me
+
+450
+00:36:16,291 --> 00:36:20,920
+and and here's what it is, but then he just goes on to talk about how he
+
+451
+00:36:22,020 --> 00:36:24,359
+this... On this next page, it's just
+
+452
+00:36:24,780 --> 00:36:28,760
+another one of those where the yikes per page count is
+
+453
+00:36:29,180 --> 00:36:29,940
+extremely high.
+
+454
+00:36:30,594 --> 00:36:32,013
+And he describes...
+
+455
+00:36:32,472 --> 00:36:38,046
+He describes these this rubber plantation that he wanted to buy in Africa and
+
+456
+00:36:38,879 --> 00:36:42,575
+he he refers to the the people who lived there as
+
+457
+00:36:43,394 --> 00:36:45,212
+as ferocious savages,
+
+458
+00:36:45,951 --> 00:36:49,101
+their voodoo do dogs, priced the ground
+
+459
+00:36:49,520 --> 00:36:50,020
+and
+
+460
+00:36:50,797 --> 00:36:56,486
+okay. They wouldn't sell, so I hired a mob of thugs and chased the drive into the jungle
+
+461
+00:36:57,160 --> 00:37:04,420
+Like, he's so proud of himself for these horrible acts. But how I was I don't know if if
+
+462
+00:37:04,894 --> 00:37:08,635
+those acts and that language would have been seen as
+
+463
+00:37:09,174 --> 00:37:10,714
+as bad as they were
+
+464
+00:37:11,214 --> 00:37:13,135
+back in nineteen forty nine. Right.
+
+465
+00:37:15,583 --> 00:37:18,634
+Exactly. Right? Because we're at the tail end of colonialism
+
+466
+00:37:18,971 --> 00:37:22,474
+where basically countries were doing exactly what
+
+467
+00:37:23,015 --> 00:37:26,075
+sc said here. And and I think it was probably
+
+468
+00:37:26,454 --> 00:37:28,234
+perceived at more as ras
+
+469
+00:37:29,015 --> 00:37:31,354
+than villainous. Right? Because
+
+470
+00:37:32,465 --> 00:37:39,302
+because of the legacy of this. But this is a real problem for for fans of Scrooge doc. Right? Because this is
+
+471
+00:37:39,813 --> 00:37:41,866
+really terrible depiction of him.
+
+472
+00:37:42,561 --> 00:37:43,159
+This is like,
+
+473
+00:37:44,115 --> 00:37:45,252
+Robert Barks,
+
+474
+00:37:45,509 --> 00:37:52,146
+you know, it does not square with how he describes himself later in his most iconic story.
+
+475
+00:37:52,943 --> 00:38:00,888
+Only a poor old man that I made it. I made my fortune by being smarter than the smart and tougher than the tough
+
+476
+00:38:01,227 --> 00:38:02,865
+and I made it square.
+
+477
+00:38:03,520 --> 00:38:11,915
+Right? And and that's really key to the sc mythos and what people love about sc Mc. You know, that he's this scrappy self made
+
+478
+00:38:12,375 --> 00:38:12,875
+quad,
+
+479
+00:38:13,815 --> 00:38:14,315
+who
+
+480
+00:38:14,655 --> 00:38:16,275
+still has this moral compass.
+
+481
+00:38:16,855 --> 00:38:18,735
+So there there is no canon.
+
+482
+00:38:19,470 --> 00:38:20,290
+Sc mc
+
+483
+00:38:20,910 --> 00:38:30,671
+in these comics. But I would say that that that one, which appeared in uncle Scrooge number one, is the closest that you get. Right? Because it kind of set Barks
+
+484
+00:38:31,269 --> 00:38:38,990
+blueprint. So so Barks was happy to change his characters around alter them as he saw fit. And for this,
+
+485
+00:38:39,750 --> 00:38:54,592
+this little span of stories here, you know, you also did race to the south seas with me right, where he had hired kind of some people that he viewed his savages again to protect him. So we're in this relatively brief window. Where he's like this robber Barks
+
+486
+00:38:55,548 --> 00:38:59,235
+and his point is to be greedy and un.
+
+487
+00:39:00,105 --> 00:39:02,921
+And later, his point is to be greedy,
+
+488
+00:39:03,420 --> 00:39:24,980
+but self made in a more noble way. So this this story has given a lot of people pause. You know, I i... This is a big digress, but Don Rosa is kind of regarded as, like, Carl Barks ear. And he did a really big project called the life and times of sc Ducktales he kinda went back and he tried to
+
+489
+00:39:25,479 --> 00:39:26,738
+kind of converge
+
+490
+00:39:27,077 --> 00:39:27,277
+Al
+
+491
+00:39:28,036 --> 00:39:32,571
+all of the details that were referenced in the Barks stories
+
+492
+00:39:33,085 --> 00:39:36,105
+about how sc made his fortune and make this really
+
+493
+00:39:36,685 --> 00:39:37,185
+sprawling,
+
+494
+00:39:37,685 --> 00:39:38,185
+fascinating
+
+495
+00:39:38,645 --> 00:39:39,880
+story of this
+
+496
+00:39:40,378 --> 00:39:43,748
+Scottish kid who immigrated and made his fortune.
+
+497
+00:39:44,165 --> 00:39:48,630
+And, you know, Rosa talks a lot about how he was gonna deal with Voodoo Who.
+
+498
+00:39:49,124 --> 00:39:54,667
+And he talks in in his notes about, you know, he debated throwing it out.
+
+499
+00:39:55,385 --> 00:39:56,802
+And then he decided
+
+500
+00:39:57,139 --> 00:39:58,557
+that it was gonna be
+
+501
+00:39:59,109 --> 00:40:04,804
+sc one bad act that he always regret. And, you know, we can talk about
+
+502
+00:40:05,223 --> 00:40:20,550
+I'll probably get into a later if I ever get around to those stories and talk about whether rosa should have thrown this one out, but but it's really interesting to me that, you know, he he had to really stop and think about, you know, am I gonna treat this as Canon
+
+503
+00:40:21,087 --> 00:40:29,422
+And again, this is a really packed page. Right? He talks about sc talks about this curse, right? That the the witch doctor
+
+504
+00:40:29,961 --> 00:40:32,818
+who was enraged at the at Sc
+
+505
+00:40:33,157 --> 00:40:38,726
+theft of the land, which you know, Scrooge himself is basically acknowledging. I stole that land.
+
+506
+00:40:39,446 --> 00:40:44,541
+He put a poison thorn in the doll and sent bull bomb the zombie.
+
+507
+00:40:45,014 --> 00:40:54,567
+We learn his name there to track me down and that Bam has been after him for seventy years in this story. And, you know, the timeline doesn't really work, but
+
+508
+00:40:55,080 --> 00:41:11,315
+But yeah. The the idea is that he's been after him for a very, very long time. We also get a little bit of lore about Barks version of his zombie. Right? Zombies, zombies don't think and that they can only remember one thing at a time. I did wanna to point
+
+509
+00:41:11,695 --> 00:41:13,035
+out in that final
+
+510
+00:41:13,389 --> 00:41:15,485
+panel on that page where
+
+511
+00:41:15,942 --> 00:41:16,762
+the flashback
+
+512
+00:41:17,379 --> 00:41:23,598
+young uncle sc is walking away from the witch doctor and the zombie
+
+513
+00:41:24,174 --> 00:41:42,235
+and he's walking on this path and there are two two sign posts, one pointing in the direction that sc is walking and it says lightest Africa, and then the one pointing behind him where he was leaving from where the zombie and the witch doctor are says darkest Africa.
+
+514
+00:41:42,695 --> 00:41:45,395
+Yeah. And he's got a very, like, colonial
+
+515
+00:41:45,815 --> 00:41:47,075
+pit helmet on.
+
+516
+00:41:48,230 --> 00:41:54,124
+So on the next page, you know, Donald, we kind of get into Donald being super worried
+
+517
+00:41:54,543 --> 00:42:00,529
+about the curse and wondering, and and he's basically starting to imagine himself shrinking already.
+
+518
+00:42:00,947 --> 00:42:15,760
+And, you know, Uncle Sc advises the Nephews to just give him sleep and pill, and and let him sleep it off. And, you know, we kinda transition now over to the Nephews point of view, and we're gonna get a lot of their point of view for the rest of the story.
+
+519
+00:42:16,732 --> 00:42:19,323
+At this point, it it's almost a hue duty Louise story.
+
+520
+00:42:20,359 --> 00:42:24,220
+Because they're they're starting to get creeped out about zombies because there's
+
+521
+00:42:24,720 --> 00:42:31,920
+very ominous in the last panel. They're laying in bed and one of them says, say, I wonder what became of that zombie.
+
+522
+00:42:32,374 --> 00:42:38,055
+And the middle nephew says shop. Now you're giving me nightmares. And you know when they're
+
+523
+00:42:38,511 --> 00:43:06,171
+non cost that, like, something so. Like, because they're usually the ones who keep their wits about them. Exactly. Right? They're meant to be avatars for Barks readers. They're the young boys that are clever, imagining themselves reading this comic. So, yeah. I'm I'm getting creeped out at this point when I read this at Aj. And and it's especially the next page is super creepy. You know, we transition we see the at city hall, the police officers
+
+524
+00:43:06,804 --> 00:43:10,253
+are kind of feeling helpless to do anything about the zombie
+
+525
+00:43:11,148 --> 00:43:12,941
+because no one's filed Al complaint.
+
+526
+00:43:13,937 --> 00:43:14,437
+And
+
+527
+00:43:14,830 --> 00:43:17,210
+Now we have this really cool panel
+
+528
+00:43:17,510 --> 00:43:21,510
+of bam and silhouette Barks narration panel.
+
+529
+00:43:21,965 --> 00:43:24,865
+Talking about him going to the residential section
+
+530
+00:43:25,285 --> 00:43:45,751
+of the city and that some mysterious instinct has him stop in front of Don house where he's peace fully sn. And finally, at Dawn, you know, Donald wakes up and he's he's feeling a little bit better, Maybe he slept it off. Maybe it was all a dream. Nobody opens his eyes. He sees... He sees bam be just very placid
+
+531
+00:43:46,089 --> 00:43:50,909
+standing at the foot of his bed. And he lets out what is easy to imagine as an une
+
+532
+00:43:51,445 --> 00:44:00,340
+sc based on the way that Barks has drawn that word balloon. That is a great page. Right? This this page is giving a very creepy
+
+533
+00:44:01,158 --> 00:44:02,258
+atmosphere. And
+
+534
+00:44:03,516 --> 00:44:16,476
+regardless of all the all the problematic bones that it's built on. I I do like this page a lot. And so the Nephews come running on the next page base see what they figure out must be the zombie
+
+535
+00:44:17,252 --> 00:44:19,546
+They start to attack him with broom,
+
+536
+00:44:19,883 --> 00:44:22,217
+but Bam doesn't react to anything.
+
+537
+00:44:22,889 --> 00:44:34,270
+And so they they kinda wear themselves out and they're like, okay. He doesn't doesn't seem to be a threat to us. So they asked Donald what he did, and Donald says nothing, but he gives me the creeps.
+
+538
+00:44:34,608 --> 00:44:39,337
+And and the nephews figure out pretty quickly that, you know, he's actually harmless,
+
+539
+00:44:40,249 --> 00:44:43,465
+One of them comments, he just looks lone some and,
+
+540
+00:44:43,964 --> 00:44:47,541
+you know, they figured out well, he he can't talk most likely
+
+541
+00:44:48,495 --> 00:45:05,209
+He seems to be lost. And so the Nephew size him up pretty quickly. And so on the next page, you know nephews are really starting to empathize with bam there. They're figuring, you know, maybe he wants to go back to back to Africa back to his voodoo people.
+
+542
+00:45:05,707 --> 00:45:20,095
+And, you know, one of them sums it up really nicely that he's been trying to deliver this doll for seventy years now that he's completed this task. He doesn't know what to do with himself. And and, you know, one of them tears up in in empathy
+
+543
+00:45:20,755 --> 00:45:21,455
+and then
+
+544
+00:45:21,875 --> 00:45:26,935
+surmise that he's come back to Donald because it's the only link he has with his own world and donald.
+
+545
+00:45:27,355 --> 00:45:30,749
+Donald like, don't feel sympathy for him. So they...
+
+546
+00:45:31,805 --> 00:45:40,185
+Why don't you go ahead and describe the rest of this page? They just grab bobby by the hand and lead him around and bomb follows them.
+
+547
+00:45:40,605 --> 00:45:48,955
+And and one of those says, watch how he lets me lead him around by the hand, and then another one says, maybe he understands kindness.
+
+548
+00:45:49,931 --> 00:45:52,187
+And I love that so much.
+
+549
+00:45:52,804 --> 00:45:55,955
+Yeah. Like, I do love a monster
+
+550
+00:45:56,495 --> 00:45:59,115
+who just like, is misunderstood.
+
+551
+00:46:00,095 --> 00:46:03,635
+That's a really good way to kind of
+
+552
+00:46:03,975 --> 00:46:04,475
+diffuse
+
+553
+00:46:05,069 --> 00:46:22,689
+any of these tense situations and and you know, in your own brain, it's a good way to take control of of your fantasy life and and where just something isn't as scary anymore. And so I thought that was a really great way to put the kids back in control And
+
+554
+00:46:23,106 --> 00:46:23,984
+kind this,
+
+555
+00:46:25,140 --> 00:46:26,637
+you know I love some kindness.
+
+556
+00:46:27,173 --> 00:46:37,184
+Yeah. This is a great way to diffuse it. Right? The story just got a little bit less scary. And you're right. The the, like, misunderstood monsters is a who's a great.
+
+557
+00:46:37,642 --> 00:46:40,475
+Alright. Try to feed him, but he doesn't want anything to eat.
+
+558
+00:46:41,010 --> 00:46:46,220
+Yeah. So the Nephew become very sympathetic here. But, you know, Donald is very
+
+559
+00:46:46,757 --> 00:46:50,225
+single minded on the next page. He's he's freaking out
+
+560
+00:46:50,804 --> 00:46:51,623
+he's constantly
+
+561
+00:46:51,962 --> 00:46:53,939
+perceiving himself as getting shorter.
+
+562
+00:46:54,636 --> 00:46:57,371
+And he he resolves to ask
+
+563
+00:46:57,829 --> 00:47:03,660
+sc to demand passage to Africa to see the which doctor to lift the curse.
+
+564
+00:47:04,520 --> 00:47:10,195
+And then the nephews kind of figure out, you know, you know, maybe there's a trip to Africa in it for us as well.
+
+565
+00:47:10,654 --> 00:47:15,150
+I did think it was cute that I think I pointed this out in another
+
+566
+00:47:15,808 --> 00:47:16,988
+episode where
+
+567
+00:47:17,367 --> 00:47:18,186
+Donald is
+
+568
+00:47:18,979 --> 00:47:21,113
+that he's wearing a towel
+
+569
+00:47:21,450 --> 00:47:34,598
+that hover up the areas that his clothes usually don't cover up That's right. And somehow he feels modest that way. Oh yeah. And and that's not just a Barks thing. Just kinda how
+
+570
+00:47:34,976 --> 00:47:41,441
+everyone who works with Donald treats him. You can see him in the cartoons putting wrapping a towel around his lower half.
+
+571
+00:47:42,213 --> 00:47:43,151
+Alright. So
+
+572
+00:47:43,528 --> 00:47:45,861
+on the next page and very un,
+
+573
+00:47:46,716 --> 00:47:57,350
+uncle Scrooge immediately agrees to pay to have him go to Africa. And, you know, Donald is in this pose of, like, both terror and sup and he's just looking desperate.
+
+574
+00:47:57,804 --> 00:48:06,895
+And sc points out that you know, I'd certainly rather pay your fair to africa than have you haunting me the rest of your life with your imaginary who do.
+
+575
+00:48:07,748 --> 00:48:09,564
+Yeah. And they're flooding that. But...
+
+576
+00:48:10,261 --> 00:48:13,274
+But he gives him the price for a single ticket
+
+577
+00:48:13,811 --> 00:48:14,205
+to
+
+578
+00:48:14,785 --> 00:48:24,380
+and when Donald gets back and and let's the... Let's the kids down by saying, only he can go. The kids, you know, they have a little bit of a tantrum
+
+579
+00:48:24,800 --> 00:48:35,975
+and Bam has some some sympathy tears. And Donald, you know, packs Al little carpet bag and immediately leaves the boys all alone while he's gonna be in Africa for weeks.
+
+580
+00:48:36,615 --> 00:48:40,569
+With no no more advice than keep the lawn mode and the tu water.
+
+581
+00:48:41,308 --> 00:48:43,886
+That's such bad parenting.
+
+582
+00:48:44,944 --> 00:48:45,723
+I felt
+
+583
+00:48:46,103 --> 00:48:57,259
+I felt so bad because that was the first time I've ever seen the boys get upset. It is, but it's also it happens enough in these stories that I think it's meant to be like a little bit of an audience
+
+584
+00:48:57,597 --> 00:49:07,463
+empowerment. Right? Like, I I trust the kids to be home by themselves. Because there are times you know Al lot of these that the Nephews will do very adult things like drive Barks.
+
+585
+00:49:07,583 --> 00:49:18,957
+Let's be nothing of how often they saved donald. So the Nephews wear themselves crying, and they decide that they're gonna take zombie into town to see about getting him
+
+586
+00:49:19,296 --> 00:49:20,276
+back to Africa.
+
+587
+00:49:21,054 --> 00:49:24,725
+And they dressed him up in some pretty pretty ridiculous clothes
+
+588
+00:49:25,382 --> 00:49:27,038
+One of them is like a very old
+
+589
+00:49:27,415 --> 00:49:36,070
+military ga or something. And and the Nephews, they kinda get distracted talking about the situation. And before they realize that they have
+
+590
+00:49:37,370 --> 00:49:40,230
+Zombie by the time they get to the immigration office,
+
+591
+00:49:41,143 --> 00:49:46,427
+cracks me out that they think that the immigration office can maybe do something for him. But
+
+592
+00:49:47,203 --> 00:49:49,196
+but, yeah, they they lose sight of bam.
+
+593
+00:49:49,730 --> 00:49:52,310
+So the kids on the next page they backtrack
+
+594
+00:49:52,730 --> 00:49:53,230
+and
+
+595
+00:49:53,770 --> 00:49:55,510
+follow a crowd of people
+
+596
+00:49:55,850 --> 00:49:58,965
+into a broadcast studio which turns out to be the
+
+597
+00:49:59,623 --> 00:50:11,560
+a taping of the Perk Peanut quiz show, and they do notice Mom on the stage with contestants, so they sit down to watch. And and we've got this, like very late forties
+
+598
+00:50:12,620 --> 00:50:15,520
+radio host who who's quite a character.
+
+599
+00:50:16,195 --> 00:50:20,810
+And this is a very, like high concept to very over the top sequence
+
+600
+00:50:21,389 --> 00:50:24,286
+right where he is going to
+
+601
+00:50:24,680 --> 00:50:26,218
+give some quiz questions
+
+602
+00:50:26,557 --> 00:50:34,899
+to Zombie and we got that like comedy of errors where by not answering by not saying anything he is he's gonna correctly
+
+603
+00:50:35,437 --> 00:50:47,513
+win the quiz show and by the end. By the end of the next page, he's gonna win the grand prize of a wheelbarrow full of money. So thus securing his and the kids passage
+
+604
+00:50:48,024 --> 00:50:50,161
+to to Africa. And and
+
+605
+00:50:50,898 --> 00:50:57,880
+it's it's pretty funny. It's it's very silly. It's a good little device to get them on their way to Africa,
+
+606
+00:50:58,420 --> 00:51:00,800
+you know, really over the top wealthy
+
+607
+00:51:01,340 --> 00:51:01,840
+manner.
+
+608
+00:51:02,180 --> 00:51:10,170
+So any comments for for that and the next page? I'm looking up the exchange rate for he because he wins
+
+609
+00:51:10,629 --> 00:51:12,407
+one one hundred dollars.
+
+610
+00:51:12,786 --> 00:51:14,380
+Mh. That first question.
+
+611
+00:51:14,960 --> 00:51:16,020
+Right. Is a red.
+
+612
+00:51:17,480 --> 00:51:19,460
+Which is about, you know, a thousand
+
+613
+00:51:19,840 --> 00:51:21,060
+fifty dollars
+
+614
+00:51:21,454 --> 00:51:25,982
+And who can look up the exchange rate for a wheelbarrow phone of money because
+
+615
+00:51:26,359 --> 00:51:39,474
+we they're full of pennies is different from... But but it's a nationwide contest. So, you know, obviously enough fair to get them to Africa in grand style and then to have these these problematic
+
+616
+00:51:39,812 --> 00:51:47,740
+wide of cash around to just grease the wheels on their way. Alright. So we transition to Africa where Don just arrived
+
+617
+00:51:48,160 --> 00:51:52,300
+And, you know, he is kinda thinking about how pretty it is there.
+
+618
+00:51:53,000 --> 00:51:57,020
+He's thinking about how little money he has to survive on while he
+
+619
+00:51:58,092 --> 00:51:59,470
+looks for the witch doctor.
+
+620
+00:51:59,807 --> 00:52:03,499
+And then before he leaves the airport, everyone's attention
+
+621
+00:52:03,956 --> 00:52:10,983
+turns to another plane. Do you wanna describe the the next plain Sarah? It's quite a bit larger
+
+622
+00:52:11,442 --> 00:52:11,942
+than
+
+623
+00:52:12,441 --> 00:52:12,941
+Mcdonald's
+
+624
+00:52:13,334 --> 00:52:13,834
+little
+
+625
+00:52:14,251 --> 00:52:18,817
+dink puddle jumper. Oh, you know what some some very enthusiastic
+
+626
+00:52:19,633 --> 00:52:20,133
+listener
+
+627
+00:52:20,589 --> 00:52:21,980
+has actually been
+
+628
+00:52:22,518 --> 00:52:32,686
+emailing me or commenting on the Facebook page, rather, he seems to be very interested in aviation and the Carl Barks comics. And he's been sharing with me
+
+629
+00:52:33,144 --> 00:52:36,135
+the the names of some of these planes.
+
+630
+00:52:36,789 --> 00:52:39,785
+Nice. Intriguing. Listener Rubin Al
+
+631
+00:52:40,744 --> 00:52:51,035
+has been sharing information about these planes. And the plane that the du arrive in is a Boeing b fifty two, which is the only eight engine
+
+632
+00:52:51,412 --> 00:52:53,786
+aircraft that have been produced regular
+
+633
+00:52:54,140 --> 00:52:59,640
+Donald to rise and he's getting off his plane. He has a surprisingly human looking
+
+634
+00:53:00,180 --> 00:53:00,680
+steward.
+
+635
+00:53:01,474 --> 00:53:03,250
+I noticed. But he...
+
+636
+00:53:03,628 --> 00:53:04,128
+The
+
+637
+00:53:04,585 --> 00:53:14,829
+announcements go on at the airfield field and clear the one way special chartered super luxury liner coming in from Erica with eight engines and Silver fox upholstery.
+
+638
+00:53:15,645 --> 00:53:21,903
+Great detail. One two three, four, how do you even get eight engines? I'm just that sounds pretty.
+
+639
+00:53:23,360 --> 00:53:27,176
+And given that they took off quite a bit later than Donald did,
+
+640
+00:53:28,009 --> 00:53:30,066
+you know, those eight engines would definitely
+
+641
+00:53:30,603 --> 00:53:39,298
+make them arrive only a few minutes afterward afterwards. That's. And then Donald decides that the... He's gonna stick around and see what that is. And
+
+642
+00:53:39,834 --> 00:53:42,527
+it's the kids and bomb the zombie
+
+643
+00:53:43,143 --> 00:53:43,643
+and
+
+644
+00:53:43,981 --> 00:53:49,730
+the kids are all dressed up like, fancy, putting on the roots guys with the
+
+645
+00:53:50,070 --> 00:53:59,827
+cans and white spots and bam, the zombie. They have all have top hats, and money, of course, is flying everywhere because that's what happens when you're that wealthy.
+
+646
+00:54:00,545 --> 00:54:03,517
+Right. And and it's... I think it's very thoughtful.
+
+647
+00:54:03,949 --> 00:54:12,871
+That they have secured a a rich ty outfit for Bam as well. It's definitely an upgrade from the... Outfit that they had
+
+648
+00:54:13,369 --> 00:54:20,967
+secured for him in the previous page Right. Yeah. So they did what they could. And I like the little gag where one of the arm
+
+649
+00:54:21,480 --> 00:54:25,260
+says must be some fabulous rich potato. I mean, ten.
+
+650
+00:54:26,920 --> 00:54:28,700
+I've never heard the word pot ten
+
+651
+00:54:29,000 --> 00:54:31,594
+outside of a few of these Barks comics.
+
+652
+00:54:32,412 --> 00:54:37,827
+The landing wheels have leopard skin tires. Yeah. Yeah. Alright. So
+
+653
+00:54:38,166 --> 00:54:55,205
+there's a narration box that does a lot of work here. Right? It says money Barks and soon bam fortune topped up a whole safari complete with folding bathtub and eager to plunge into the African bush. So you know, they're gonna stop off at sc rubber
+
+654
+00:54:55,838 --> 00:54:59,147
+rubber plantation which, you know, they nickname nicknamed Scrooge
+
+655
+00:54:59,506 --> 00:55:06,563
+on the latex. That's a fun gag. And there's, you know, it's a neat little panel of them try traveling with the lion kind of in the distance.
+
+656
+00:55:07,261 --> 00:55:13,435
+When they talk to the manager at the Rubber plantation, he basically warns him off. He says that
+
+657
+00:55:14,470 --> 00:55:20,589
+they're hidden very well, the police can't find him and they they terror the locals every few weeks.
+
+658
+00:55:21,204 --> 00:55:26,944
+And when Donald says he has to ask him a favor, the the manager basically wishes him
+
+659
+00:55:27,364 --> 00:55:30,119
+by and says it was nice knowing you. And
+
+660
+00:55:30,618 --> 00:55:33,192
+I'm not gonna go too deeply into it, but
+
+661
+00:55:33,610 --> 00:55:35,107
+the history of
+
+662
+00:55:35,445 --> 00:55:35,945
+European
+
+663
+00:55:36,482 --> 00:55:37,262
+and Americans
+
+664
+00:55:38,775 --> 00:55:39,835
+getting rubber
+
+665
+00:55:40,135 --> 00:55:41,434
+in Central Africa
+
+666
+00:55:41,934 --> 00:55:44,275
+is is really, really brutal.
+
+667
+00:55:45,190 --> 00:55:48,710
+And and the fact that Sc has a rubber plantation out here...
+
+668
+00:55:50,109 --> 00:55:51,329
+One of the more horrific
+
+669
+00:55:51,630 --> 00:55:57,302
+chapters in colonialism is what the belgian did in in the quote Belgian Congo,
+
+670
+00:55:58,080 --> 00:55:59,000
+extracting rubber.
+
+671
+00:55:59,599 --> 00:56:00,099
+So
+
+672
+00:56:00,478 --> 00:56:03,475
+you don't wanna be involved with Rubber and Central Africa.
+
+673
+00:56:04,008 --> 00:56:04,907
+Alright. So
+
+674
+00:56:05,363 --> 00:56:07,458
+i'm embarking on their
+
+675
+00:56:07,795 --> 00:56:15,571
+safari, you know, they get deeper into the bush and donald has a conversation with one of the
+
+676
+00:56:16,309 --> 00:56:19,979
+with the leader of the Safari. You know, the the
+
+677
+00:56:20,558 --> 00:56:32,328
+expedition leader is kind of caution them they need to camp out, and then they'll they'll head closer to where the village is believed to be the next day, and he's very... He's very fearful
+
+678
+00:56:32,865 --> 00:56:36,477
+and says that, you know, we can't let the the Voodoo villagers
+
+679
+00:56:37,308 --> 00:56:38,606
+see us first.
+
+680
+00:56:38,943 --> 00:56:39,683
+In the
+
+681
+00:56:40,379 --> 00:56:44,468
+reprint that I read as a kid, you know, they omit his little boo
+
+682
+00:56:44,885 --> 00:56:45,385
+lo,
+
+683
+00:56:45,723 --> 00:56:49,714
+which is like, something that basically people imagined,
+
+684
+00:56:50,214 --> 00:56:55,649
+you know, uneducated black saying. Yeah. Isn't not supposed to be an African
+
+685
+00:56:56,386 --> 00:56:57,485
+from Africa.
+
+686
+00:56:57,823 --> 00:56:58,882
+Why is he using...
+
+687
+00:56:59,540 --> 00:57:08,158
+Right. Yeah. It's definitely. African American vernacular English. Yeah. It doesn't fit. Really. Or like, you know, a bastard prioritization of a v?
+
+688
+00:57:08,495 --> 00:57:10,552
+Yeah. Exactly. And and so
+
+689
+00:57:11,090 --> 00:57:21,755
+while the Safari is at rest, suddenly an arrow stripes the tree behind them with one of the Voodoo dolls dangling from it, and it makes there...
+
+690
+00:57:22,675 --> 00:57:24,974
+Everyone is just immensely terrified.
+
+691
+00:57:25,714 --> 00:57:34,140
+And on the next page, you see the whole safari just fleeing in terror for their lives. So, you know, the Ducktales have been abandoned.
+
+692
+00:57:34,837 --> 00:58:03,104
+They are on their own in the African bus. They see they realize, you know, that the voodoo village knows that they're here and, you know, the nephews are debating whether they should turn back. And and I guess, I I like that, you know, he's creating some real tension here but it also is kinda depicting these people as, like, basically easily scared. That's not a great representation. No. And they have the the white
+
+693
+00:58:03,739 --> 00:58:06,279
+around their their mouths kind of min
+
+694
+00:58:07,179 --> 00:58:09,599
+depiction. And are they African?
+
+695
+00:58:10,059 --> 00:58:11,654
+Are they African
+
+696
+00:58:11,993 --> 00:58:24,259
+Americans. Are they just like, people who've decided that like, oh, I'm a local, but I'm afraid of this other local because he's so fierce, and that's how we're supposed to interpret how fearsome.
+
+697
+00:58:24,799 --> 00:58:25,079
+Right.
+
+698
+00:58:25,839 --> 00:58:28,751
+Whatever his name is, it who are these people?
+
+699
+00:58:29,168 --> 00:58:39,409
+Yeah. I think I think these are the non voodoo villagers. Right? And and this is kind of Barks raising the stakes. To show us how ferocious this other
+
+700
+00:58:40,184 --> 00:58:44,045
+feared people are. And you know, their depiction is basic
+
+701
+00:58:44,544 --> 00:58:53,730
+like, this is what all the creators were doing. It was it was a trope. It was as good of an example as a trope of a trope as you can find almost. Right? Because
+
+702
+00:58:54,507 --> 00:58:56,044
+This care doesn't
+
+703
+00:58:56,581 --> 00:59:00,271
+reflect reality at all. But this is just
+
+704
+00:59:00,609 --> 00:59:07,511
+how comic all comic creators. Somehow this like filtered out to everyone. Right? I read Asterisk
+
+705
+00:59:07,890 --> 00:59:20,745
+comics from this same era. This is how they were represent represented. The floyd Gottfredson Mickey Mouse comic strip from this time, this is how they were represented. And and I think this is just one of those weird universal shorthand hands
+
+706
+00:59:21,285 --> 00:59:28,625
+that has dated very poorly for very obvious reasons, but wouldn't have looked weird at the time at all, because
+
+707
+00:59:28,925 --> 00:59:29,605
+everyone was doing it.
+
+708
+00:59:30,740 --> 00:59:31,800
+Alright. So
+
+709
+00:59:32,220 --> 00:59:37,460
+on the following page, you know, they're they're just having a conversation about their next step.
+
+710
+00:59:38,313 --> 00:59:42,522
+They get the idea to ask Z bam to lead them to the village.
+
+711
+00:59:43,138 --> 00:59:43,638
+And
+
+712
+00:59:44,773 --> 00:59:47,166
+while they're having this conversation,
+
+713
+00:59:47,780 --> 00:59:52,116
+something over hears them from in a little tough, a little bush.
+
+714
+00:59:52,575 --> 01:00:00,805
+Some voice says did I hear somebody mention zombies? I'm an authority on the subject. And we get this little reveal. This little tiny man
+
+715
+01:00:01,185 --> 01:00:06,365
+steps out and says that he has just been to the hideout of old fu.
+
+716
+01:00:07,399 --> 01:00:21,490
+The witch doctor. And, you know, I hadn't mentioned his name before that. And it doesn't feel great to say it out loud, but it is the name. Right? It rhymes it's catchy, it sticks in your head. It also seems to be a play on the word Zulu.
+
+717
+01:00:21,828 --> 01:00:22,985
+So... And cool.
+
+718
+01:00:23,679 --> 01:00:34,719
+And fool. But I don't think fool like Idiot. Right? I think fool like fool you. Right? Like trick you, like like he's crafty and con ivan. That's my read on it of.
+
+719
+01:00:35,278 --> 01:00:37,016
+I could see both arguments
+
+720
+01:00:37,435 --> 01:00:37,795
+standing.
+
+721
+01:00:38,729 --> 01:00:46,582
+So this is this is kind of a cool reveal. You know, this is what they used for the cover image, basically the Ducktales
+
+722
+01:00:46,462 --> 01:00:49,874
+boggling at meeting this tiny little man. And we immediately
+
+723
+01:00:50,291 --> 01:00:51,668
+understand that he's been victim
+
+724
+01:00:52,125 --> 01:00:54,420
+by the same curse that Donald has.
+
+725
+01:00:54,917 --> 01:00:59,822
+And he He goes on to introduce himself as Cornelius Mac.
+
+726
+01:01:00,201 --> 01:01:02,037
+He's a researcher from the University of
+
+727
+01:01:03,234 --> 01:01:03,734
+And
+
+728
+01:01:04,113 --> 01:01:05,744
+he he says that
+
+729
+01:01:06,523 --> 01:01:10,815
+while he's kinda sitting down and we get some cool little details of
+
+730
+01:01:12,431 --> 01:01:17,299
+insects next to him, while he's sitting on a twig, he talks about how he came to research
+
+731
+01:01:17,839 --> 01:01:19,019
+Voodoo science.
+
+732
+01:01:19,359 --> 01:01:29,869
+So this is kind of Barks veer a little bit from the magic aspect to the science aspect of it. Because he generally liked to not leave these things Al supernatural.
+
+733
+01:01:30,249 --> 01:01:30,409
+You know.
+
+734
+01:01:31,208 --> 01:01:44,124
+Everyone while there was a supernatural element to these stories, but for the most part, it was explained. He thought that he had be friend the witch doctor, but one day he gave him a doll and told him to squeeze it, and we know what happens. And
+
+735
+01:01:44,583 --> 01:01:45,083
+he
+
+736
+01:01:45,542 --> 01:02:00,960
+reveals to Donald that, you know, he he still has a day to go based on his understanding of the timeline of the Voodoo drug. So the professor really interesting. Right? I feel like he leaves a big impact for the, like, three or so pages that he's on.
+
+737
+01:02:01,972 --> 01:02:06,938
+Because he's like, become a convert to his his shrunk and lifestyle. He's ex
+
+738
+01:02:07,316 --> 01:02:10,807
+how how little resources he needs to live
+
+739
+01:02:11,518 --> 01:02:14,173
+he's really excited to be
+
+740
+01:02:14,511 --> 01:02:18,163
+small. I... I'm I'm gonna say that he does not have a family
+
+741
+01:02:18,581 --> 01:02:19,081
+because
+
+742
+01:02:19,474 --> 01:02:21,627
+I don't think they're gonna be as excited about it.
+
+743
+01:02:22,545 --> 01:02:39,082
+But but don... They were millennials, they would be so stoked to be able to build a mansion out of a trunk Oh, yeah. Absolutely Millennial dream is just to own any property at all. So, like, to build a a whole house out of a truck. Yeah. I have
+
+744
+01:02:39,499 --> 01:02:40,557
+my beating heart.
+
+745
+01:02:43,048 --> 01:02:49,980
+Donald is not sold though, and he snatch the map. That the professor helpful draws for him
+
+746
+01:02:50,636 --> 01:02:54,975
+using a pencil that's taller than he is. And and as they're about to leave, he
+
+747
+01:02:55,315 --> 01:02:55,815
+comments
+
+748
+01:02:56,395 --> 01:03:07,030
+and onto to the next page, you know, don't don't let that zombie fool you. He's not really quote done for or dead as some of the reprint correct. And he's just been drugged.
+
+749
+01:03:07,330 --> 01:03:10,710
+He doesn't need to sleep or eat or feel anything.
+
+750
+01:03:11,170 --> 01:03:25,558
+And again, he's like, suggesting all in all. They're very well off. You know, this is a horrifying condition of course to be in. So but but we know that this guy's excited about being size of rat. Maybe he's not the the most reliable narrator.
+
+751
+01:03:26,174 --> 01:03:30,582
+It's it's fine to take their agency. They're fine. Don't worry about it.
+
+752
+01:03:31,095 --> 01:03:41,967
+Sure. And he indicates that, you know, after several centuries, the drug wears off and they'll they'll be normal people again, and and the kids are very sweet they're very excited for him being a man with a future.
+
+753
+01:03:42,785 --> 01:03:53,155
+You know, I'm not sure how well his future is gonna go waking up and you know, say, twenty twenty one or whatever and having it work where often offense and family are all all gone.
+
+754
+01:03:54,570 --> 01:03:56,350
+Anyway, the Ducktales eventually
+
+755
+01:03:56,690 --> 01:04:18,894
+arrive at the hidden village, you know, which is like a classic pal aide wall. And when they bang on the door, trap door opens up beneath him and they're kind of secretive forward along this dark tunnel and when when it's not dark anymore, they appear right before last time Fu Z
+
+756
+01:04:19,311 --> 01:04:19,550
+himself,
+
+757
+01:04:20,124 --> 01:04:22,662
+who greet them by saying, good afternoon,
+
+758
+01:04:23,161 --> 01:04:30,787
+Scrooge mc duck. And the witch doctor is like terrifying here. Right, Sarah. You know, he really is.
+
+759
+01:04:31,484 --> 01:04:33,102
+The the whole min,
+
+760
+01:04:33,520 --> 01:04:38,265
+like, white mouth thing is is often done to make
+
+761
+01:04:38,844 --> 01:04:40,860
+make black people seem
+
+762
+01:04:41,238 --> 01:04:42,177
+less intelligent
+
+763
+01:04:42,515 --> 01:04:44,053
+and maybe... Last
+
+764
+01:04:44,910 --> 01:04:47,087
+less threatening more emotional
+
+765
+01:04:47,919 --> 01:04:48,898
+than rational,
+
+766
+01:04:49,316 --> 01:04:50,554
+I think in a lot of ways,
+
+767
+01:04:51,152 --> 01:04:53,608
+But the way that they've drawn his eye
+
+768
+01:04:53,986 --> 01:05:01,044
+eyebrows and the his other face paint and his tea, the especially is kind of pointy teeth. And then he's also
+
+769
+01:05:01,421 --> 01:05:07,637
+got these snakes wrapped around his arms and he's kind of taking that, like, feet together
+
+770
+01:05:07,973 --> 01:05:09,908
+kind of butterfly pose
+
+771
+01:05:10,364 --> 01:05:13,911
+and his hands are clasp in front of him, Like, he's just like,
+
+772
+01:05:14,645 --> 01:05:15,145
+Yes.
+
+773
+01:05:15,525 --> 01:05:17,865
+You know, if if he were Barks, he would be
+
+774
+01:05:18,205 --> 01:05:24,712
+tapping his fingertips at each other. Yeah. And on the next page. He's kind of leaning forward, like a vulture.
+
+775
+01:05:25,248 --> 01:05:27,981
+So he he's he's truly terrifying
+
+776
+01:05:28,358 --> 01:05:37,237
+and and that's what Barks was going for. Right? So like, I would say it's both an offensive car, but also like a very successful.
+
+777
+01:05:37,996 --> 01:05:44,574
+Because he's scary. And and he has very sharpened teeth in this one. They kinda corrected that in later
+
+778
+01:05:44,912 --> 01:05:45,412
+printing,
+
+779
+01:05:46,308 --> 01:05:46,808
+censored
+
+780
+01:05:47,145 --> 01:05:48,935
+slash corrected, whatever you wanna
+
+781
+01:05:49,871 --> 01:05:55,271
+whatever your point of view is. I also get a little bit of clear coding. In the way that
+
+782
+01:05:55,767 --> 01:05:56,267
+jafar
+
+783
+01:05:56,699 --> 01:05:57,199
+and
+
+784
+01:05:57,937 --> 01:05:59,035
+scar have these
+
+785
+01:05:59,413 --> 01:06:01,230
+very kind of like pointed
+
+786
+01:06:02,247 --> 01:06:03,984
+eyebrows that is
+
+787
+01:06:04,801 --> 01:06:09,706
+them. A little bit. Yeah. And and and he's he's just
+
+788
+01:06:10,084 --> 01:06:13,297
+super loved on. Oh, oh, the other thing. Right? Is that he's
+
+789
+01:06:14,170 --> 01:06:16,228
+he does not speak with
+
+790
+01:06:17,366 --> 01:06:17,866
+dialogue
+
+791
+01:06:18,445 --> 01:06:18,925
+at all.
+
+792
+01:06:19,844 --> 01:06:22,542
+Oh that's a good point. He's very
+
+793
+01:06:22,881 --> 01:06:23,355
+sharp
+
+794
+01:06:24,093 --> 01:06:25,391
+maybe the smartest.
+
+795
+01:06:25,968 --> 01:06:29,980
+Maybe this absolutely the smartest person there. Yeah. Absolutely.
+
+796
+01:06:30,756 --> 01:06:31,036
+Right.
+
+797
+01:06:31,610 --> 01:06:34,307
+So, you know, Donald on the next page
+
+798
+01:06:34,726 --> 01:06:41,355
+is is taken him aback. He's like, I'm not Scrooge. I'm just some guy who looks like him sc is very old,
+
+799
+01:06:41,855 --> 01:06:43,115
+you know, and and
+
+800
+01:06:43,495 --> 01:06:44,435
+the witch doctor
+
+801
+01:06:44,815 --> 01:06:55,100
+considers this and realizes with disgust that he's right, and Donald, you know, explains what happened that he got the curse intended for sp mc du.
+
+802
+01:06:55,953 --> 01:06:59,926
+He points out he never did anything to hurt you. And,
+
+803
+01:07:00,264 --> 01:07:04,076
+you know, the which doctor acknowledges that this mistake has been made
+
+804
+01:07:05,070 --> 01:07:08,410
+He is shrewd and he is villainous so he
+
+805
+01:07:09,270 --> 01:07:13,350
+wed with him, You know, how much is it worth for you to be saved by me.
+
+806
+01:07:14,083 --> 01:07:21,136
+The nephews step in, and they pull out several watts of zombie of bomb fortune.
+
+807
+01:07:21,669 --> 01:07:26,517
+And ask, is it worth this much? Mister Z, they say,
+
+808
+01:07:27,294 --> 01:07:28,432
+and and he
+
+809
+01:07:28,864 --> 01:07:32,355
+rifles the the why that says twenty thousand dollars.
+
+810
+01:07:32,892 --> 01:07:38,536
+I guess, the only time he does say wow, that might be a little bit of a character, but he says
+
+811
+01:07:39,048 --> 01:07:43,713
+that that for that comfortable fee, I am very willing to d voodoo y.
+
+812
+01:07:44,630 --> 01:07:47,482
+It's it's kind of funny dialogue, but again, it's
+
+813
+01:07:48,234 --> 01:07:49,294
+Two separate religions.
+
+814
+01:07:49,753 --> 01:07:50,253
+Yeah.
+
+815
+01:07:51,990 --> 01:08:02,580
+And and so, you know, he goes on to say, you know, as a matter of Barks. You don't really have anything to worry about because in all honesty, the doll lost its power many years ago.
+
+816
+01:08:03,200 --> 01:08:09,644
+So Donald feels much better he instantly knows he can be happy again. He doesn't have to worry.
+
+817
+01:08:10,482 --> 01:08:13,217
+And as he is leaving, he very
+
+818
+01:08:13,770 --> 01:08:14,270
+foolishly
+
+819
+01:08:15,330 --> 01:08:15,830
+says
+
+820
+01:08:16,571 --> 01:08:22,625
+goodbye to the witch doctor and tells the kids we've got a swell story to tell uncle Scrooge.
+
+821
+01:08:23,145 --> 01:08:24,765
+I I love the panel
+
+822
+01:08:25,105 --> 01:08:30,465
+of the witch doctor processing that he just said uncle I like his expression there.
+
+823
+01:08:31,158 --> 01:08:33,932
+And you know, Donald is is very proud
+
+824
+01:08:34,350 --> 01:08:37,736
+of being Scrooge as nearest living relative, but
+
+825
+01:08:38,316 --> 01:08:42,296
+when they learn that, of course, they immediately grab on to him
+
+826
+01:08:42,635 --> 01:08:49,377
+and which doctor explains that it's its voodoo law that the nearest of Kin Gladstone
+
+827
+01:08:49,475 --> 01:08:55,990
+for the sins of a wrong doe. And he immediately starts to make a new batch of super shrink.
+
+828
+01:08:56,667 --> 01:09:03,161
+That just seems like I mean, I didn't look up to see whether that is a true tenant of
+
+829
+01:09:03,579 --> 01:09:06,392
+Voodoo or who do or any of the
+
+830
+01:09:07,407 --> 01:09:12,191
+religions that they are based on? I It's definitely meant to be min.
+
+831
+01:09:12,886 --> 01:09:16,725
+It's definitely supposed to cast them as evil.
+
+832
+01:09:17,366 --> 01:09:20,906
+Right. What what do you call that? What's the term for for
+
+833
+01:09:21,286 --> 01:09:22,881
+someone else taking
+
+834
+01:09:23,259 --> 01:09:24,716
+taking a person's punishment.
+
+835
+01:09:25,214 --> 01:09:30,423
+That's that's something that we tend to view is, like, very coward and very evil.
+
+836
+01:09:30,935 --> 01:09:36,270
+So the Ne user are talking with the witch doctor while he is making up the potion.
+
+837
+01:09:37,049 --> 01:09:39,081
+You know, I find it interesting that they don't
+
+838
+01:09:39,461 --> 01:09:41,439
+they don't capture the nephews or anything.
+
+839
+01:09:42,417 --> 01:09:44,475
+They're they're just left to their own devices.
+
+840
+01:09:45,374 --> 01:09:50,121
+There's this very men panel where which doctor brandi is the potion
+
+841
+01:09:50,499 --> 01:09:53,491
+and says this time, the medicine will be fresh,
+
+842
+01:09:54,329 --> 01:09:55,007
+very scary.
+
+843
+01:09:55,620 --> 01:10:01,942
+And they escape over the pal wall and they are stopped by a Village
+
+844
+01:10:02,399 --> 01:10:06,343
+who brandi a spear at them. And and
+
+845
+01:10:06,680 --> 01:10:10,927
+just kinda casually and men seemingly Barks them going shopping.
+
+846
+01:10:11,303 --> 01:10:12,241
+And one of the nephews
+
+847
+01:10:12,738 --> 01:10:17,311
+says, Yes. Will you sell us the spear for ten thousand dollars?
+
+848
+01:10:17,911 --> 01:10:25,872
+And so it's very interesting here that, like, money solves all their problems. Right? Money is their weapon for the rest of this story.
+
+849
+01:10:26,431 --> 01:10:33,803
+And it's not even their money. Like, not only are these people super greedy in a way that they probably aren't
+
+850
+01:10:34,140 --> 01:10:37,983
+in those regions in real life in those but they're just like...
+
+851
+01:10:38,740 --> 01:10:43,168
+Bobby hasn't it doesn't have any agency of his own. We're just gonna spend his money for him.
+
+852
+01:10:43,527 --> 01:10:48,322
+Right. I I guess one could argue, you know, that they're helping him out by returning
+
+853
+01:10:48,981 --> 01:10:49,882
+to his homeland.
+
+854
+01:10:50,342 --> 01:10:51,402
+It's a very pate
+
+855
+01:10:51,942 --> 01:10:52,962
+view, but
+
+856
+01:10:53,677 --> 01:10:59,496
+But again, I'll just point that out. Because I do like, you know, we're we're men to identify with the nephews.
+
+857
+01:11:00,197 --> 01:11:03,591
+So I won't overlook their their blind spots but
+
+858
+01:11:03,971 --> 01:11:05,991
+they definitely come out better
+
+859
+01:11:06,491 --> 01:11:14,406
+than Donald or sp in this story. It is a little bit off putting that in the next panel at the top of the next page,
+
+860
+01:11:14,946 --> 01:11:20,421
+that man says ten thousand dollars for that kind of money. You can buy me too
+
+861
+01:11:20,840 --> 01:11:21,979
+which is just
+
+862
+01:11:22,357 --> 01:11:23,455
+so cri
+
+863
+01:11:24,392 --> 01:11:26,608
+considering that... Right. Owning
+
+864
+01:11:27,105 --> 01:11:27,605
+African
+
+865
+01:11:28,223 --> 01:11:28,936
+men is
+
+866
+01:11:29,396 --> 01:11:30,455
+considering the legacy.
+
+867
+01:11:31,114 --> 01:11:31,614
+Yeah.
+
+868
+01:11:32,472 --> 01:11:36,821
+Right. So as a kid, I I thought that was just
+
+869
+01:11:37,360 --> 01:11:43,866
+hilarious style on. I thought that was so funny because it it was so absurd to me. Right? I didn't
+
+870
+01:11:44,365 --> 01:11:56,651
+it didn't immediately dawn on me that that might be a reference to slavery and and it's never, you know, directly mentioned. It's just something that you can't help but think about as a cro adults.
+
+871
+01:11:57,451 --> 01:12:06,042
+But I find it fascinating that I've transitioned from having that reaction. I what I'm surge statement. That's so funny. Yeah. Who
+
+872
+01:12:06,460 --> 01:12:13,168
+as you say, just utterly cri when I read this one. And you know, would it have been
+
+873
+01:12:13,867 --> 01:12:19,221
+absurd? Would it have been, oh, this is nowhere near reality and therefore funny.
+
+874
+01:12:19,835 --> 01:12:26,609
+To a a reader in nineteen forty nine. Right? Yeah. And I mean, it hasn't been too many pages since they
+
+875
+01:12:27,188 --> 01:12:28,626
+commissioned the whole safari.
+
+876
+01:12:29,200 --> 01:12:30,259
+Full of Africans.
+
+877
+01:12:30,636 --> 01:12:36,242
+And and they were paying them. But but I I can't imagine it was, like the kind of wage
+
+878
+01:12:36,956 --> 01:12:39,416
+They did give them top hats. Yeah.
+
+879
+01:12:40,316 --> 01:12:53,542
+And and, you know, the guy called called Him b. Which which is the sw word for master. So that was... you know, that was the common trope for Safari though. So anyway, this this village
+
+880
+01:12:53,920 --> 01:12:59,781
+says that he's heading to cape town to go shopping kind of loaded. Right? Because Cape town is South Africa
+
+881
+01:13:00,319 --> 01:13:08,393
+one of the only white controlled places in Africa and probably thousands of miles away. So the nephews user are free to go help Donald
+
+882
+01:13:08,864 --> 01:13:14,346
+they need to keep track of the moon because the witch doctor is gonna perform this
+
+883
+01:13:14,683 --> 01:13:16,511
+spell Al that its zenith
+
+884
+01:13:16,930 --> 01:13:22,785
+this is where I learned the word zenith. So I thought that was cool. They run all the way back to sc,
+
+885
+01:13:23,524 --> 01:13:31,746
+but they discovered that there's no one available to help because a note says the whole crew has gone to a movie in Lamb jam. And they've left everything
+
+886
+01:13:32,164 --> 01:13:48,120
+thoroughly padlock lots. They can't find any good weapons here at all. They do like their rhyme scheme. Don't they. Yeah. Sparks will use a lot of these Rhyme skiing. There it's sticky. Right? It's memorable. It's funny. I'm I'm I'm there for it.
+
+887
+01:13:48,858 --> 01:13:54,476
+Definitely. I'm not sure about W jumbo though because or w jam or whatever.
+
+888
+01:13:54,893 --> 01:13:57,762
+Jumbo was a is a sw healing greeting. Yes.
+
+889
+01:13:58,535 --> 01:14:11,717
+And so he's taking these words. I mean, it's not just like random syllables. He's... I'm off a good rhyme, but... Right. And and to be completely fair he'll do this in in every language,
+
+890
+01:14:12,336 --> 01:14:13,915
+including European ones,
+
+891
+01:14:14,733 --> 01:14:17,966
+but it definitely comes off with that like, African ease
+
+892
+01:14:18,266 --> 01:14:18,766
+connotation.
+
+893
+01:14:19,266 --> 01:14:26,066
+So on the next page, you know, out of frustration, they kick one of the slabs of rubber that's lying around the plantation.
+
+894
+01:14:26,521 --> 01:14:30,901
+And it just bounces all over the place upsets the pile of them,
+
+895
+01:14:31,641 --> 01:14:40,485
+and they know that they bounce like their crazy and now they have this moment of realization that, you know, maybe they they have some kind of tool that they can use.
+
+896
+01:14:40,964 --> 01:14:44,636
+They each haul a slab of rubber and head back into the bush.
+
+897
+01:14:45,330 --> 01:14:46,030
+And we
+
+898
+01:14:46,449 --> 01:14:51,623
+transitioned to Donald back in the village. He is in a bull pen
+
+899
+01:14:52,002 --> 01:14:55,516
+awaiting his fate, and he's just kinda stew in his own misery.
+
+900
+01:14:56,496 --> 01:15:00,356
+Cursing himself for bragging about Scrooge being his uncle.
+
+901
+01:15:01,071 --> 01:15:02,648
+And waiting to be...
+
+902
+01:15:03,585 --> 01:15:06,840
+I I do like his his little in invitation,
+
+903
+01:15:07,338 --> 01:15:10,252
+then I'll be shrunk to a size to fit my brain.
+
+904
+01:15:12,142 --> 01:15:13,880
+Yeah. I did like how
+
+905
+01:15:14,657 --> 01:15:21,560
+the kids... I just... you know, I love kindness. I love cooperation. I love these kids and how they're all,
+
+906
+01:15:21,979 --> 01:15:31,258
+hey, you know, at the same time. Yeah. They get the same idea. They barely have to communicate it. And they're on the same page and they're like, yeah. Let's go with it.
+
+907
+01:15:31,776 --> 01:15:37,311
+That's a good point. Right? The kids always have a lot of, like, empathy with each other throughout this
+
+908
+01:15:37,770 --> 01:15:40,588
+story. It's kinda one of the bright spots in. Yeah.
+
+909
+01:15:41,087 --> 01:15:46,601
+And, you know... On the next page, Donald is just feeling ever more sorry for himself.
+
+910
+01:15:48,096 --> 01:15:54,356
+At one point he starts crying out loud. Daisy won't love me anymore and he starts to sa
+
+911
+01:15:54,670 --> 01:16:02,294
+which is very sad. Right? Like, when when the fact that he thinks that because he's shrunk, he's not gonna merit being loved.
+
+912
+01:16:03,093 --> 01:16:08,182
+Alright. So So which doctor poke his head through an opening, and he says,
+
+913
+01:16:09,021 --> 01:16:16,568
+now are you sorry or rich uncle drove us from our Voodoo lands? And Donald just says, no. And if it's
+
+914
+01:16:17,067 --> 01:16:24,487
+going to be any comfort to you to know it, I'm gonna punch your fat nose. Just a terrible exchange. Two people being terrible
+
+915
+01:16:24,824 --> 01:16:31,881
+to each other. I mean, the the witch doctor has been, like, incredibly wrong. Right? Like, their lands were stolen.
+
+916
+01:16:32,421 --> 01:16:34,201
+Right. And and there's not...
+
+917
+01:16:34,541 --> 01:16:36,521
+He's he's no awful.
+
+918
+01:16:36,981 --> 01:16:38,776
+And he's been wrong. It's just
+
+919
+01:16:39,355 --> 01:16:48,497
+it's not a sympathetic depiction at all. It's yes he's he's like the kill mon of this story. Right? Like, He's not wrong.
+
+920
+01:16:50,030 --> 01:16:51,646
+Right. But his methods
+
+921
+01:16:52,142 --> 01:16:53,160
+are questionable.
+
+922
+01:16:53,855 --> 01:16:54,772
+Yeah. Yes.
+
+923
+01:16:55,265 --> 01:16:59,198
+You know, you you... No we we all have to think about how we benefited
+
+924
+01:16:59,696 --> 01:17:06,321
+from the wrong our ancestors did. But in this case, don't really hasn't it benefited
+
+925
+01:17:06,701 --> 01:17:09,361
+because Uncle fur is such a to him.
+
+926
+01:17:10,661 --> 01:17:14,934
+Yeah. He he dies so it certainly grease his wheels
+
+927
+01:17:15,393 --> 01:17:31,765
+sometimes. And he... And he has benefited in this story in his pride. Right? It's since a pride. But other than that, no. So anyway... Yeah. Like, they should be on the same team. Like, they should just be buddies and be like, you know what? Let's team up and take some of those quad.
+
+928
+01:17:32,583 --> 01:17:40,050
+And there was that moment when they first encountered each other where the which doctor was, like, not going to, like, mindless
+
+929
+01:17:40,429 --> 01:17:45,843
+attack him if he wasn't a threat. Right? Like, he was like, oh, you're just someone who's...
+
+930
+01:17:46,622 --> 01:17:47,376
+My my
+
+931
+01:17:47,874 --> 01:17:59,072
+my read of is that he was gonna see what he could sc and let him go, free. So so he was sympathetic up until the point. Where he was going to raise gonna do this.
+
+932
+01:17:59,610 --> 01:18:05,432
+Mh. So the nephews arrive and they get set up with their rubber slabs.
+
+933
+01:18:06,165 --> 01:18:08,504
+And, you know, this is a very tense
+
+934
+01:18:08,962 --> 01:18:14,636
+scene where the timing is everything, and and this is pretty cool. I think this is a neat part of the story.
+
+935
+01:18:15,290 --> 01:18:15,790
+Where
+
+936
+01:18:16,127 --> 01:18:21,374
+the which doctor waiting for the moon to reach its zenith before he forces Donald
+
+937
+01:18:21,712 --> 01:18:22,186
+to
+
+938
+01:18:22,646 --> 01:18:27,226
+squeeze the new doll. The nephews setting up in a tree outside the stock,
+
+939
+01:18:27,686 --> 01:18:38,241
+they tie themselves to the rubber slab as the witch Ducktales counting down on the clock, they start to bounce into the pal aid and right at the moment.
+
+940
+01:18:38,736 --> 01:18:42,072
+Where he's supposed to conduct the new curse,
+
+941
+01:18:42,410 --> 01:18:44,948
+they snatched donald and bounce
+
+942
+01:18:45,406 --> 01:18:45,906
+away
+
+943
+01:18:46,220 --> 01:18:47,438
+to safety. Mh.
+
+944
+01:18:47,975 --> 01:18:48,475
+And
+
+945
+01:18:49,172 --> 01:18:52,983
+on the next page, they continue to bounce out the the villagers
+
+946
+01:18:54,136 --> 01:19:02,536
+set off after them. And, you know, they're they're definitely not out of danger. They have to spur away, but they take the rubber slabs in case they're useful.
+
+947
+01:19:03,668 --> 01:19:11,267
+Donald leads them up to a steep path that the villagers will have to come single file. And so they're in pretty big trouble. Because they're
+
+948
+01:19:11,724 --> 01:19:15,429
+they're armed with those beers. But just then, they
+
+949
+01:19:15,806 --> 01:19:19,218
+they see that the that bomb has tracked them down.
+
+950
+01:19:19,635 --> 01:19:20,135
+And
+
+951
+01:19:20,472 --> 01:19:22,541
+Donald very excited to see him
+
+952
+01:19:23,001 --> 01:19:25,621
+he starts to tie bomb
+
+953
+01:19:25,961 --> 01:19:36,028
+feet to the rubber slabs saying that he's doing something smart for a change, and it's about time. And so on the next page, you know, Bam
+
+954
+01:19:36,366 --> 01:19:38,701
+comes in handy here,
+
+955
+01:19:39,279 --> 01:19:40,351
+he's going to be
+
+956
+01:19:41,091 --> 01:19:45,391
+exploited by the ducks. Right? They're using him as a literal weapon.
+
+957
+01:19:45,731 --> 01:19:47,366
+They push him off the cliff
+
+958
+01:19:48,465 --> 01:19:49,164
+the nephews
+
+959
+01:19:49,583 --> 01:19:53,558
+at least have the good grace to look worried for Zombie for Bam,
+
+960
+01:19:53,977 --> 01:19:54,477
+but
+
+961
+01:19:55,311 --> 01:19:59,006
+he he bounces down the the hillside
+
+962
+01:19:59,704 --> 01:20:00,204
+stomp
+
+963
+01:20:00,583 --> 01:20:01,523
+on the villagers.
+
+964
+01:20:02,596 --> 01:20:07,956
+And Donald comments, that does it. If Bam keeps on bouncing he'll flatten the whole tribe.
+
+965
+01:20:08,636 --> 01:20:09,456
+He celebrates
+
+966
+01:20:10,451 --> 01:20:12,549
+that he is saved from the Who.
+
+967
+01:20:13,247 --> 01:20:17,582
+They can go home and spend the rest of bombay money and Nephews.
+
+968
+01:20:18,775 --> 01:20:22,485
+Do you want you wanna to close this out and talk about the Nephews and Mcdonald's reflection?
+
+969
+01:20:23,163 --> 01:20:24,001
+No go ahead.
+
+970
+01:20:25,158 --> 01:20:26,057
+The the nephews
+
+971
+01:20:26,571 --> 01:20:29,071
+you know, they... They... They're a little bit wi
+
+972
+01:20:29,531 --> 01:20:31,071
+saying poor old, bomb.
+
+973
+01:20:31,411 --> 01:20:35,111
+But one of them says, you know, don't worry about him. He doesn't feel anything.
+
+974
+01:20:35,746 --> 01:20:42,919
+And even if he bounces for a month, he'll still be okay. You know, and they kind of echo the professors words.
+
+975
+01:20:43,418 --> 01:20:48,251
+Yeah. Zombies don't get hungry or thirsty are tired, they really have something
+
+976
+01:20:48,591 --> 01:20:53,471
+Donald just comments, they can take it. They can have it. I'll take Vanilla.
+
+977
+01:20:53,966 --> 01:20:55,226
+And, you know, it's this
+
+978
+01:20:55,606 --> 01:20:56,106
+tonal
+
+979
+01:20:57,126 --> 01:21:08,661
+conclusion that that says, you know, we're not gonna worry about Bam anymore. We're gonna gonna take his money and go home. Yeah and it's just... I didn't realize that was the end.
+
+980
+01:21:09,501 --> 01:21:13,476
+Right. I was I was like, oh wait. What? Well what just happened?
+
+981
+01:21:14,196 --> 01:21:17,856
+Yeah. It because it it is a it's a very abrupt ending.
+
+982
+01:21:18,316 --> 01:21:26,112
+Right? I I think, you know, Barks was at thirty two pages, and I don't think he ever he... There's only one time he gets to go longer than that.
+
+983
+01:21:27,364 --> 01:21:46,206
+So I think he may have kind of run out of story. But we've we've got the central conflict resolved. The only thing that is kinda left. I don't I don't know about you, but right, they say that if you introduce a gun in Act one, it's gonna be fired by act three. You know, we kinda get teased with the idea that
+
+984
+01:21:46,626 --> 01:21:48,325
+zombies wake up someday day
+
+985
+01:21:49,026 --> 01:21:49,541
+and that
+
+986
+01:21:50,201 --> 01:22:00,550
+her poll, Barks doesn't ever pull the trigger on it. He does reference that it could be hundreds of years in the future and they talk about his tu looking like it went through the sack of Rome
+
+987
+01:22:00,888 --> 01:22:01,388
+sack.
+
+988
+01:22:01,806 --> 01:22:03,783
+So we we know that his time
+
+989
+01:22:04,441 --> 01:22:06,436
+time frame is very long.
+
+990
+01:22:07,210 --> 01:22:07,710
+But
+
+991
+01:22:08,447 --> 01:22:15,385
+obviously, he was not interested in in bomb waking up or in Bam as a character. Bam is
+
+992
+01:22:16,204 --> 01:22:31,852
+And I don't wanna forget to say, I really like Bam in this story. You know? He's very... He's obviously a problematic character tremendously problematic. But he's also very sympathetic. Right? And and and he does kinda have this like, soul full
+
+993
+01:22:33,959 --> 01:22:38,009
+expression that to makes him very sympathetic. I don't know about you.
+
+994
+01:22:38,864 --> 01:22:44,528
+Yeah. Considered that he's basically just an odd checked for most of the
+
+995
+01:22:44,907 --> 01:22:50,541
+the comic and they just take advantage of him everybody takes advantage of him, the, you know,
+
+996
+01:22:51,274 --> 01:22:58,512
+Yeah Al z takes advantage of him. The kids take advantage of his money. They don't even let him keep it. Let's go home and spend
+
+997
+01:22:58,889 --> 01:22:59,947
+bobby's money
+
+998
+01:23:00,299 --> 01:23:04,547
+but he's just so... He's just so down for whatever.
+
+999
+01:23:04,924 --> 01:23:05,282
+Yeah.
+
+1000
+01:23:06,438 --> 01:23:13,694
+Okay. I do love the, like j position of him just kind of standing there passively
+
+1001
+01:23:14,310 --> 01:23:20,168
+while he's bouncing on this rubber slab. You know, I imagine a real person would would be terrified
+
+1002
+01:23:20,545 --> 01:23:22,737
+eyes open wide bracing themselves,
+
+1003
+01:23:23,216 --> 01:23:30,066
+It's a very comic climate. Tried him bouncing these people, at least if you don't think about some of the deeper...
+
+1004
+01:23:31,239 --> 01:23:34,584
+You don't think of fact that he doesn't have agency
+
+1005
+01:23:34,961 --> 01:24:03,629
+and he's being taken advantage of. Right. And he's being weaponized, like, like an object like you say, Right. And then and that just kind of makes you think about even now. Right. Like, you were saying earlier, like there a certain kind of humor that appealed to you as a child because you didn't know any better. But now you do and so you... Cringe at it, but there's still... We still have these bits of ourselves that are like, oh, look at this funny
+
+1006
+01:24:03,967 --> 01:24:04,467
+exploited
+
+1007
+01:24:04,819 --> 01:24:06,475
+black man with no agency.
+
+1008
+01:24:07,808 --> 01:24:12,751
+And we can still find humor in that. Right. Instead of just be totally cringey.
+
+1009
+01:24:13,325 --> 01:24:18,865
+Cringey about it. Like, we have so far to go. So I mean, I I consider...
+
+1010
+01:24:19,205 --> 01:24:31,910
+When I read stories like this, I can't help but reflect on that. Right? Because I'm I'm not gonna deny. I you're absolutely right. You know, enjoying some of the humor and it means that we do have far to go. But I also
+
+1011
+01:24:32,406 --> 01:24:37,169
+feel like I can't I can't lie. Right? I'm steep in this culture.
+
+1012
+01:24:38,399 --> 01:24:41,456
+In this culture that has had this kind of storytelling
+
+1013
+01:24:42,154 --> 01:24:43,153
+for so long.
+
+1014
+01:24:43,792 --> 01:24:52,485
+And the the challenge with this story is that it is built on this foundation of these, you know, cultural
+
+1015
+01:24:52,822 --> 01:25:04,761
+ideas that that Barks screw up in Right? I'm not sing him out. This was out pretty much everyone at the time with with some exceptions, but it is built on this foundation that is deeply racist.
+
+1016
+01:25:05,295 --> 01:25:06,473
+And problematic
+
+1017
+01:25:07,011 --> 01:25:09,906
+about these cultures and these religions.
+
+1018
+01:25:10,364 --> 01:25:14,057
+And yet, this one has some very good artist
+
+1019
+01:25:14,650 --> 01:25:15,909
+and some funny
+
+1020
+01:25:16,488 --> 01:25:16,988
+clever
+
+1021
+01:25:17,326 --> 01:25:18,506
+creative storytelling.
+
+1022
+01:25:19,044 --> 01:25:22,021
+And and I grew up with it. And it's hard to
+
+1023
+01:25:22,575 --> 01:25:28,335
+It's hard to Huey,, like, divorce yourself from that. So this one has been causing me a lot of an.
+
+1024
+01:25:29,055 --> 01:25:39,160
+Right? Because I don't like, how much of this story do I have to, like, throw away? How much have I grown up? And and it stresses me out a little bit to be
+
+1025
+01:25:40,032 --> 01:25:45,358
+reading stories like this and releasing this podcast that has a a listeners
+
+1026
+01:25:45,735 --> 01:25:49,159
+that that does tend to be older and many many people are
+
+1027
+01:25:49,937 --> 01:25:52,151
+have probably read this as kids
+
+1028
+01:25:52,768 --> 01:25:54,065
+from maybe
+
+1029
+01:25:54,403 --> 01:25:58,252
+decades further back than I did. Right? And I know for a lot of people
+
+1030
+01:25:58,645 --> 01:26:10,389
+I heard from people after Volcano Valley that you know, they didn't really see anything problematic about it. And that's their that's their take on it, and that's fine, but I can't
+
+1031
+01:26:10,927 --> 01:26:16,911
+read it without seeing it. And so I wanna strike the balance of of kind of appreciating
+
+1032
+01:26:17,250 --> 01:26:21,666
+the artist of these stories, but I'm not going to ignore
+
+1033
+01:26:22,085 --> 01:26:26,239
+especially this one. You know, this this story is deeply
+
+1034
+01:26:26,739 --> 01:26:27,239
+and
+
+1035
+01:26:27,860 --> 01:26:28,360
+profoundly
+
+1036
+01:26:28,820 --> 01:26:29,320
+offensive.
+
+1037
+01:26:30,672 --> 01:26:38,847
+Yeah. It it is. There there are still aspects of it that I quote enjoy. But is literally
+
+1038
+01:26:39,385 --> 01:26:44,434
+impossible for me to read it and enjoy the story as a whole because
+
+1039
+01:26:45,211 --> 01:26:45,871
+it is
+
+1040
+01:26:46,781 --> 01:26:48,876
+You know, this one has had the most censoring.
+
+1041
+01:26:49,332 --> 01:26:51,126
+I think of any of his stories.
+
+1042
+01:26:51,724 --> 01:27:01,851
+Really. And then there's a reason for it. And again, These were these were common storytelling devices at the time. It's just that Barks has such a huge
+
+1043
+01:27:02,324 --> 01:27:10,697
+such a massive collection of well regarded works that we don't always get to compare his stories to
+
+1044
+01:27:11,075 --> 01:27:11,575
+anonymous
+
+1045
+01:27:12,209 --> 01:27:15,941
+marvel comics writer of the Avengers number
+
+1046
+01:27:16,359 --> 01:27:19,134
+thirty one or whatever that probably had
+
+1047
+01:27:19,512 --> 01:27:20,012
+similarly
+
+1048
+01:27:20,844 --> 01:27:24,544
+challenging content. It's just that not every work
+
+1049
+01:27:24,884 --> 01:27:51,544
+kind of stands up as something to look back And I think that Barks work, I think that his stories do stand up at least in terms of their artist street and and most of the stories fortunately don't have this kind of grounding. Right? But impossible not not to talk about the problems with this one. So... Right. Thank you. I know I've been kind of kind of rambling about this one, but
+
+1050
+01:27:52,163 --> 01:27:59,255
+I I really need to process this story, you know, and I I... I'm really coming down on the fact that you can't
+
+1051
+01:27:59,809 --> 01:28:00,309
+responsibly
+
+1052
+01:28:00,849 --> 01:28:01,989
+enjoy this one
+
+1053
+01:28:02,289 --> 01:28:08,320
+without that asterisk risk and that sort of This is entertaining
+
+1054
+01:28:09,056 --> 01:28:09,556
+but...
+
+1055
+01:28:10,412 --> 01:28:10,731
+Right.
+
+1056
+01:28:11,250 --> 01:28:14,360
+Now you're talking about how Barks
+
+1057
+01:28:14,878 --> 01:28:16,176
+grew up in this
+
+1058
+01:28:17,009 --> 01:28:18,949
+atmosphere where this would be funny,
+
+1059
+01:28:19,249 --> 01:28:20,269
+and he
+
+1060
+01:28:20,689 --> 01:28:22,309
+wrote in his adulthood
+
+1061
+01:28:23,089 --> 01:28:28,673
+stuff based on this type of humor for kids of that era of the next generation
+
+1062
+01:28:29,211 --> 01:28:30,309
+to be
+
+1063
+01:28:31,007 --> 01:28:32,026
+entertained by
+
+1064
+01:28:32,339 --> 01:28:34,356
+and given the reprint
+
+1065
+01:28:34,814 --> 01:28:35,314
+throughout
+
+1066
+01:28:35,732 --> 01:28:37,469
+the twentieth century,
+
+1067
+01:28:37,927 --> 01:28:38,787
+it even
+
+1068
+01:28:39,485 --> 01:28:43,195
+became part of the fabric of your childhood.
+
+1069
+01:28:43,574 --> 01:28:53,320
+Have you have children of your own? Yes. And I do you see stuff like this that that perpetuate or builds upon or even is
+
+1070
+01:28:53,817 --> 01:28:54,914
+still in
+
+1071
+01:28:55,291 --> 01:28:57,904
+circulation from earlier times
+
+1072
+01:28:58,241 --> 01:29:13,085
+when this stuff was acceptable and funny. That's that's a pretty deep profound question. I I know. Sorry. No. That's that's a great question. Right? Because I think that a lot of the culture that we
+
+1073
+01:29:13,542 --> 01:29:14,042
+ingest
+
+1074
+01:29:14,539 --> 01:29:24,885
+today is made by people when you're when you're kid, you're enjoying culture those made by adults. Right? Even if it like... Even if it's a kid show, it's written by adults.
+
+1075
+01:29:25,185 --> 01:29:27,085
+So like, I think about the simpsons
+
+1076
+01:29:27,599 --> 01:29:31,808
+which I loved growing up and read as watched as a teenager
+
+1077
+01:29:32,584 --> 01:29:36,434
+right around the same time I was reading these. Right? That was written
+
+1078
+01:29:36,771 --> 01:29:46,530
+by thirty year olds who grew up with a lot of these, like, old sitcom ideas. Right? So even if the people that are
+
+1079
+01:29:46,909 --> 01:29:48,766
+still producing this content
+
+1080
+01:29:49,144 --> 01:29:50,761
+are not directly
+
+1081
+01:29:51,618 --> 01:29:52,118
+creating
+
+1082
+01:29:52,457 --> 01:29:54,133
+content that's like this.
+
+1083
+01:29:54,692 --> 01:29:56,564
+That's the kind of world
+
+1084
+01:29:56,983 --> 01:30:09,039
+that they've they've steep in. Right? And so hopefully, you move on and hopefully, you advance but at some point you have to, like, make a decision I think internally
+
+1085
+01:30:09,377 --> 01:30:12,644
+right? To do better and to recognize
+
+1086
+01:30:13,024 --> 01:30:16,564
+that some of the stuff you consumed in your childhood
+
+1087
+01:30:17,224 --> 01:30:17,724
+was
+
+1088
+01:30:18,104 --> 01:30:25,179
+rotten. Right? It had a rotten and core. And and this story, i I will acknowledge that I think it has some good artist,
+
+1089
+01:30:26,319 --> 01:30:27,699
+some great illustration
+
+1090
+01:30:28,134 --> 01:30:29,154
+some great dialogue,
+
+1091
+01:30:29,534 --> 01:30:31,074
+and some clever storytelling,
+
+1092
+01:30:31,454 --> 01:30:35,034
+but it is rotten at its core. Right? It it's
+
+1093
+01:30:35,414 --> 01:30:35,894
+foundation.
+
+1094
+01:30:36,308 --> 01:30:44,141
+Is built on a culture that that had these very that that had these diaz. And and I think this is
+
+1095
+01:30:44,694 --> 01:30:45,194
+rat
+
+1096
+01:30:45,774 --> 01:30:46,774
+way to, like,
+
+1097
+01:30:47,734 --> 01:31:01,212
+understand what the culture was like at this time. Right? This is a kids story. So that that would be my answer. Right? The stories that the stories that you and I are reading and watching today are generally better. And they're generally more mindful,
+
+1098
+01:31:01,711 --> 01:31:11,859
+but they're made by content creators that may have grown up with stuff like this. Does that make sense? Mh. So that... That's my thought. Are your kids into, like, Stephen
+
+1099
+01:31:12,159 --> 01:31:13,379
+universe and Shi
+
+1100
+01:31:13,679 --> 01:31:17,194
+and all of those that have been hailed as just
+
+1101
+01:31:18,212 --> 01:31:18,712
+fantastically
+
+1102
+01:31:19,171 --> 01:31:19,671
+progressive.
+
+1103
+01:31:20,090 --> 01:31:20,590
+Yeah.
+
+1104
+01:31:21,248 --> 01:31:27,913
+You know, especially my oldest, my oldest is very like, socially conscious and very
+
+1105
+01:31:28,291 --> 01:31:28,791
+actively
+
+1106
+01:31:29,329 --> 01:31:30,548
+geared towards
+
+1107
+01:31:30,886 --> 01:31:40,553
+equality, leaving the world better. Right? And and that's something that is coming easier to the next generation. I think. That's something where, like, I have to actively
+
+1108
+01:31:41,093 --> 01:31:47,882
+try to open my mind to it. But that's the kind of media that that he wants to consume my oldest.
+
+1109
+01:31:48,261 --> 01:31:55,953
+And my middle really enjoys it too. Like, similar stories. But I don't think is quite as like naturally in inclined to them.
+
+1110
+01:31:56,753 --> 01:31:59,614
+You know, I I enjoy I've read stories
+
+1111
+01:32:00,327 --> 01:32:07,490
+to both of those kids. Haven't read this one to either of them. It would be so much work try to
+
+1112
+01:32:08,042 --> 01:32:21,414
+realize this one. And I've read some of them that do have some some of the challenging content because I'm always happy to contextualize that. I think it's a great opportunity. This one is just it is too much
+
+1113
+01:32:21,753 --> 01:32:29,971
+work. You could teach a college class on this. Story. Mh. Oh, yeah. When I was doing the the reading for
+
+1114
+01:32:30,308 --> 01:32:35,395
+who do was versus what Voodoo was, it it that it was just
+
+1115
+01:32:35,707 --> 01:32:45,361
+so much just just for the context for the title. Right. As I've kind of said with every episode you've invited me to be on. It's a fascinating
+
+1116
+01:32:45,818 --> 01:32:46,318
+ant
+
+1117
+01:32:47,054 --> 01:32:50,762
+study of what was going on in that time period.
+
+1118
+01:32:51,281 --> 01:32:56,028
+Yeah. Because I think the things that we expect kids to consume
+
+1119
+01:32:56,488 --> 01:33:02,628
+And and Barks didn't talk down the way a lot of creators did. But it's a a really interesting
+
+1120
+01:33:03,128 --> 01:33:03,628
+reflection
+
+1121
+01:33:04,102 --> 01:33:09,997
+on society. And this there's just so much about the history and the legacy of colonialism
+
+1122
+01:33:10,416 --> 01:33:11,156
+and racism
+
+1123
+01:33:11,974 --> 01:33:13,407
+in this one that
+
+1124
+01:33:13,787 --> 01:33:17,403
+I think it's it's well worth reading because it's it's fascinating.
+
+1125
+01:33:18,062 --> 01:33:21,319
+But... The rubber stuff that we didn't even have time to go into.
+
+1126
+01:33:21,832 --> 01:33:22,770
+I know I've...
+
+1127
+01:33:23,345 --> 01:33:25,280
+Anyway, I mean we're gonna talk about...
+
+1128
+01:33:25,895 --> 01:33:34,232
+We gotta go into that general consensus. Right? Like, I told you at the outset, this one is still pretty well regarded. If you check on in du,
+
+1129
+01:33:34,651 --> 01:33:37,843
+this one gets a seven point nine out of ten
+
+1130
+01:33:38,221 --> 01:33:45,375
+which as of today is good for number forty nine out of all, you know, forty roughly forty one thousand
+
+1131
+01:33:45,807 --> 01:33:46,905
+Disney comments.
+
+1132
+01:33:47,242 --> 01:33:55,378
+And and if you just pulled out all of the non Barks stories, I didn't count them, but I'm guessing that would place it in, like, the the low twenty.
+
+1133
+01:33:56,390 --> 01:34:03,514
+Right? Like so this is in the upper tier as far as the opinion of fans. That's it's very highly
+
+1134
+01:34:04,067 --> 01:34:06,407
+rated. I've I've talked extensively
+
+1135
+01:34:06,747 --> 01:34:10,127
+already about my feelings. There's some fascinating
+
+1136
+01:34:10,467 --> 01:34:10,967
+storytelling
+
+1137
+01:34:11,801 --> 01:34:18,717
+there's some truly great dialogue in this one. There's a lot of art it's par Barks. So there's some really
+
+1138
+01:34:19,054 --> 01:34:19,554
+great
+
+1139
+01:34:20,026 --> 01:34:22,240
+drawings in this one. But ultimately,
+
+1140
+01:34:22,776 --> 01:34:23,573
+it it's...
+
+1141
+01:34:24,291 --> 01:34:26,364
+This well is just too poisoned.
+
+1142
+01:34:26,762 --> 01:34:34,266
+Right? For for me, to do anything but read it with this... The the yikes Yeah doctor. Right? And
+
+1143
+01:34:34,725 --> 01:34:36,904
+possible to read it without a dis
+
+1144
+01:34:37,322 --> 01:34:37,717
+voice
+
+1145
+01:34:38,255 --> 01:34:39,989
+yelling yikes every
+
+1146
+01:34:40,366 --> 01:34:41,760
+every few panels.
+
+1147
+01:34:43,075 --> 01:34:51,996
+There there is a lit graph and oil painting. He did do an oil painting version of this one that that represents the cover. It's a pretty cool painting. And
+
+1148
+01:34:52,627 --> 01:34:57,476
+do like to mention if Ducktales ever adapted if what do you think? I feel like it's
+
+1149
+01:34:57,815 --> 01:35:01,029
+very cinematic. And and full of adventure
+
+1150
+01:35:01,501 --> 01:35:02,839
+I would guess, yes.
+
+1151
+01:35:03,177 --> 01:35:08,744
+Right. They never did. The very first series run, the original one. And when I
+
+1152
+01:35:09,257 --> 01:35:18,492
+started watching the second one. I got a little bit behind and, you know, Eric hart who's one of the other hosts. He and I were talking at one point about
+
+1153
+01:35:18,911 --> 01:35:20,148
+the new Ducktales.
+
+1154
+01:35:20,188 --> 01:35:36,430
+And he said, you know what, In season two, will you told me? They do a take on Bomb zombie. Not voodoo. Okay. Right. Okay. And I I told him, I I couldn't believe. Eric said, no, you know what, They actually handled it pretty well. And I was super skeptical.
+
+1155
+01:35:36,809 --> 01:35:40,185
+But they they did. What they did is they actually
+
+1156
+01:35:40,884 --> 01:35:42,063
+completely removed
+
+1157
+01:35:42,535 --> 01:35:46,941
+the voodoo element of this and the curse they they left in,
+
+1158
+01:35:47,318 --> 01:35:50,169
+they essentially re con into a mysterious
+
+1159
+01:35:50,601 --> 01:35:58,319
+curse where the richest person in the world at any given time is followed by this force
+
+1160
+01:35:58,696 --> 01:36:00,052
+called the bomb.
+
+1161
+01:36:00,426 --> 01:36:01,764
+And it's not a zombie.
+
+1162
+01:36:02,502 --> 01:36:04,079
+It's just this kind of monstrous
+
+1163
+01:36:04,816 --> 01:36:08,908
+force. And I don't know that they needed to have even bothered
+
+1164
+01:36:09,421 --> 01:36:20,027
+I think it's adaptable. Right. But that is how they chose to do it. And and absent the fact that it was called the Bomb, it really had nothing to do with this story.
+
+1165
+01:36:20,327 --> 01:36:27,602
+So, you know, that's alright. I don't know that there was Al really a need to preserve the name Bam, but they took on the challenge
+
+1166
+01:36:28,341 --> 01:36:45,247
+any any panels that you are willing to admit Al being a favorite panel or one that you liked? I guess when you say panel, I think about artists street. So it's mostly the artist street, but it can also be about the storytelling or really whatever kind strikes your fancy.
+
+1167
+01:36:46,241 --> 01:36:48,978
+You know, I feel like the Karen ladies.
+
+1168
+01:36:50,435 --> 01:36:53,272
+They're hilarious to me. Yeah. French.
+
+1169
+01:36:54,164 --> 01:36:56,635
+Gossip ladies just contextual julie.
+
+1170
+01:36:57,233 --> 01:37:00,245
+Yeah. And and it's got some very notable character
+
+1171
+01:37:00,701 --> 01:37:07,812
+design. I really like the panel where Donald wakes up with the Bam at the foot of the bed and is just screeching.
+
+1172
+01:37:08,152 --> 01:37:12,866
+That was cool. And then I liked the one where the citizens are running in fear. Mh.
+
+1173
+01:37:13,487 --> 01:37:21,558
+We've had a ton to say about this one. You know, I thought that I thought that one of my favorite stories is the one we did last
+
+1174
+01:37:22,017 --> 01:37:26,726
+episode lost in the Andes, and I just indulged myself and talked
+
+1175
+01:37:27,226 --> 01:37:40,487
+at length about it. And I thought that would be our longest steps episode, but this one is on track to be our longest, and I I don't know. We've had some really great conversations I don't know that I wanna edit too much of it out. Any any closing thoughts sarah?
+
+1176
+01:37:41,385 --> 01:37:41,885
+Nope.
+
+1177
+01:37:42,344 --> 01:37:46,177
+So if if any listeners wanna wanna yell at me for,
+
+1178
+01:37:46,516 --> 01:37:46,717
+you know,
+
+1179
+01:37:47,476 --> 01:37:52,296
+be smart the the good name of Voodoo Hut if this is your favorite.
+
+1180
+01:37:53,116 --> 01:37:54,936
+You might wanna look in the mirror, but
+
+1181
+01:37:55,690 --> 01:37:56,709
+you can
+
+1182
+01:37:57,685 --> 01:37:59,542
+get in touch with us on Facebook
+
+1183
+01:38:00,039 --> 01:38:00,539
+or
+
+1184
+01:38:01,117 --> 01:38:03,152
+box remarks at gmail dot com.
+
+1185
+01:38:03,766 --> 01:38:08,926
+If if I haven't upset you too much, hopefully, you will stick around for next episode.
+
+1186
+01:38:10,086 --> 01:38:12,841
+I'm gonna have a lot of fun talking about a much
+
+1187
+01:38:13,301 --> 01:38:15,479
+light more light lighthearted story,
+
+1188
+01:38:15,818 --> 01:38:17,197
+letter to santa,
+
+1189
+01:38:17,656 --> 01:38:25,206
+and I I managed to talk my my own wife and joining me for that one. So I am so excited
+
+1190
+01:38:25,706 --> 01:38:28,266
+to bring Sue into the conversation.
+
+1191
+01:38:28,680 --> 01:38:30,618
+Thank you very much.
+
+1192
+01:38:31,237 --> 01:38:36,132
+Sarah. Thank you for having me. I always appreciate our conversations.
+
+1193
+01:38:36,725 --> 01:38:37,225
+Excellent.
+
+1194
+01:38:37,725 --> 01:38:38,906
+That's it. Perfect.
+

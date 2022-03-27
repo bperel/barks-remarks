@@ -1,0 +1,3764 @@
+1
+00:00:21,387 --> 00:00:48,605
+Hello, and welcome to Barks remarks. The podcast where we talk about the stories from the legendary Carl Barks creator of sc Med Ducktales and writer artist of the greatest Donald and sc comics of all time. Join us as we explore his longer adventure stories in their chronological publishing order. We'll talk about what makes them so enduring their historical context and how well they hold up today. So get out your reprint and get ready to enjoy our remarks.
+
+2
+00:00:49,244 --> 00:00:49,744
+Alright.
+
+3
+00:00:50,441 --> 00:00:51,939
+I am Mark Sever,
+
+4
+00:00:52,398 --> 00:00:56,310
+a grown man who likes to talk talk about Ducktales comics.
+
+5
+00:00:57,250 --> 00:01:01,110
+And I have with me today if you can introduce yourself,
+
+6
+00:01:01,984 --> 00:01:07,432
+I'm Ryan Bailey. I like Mark. And I largely I'm unfamiliar with duck comics.
+
+7
+00:01:08,328 --> 00:01:13,180
+Yeah. So you're gonna be filling the role, the new role this week.
+
+8
+00:01:13,940 --> 00:01:14,440
+And
+
+9
+00:01:15,260 --> 00:01:18,240
+we are going to be talking this week
+
+10
+00:01:18,740 --> 00:01:22,491
+about Donald Duck and the mum ring.
+
+11
+00:01:23,749 --> 00:01:25,048
+So my my background,
+
+12
+00:01:25,626 --> 00:01:26,566
+I am
+
+13
+00:01:27,159 --> 00:01:33,963
+a super fan of Carl Marx. I've been reading the stories since I was like, eight years old
+
+14
+00:01:34,780 --> 00:01:35,015
+have
+
+15
+00:01:35,595 --> 00:01:37,255
+pretty much every one of them.
+
+16
+00:01:37,675 --> 00:01:38,175
+And
+
+17
+00:01:39,355 --> 00:01:41,975
+got it in my head to do a podcast
+
+18
+00:01:42,289 --> 00:01:49,241
+to explore them in order because that's something I've never done. And again, I could talk and talk about them.
+
+19
+00:01:50,160 --> 00:01:56,497
+Growing up this is most of what I read. This is most what I was into, at least comic book wise.
+
+20
+00:01:57,153 --> 00:01:59,540
+Ryan, do you wanna tell me a little bit about
+
+21
+00:02:00,038 --> 00:02:03,013
+your background with Barks and comics in general?
+
+22
+00:02:03,950 --> 00:02:06,805
+I know almost nothing about Carl marx except for
+
+23
+00:02:07,303 --> 00:02:08,641
+kind of his role in
+
+24
+00:02:09,355 --> 00:02:10,455
+being in an early
+
+25
+00:02:11,035 --> 00:02:15,755
+creator of of this whole world here. I actually didn't read that many comics growing up.
+
+26
+00:02:16,515 --> 00:02:17,575
+It wasn't until
+
+27
+00:02:18,648 --> 00:02:21,060
+like the two thousand eight recession. I was
+
+28
+00:02:21,556 --> 00:02:24,008
+I was well into adulthood and
+
+29
+00:02:24,663 --> 00:02:31,114
+I had a lot of comics that I had gotten from a friend and I just started reading them at night, and I was like, oh, I really like this.
+
+30
+00:02:32,088 --> 00:02:32,588
+So
+
+31
+00:02:33,339 --> 00:02:40,191
+for the last few years I've had like a marvel and unlimited subscription and everything and I've actually keep track of i've read. I recently passed four thousand
+
+32
+00:02:40,944 --> 00:02:42,042
+issues of Marvel
+
+33
+00:02:42,739 --> 00:02:43,997
+in the last five years.
+
+34
+00:02:44,734 --> 00:02:46,671
+So I usually should read about a thousand
+
+35
+00:02:47,129 --> 00:02:49,919
+comics a year, but almost exclusively marvel,
+
+36
+00:02:50,378 --> 00:02:55,592
+not necessarily with the the quote, funny animal comics. Yes. Exactly.
+
+37
+00:02:58,342 --> 00:03:01,954
+And at least a couple of the dot comics, the
+
+38
+00:03:02,572 --> 00:03:07,357
+superhero ones are are lamp a little bit as super snoop. So
+
+39
+00:03:07,774 --> 00:03:09,512
+that's awesome. I I
+
+40
+00:03:09,850 --> 00:03:15,435
+am glad that you got a chance because, you know, you and I known each other for...
+
+41
+00:03:16,295 --> 00:03:24,610
+Since the beginning of high school, we've been friends for a long time. And I mean, you probably heard me talk about these a lot.
+
+42
+00:03:25,190 --> 00:03:27,090
+I don't remember if I lob you
+
+43
+00:03:27,430 --> 00:03:32,770
+to read them or give them a try. Do you remember if you ever gave them any any try?
+
+44
+00:03:33,604 --> 00:03:43,470
+I don't recall ever actually sitting down and and reading one. I'm sure there must have been some point probably in high school where where you, you know, thrust it into my lap, and was like, read this.
+
+45
+00:03:43,930 --> 00:03:47,370
+It's amazing and that I probably did. I was like, yeah. That's pretty good.
+
+46
+00:03:48,822 --> 00:03:59,906
+You know, for someone who's such a big fan, I've I've actually always been really reluctant to thrust or voice them on people because I think there's always a little bit of of embarrassment
+
+47
+00:04:02,082 --> 00:04:03,022
+misplaced, but
+
+48
+00:04:03,720 --> 00:04:08,875
+nonetheless, a little bit of embarrassment about about what they are. And, you know, growing up. It was definitely
+
+49
+00:04:09,735 --> 00:04:11,315
+cooler to be into the marvel
+
+50
+00:04:11,615 --> 00:04:26,967
+or other superhero comments. My I read some of those too, but these these were my first love. It's very exciting to me to kinda talk about them in the real world and to have this built in excuse to make the people that I know
+
+51
+00:04:27,424 --> 00:04:39,422
+give them a shot. I am gonna go over some of the details about this story. This one, again, as mentioned is called Donald duck and the mum ring, and this is
+
+52
+00:04:40,572 --> 00:04:43,505
+This was published in September of nineteen
+
+53
+00:04:43,883 --> 00:04:55,595
+forty three. This was originally published in four color and number twenty nine, it has been reprinted many many times. I I think most famously, though, it was
+
+54
+00:04:57,095 --> 00:05:02,395
+the cover art for the very well received carl Barks in color library,
+
+55
+00:05:03,055 --> 00:05:22,337
+The interesting thing about this story, you know, last episode, I had Eric on who you were were mutual friends, you know, him well, and we talked about the first Barks story, but that was kind of a Al, I think because Donald duck finds pirate gold is only partly a Carl Barks
+
+56
+00:05:23,136 --> 00:05:25,234
+story. It was based on a cartoon
+
+57
+00:05:25,572 --> 00:05:29,081
+script. It was not written by Barks was only partially
+
+58
+00:05:29,896 --> 00:05:32,389
+done by him. So this is really the first
+
+59
+00:05:32,766 --> 00:05:33,266
+opportunity
+
+60
+00:05:33,922 --> 00:05:43,622
+to get into a Carl Barks story that is a hundred percent his this was created entirely by him and so this
+
+61
+00:05:43,961 --> 00:05:46,074
+represents kind of an early look at his
+
+62
+00:05:46,412 --> 00:05:50,584
+his independent style what he would go on to do.
+
+63
+00:05:51,281 --> 00:06:02,815
+Before we get into the story and our thoughts, I'd would love to take them moment to kind of go back in time a bit and talk about what was going on. What what our historical context is
+
+64
+00:06:05,424 --> 00:06:20,512
+There's gonna be a few of these stories around this era that are you can escape the fact that were in the the height of world war two still, we've got I I checked on wikipedia. This is about when Jack these internment
+
+65
+00:06:21,368 --> 00:06:25,476
+really began in earnest. So there's a pretty sad for you.
+
+66
+00:06:26,313 --> 00:06:34,040
+On on a little bit of a lighter note, This was when Rod are waters of Pink floyd and Gloria gainer. We're both born.
+
+67
+00:06:34,600 --> 00:06:35,860
+So there's that.
+
+68
+00:06:36,400 --> 00:06:38,035
+And and then for the purposes
+
+69
+00:06:38,415 --> 00:06:39,715
+of our
+
+70
+00:06:40,055 --> 00:06:43,835
+podcast today. I think the interesting thing is that the United States
+
+71
+00:06:44,175 --> 00:06:46,995
+and a lot of the world were re reenter
+
+72
+00:06:47,830 --> 00:06:49,830
+one of their waves of Egypt.
+
+73
+00:06:51,310 --> 00:06:52,890
+Do do you know much about
+
+74
+00:06:53,790 --> 00:06:55,745
+about these cycles of egypt
+
+75
+00:06:56,165 --> 00:06:56,665
+Ryan?
+
+76
+00:06:58,365 --> 00:06:59,505
+No. I don't.
+
+77
+00:06:59,925 --> 00:07:01,025
+I I feel like
+
+78
+00:07:01,499 --> 00:07:12,905
+it's... I've seen it as more as an individual thing where little kids get really into Egypt for a while and they wanna learn more about ph and all that and I didn't realize whole culture did the same thing. Tell me more.
+
+79
+00:07:13,245 --> 00:07:14,345
+Yeah. Absolutely.
+
+80
+00:07:14,645 --> 00:07:18,385
+I i think the Us was one of those little kids
+
+81
+00:07:19,485 --> 00:07:25,914
+several times throughout our history rate. You know, when every time there was a big discovery, i,
+
+82
+00:07:26,533 --> 00:07:28,810
+you know, in in Egypt and some antiquity,
+
+83
+00:07:29,303 --> 00:07:34,469
+the country and a lot of the world went through these, like, fever ish
+
+84
+00:07:36,123 --> 00:07:36,623
+friends
+
+85
+00:07:37,000 --> 00:07:37,500
+where
+
+86
+00:07:38,276 --> 00:07:53,537
+egyptian call are both modern, but mostly ancient was very involved and it entered the pop culture and, you know, this was, of course, you had the the mummy, Boris karl offs, the mummy is the most famous one from this era.
+
+87
+00:07:53,955 --> 00:07:55,388
+That came out in nineteen
+
+88
+00:07:55,766 --> 00:07:56,905
+thirty two.
+
+89
+00:07:57,243 --> 00:08:04,664
+So it was... It was a decade old this point, but it it left a big mark on on pop culture.
+
+90
+00:08:05,561 --> 00:08:07,537
+But, yeah, Just egyptian war
+
+91
+00:08:08,473 --> 00:08:11,740
+is something that the Us kind of fell in love with
+
+92
+00:08:12,800 --> 00:08:14,060
+every couple of decades.
+
+93
+00:08:14,800 --> 00:08:16,660
+So that... That's kind of what this
+
+94
+00:08:17,000 --> 00:08:22,911
+came out of. I wanna take some time during each so to talk about if there any notable appearances
+
+95
+00:08:23,530 --> 00:08:24,030
+character
+
+96
+00:08:24,489 --> 00:08:25,368
+in these stories.
+
+97
+00:08:25,848 --> 00:08:31,800
+There there aren't really a lot of recurrent care directors in this one, you do have a couple of notable
+
+98
+00:08:32,700 --> 00:08:34,039
+kind of one off characters
+
+99
+00:08:35,020 --> 00:08:36,791
+in the the Bay Al
+
+100
+00:08:37,987 --> 00:08:40,441
+and his emi series that we'll get into.
+
+101
+00:08:41,377 --> 00:08:47,435
+To me the interesting thing is that just like in the last story. You have
+
+102
+00:08:48,171 --> 00:08:49,748
+the old Disney stand
+
+103
+00:08:50,324 --> 00:08:50,824
+villain
+
+104
+00:08:51,361 --> 00:08:54,174
+black pete or at least someone who basically
+
+105
+00:08:54,910 --> 00:09:10,290
+looks like him is kind of the person who causes a lot of trouble. Oh, I guess they they never actually named him do they in this comment He's just a guy. Yeah. Right. Yeah. Did did you read him as being pete? I did. Yeah. That was my initial thought.
+
+106
+00:09:10,944 --> 00:09:19,770
+Yeah. So I think, you know, early on, Carl Marx was just figuring things out and and it's kinda what Disney did. That they're alive, we need Villain. We're gonna use pete
+
+107
+00:09:20,589 --> 00:09:33,415
+I I really delighted last episode in when I'm telling Eric one of my favorite Disney facts, which is that Peg leg pee actually pre dates mickey mouse. That's how long they've been going back to that well. So
+
+108
+00:09:33,995 --> 00:09:40,950
+I think Barks is gonna be out of that habit soon. I can't remember specifically if we see any more peak alike, but,
+
+109
+00:09:41,290 --> 00:09:46,281
+you know, he is it's interesting, that he's just their generic villain. So
+
+110
+00:09:46,898 --> 00:09:47,876
+let's see.
+
+111
+00:09:48,213 --> 00:09:52,741
+I guess this is the first time in one of these episodes that I'm gonna get to go into
+
+112
+00:09:53,397 --> 00:10:02,060
+what I hope is a recurring segment where we can just talk a little bit about the educational value that was in this story. But I'm thinking
+
+113
+00:10:02,574 --> 00:10:06,551
+as I go that I'm gonna kind of wait and talk about that
+
+114
+00:10:07,130 --> 00:10:09,068
+afterwards a little more reflective.
+
+115
+00:10:09,527 --> 00:10:18,145
+But I I will mention that Carl Barks did something in this story that he becomes famous for, and this is gonna be a great example
+
+116
+00:10:19,320 --> 00:10:20,433
+that he
+
+117
+00:10:20,970 --> 00:10:21,470
+famously
+
+118
+00:10:22,326 --> 00:10:24,102
+really love to dive into
+
+119
+00:10:24,799 --> 00:10:30,298
+national geographic and other sources for some of these stories to get some awesome and background
+
+120
+00:10:30,914 --> 00:10:37,564
+and to really ground it and something that Huey, was interested in. So this is gonna kinda set that template,
+
+121
+00:10:38,023 --> 00:10:40,960
+and we can talk about some of the things he includes
+
+122
+00:10:41,739 --> 00:10:42,599
+by the end.
+
+123
+00:10:42,938 --> 00:10:45,076
+So Ryan, are you ready
+
+124
+00:10:45,575 --> 00:10:47,287
+to dive into
+
+125
+00:10:47,704 --> 00:10:49,560
+the mommy, the money's reign.
+
+126
+00:10:51,013 --> 00:10:53,427
+Yeah. Yeah. I I I was gonna ask you
+
+127
+00:10:53,844 --> 00:10:55,301
+the as the expert
+
+128
+00:10:57,011 --> 00:10:57,670
+How much
+
+129
+00:10:58,926 --> 00:11:03,217
+how much of this art style and and even characterization is
+
+130
+00:11:04,528 --> 00:11:11,840
+original Barks and how much of it is what he had to continue from what Disney was using. He didn't he didn't create Donald. Right?
+
+131
+00:11:12,852 --> 00:11:15,346
+Right. Oh, these are great newbie questions.
+
+132
+00:11:16,162 --> 00:11:19,014
+No. He didn't create Donald. Donald
+
+133
+00:11:19,551 --> 00:11:22,480
+Donald been around for a few years at this point,
+
+134
+00:11:22,880 --> 00:11:24,300
+he was originally
+
+135
+00:11:24,640 --> 00:11:32,435
+in He first appeared on screen in as a side character and the wise little hen, I believe, and I think
+
+136
+00:11:33,335 --> 00:11:37,755
+I think an Italian artist out tell Ph is the one who
+
+137
+00:11:38,175 --> 00:11:39,807
+may have used him in
+
+138
+00:11:40,543 --> 00:11:50,115
+print first and kind of shaped the character and print a bit, But but that's a good point. Right? Because he's probably going with a bit of the Disney house style
+
+139
+00:11:50,615 --> 00:11:56,530
+early on, you know, that's what you definitely did for the story boarding, the the last one which is base on
+
+140
+00:11:56,950 --> 00:11:57,850
+story board
+
+141
+00:11:58,310 --> 00:11:58,810
+work.
+
+142
+00:11:59,470 --> 00:12:01,730
+But I but I definitely think you can see
+
+143
+00:12:02,070 --> 00:12:02,570
+him
+
+144
+00:12:02,910 --> 00:12:06,825
+creating his own style. I I think you'll see as we go forward.
+
+145
+00:12:07,805 --> 00:12:12,745
+I'm excited to have you back for more of these. And I I think you'll see that this art is really
+
+146
+00:12:13,245 --> 00:12:16,969
+not too distinct from what he's gonna go on to do later.
+
+147
+00:12:17,487 --> 00:12:18,904
+You know, he's definitely gonna
+
+148
+00:12:19,362 --> 00:12:21,776
+develop his own style and
+
+149
+00:12:22,153 --> 00:12:23,110
+really refine it.
+
+150
+00:12:24,082 --> 00:12:27,134
+I I myself noticed, I find the Nephews
+
+151
+00:12:27,630 --> 00:12:39,994
+hue doing Louie. Some... Some of their the panels, some of their cheeks are kind of puff out in a way that I don't think he or other artists usually do, so I didn't notice that reading it this time.
+
+152
+00:12:40,811 --> 00:12:47,273
+But, yeah, that's that's a great question looking at how it's... I'm so excited to look at how this art and his style
+
+153
+00:12:47,731 --> 00:12:50,027
+is gonna evolve over these comments.
+
+154
+00:12:50,779 --> 00:12:51,599
+I will say
+
+155
+00:12:52,296 --> 00:12:53,634
+I guess maybe the most
+
+156
+00:12:54,012 --> 00:12:55,909
+Barks background I have is
+
+157
+00:12:56,806 --> 00:12:58,464
+Ducktales was very big
+
+158
+00:12:59,002 --> 00:13:00,834
+when I was a kid, and it
+
+159
+00:13:01,173 --> 00:13:03,791
+completely blew up my second grade. I'm gonna say,
+
+160
+00:13:04,969 --> 00:13:06,548
+and we were all
+
+161
+00:13:07,087 --> 00:13:07,966
+arguing with each...
+
+162
+00:13:08,406 --> 00:13:12,077
+Each other over what we thought the lyrics of the theme song said,
+
+163
+00:13:12,616 --> 00:13:19,923
+which is hard to decipher as a seven year old or whatever we were. But I do recognize I do recognize the art style just kind of the way
+
+164
+00:13:20,580 --> 00:13:26,626
+the way the line's kind of bend and the way like, their feet bend as they're walking and everything it's very fluid
+
+165
+00:13:27,339 --> 00:13:33,360
+And and it is very much the same style that we get in the cartoon show forty years after this. Forty five years.
+
+166
+00:13:34,220 --> 00:13:37,573
+You're definitely right. Right? This showed took a lot of
+
+167
+00:13:38,272 --> 00:13:41,609
+notes from the comic. It's based largely on it.
+
+168
+00:13:42,907 --> 00:13:44,940
+Something to know is that
+
+169
+00:13:45,840 --> 00:13:47,300
+I think the shows
+
+170
+00:13:47,640 --> 00:14:00,546
+it ranges from being well liked tolerated by Barks fans. I of course, loved it growing up as a kid. And I discovered Ducktales and Barks comments around the same time. I probably started watching
+
+171
+00:14:01,445 --> 00:14:06,351
+the show within a couple of months after I'd read my first few Barks comics.
+
+172
+00:14:07,608 --> 00:14:13,390
+But yeah, they're not they're not really that well loved among the the comics fans,
+
+173
+00:14:14,126 --> 00:14:17,216
+which, you know, is kinda to be expected because
+
+174
+00:14:17,673 --> 00:14:21,418
+they make a lot of concessions for Saturday morning.
+
+175
+00:14:23,115 --> 00:14:30,097
+Which is to say we're definitely gonna talk in these podcasts about things that the episodes might have used,
+
+176
+00:14:31,072 --> 00:14:39,247
+but it's it's not gonna be a a major emphasis of it because it's just not what Barks fans are really that into.
+
+177
+00:14:39,826 --> 00:14:47,535
+Yeah. But but again, I'm not I'm not proud to admit too proud to admit that I've still enjoy both both of the
+
+178
+00:14:48,035 --> 00:14:51,495
+iterations of the show. Any other thoughts or questions
+
+179
+00:14:52,035 --> 00:14:52,535
+before
+
+180
+00:14:52,915 --> 00:14:55,664
+we talk about the the story beats and the plot?
+
+181
+00:14:56,240 --> 00:15:04,375
+No. I don't think so. Excellent. Let's do it. So I'm... I'm gonna go through. I've mentioned to you when we were planning for this that this was a challenging
+
+182
+00:15:04,715 --> 00:15:06,895
+part segment for me last time,
+
+183
+00:15:07,315 --> 00:15:14,739
+because Donald Duck finds Pirate gold was you know, it was like the cartoon story board that was based on. It wasn't.
+
+184
+00:15:15,635 --> 00:15:20,018
+It was very hard to summarize. Was very slaps. This one is much more
+
+185
+00:15:20,753 --> 00:15:21,691
+well plotted,
+
+186
+00:15:22,068 --> 00:15:25,415
+I think. So I'm gonna go through page five page.
+
+187
+00:15:26,110 --> 00:15:34,785
+And summarize the major and important story beats but feel free to chime in if you have something to say. You wanna talk about it by all needs.
+
+188
+00:15:35,765 --> 00:15:36,265
+So
+
+189
+00:15:36,645 --> 00:15:40,585
+the beginning of Donald duck Donald Duck and the monies ring, we
+
+190
+00:15:41,165 --> 00:15:42,025
+see the Nephews
+
+191
+00:15:43,019 --> 00:15:47,414
+our Pest doll is reading the morning paper.
+
+192
+00:15:48,453 --> 00:15:51,645
+Donald is reading about an a museum exhibit
+
+193
+00:15:52,461 --> 00:15:59,389
+that says the headline says Bay da sends two emi series to bring back mum of his and ancestors.
+
+194
+00:16:00,205 --> 00:16:02,180
+So the nephews have decided
+
+195
+00:16:02,597 --> 00:16:05,091
+to go to the museum and see the mum
+
+196
+00:16:05,986 --> 00:16:12,195
+and Donald reveals that it's gonna be their last chance because the mum are gonna get moved taken away the next day.
+
+197
+00:16:12,875 --> 00:16:14,215
+There is a reference
+
+198
+00:16:14,555 --> 00:16:17,830
+to purse that's been placed on
+
+199
+00:16:18,330 --> 00:16:19,790
+anyone disturbing the monies,
+
+200
+00:16:20,250 --> 00:16:20,750
+which
+
+201
+00:16:21,290 --> 00:16:24,523
+I've got imagine it's not the the old cliche
+
+202
+00:16:25,102 --> 00:16:26,281
+for us that it is
+
+203
+00:16:26,900 --> 00:16:30,935
+at this time by by now, but I compared to Barks when this was written.
+
+204
+00:16:31,389 --> 00:16:34,720
+It was probably in that boris car movie you mentioned. Right?
+
+205
+00:16:35,137 --> 00:16:42,591
+Yeah. I I've never actually seen... But I think every... Every money movie is about a purse. Right and upsetting the tune. Right.
+
+206
+00:16:43,288 --> 00:16:46,861
+So on the way to museum, so we're on page two on the way to the museum,
+
+207
+00:16:47,479 --> 00:16:49,016
+they get Barks and by
+
+208
+00:16:49,649 --> 00:16:58,460
+sc looking. I think you can only describe miss Bum. A guy who's trying to sell them a elegant ring worth fifty dollars
+
+209
+00:16:59,013 --> 00:17:00,351
+guy very persuasive.
+
+210
+00:17:01,406 --> 00:17:01,906
+Donald
+
+211
+00:17:02,283 --> 00:17:12,414
+declines the ring and the guy just goes ahead and gives it to him. And he alluded to having bad luck ever since he swiped it.
+
+212
+00:17:12,793 --> 00:17:21,847
+So they take a look at the ring and they noticed that it's got a symbol of three serpents on it and they assume that maybe it belong to one of those mum.
+
+213
+00:17:22,583 --> 00:17:25,490
+And this is the moment when the peak look alike
+
+214
+00:17:26,470 --> 00:17:30,730
+approaches from behind them and starts to harass them
+
+215
+00:17:31,070 --> 00:17:31,870
+about the ring.
+
+216
+00:17:33,710 --> 00:17:34,210
+He
+
+217
+00:17:34,510 --> 00:17:35,010
+starts
+
+218
+00:17:35,444 --> 00:17:40,220
+to man handle, Donald. He's gonna take the ring, but the nephews
+
+219
+00:17:41,118 --> 00:17:52,815
+intervene by poking a hot risk of peanuts stand in them and they get away. They figure this has gotta be the mummy ring because they're seeing bad luck from what they supposed purse.
+
+220
+00:17:53,195 --> 00:17:54,215
+Donald skeptical,
+
+221
+00:17:54,595 --> 00:18:00,068
+but Huey, has put the ring on and it is stuck on his finger.
+
+222
+00:18:00,526 --> 00:18:06,974
+He definitely never played any dungeons dragons because you know don't just put a random ring on your finger.
+
+223
+00:18:07,392 --> 00:18:09,982
+It might be cursed and you might never to take it off again.
+
+224
+00:18:10,439 --> 00:18:11,019
+I also...
+
+225
+00:18:11,595 --> 00:18:16,242
+I thought it was interesting another thought I had was after reading the first issue that you read with Eric
+
+226
+00:18:16,938 --> 00:18:17,930
+and it ends with them
+
+227
+00:18:18,907 --> 00:18:32,909
+being rich beyond their wildest streams from all the treasure they found. And here, they're just walking around. He doesn't wanna blow fifty cents on u I'm gonna ring this worth fifty dollars, and I was wondering about continuity and when continuity was invented.
+
+228
+00:18:34,646 --> 00:18:37,594
+These are very side. There's very little continuity
+
+229
+00:18:38,051 --> 00:18:38,870
+in these,
+
+230
+00:18:39,207 --> 00:18:42,178
+you know, Barks himself was kind of working anonymously.
+
+231
+00:18:42,555 --> 00:18:43,910
+There was never any, like,
+
+232
+00:18:44,764 --> 00:18:58,729
+idea that he was going to get to... You know, you know, there are not gonna be any, like, continued in the next story story lines. There's definitely no marvel cinematic universe. To this. So there there will be characters
+
+233
+00:18:59,146 --> 00:19:06,295
+that are likes and he's gonna come back too, but he just figures that out very organically. It's like so many shows like the Simpsons
+
+234
+00:19:06,715 --> 00:19:07,215
+where
+
+235
+00:19:07,555 --> 00:19:18,385
+they kinda etch sketch things back to the status quo. I also Al struck by how different Donald is in these issues. From my perception of what Donald is as a character.
+
+236
+00:19:18,705 --> 00:19:23,260
+And I I think of him as more kind of a goofy like character
+
+237
+00:19:23,840 --> 00:19:26,820
+kind of fumbling around and and kind of hap
+
+238
+00:19:27,640 --> 00:19:38,850
+And then this he's like this tough street was you know, a working class guy, and I think the first thing he says in this issue is he's working on improving his mind
+
+239
+00:19:39,669 --> 00:19:43,524
+which seems like... It doesn't seem like something, you know, nineteen sixties
+
+240
+00:19:44,063 --> 00:19:49,808
+Donald duck would say in a in a disney car too, you know. Definitely. I I love this because,
+
+241
+00:19:50,226 --> 00:20:06,730
+you know, I'm so used to these. This so this is the default donald for me. But I love hearing the things that come to mind for you as your for the first time. This is what people really like about the Barks version of Donald. You know, he's more of every man.
+
+242
+00:20:07,348 --> 00:20:08,346
+He's not the like,
+
+243
+00:20:09,184 --> 00:20:15,326
+simmering all of vid. You know, he's got a temper these definitely he's gonna fly off the handle.
+
+244
+00:20:16,261 --> 00:20:18,116
+I... I'm struck by... I mean, even
+
+245
+00:20:18,533 --> 00:20:20,366
+when Pete or whoever this is,
+
+246
+00:20:20,765 --> 00:20:25,704
+is picking him up and, like, has him up off the ground holding him by the neck with two hands
+
+247
+00:20:26,121 --> 00:20:30,168
+and he's saying, what did you do with the ring, and Donald says perfect.
+
+248
+00:20:31,160 --> 00:20:36,660
+Because he's just like this tough. He he slips it to Huey, behind his back while he's talking to pete.
+
+249
+00:20:37,280 --> 00:20:40,034
+I think in and sort of this post depression
+
+250
+00:20:40,613 --> 00:20:41,113
+storytelling.
+
+251
+00:20:41,652 --> 00:20:46,986
+Americans really liked their characters to be very scrap, you know? And
+
+252
+00:20:47,859 --> 00:20:48,918
+self reliant.
+
+253
+00:20:49,256 --> 00:21:07,515
+Donald got a lot of faults in these, but he's he's much more complex than he was. And hey he's gonna evolve a lot after this one. And pretty pretty quick time. Alright. So we're gonna take up back in the museum or they're gonna arrive at the museum. It transitions quickly into the display that they're looking at.
+
+254
+00:21:08,210 --> 00:21:11,739
+I really like the art. I I think you can tell that
+
+255
+00:21:12,115 --> 00:21:15,341
+this is one of the scenes where Barks was, you know, referencing
+
+256
+00:21:15,998 --> 00:21:18,653
+something that he saw because the
+
+257
+00:21:19,030 --> 00:21:21,180
+the art of the Egypt
+
+258
+00:21:21,877 --> 00:21:22,377
+exhibit
+
+259
+00:21:23,191 --> 00:21:32,425
+is really striking I like the perspective here. They are in front of a couple of sa cuff guy. I think that's how you plural that. It is.
+
+260
+00:21:32,945 --> 00:21:42,500
+And they kinda dare themselves to pick in. Side and they do. And we don't actually see more than a glimpse of the mummy that's inside,
+
+261
+00:21:43,160 --> 00:21:48,561
+but they do see a mummy and they see some evidence of some of a robbery.
+
+262
+00:21:49,397 --> 00:21:51,969
+They see an empty box that they guess
+
+263
+00:21:52,345 --> 00:21:59,677
+course funds to the ring that is stuck on Huey, finger. Then we see that there are a couple of very sinister,
+
+264
+00:22:00,054 --> 00:22:02,084
+looking guys dressed in
+
+265
+00:22:03,622 --> 00:22:06,919
+peg is Egyptian Ga or behind them.
+
+266
+00:22:07,458 --> 00:22:15,792
+They have to get out of there. So I wondered how much of this was was a con try and still Al the plot move along and how much of it is how different the culture is
+
+267
+00:22:16,208 --> 00:22:20,713
+in the early forties, but that these these random sc can just walk into...
+
+268
+00:22:21,971 --> 00:22:34,810
+They they probably bought a ticket into the museum, but then they just walk into some other wing where there are no people and where there are these mum on display. There's not a security guard There's not even a velvet rope. They just kinda walk up, lift it up. take a peek inside what's going on in here, anything of Al.
+
+269
+00:22:35,864 --> 00:22:49,023
+I also find it remarkable that Huey, is already wearing an egyptian ring that matches this stuff right now and Actually my first thought as the two guys showed up behind him is he was going to jail now. He's going to jail because
+
+270
+00:22:49,400 --> 00:23:03,795
+they have the thing open. He is obviously wearing some ancient egyptian and jewelry. And it's very plain that he's probably taken that from inside the the sarcophagus in his story that a bum handed this to me on the street for free. Probably not gonna fly with the authorities. But luckily,
+
+271
+00:23:04,213 --> 00:23:06,031
+luckily no one apparently noticed that.
+
+272
+00:23:07,247 --> 00:23:08,266
+Yeah. I remember
+
+273
+00:23:08,644 --> 00:23:19,249
+I remember reading as a kid feeling a little bit stressed about that. I was like, oh, no. He's coming get caught. But I think i I think it really is the case that people were a lot more cavalier
+
+274
+00:23:19,666 --> 00:23:20,059
+about
+
+275
+00:23:20,837 --> 00:23:44,197
+you know, anti Barks and not that they would have allowed things to be stolen straight out of the museum. But have you ever seen those pictures of people like climbing on the pyramids and just the way the gradual way that people treated stuff back in the day. So on the next page, we find out about those two donald calls them tough looking guys. I'm gonna imagine that they're talking to the museum curator.
+
+276
+00:23:44,635 --> 00:23:56,999
+He tells them that these are the Emi series of the Bay of Al do and he explains that they are the ones getting the mum ready to ship back to their ancestors for homeland.
+
+277
+00:23:57,498 --> 00:24:00,535
+And they find out that the Bay Al
+
+278
+00:24:01,853 --> 00:24:02,913
+has been...
+
+279
+00:24:03,532 --> 00:24:08,845
+He's characterized as being soar at modern life and wanting to restore everything
+
+280
+00:24:09,304 --> 00:24:22,044
+back to how it was and ancient times. So now he's taking everything that he wants under the threat of starting a war. I was gonna talk about this later, but I just... I think it's interesting how
+
+281
+00:24:22,742 --> 00:24:29,640
+when we read this ryan. I think we're supposed to, like, feel like the bay is really overs stepping his bounds. And
+
+282
+00:24:30,098 --> 00:24:41,583
+can you believe that he's acting that way. You know, now we we kind of understand that a lot of the stuff in our museums has really been stolen from other cultures
+
+283
+00:24:41,962 --> 00:24:43,780
+and there's a big rep
+
+284
+00:24:44,199 --> 00:24:47,056
+movement. So I I definitely read that differently
+
+285
+00:24:47,555 --> 00:24:49,625
+than I did when I was a child.
+
+286
+00:24:50,081 --> 00:24:55,380
+Yeah. My my note I have here is why is the bay of Al so sore at the pill of his cultural heritage?
+
+287
+00:24:57,668 --> 00:25:04,150
+Yeah. Yep. Pretty much. So at the end of this page, Huey, realizes that he has
+
+288
+00:25:04,727 --> 00:25:16,542
+left his cap probably in the mummy room and he needs to go back and get it. So on the next page, he circles past the two emi series who are just looking with severe expressions
+
+289
+00:25:16,920 --> 00:25:24,086
+that anyone could. And the last we see of him at this point is him looking to see if it fell into the sarcophagus.
+
+290
+00:25:24,758 --> 00:25:27,932
+Cut to Donald and the other Nephews
+
+291
+00:25:28,788 --> 00:25:29,288
+waiting
+
+292
+00:25:29,626 --> 00:25:48,071
+outside and, you know, to me, it's amazing that Adult would like let the kid go back in the museum all by himself, but again, kids ran around from morning till dust back in the day. Even even in our day. I mean, I just... I was only child. I was just riding my bike around the neighborhood by myself. Yeah. Check
+
+293
+00:25:48,409 --> 00:26:07,705
+and make sure you're back by the time the sun's gone down. I know. I had that child. I had a childhood a lot closer to the one that he was doing movie had. And and, of course, this is Huey, who has the ring on his finger. He's gone missing at this point, the Donald and nephew. The other f user searching form, we see them in museum. On the back page,
+
+294
+00:26:08,043 --> 00:26:10,792
+there's more sequence where they're searching,
+
+295
+00:26:11,490 --> 00:26:13,626
+and they're in the room with the sarcophagus.
+
+296
+00:26:14,084 --> 00:26:15,143
+And suddenly,
+
+297
+00:26:15,481 --> 00:26:17,658
+it tremble and it moves.
+
+298
+00:26:17,996 --> 00:26:18,856
+And donald
+
+299
+00:26:19,209 --> 00:26:28,672
+runs out and terror after he's just given some lust about how brave he is. And apparently they're too scared to go back in because they think they've just seen evidence of the money.
+
+300
+00:26:29,010 --> 00:26:31,484
+So they go to report it to the police.
+
+301
+00:26:31,923 --> 00:26:35,136
+Although it's worth pointing out that after the sarcophagus moves
+
+302
+00:26:36,049 --> 00:26:42,221
+Donald is the one who disappears like a lightning flash and then confused are like, oh, okay. Just.
+
+303
+00:26:43,693 --> 00:26:46,271
+Done is the one with Al clear mon pho.
+
+304
+00:26:47,009 --> 00:26:47,509
+Right.
+
+305
+00:26:47,888 --> 00:26:51,479
+Perhaps there was some scarring event with the mummy when he was a kid and
+
+306
+00:26:52,174 --> 00:27:07,960
+he's never really gotten over it. And he may not be the the ball of rage Id that he is in the cartoons. But he is the one who feel... You he he does fly off the handle more in these than the nephews do. So they they report to the police, but the police base
+
+307
+00:27:08,739 --> 00:27:15,233
+go with the old diplomatic immunity saw, we couldn't arrest those, men. They're they're just generally skeptical.
+
+308
+00:27:15,572 --> 00:27:18,524
+It's up to Donald and the boys. And on the next page,
+
+309
+00:27:19,143 --> 00:27:23,040
+they go back and they brow beat the curator
+
+310
+00:27:23,419 --> 00:27:27,570
+about the location of the series. And he reveals that they have left
+
+311
+00:27:28,350 --> 00:27:29,570
+they've taken the mum
+
+312
+00:27:29,870 --> 00:27:30,370
+and
+
+313
+00:27:30,830 --> 00:27:52,124
+they've left for their ship, which is called the Amnesia castle. I don't think that's referenced at all and the rest of the story. But they they know what they need to do now. They need to get to that ship. And again, the the cab driver lets them know that oh you're not gonna be able to get on that ship unless you're an ambassador or something. On the next page,
+
+314
+00:27:52,622 --> 00:27:53,535
+Donald spot
+
+315
+00:27:54,633 --> 00:27:58,969
+something, which we find out is a costume shop pulls over and
+
+316
+00:27:59,507 --> 00:28:02,260
+they acquire some pretty ridiculous costumes.
+
+317
+00:28:02,679 --> 00:28:04,297
+You you would accurately
+
+318
+00:28:04,676 --> 00:28:06,774
+call parts of this story orient
+
+319
+00:28:07,593 --> 00:28:12,223
+is probably the term that we would use today to describe kind of the hodgepodge
+
+320
+00:28:12,562 --> 00:28:13,062
+of
+
+321
+00:28:13,641 --> 00:28:14,141
+eastern
+
+322
+00:28:14,640 --> 00:28:17,817
+tropes and dress and attitude.
+
+323
+00:28:18,236 --> 00:28:20,787
+So their address and kind of random.
+
+324
+00:28:21,365 --> 00:28:24,399
+Someone's idea of kind of eastern debt.
+
+325
+00:28:25,357 --> 00:28:26,655
+Yeah. A very rich
+
+326
+00:28:27,313 --> 00:28:27,813
+Indian
+
+327
+00:28:28,191 --> 00:28:29,664
+some kind of leader
+
+328
+00:28:30,161 --> 00:28:39,294
+whatever, you know, whatever the equivalent of the Barks would be, I would say he has a sas. Right. And then the the nephews have turban on some reason as his attendance.
+
+329
+00:28:39,632 --> 00:28:49,888
+So, yeah. They they've never met realization people before, but they've heard about them on the. That's what this costume is. Exactly. Yeah. So they tried to blu their way onto the ship
+
+330
+00:28:50,626 --> 00:28:58,595
+and the the guard sees right through them. I I really like the line when he kicks them out of all the phonemes I ever saw you guys or the phone yes
+
+331
+00:28:59,932 --> 00:29:03,663
+And so the net have to go with plan b. And on the next page,
+
+332
+00:29:04,241 --> 00:29:08,146
+they just offer themselves up. As as workers,
+
+333
+00:29:08,682 --> 00:29:21,727
+but Cans. That cans. They offer themselves up as stack hands. And I feel like this is one of those historic things where there was a time where a man could just offer himself up as a deck and see the world.
+
+334
+00:29:22,065 --> 00:29:24,660
+Maybe this still goes on in some countries, but
+
+335
+00:29:25,280 --> 00:29:26,460
+this to me is very.
+
+336
+00:29:27,080 --> 00:29:28,940
+Yeah. Now you need three references
+
+337
+00:29:29,400 --> 00:29:29,900
+and
+
+338
+00:29:30,560 --> 00:29:31,480
+a Linkedin page.
+
+339
+00:29:32,374 --> 00:29:34,153
+Right. And you need to have
+
+340
+00:29:34,852 --> 00:29:47,593
+ten years of experience in this programming language that's been around for five. Exactly. Hopefully, you had some unpaid internships for a while as an in intern while you were getting your bachelor's in in d handing. Right. So So d are
+
+341
+00:29:48,211 --> 00:29:56,980
+working on the ship. The ship still still at the dock. So their their idea is that they're just gonna get in, find Huey, and get out. And unfortunate originally
+
+342
+00:29:57,479 --> 00:30:00,655
+one of the sees them snoop around and
+
+343
+00:30:01,553 --> 00:30:13,460
+they asked about the emi series and he tells them to get back to work minding their own business. And this point, the ship has sailed. So they're they're really in it deep. I have some... I have some nephew thoughts
+
+344
+00:30:14,038 --> 00:30:14,538
+Yeah.
+
+345
+00:30:15,035 --> 00:30:16,651
+I've I've noticed they
+
+346
+00:30:17,666 --> 00:30:18,166
+they
+
+347
+00:30:18,622 --> 00:30:22,011
+have statements that they would like to make, but they each make a third of the statement.
+
+348
+00:30:22,744 --> 00:30:30,236
+One of them will say the first part and the one of them say with the middle of the sentence and one of them will say the last part of the sentence. Yeah. It reminds me of there's some
+
+349
+00:30:30,629 --> 00:30:34,198
+less famous x men characters called the the Step K.
+
+350
+00:30:35,253 --> 00:30:36,032
+Who are these
+
+351
+00:30:36,489 --> 00:30:37,587
+blonde qui,
+
+352
+00:30:38,043 --> 00:30:38,761
+their teenagers?
+
+353
+00:30:39,254 --> 00:30:42,584
+And they all have very powerful tele powers but they can
+
+354
+00:30:43,001 --> 00:30:47,146
+kind of merge their tele powers and kind of direct it all, you know, in the same place or whatever.
+
+355
+00:30:48,319 --> 00:31:04,836
+But they will actually talk this way sometimes where without they'll... One of them will start a sentence and the other one will finish it. And it made me wonder if if the nephews here are also tele and if so they should use their tele to find where Huey, is and say, you know, they'll re you his mind to see where he is he's inside something dark.
+
+356
+00:31:06,050 --> 00:31:20,597
+And I also I also thought that maybe from this point on in the story, Dewey we and Louis should each say a third of a sentence and leave the last third of the sentence imply. And just have just have this vacant spot where where he we would have finished it. Very mourn full, kind of looking at the camera.
+
+357
+00:31:21,496 --> 00:31:21,735
+Yes.
+
+358
+00:31:23,029 --> 00:31:27,604
+Yeah. That's great. Maybe maybe they're just too young and they haven't fully owned their
+
+359
+00:31:27,943 --> 00:31:37,276
+psychic powers. Yeah. Another of those examples where this is just the way that they're written and I'm used to how they interact. So it's a hoo
+
+360
+00:31:37,812 --> 00:31:41,597
+seeing you kind of like, highlight the a thing that
+
+361
+00:31:42,014 --> 00:31:43,631
+is is really background
+
+362
+00:31:44,127 --> 00:31:48,177
+to me. This is this is how the nephew thought. This is what they do. So
+
+363
+00:31:48,554 --> 00:31:54,041
+we're on the ship at this point it's after hours, it's nighttime time and and they can go snoop.
+
+364
+00:31:54,480 --> 00:31:59,390
+And there's a scene where Donald is spine through one of the windows
+
+365
+00:31:59,970 --> 00:32:00,470
+and
+
+366
+00:32:00,810 --> 00:32:02,790
+describing what he sees to the other nephews
+
+367
+00:32:03,970 --> 00:32:04,990
+who are obviously
+
+368
+00:32:05,770 --> 00:32:11,485
+undergoing some pretty bad seas sickness because when he talks about the food start to get nauseous
+
+369
+00:32:11,825 --> 00:32:14,179
+and eventually have to
+
+370
+00:32:15,156 --> 00:32:27,964
+leave Donald prop up prop up by a chair so they can go throw up. We assume a neat site gag. But by the next page, they're not there to be lookout for Donald. So he gets discovered
+
+371
+00:32:28,422 --> 00:32:38,210
+again by that quarter. And so get put on Al duty, A Al, of course, being the K, the kitchen war, and they have to peel
+
+372
+00:32:38,590 --> 00:32:40,184
+scores and scores
+
+373
+00:32:40,641 --> 00:32:41,700
+of onions.
+
+374
+00:32:42,635 --> 00:32:50,049
+And I was confused by the fact that they're crying when I was a young kid because I had never cut any and for.
+
+375
+00:32:50,426 --> 00:32:53,716
+So I didn't understand that that provoked tears.
+
+376
+00:32:56,006 --> 00:33:01,941
+I actually thought they were peeling potatoes. Until you until you said, but I see the bag actually says the word onions on it. So...
+
+377
+00:33:02,318 --> 00:33:10,091
+So while they're in the midst of this, it's a very dramatic where the door opens behind them. And we see
+
+378
+00:33:10,708 --> 00:33:13,283
+a mummy just to figure wrapped bandages,
+
+379
+00:33:14,020 --> 00:33:18,491
+sign only appears behind them raises is fist men sing
+
+380
+00:33:19,029 --> 00:33:42,263
+and stripes all three of them in one fell swoop knocking them out. I was totally bought in when I read this as an eight year old, I was like that some me this is really freaky loved it. This was a one of the scarier stories I'd probably read. Up to this point. Yeah. I my perception is that he i think I my perception is that he
+
+381
+00:33:42,721 --> 00:33:49,575
+smack because all three ducks are in sitting closely together in a row and that he smack Donald head hard enough to kind of
+
+382
+00:33:50,275 --> 00:33:54,735
+bump up bump... The hit hit them Al in row like those like like What just
+
+383
+00:33:55,075 --> 00:33:56,015
+how you call.
+
+384
+00:33:56,515 --> 00:33:57,715
+Yeah. Totally. Yeah.
+
+385
+00:33:58,528 --> 00:34:04,111
+So we get a long transition that says minutes past, so they've obviously been knocked out for a while.
+
+386
+00:34:05,188 --> 00:34:12,443
+And they noticed that some sausages have been stool and while they were out, they assume it's some hungry s,
+
+387
+00:34:12,981 --> 00:34:18,642
+and this gives them the impetus to go pro. So Donald is hungry. He gets himself a sandwich.
+
+388
+00:34:19,020 --> 00:34:21,054
+And while he's distracted,
+
+389
+00:34:21,733 --> 00:34:25,001
+hand reaches out of one of those port holes,
+
+390
+00:34:25,619 --> 00:34:28,553
+wrapped in bandages and steals his sandwich.
+
+391
+00:34:29,609 --> 00:34:31,779
+Kind of an interesting transition from that like,
+
+392
+00:34:32,735 --> 00:34:33,235
+Eerie
+
+393
+00:34:34,209 --> 00:34:38,671
+scene last page to this. This looks pretty slaps stick Huey,
+
+394
+00:34:38,671 --> 00:34:51,680
+feed to me. So Donald sees that the sandwich has gone and he wants to look through the port hole. And on the next page, we Donald looking through and he gets an expression of ab
+
+395
+00:34:52,335 --> 00:34:53,525
+terror and he starts
+
+396
+00:34:54,384 --> 00:35:10,792
+s and indeed the porter and the emi series come out and see him s with the nephew trying to calm him down and he cries when he's asked what's wrong. He says that the mum, the money, they're sitting up in their case even my sandwich and the emi series look on
+
+397
+00:35:11,464 --> 00:35:12,762
+in kind of
+
+398
+00:35:13,180 --> 00:35:19,280
+confusion. And, you know, before I go to the next page, I I thought this page was pretty striking because
+
+399
+00:35:19,898 --> 00:35:27,333
+He just looks terrified. You know, it's a really good depiction of fear in this. Yeah. He definitely doesn't look like he's
+
+400
+00:35:27,964 --> 00:35:31,931
+you know, working a con or, whatever with these guys, he's terrified of something.
+
+401
+00:35:32,387 --> 00:35:40,086
+On the next page, the series, they are a convinced and they call out for food for their ancestors.
+
+402
+00:35:40,664 --> 00:35:50,799
+All the best dishes brought out and left near the off guy. They explained that this is something that we we all learn about and grade school that's when like ph
+
+403
+00:35:51,136 --> 00:35:53,391
+were buried that they were
+
+404
+00:35:54,127 --> 00:36:00,000
+very next to to find food and stuff so they could take it into the land of the dead. And,
+
+405
+00:36:00,460 --> 00:36:01,760
+you know, they they
+
+406
+00:36:02,100 --> 00:36:05,812
+complain about their loved ones have lai in museums
+
+407
+00:36:06,430 --> 00:36:08,648
+in the western world for for centuries.
+
+408
+00:36:09,347 --> 00:36:10,166
+And the Nephews
+
+409
+00:36:11,039 --> 00:36:12,898
+have a moment of skepticism
+
+410
+00:36:13,277 --> 00:36:14,416
+at the end of this page
+
+411
+00:36:14,795 --> 00:36:17,333
+saying they've never heard of mum eating.
+
+412
+00:36:18,191 --> 00:36:24,490
+I'll also point out this even just on this page, you get a good example of Barks writing different voices
+
+413
+00:36:24,828 --> 00:36:28,159
+to where people talk very differently from each other. And
+
+414
+00:36:28,616 --> 00:36:33,118
+yeah. Feel like the Emi series have the best English of anybody in this issue.
+
+415
+00:36:33,574 --> 00:36:37,702
+They they talk like, very highly educated people. This one here you correctly
+
+416
+00:36:38,175 --> 00:36:41,391
+correctly uses the past participle of july, have lane,
+
+417
+00:36:42,449 --> 00:36:55,758
+which which pete at the... you know, at the beginning of this of this issue would not have normal donald have... And even the kids, you know, they they use kind of contractions and everything mommy's Eaton, e a i apostrophe.
+
+418
+00:36:56,575 --> 00:37:01,262
+And and it shows how, you know, all these people are from different places. They have different backgrounds different.
+
+419
+00:37:01,839 --> 00:37:03,110
+Education levels, which is
+
+420
+00:37:03,489 --> 00:37:05,745
+you know, from class So. Yeah. Most
+
+421
+00:37:06,243 --> 00:37:17,614
+authors of novels would take care to to do in their novels, but you wouldn't necessarily expect in comic. Yeah. I really... I really appreciate you pointing that out. That's a great thing that I think I just
+
+422
+00:37:18,591 --> 00:37:27,282
+absorbed, but didn't ever... You know, I've read these since I was eight. So this is kind of part of my Dna, but that... That's a really good point.
+
+423
+00:37:27,659 --> 00:37:28,916
+I think you can definitely
+
+424
+00:37:29,493 --> 00:37:31,801
+hear their voice says. So
+
+425
+00:37:32,138 --> 00:37:33,235
+on the next page,
+
+426
+00:37:33,970 --> 00:37:36,064
+Donald and the boys,
+
+427
+00:37:36,679 --> 00:37:40,470
+they are sent to the bridge. One of the Nephews,
+
+428
+00:37:41,250 --> 00:37:42,350
+I think it's Louis
+
+429
+00:37:43,130 --> 00:37:44,190
+explains that,
+
+430
+00:37:44,530 --> 00:37:49,394
+you know, this is clear what's going on now, they're not real mum. One of them,
+
+431
+00:37:49,731 --> 00:37:51,468
+one of them they've surmise
+
+432
+00:37:51,885 --> 00:37:52,780
+must be Huey,
+
+433
+00:37:53,500 --> 00:37:55,680
+and he... He's been smuggled
+
+434
+00:37:56,180 --> 00:38:18,134
+out of the museum wrapped like a mummy. And they're asking themselves, well who's the other mommy they're just there there's a lot going on a lot of the, you know, the rhythm of the story. A lot of the deduct of the story goes on in these four panels where they figure out that the other money must be a kid kidnapped he must be after the ring. And and
+
+435
+00:38:19,108 --> 00:38:26,714
+in the last panel of this one, Donald realizes that they they've got a time constraint now that they've got to tell them what's going on
+
+436
+00:38:27,130 --> 00:38:29,801
+or they risk having Huey,
+
+437
+00:38:30,119 --> 00:38:32,785
+and the kidnapped are being sealed up forever
+
+438
+00:38:33,601 --> 00:38:34,101
+And
+
+439
+00:38:34,438 --> 00:38:39,480
+before going to the next page, you know, I think that this one is really an interesting
+
+440
+00:38:39,817 --> 00:38:41,569
+really seeing because
+
+441
+00:38:42,388 --> 00:38:44,486
+this could have been much more of a mystery.
+
+442
+00:38:44,985 --> 00:38:52,268
+Right? And he just chooses to have the the characters figured out even though it was structured like a mystery before that.
+
+443
+00:38:52,986 --> 00:38:56,717
+Yeah. This was one of my favorite pages in the issue where
+
+444
+00:38:57,029 --> 00:39:08,195
+for one thing, they're not thrown off ballots at all by having just been thrown in the break. They're just like, okay, let's figure this out. And the three of them sit down. And start kind of debating it with each other. Yeah.
+
+445
+00:39:08,775 --> 00:39:10,535
+With some pretty sound reasoning, you know,
+
+446
+00:39:11,735 --> 00:39:17,324
+I think, you know, based on their observations, they come to some pretty sound conclusions. I think it
+
+447
+00:39:17,743 --> 00:39:20,081
+makes the more charismatic as the heroes
+
+448
+00:39:20,595 --> 00:39:22,935
+of the story, you know, you want your hero to be
+
+449
+00:39:23,355 --> 00:39:26,335
+sharp and able to kind of figure out what's going on.
+
+450
+00:39:27,195 --> 00:39:29,783
+I I agree completely. I like...
+
+451
+00:39:30,359 --> 00:39:34,208
+I like that the characters seem really sharp and Ducktales here.
+
+452
+00:39:34,704 --> 00:39:35,882
+I find it really
+
+453
+00:39:36,713 --> 00:39:39,090
+infuriating a lot of media where characters
+
+454
+00:39:39,548 --> 00:39:40,048
+are
+
+455
+00:39:40,506 --> 00:39:45,716
+dumb for no good reason. Like, this does seem like something they should figure out and they do.
+
+456
+00:39:46,230 --> 00:39:51,523
+On the next page, it's the next day. They find out that the bay... The base
+
+457
+00:39:52,022 --> 00:39:53,255
+series have already left
+
+458
+00:39:53,994 --> 00:39:57,091
+So they are realizing that they've got to
+
+459
+00:39:57,431 --> 00:40:07,020
+risk their necks to to save them and they they dive off the ship to leave and to have a chance to catch up with them and it's
+
+460
+00:40:07,520 --> 00:40:08,540
+pretty dramatic.
+
+461
+00:40:09,160 --> 00:40:12,120
+I really like these couple of panels where they make that decision.
+
+462
+00:40:12,735 --> 00:40:13,235
+Yeah.
+
+463
+00:40:13,574 --> 00:40:14,274
+I like
+
+464
+00:40:14,732 --> 00:40:18,149
+the the frame right before they die where they show the the tri
+
+465
+00:40:18,688 --> 00:40:21,186
+sailing away. I feel like is where they really
+
+466
+00:40:21,580 --> 00:40:22,519
+start to
+
+467
+00:40:23,018 --> 00:40:26,115
+convey this sense of a much bigger world
+
+468
+00:40:26,453 --> 00:40:28,032
+than than their little town
+
+469
+00:40:28,531 --> 00:40:33,325
+and it's full of all of interesting things that we just haven't found yet and it's just kind of this
+
+470
+00:40:34,305 --> 00:40:34,805
+mysterious
+
+471
+00:40:35,145 --> 00:40:40,929
+parallel world to ours. And I also like how Donald checks with the nephews first. He's he's like
+
+472
+00:40:41,426 --> 00:40:43,501
+we we have to risk risk our next to save him.
+
+473
+00:40:44,235 --> 00:40:45,715
+And they go... Yeah. Okay. Let's do it.
+
+474
+00:40:46,315 --> 00:40:50,655
+And that... You're right. That's a great panel, the the Al or whatever. Just...
+
+475
+00:40:51,195 --> 00:40:57,696
+I I love the r in that one. And we definitely, I think feel like we've arrived somewhere else.
+
+476
+00:40:58,073 --> 00:41:03,295
+And, you know, I think I kind of criticized earlier for orient.
+
+477
+00:41:04,513 --> 00:41:05,732
+And and there's is definitely
+
+478
+00:41:06,111 --> 00:41:17,999
+a lot of that in this story, which is the nature of the time. But this panel to me really shows that Barks had an interest in this place and and depicting it
+
+479
+00:41:19,213 --> 00:41:21,403
+in a way that was here and
+
+480
+00:41:22,261 --> 00:41:30,479
+and very loving, I think because, you know, the camera really loves this... The the virtual camera or whatever really loves this panorama.
+
+481
+00:41:31,135 --> 00:41:33,589
+So on the next page, they
+
+482
+00:41:34,006 --> 00:41:34,506
+are
+
+483
+00:41:34,963 --> 00:41:36,181
+escaping. And
+
+484
+00:41:36,518 --> 00:41:42,385
+it... It's a big escape actually for just a couple of people, you know, deck hands leaving the ship
+
+485
+00:41:42,885 --> 00:41:44,265
+because they've got
+
+486
+00:41:44,565 --> 00:41:46,679
+bullets being fired at them.
+
+487
+00:41:47,654 --> 00:41:50,068
+They have to run through some alleys
+
+488
+00:41:50,485 --> 00:41:54,710
+where just some of the local stray dogs are nip at their heels.
+
+489
+00:41:56,279 --> 00:42:03,969
+And at some point, they they stir up a mob that runs after them. So they have to Ducktales down kind of a little Barks Alley
+
+490
+00:42:05,425 --> 00:42:05,925
+and
+
+491
+00:42:06,263 --> 00:42:08,319
+it can't hide there.
+
+492
+00:42:09,256 --> 00:42:09,756
+So
+
+493
+00:42:11,252 --> 00:42:14,520
+we we kinda cut away to from the point where they're hiding,
+
+494
+00:42:15,057 --> 00:42:15,557
+and
+
+495
+00:42:17,211 --> 00:42:18,987
+there is a local
+
+496
+00:42:19,365 --> 00:42:21,755
+direct the the local police
+
+497
+00:42:22,173 --> 00:42:23,151
+after them,
+
+498
+00:42:23,569 --> 00:42:25,325
+and there's a, you know,
+
+499
+00:42:26,123 --> 00:42:27,395
+this is a pretty unfortunate
+
+500
+00:42:27,814 --> 00:42:28,314
+panel
+
+501
+00:42:28,812 --> 00:42:34,581
+where they've dressed as locals and they... The artwork where shows them having darkened their skin.
+
+502
+00:42:35,438 --> 00:42:37,910
+And, you know, they they redirect them,
+
+503
+00:42:38,648 --> 00:42:41,466
+they're posing as locals basically, and they
+
+504
+00:42:42,005 --> 00:42:43,104
+they mis x's
+
+505
+00:42:43,483 --> 00:42:53,581
+them so that the mob runs off. And just Al still all still speaking English, of course. Everybody in this situation is speaking English. As the egyptian cops are asking,
+
+506
+00:42:53,959 --> 00:42:55,656
+apparently, Egyptian fisher people
+
+507
+00:42:56,129 --> 00:42:59,583
+i I also think... I mean, just the first three frames here, it's first
+
+508
+00:43:00,040 --> 00:43:04,430
+some kind of machine gun gunfire coming from off off frame, maybe from the boat.
+
+509
+00:43:05,484 --> 00:43:07,143
+And then the second frame is
+
+510
+00:43:07,562 --> 00:43:14,035
+dogs dipping being chased by dogs and the third frame is a mob, which is not even in the frame. They're just saying there's a mob after us.
+
+511
+00:43:14,890 --> 00:43:19,510
+And and I think, you know, in anywhere else, I mean in a movie, this would be a ten minute
+
+512
+00:43:20,010 --> 00:43:21,090
+action set piece.
+
+513
+00:43:22,064 --> 00:43:27,119
+But here it's just... We gotta hurry through it because we got more story to tell and they're just like here's some danger.
+
+514
+00:43:28,017 --> 00:43:31,744
+Yeah. And going forward, you know, and it's there's not gonna be this kind of, like,
+
+515
+00:43:32,901 --> 00:43:37,447
+pacing, I think as much. This this is more of a hallmark of the early Barks stuff.
+
+516
+00:43:38,165 --> 00:43:39,835
+So the next page
+
+517
+00:43:41,092 --> 00:43:45,144
+has them finding a a a ship an abandoned
+
+518
+00:43:45,562 --> 00:43:46,501
+a Luca.
+
+519
+00:43:46,840 --> 00:43:50,945
+I don't know if that's how you pronounce that, but an egyptian style
+
+520
+00:43:51,282 --> 00:43:53,355
+ship. Again, Barks clearly got it right.
+
+521
+00:43:54,112 --> 00:44:00,455
+And they venture up the nile. And this is like the tour part of the story. Right? Where all of a sudden,
+
+522
+00:44:01,515 --> 00:44:06,750
+the the Ducktales and we get distracted and and become sites sears.
+
+523
+00:44:07,287 --> 00:44:07,787
+And
+
+524
+00:44:08,724 --> 00:44:13,573
+they start to look at the sides, things on the bank of the nile.
+
+525
+00:44:14,350 --> 00:44:15,905
+They cash their ship
+
+526
+00:44:16,405 --> 00:44:20,345
+and they they lose some time and they have to remind themselves. Okay. We're
+
+527
+00:44:20,965 --> 00:44:26,588
+dedicating ourselves to getting hue and they they end up drifting that night in a wind
+
+528
+00:44:27,445 --> 00:44:29,280
+period. And then on the next page,
+
+529
+00:44:30,053 --> 00:44:30,553
+Louie
+
+530
+00:44:30,931 --> 00:44:33,585
+has the bright idea to hook
+
+531
+00:44:34,002 --> 00:44:35,340
+onto a passing
+
+532
+00:44:36,037 --> 00:44:40,577
+steam ship or freighter or something and they make much better progress
+
+533
+00:44:40,953 --> 00:44:41,932
+up the nile.
+
+534
+00:44:42,547 --> 00:44:52,719
+By the time the other Ducktales woken up. They've made they've navigated three hundred miles up nile and they've approached the base barge off the port bow.
+
+535
+00:44:53,097 --> 00:44:54,255
+And then on the next page,
+
+536
+00:44:55,148 --> 00:44:57,644
+they approach we kind of see El,
+
+537
+00:44:59,020 --> 00:45:08,172
+which is a cool looking ancient city. They are approaching as there's ceremony that they surmise is for the return of the mum.
+
+538
+00:45:08,930 --> 00:45:17,390
+And as they approach, they are attacked by a hail of arrows. So they've got circle back and think of another approach. There's so much
+
+539
+00:45:17,850 --> 00:45:18,350
+peril
+
+540
+00:45:18,970 --> 00:45:21,490
+for the kids in this his comic.
+
+541
+00:45:22,860 --> 00:45:29,030
+We have we have, you know, just two pages ago, we had the the guns from the
+
+542
+00:45:29,530 --> 00:45:33,490
+from the, you know, cruise ship or whatever that was, the dogs, the mobs,
+
+543
+00:45:34,290 --> 00:45:38,290
+and now arrows being shot at the kids and all of this is to say Huey,.
+
+544
+00:45:38,984 --> 00:45:41,522
+Who is going to be buried alive. Yeah
+
+545
+00:45:41,981 --> 00:45:43,280
+Al as a mommy.
+
+546
+00:45:44,019 --> 00:45:44,519
+And
+
+547
+00:45:45,377 --> 00:45:46,996
+I think man, like, there's no
+
+548
+00:45:48,628 --> 00:45:53,123
+I think even when I was a kid, maybe the the cartoons and stuff didn't have this kind of
+
+549
+00:45:53,542 --> 00:45:55,055
+moral danger for the kids
+
+550
+00:45:55,874 --> 00:46:01,528
+Did the eighties Ducktales show have, you know, they're gonna get swept off a cliff and eating by sharks or something?
+
+551
+00:46:02,147 --> 00:46:06,634
+I mean, I I don't think there was this much like human directed violence. You know?
+
+552
+00:46:07,432 --> 00:46:10,247
+I don't think I think these older comics,
+
+553
+00:46:10,904 --> 00:46:12,561
+especially in, like, the forties
+
+554
+00:46:13,313 --> 00:46:42,786
+and and so forth, we're a lot more violent in that kind of like, you know, with fist and knives and stuff like that. I I I'd like to I like to tell people about the old Mickey mouse comics and and how how incredibly roi. Those are. But, you know, you were talking about the the Hay code before we started recording. And I don't know if you wanted to to mention that or if you were saving that powder for for later.
+
+555
+00:46:44,241 --> 00:46:51,303
+Yeah. I I was thinking when I was reading it, I was thinking about, you know, there's a lot of this is some kind of rough stuff and
+
+556
+00:46:51,801 --> 00:46:56,576
+I was thinking... Is this violate the the Comics code Authority? And so I looked up
+
+557
+00:46:57,329 --> 00:47:03,390
+when that was, and that code is from nineteen fifty four, this comic of course is from nineteen forty three, as you mentioned,
+
+558
+00:47:03,949 --> 00:47:04,967
+So we still haven't
+
+559
+00:47:05,424 --> 00:47:06,642
+gotten to this kind of
+
+560
+00:47:07,714 --> 00:47:12,090
+regulation of of the comics for people who maybe don't don't read as many comics, it's...
+
+561
+00:47:12,988 --> 00:47:16,165
+The government started to get really concerned about how
+
+562
+00:47:16,519 --> 00:47:18,414
+comics, we're influencing kids
+
+563
+00:47:18,910 --> 00:47:19,747
+and, you know,
+
+564
+00:47:20,544 --> 00:47:27,200
+brainwashing them into to being violent criminals and everything just like rap music did in the early nineties and
+
+565
+00:47:27,618 --> 00:47:29,833
+video games are doing to us now and
+
+566
+00:47:31,289 --> 00:47:32,805
+every kind of media needs to be.
+
+567
+00:47:33,978 --> 00:47:34,478
+Regulated
+
+568
+00:47:34,937 --> 00:47:37,115
+for its violent brain brainwashing effect.
+
+569
+00:47:37,453 --> 00:47:37,953
+So
+
+570
+00:47:39,011 --> 00:47:40,170
+to kind of get ahead of it,
+
+571
+00:47:41,660 --> 00:47:42,399
+the comics
+
+572
+00:47:42,896 --> 00:47:43,396
+industry
+
+573
+00:47:43,772 --> 00:47:45,389
+imposed this code
+
+574
+00:47:45,885 --> 00:47:54,024
+upon themselves and and decided this would be how, you know, all the comics that get sold in mainstream shops would need to meet these these standards.
+
+575
+00:47:55,362 --> 00:47:56,301
+Yeah. And
+
+576
+00:47:56,720 --> 00:48:07,975
+alright. Thing to read about it, like, it's fascinating that that attempt on that regulation and and what it did to the industry. And, you know, I I hadn't thought about that at all
+
+577
+00:48:08,790 --> 00:48:17,121
+until you mentioned it and I do think it's gonna be interesting to see, you know, as we approach that dividing line if if that really affects
+
+578
+00:48:17,780 --> 00:48:18,560
+Barks
+
+579
+00:48:18,739 --> 00:48:26,624
+stories at all. Obviously, the the funny animal books for probably a lot more immune that that wasn't they were being directed at the old, like,
+
+580
+00:48:27,623 --> 00:48:28,682
+the the Ec
+
+581
+00:48:29,021 --> 00:48:32,335
+crime comics and the superhero stuff.
+
+582
+00:48:32,835 --> 00:48:36,475
+But I I gotta imagine there are some knock on effects. Right?
+
+583
+00:48:37,369 --> 00:48:39,670
+Yeah. Yeah. And it's... I mean, it covers
+
+584
+00:48:40,170 --> 00:48:50,804
+most of the history of comics. Like, I I tried to find out when it ended. And it started to get a little softer in the in the eighties and nineties and stuff. And and then in two thousand one,
+
+585
+00:48:51,184 --> 00:49:07,209
+Marvel submits an x force comic to get approved by the comics code Authority, and they said, no, This is this is too violent to some. You gotta take take this thing out. And Marvel just said I don't think we will. I don't feel like doing that. And so they just stopped submitting them and that was how it ended two thousand one from nineteen fifty four
+
+586
+00:49:07,828 --> 00:49:09,065
+that's crazy.
+
+587
+00:49:09,464 --> 00:49:09,964
+So
+
+588
+00:49:10,502 --> 00:49:14,754
+we are back to the the next page cuts to
+
+589
+00:49:15,571 --> 00:49:17,643
+in the palace of the Bay of El.
+
+590
+00:49:18,381 --> 00:49:24,768
+And they are in the midst of their ceremony they're preparing to bind the case is
+
+591
+00:49:25,744 --> 00:49:29,356
+outside the palace. The Nephews, donald nephews are
+
+592
+00:49:29,893 --> 00:49:31,284
+pondering how to get passes
+
+593
+00:49:31,824 --> 00:49:32,724
+a guard.
+
+594
+00:49:33,104 --> 00:49:37,844
+You know, Donald getting into the spirit of things, I guess, because he wants to make an old egyptian
+
+595
+00:49:38,479 --> 00:49:40,575
+and and he makes they call it a slingshot.
+
+596
+00:49:40,913 --> 00:49:42,730
+I I know it as a sling,
+
+597
+00:49:43,068 --> 00:49:46,043
+right, what David used against Goliath and
+
+598
+00:49:46,740 --> 00:49:49,689
+on the next page. Man, he just absolutely
+
+599
+00:49:50,426 --> 00:49:53,360
+brings that guy. He's definitely dead.
+
+600
+00:49:54,416 --> 00:49:57,641
+He can't just arrived that big on the side of the head from that distance.
+
+601
+00:49:57,978 --> 00:50:07,301
+He's not he's not giving back up from this. He's at least not eating solid food and anymore. But but well, there's a lot of peril, it's at least still a funny animal comic.
+
+602
+00:50:08,675 --> 00:50:09,175
+So
+
+603
+00:50:09,552 --> 00:50:11,807
+they they rush inside after.
+
+604
+00:50:12,398 --> 00:50:14,055
+They brain that poor guard.
+
+605
+00:50:14,591 --> 00:50:18,441
+And they stopped them in the nick of time from sealing the cases.
+
+606
+00:50:19,137 --> 00:50:20,294
+And the bay of Al
+
+607
+00:50:21,251 --> 00:50:21,684
+is
+
+608
+00:50:22,144 --> 00:50:26,444
+wondering who, you know, who are these guys and his emi series
+
+609
+00:50:27,064 --> 00:50:30,804
+indicate there some fools who followed them from America
+
+610
+00:50:31,119 --> 00:50:32,455
+and they're crazy
+
+611
+00:50:32,792 --> 00:50:33,292
+and
+
+612
+00:50:34,067 --> 00:50:39,044
+he has them captured and he... Yeah. He he does seem a pretty harsh
+
+613
+00:50:39,861 --> 00:50:52,979
+Definitely. His first instinct is... Well, I mean, they didn't even know who was on the boat or what the boat was coming for and they just started shooting here was Al it already. But once once the emi adversary say, these guys are crazy. He says, okay. Let's throw them to the crocodile.
+
+614
+00:50:53,876 --> 00:50:55,015
+So Donald
+
+615
+00:50:55,552 --> 00:51:01,724
+pipes up and he says that the Emi series can prove that the people in the cases are alive.
+
+616
+00:51:02,164 --> 00:51:02,664
+He
+
+617
+00:51:03,444 --> 00:51:06,719
+makes them confirm that the food that they had ordered
+
+618
+00:51:07,179 --> 00:51:08,679
+laid out was eaten.
+
+619
+00:51:09,259 --> 00:51:13,519
+And then the bass or prizes is emi series by
+
+620
+00:51:13,859 --> 00:51:15,294
+insisting they'd be released
+
+621
+00:51:15,992 --> 00:51:17,328
+that Donald Al least
+
+622
+00:51:17,665 --> 00:51:19,799
+be released and then Nephews hughes
+
+623
+00:51:20,734 --> 00:51:30,794
+saying that he didn't attend the Harvard universe see without learning that mum don't eat. So there was a little just surprise moment where we learn that
+
+624
+00:51:31,934 --> 00:51:34,154
+the bay while he is
+
+625
+00:51:34,894 --> 00:51:37,474
+against a western modernization it's not
+
+626
+00:51:38,174 --> 00:51:41,967
+through a lack of familiarity. He's actually been educated at
+
+627
+00:51:42,586 --> 00:51:52,881
+they're analog for Harbor. And he he... Well, his emi seemed to believe that the mum are have some kind of supernatural element to them. The way ancient egyptians did.
+
+628
+00:51:53,537 --> 00:52:01,866
+Even the Bay who loves Ancient Egypt and once everything to be like that again, seems to me not to. He he seems to be have solely sentimental
+
+629
+00:52:03,439 --> 00:52:06,504
+nostalgic kind of feelings toward the mum rather than
+
+630
+00:52:07,083 --> 00:52:12,212
+Yeah. You're right. He may not buy fully into it. That's interesting. He he definitely...
+
+631
+00:52:12,710 --> 00:52:13,968
+They give him some
+
+632
+00:52:14,386 --> 00:52:26,194
+surprising depth in in a a very quick number of panels I think. So he on the next page, he agrees yeah, there must be live people in the Barks guy. And
+
+633
+00:52:27,254 --> 00:52:32,749
+then in the next panel after he agreed, and they've gotten their hopes up. His face really Barks
+
+634
+00:52:33,629 --> 00:52:49,584
+in an expression that I I found really intimidating as a kid and he says that, you know, those live people then can take the place of the ancestors and he insists that the ceremony must continue. Donald is,
+
+635
+00:52:49,961 --> 00:52:58,013
+you know, throwing a hail mary pass. He says wait, the little boy in one of those cases, he he notices the seal of the three
+
+636
+00:52:58,352 --> 00:53:02,168
+serpents. He says that he's got a ring with that seal.
+
+637
+00:53:02,586 --> 00:53:08,848
+And the bay is shot it comes to him that this is the ring, the missing ring of the three serpents.
+
+638
+00:53:09,544 --> 00:53:14,471
+I thought it was interesting that he let to the other ducks go if he's still going to bury
+
+639
+00:53:14,783 --> 00:53:18,770
+Huey,. He says, I'm going to knowing bury this kid. I know there's a kid in there.
+
+640
+00:53:20,246 --> 00:53:23,377
+And... But you guys are free to go. You can just hang out here and watch.
+
+641
+00:53:24,289 --> 00:53:28,909
+Yeah. He's kinda selective about who gets who gets victim minimized here.
+
+642
+00:53:29,609 --> 00:53:30,109
+So
+
+643
+00:53:30,449 --> 00:53:31,289
+on the next page,
+
+644
+00:53:31,863 --> 00:53:34,881
+he is very excited and he
+
+645
+00:53:35,619 --> 00:53:37,438
+agrees. Let's open the cases.
+
+646
+00:53:38,576 --> 00:53:47,061
+There's some narration where everyone that that really provides some good suspense here. I think everyone waits silently in the high priests open the Barks,
+
+647
+00:53:48,420 --> 00:53:50,612
+and we do see two figures,
+
+648
+00:53:51,269 --> 00:53:55,041
+Donald and the audience immediately knows that one of them is hue,
+
+649
+00:53:55,499 --> 00:53:58,809
+and then the other one is a big mummy
+
+650
+00:53:59,269 --> 00:53:59,769
+who
+
+651
+00:54:00,429 --> 00:54:03,849
+leaps out of the Barks for this and tries to escape.
+
+652
+00:54:04,469 --> 00:54:06,184
+He jumps out of about talking
+
+653
+00:54:06,680 --> 00:54:11,684
+that looks like it would killed him from the fall. And Donald grabs a bandage
+
+654
+00:54:12,061 --> 00:54:12,561
+and,
+
+655
+00:54:13,097 --> 00:54:16,524
+you know, we get a class sick mommy un fur. And
+
+656
+00:54:17,261 --> 00:54:19,717
+we find out as it un
+
+657
+00:54:20,294 --> 00:54:23,482
+what we... What most people who are not small children
+
+658
+00:54:24,179 --> 00:54:31,915
+guest immediately is that it was the guy that tried to rob him. The people alike, who tried to rob him back in America.
+
+659
+00:54:32,688 --> 00:54:35,060
+They returned to the throne room
+
+660
+00:54:35,397 --> 00:54:38,167
+and we have just a really shockingly
+
+661
+00:54:38,942 --> 00:54:39,442
+deal
+
+662
+00:54:39,993 --> 00:54:42,144
+con con meeting with the bay,
+
+663
+00:54:42,861 --> 00:54:48,198
+considering that he has moments go, ordering them thrown to the i'll pit
+
+664
+00:54:48,695 --> 00:54:52,347
+because he is... He's got hue he's sitting on his lap.
+
+665
+00:54:52,804 --> 00:54:59,514
+He's, like, beam like, like, a proud uncle holding the ring, which Huey, has
+
+666
+00:54:59,894 --> 00:55:06,276
+returned to him and it's been clear that they have been looking for it for three thousand years, they say,
+
+667
+00:55:07,491 --> 00:55:09,905
+Huey, reports in very
+
+668
+00:55:10,482 --> 00:55:10,982
+economical
+
+669
+00:55:11,694 --> 00:55:12,194
+storytelling
+
+670
+00:55:12,814 --> 00:55:13,314
+that
+
+671
+00:55:13,894 --> 00:55:17,634
+the thief the Robber had followed them back to the museum
+
+672
+00:55:18,494 --> 00:55:20,407
+saw him trying to get the ring.
+
+673
+00:55:21,144 --> 00:55:22,403
+And basically,
+
+674
+00:55:22,821 --> 00:55:25,357
+when he heard someone else coming into the room,
+
+675
+00:55:26,294 --> 00:55:30,644
+stash Huey, and himself into the struck off for this and then was forced
+
+676
+00:55:31,464 --> 00:55:31,964
+to
+
+677
+00:55:32,304 --> 00:55:34,124
+disguise himself as a mummy.
+
+678
+00:55:34,544 --> 00:55:38,375
+He was just really in the wrong wrong place at the wrong time.
+
+679
+00:55:38,793 --> 00:55:48,094
+Huey, mentions that, yeah. Now now he had to keep me fed so that he would only be guilty of Kid app rather than murders, which is why they were
+
+680
+00:55:48,794 --> 00:55:50,814
+sealing food on the ship of course.
+
+681
+00:55:51,114 --> 00:55:54,144
+So lot of storytelling on this page, a lot of
+
+682
+00:55:54,482 --> 00:56:00,365
+quick resolution here. Any thoughts. It's interesting that here we couldn't get the ring off then, but
+
+683
+00:56:01,181 --> 00:56:03,571
+seems to pop it off now out of frame
+
+684
+00:56:03,989 --> 00:56:07,920
+yeah to give to give to the bay. Oh lost a little bit of less doesn't...
+
+685
+00:56:08,657 --> 00:56:12,879
+It's probably true. That's actually not a bad not a bad idea the
+
+686
+00:56:13,335 --> 00:56:14,831
+the winnie the poo method of
+
+687
+00:56:15,287 --> 00:56:15,787
+getting
+
+688
+00:56:16,403 --> 00:56:17,239
+getting un stuck.
+
+689
+00:56:18,293 --> 00:56:21,629
+That's right. Yeah. And and again, just the bay has
+
+690
+00:56:22,128 --> 00:56:26,518
+has become this teddy bear in this span of time, which
+
+691
+00:56:27,216 --> 00:56:30,993
+I I noticed as kind of jarring even as a kid,
+
+692
+00:56:31,452 --> 00:56:34,684
+you know, I I don't think as a kid that I
+
+693
+00:56:35,063 --> 00:56:36,082
+had expected...
+
+694
+00:56:36,860 --> 00:56:39,917
+I'm sure I knew that it must have been the Robber, but
+
+695
+00:56:40,256 --> 00:56:50,800
+I know I went into this thinking it was gonna be there was gonna be a real money in this. So there were things as a kid that I definitely didn't pick up on, but I noticed how jarring that was.
+
+696
+00:56:51,374 --> 00:56:52,834
+Yeah. That's Al that's a hard
+
+697
+00:56:54,054 --> 00:56:55,514
+character character change.
+
+698
+00:56:56,254 --> 00:57:03,289
+So the next page is the last one and it wraps up with them sailing back with a a just fabulous
+
+699
+00:57:03,589 --> 00:57:08,249
+treasure that of course is gonna get actually sketched away by the next adventure.
+
+700
+00:57:08,629 --> 00:57:09,129
+And
+
+701
+00:57:09,443 --> 00:57:13,652
+Huey, realizes that he has lost his cap again
+
+702
+00:57:14,388 --> 00:57:20,008
+must be back there in the mummy case and they've learned their lesson and they're going to use that treasure
+
+703
+00:57:20,346 --> 00:57:27,284
+to buy a new one and the last frame they sail past what what are a couple of very famous
+
+704
+00:57:28,261 --> 00:57:30,676
+egyptian monuments that I have somewhere in my notes
+
+705
+00:57:31,372 --> 00:57:36,737
+and they're singing hale hill the games all here and just a very nice tidy and
+
+706
+00:57:38,207 --> 00:57:38,707
+So
+
+707
+00:57:39,802 --> 00:57:40,701
+that was
+
+708
+00:57:41,278 --> 00:57:42,377
+that was the mummy
+
+709
+00:57:42,714 --> 00:57:43,214
+ring
+
+710
+00:57:43,991 --> 00:57:44,464
+and
+
+711
+00:57:45,122 --> 00:57:46,698
+Well I really enjoyed
+
+712
+00:57:47,035 --> 00:57:48,173
+I really enjoyed
+
+713
+00:57:49,705 --> 00:57:52,650
+na that and and hearing your thoughts
+
+714
+00:57:53,307 --> 00:57:54,564
+as anu newbie
+
+715
+00:57:54,980 --> 00:57:55,936
+going over this.
+
+716
+00:57:56,614 --> 00:58:00,234
+I want to talk about kind of our overall thoughts
+
+717
+00:58:01,091 --> 00:58:02,229
+about this one.
+
+718
+00:58:03,124 --> 00:58:15,179
+I think uniquely in this one, the the feeling that I can remember having the first time I read this is a little bit of disappointment. Right? Because this one ends up. It's billed as being about a mummy,
+
+719
+00:58:16,199 --> 00:58:16,699
+but
+
+720
+00:58:17,079 --> 00:58:23,658
+it's not. There's not a real mummy in this at all. It's just some crook in the disguise.
+
+721
+00:58:24,075 --> 00:58:26,728
+And And the there was a mummy in the sarcophagus
+
+722
+00:58:27,385 --> 00:58:34,053
+Right. You know, when the at the at the start of the frame and I assume it's been shoved into a garbage canyon in the so that by pete.
+
+723
+00:58:35,192 --> 00:58:39,184
+But there was no living mummy that that walked around
+
+724
+00:58:40,084 --> 00:58:41,624
+and had a purse or anything.
+
+725
+00:58:41,924 --> 00:58:42,424
+So,
+
+726
+00:58:43,364 --> 00:58:54,719
+you know, that was what I kinda took from this one was a little bit of buyers or more so oh, man, you know, that... That's kind of Al let down. But I I came back to this and I reread it many times.
+
+727
+00:58:55,219 --> 00:58:57,134
+I think without without knowing
+
+728
+00:58:57,555 --> 00:59:00,815
+until much later that this was the very first
+
+729
+00:59:01,354 --> 00:59:02,374
+fully plotted
+
+730
+00:59:03,114 --> 00:59:05,469
+fully drawn bar story.
+
+731
+00:59:05,848 --> 00:59:06,348
+And
+
+732
+00:59:06,846 --> 00:59:10,023
+I I really came to appreciate this one over the years,
+
+733
+00:59:10,521 --> 00:59:13,752
+and I have A make much more appreciation
+
+734
+00:59:14,251 --> 00:59:16,589
+for now. I I really enjoyed
+
+735
+00:59:17,047 --> 00:59:17,547
+the
+
+736
+00:59:17,966 --> 00:59:19,065
+the story elements
+
+737
+00:59:19,619 --> 00:59:20,119
+and
+
+738
+00:59:21,179 --> 00:59:25,739
+just the plotting and a lot of the way that Barks
+
+739
+00:59:26,939 --> 00:59:27,815
+into rated,
+
+740
+00:59:29,275 --> 00:59:30,335
+you know, egyptian,
+
+741
+00:59:30,874 --> 00:59:31,974
+lore and
+
+742
+00:59:32,474 --> 00:59:34,174
+egyptian culture and
+
+743
+00:59:34,795 --> 00:59:38,464
+you know, it... It really does feel like the travel log once they get there.
+
+744
+00:59:39,200 --> 00:59:39,700
+So
+
+745
+00:59:40,595 --> 00:59:46,452
+really enjoyed this one even if I felt like I I was mis direct it a little bit.
+
+746
+00:59:47,469 --> 00:59:51,720
+I'm I'm really curious about your your thoughts because I can't remember
+
+747
+00:59:52,297 --> 00:59:53,569
+you reading one of these
+
+748
+00:59:54,029 --> 00:59:57,205
+and really engaging with it. So so what did you think
+
+749
+00:59:57,544 --> 00:59:59,322
+overall of the mom ring?
+
+750
+00:59:59,781 --> 01:00:00,840
+I thought it was cool.
+
+751
+01:00:01,474 --> 01:00:04,974
+In the modern day, they would have stretched this over a few issues probably.
+
+752
+01:00:05,994 --> 01:00:06,494
+This
+
+753
+01:00:07,034 --> 01:00:08,194
+Indiana Jones ask
+
+754
+01:00:08,634 --> 01:00:10,789
+International Treasure Hunt perilous
+
+755
+01:00:11,488 --> 01:00:11,988
+adventure
+
+756
+01:00:12,327 --> 01:00:12,827
+rescue.
+
+757
+01:00:13,165 --> 01:00:13,985
+And and
+
+758
+01:00:14,524 --> 01:00:17,780
+I think you know, when I when I first read over it, I was thinking
+
+759
+01:00:19,050 --> 01:00:21,501
+You know, this is this is kind of a possibly
+
+760
+01:00:21,878 --> 01:00:23,453
+problematic view of this
+
+761
+01:00:24,666 --> 01:00:25,019
+this
+
+762
+01:00:25,517 --> 01:00:28,648
+egyptian leader who is very backward looking.
+
+763
+01:00:29,861 --> 01:00:32,651
+And then on the second reader, I realized,
+
+764
+01:00:33,983 --> 01:00:37,579
+Carl marx really just wanted a story to take place in ancient Egypt.
+
+765
+01:00:37,979 --> 01:00:44,846
+Just wanted to write an adventure that happens in ancient Egypt. But he didn't want to come up with some time travel rules or anything.
+
+766
+01:00:45,225 --> 01:00:51,495
+So Huey,. You know, he gave one frame to he's, you know, he doesn't like the modern world. He likes things
+
+767
+01:00:51,955 --> 01:00:52,775
+in in
+
+768
+01:00:53,155 --> 01:00:56,415
+a little more traditional. And and that way we were able to get the
+
+769
+01:00:56,795 --> 01:01:00,062
+the kind of eventually the Barks wanted. I was impressed at how capable
+
+770
+01:01:00,878 --> 01:01:08,895
+Donald is Al as the hero here. Like, even in this last frame, they're they're plainly still like sailing up the nile and this little,
+
+771
+01:01:09,474 --> 01:01:09,635
+you know,
+
+772
+01:01:10,675 --> 01:01:12,015
+three man sailboat boat.
+
+773
+01:01:12,795 --> 01:01:15,347
+They're apparently going to sail this across the Atlantic
+
+774
+01:01:17,398 --> 01:01:25,210
+back back to their hometown. And I mean, he is in a little sailor out of it. And a couple pages ago, he was
+
+775
+01:01:25,987 --> 01:01:27,884
+repairing a boat that wrecked
+
+776
+01:01:28,502 --> 01:01:31,876
+and it seems like he has some real skills. He's not just some
+
+777
+01:01:32,269 --> 01:01:33,447
+some goof that's
+
+778
+01:01:34,263 --> 01:01:35,920
+doing his best or whatever. He
+
+779
+01:01:36,417 --> 01:01:38,991
+he has some abilities and he's leveraging them to try and
+
+780
+01:01:39,663 --> 01:01:40,959
+reaches his objectives here.
+
+781
+01:01:41,376 --> 01:01:46,510
+Yeah. And and again, I I've gotta think that after the depression, this is just kind of like
+
+782
+01:01:47,369 --> 01:01:50,146
+what Americans felt like they could do,
+
+783
+01:01:50,525 --> 01:02:13,641
+you know, they they and long enough needing to to make do. We'll we'll take a moment for kind of final thoughts. But before before we do that, there's just a few other reflections that I want to to do... I I'd love to talk a little bit kind of specifically. We we touched on how it holds up. Like I said, there's some some problematic
+
+784
+01:02:14,140 --> 01:02:15,279
+depictions in this.
+
+785
+01:02:15,938 --> 01:02:18,410
+I think for the most part, this
+
+786
+01:02:19,150 --> 01:02:19,650
+is
+
+787
+01:02:20,470 --> 01:02:20,970
+generally
+
+788
+01:02:21,470 --> 01:02:21,970
+respectful
+
+789
+01:02:22,349 --> 01:02:31,613
+at least relative to a lot of of media of this time. You know, obviously, there are some things that wouldn't be shown were presented
+
+790
+01:02:32,430 --> 01:02:32,590
+today.
+
+791
+01:02:33,308 --> 01:02:33,808
+But,
+
+792
+01:02:34,546 --> 01:02:36,940
+you know, a apart from just sort of the general
+
+793
+01:02:38,359 --> 01:02:38,859
+eastern
+
+794
+01:02:40,079 --> 01:02:40,579
+orient
+
+795
+01:02:41,200 --> 01:02:41,700
+mindset.
+
+796
+01:02:42,174 --> 01:02:43,393
+I I think
+
+797
+01:02:43,771 --> 01:02:57,630
+he he did a pretty good job again in relative terms creating on a curve, you know. I think any media that you look Al from this time is probably going to look pretty dated with some attitudes
+
+798
+01:02:58,130 --> 01:02:58,630
+towards
+
+799
+01:02:59,104 --> 01:02:59,604
+words
+
+800
+01:03:00,063 --> 01:03:02,100
+people from the east.
+
+801
+01:03:02,500 --> 01:03:14,904
+But apart from looking at, you know, stuff that might be problematic I also think it might be interesting to highlight some things that are just out of time. Right? Some some things that are interest stanley
+
+802
+01:03:15,204 --> 01:03:19,904
+dated it now. And and I noticed... I don't know if you remember at the beginning of the story.
+
+803
+01:03:20,764 --> 01:03:30,213
+Donald references doing all his at the five and ten when he's getting mug by pete. I I didn't know what a five and ten was. Did you catch that?
+
+804
+01:03:31,603 --> 01:03:33,781
+I I've always assumed it was,
+
+805
+01:03:34,200 --> 01:03:36,956
+you know, some kind of thrift shop or a pawns shop.
+
+806
+01:03:37,636 --> 01:03:48,384
+Yeah. I I it up. And a five and ten is what you might think it is. It's where everything costs either a nickel or a dime. So it's basically an old school dollar store. I noticed
+
+807
+01:03:49,204 --> 01:03:49,704
+I
+
+808
+01:03:50,005 --> 01:03:51,505
+I made note of
+
+809
+01:03:51,964 --> 01:03:56,398
+when they miss misspelled kidnapped the first time they said kidnapped in the museum.
+
+810
+01:03:57,136 --> 01:03:57,636
+And
+
+811
+01:03:58,213 --> 01:04:03,144
+then they spelled it the same way on the next page and the next page. And here at the end when then we were
+
+812
+01:04:03,562 --> 01:04:04,994
+doing our exposition dump
+
+813
+01:04:05,652 --> 01:04:07,309
+you know, he was still a kid neighbor
+
+814
+01:04:07,686 --> 01:04:08,524
+with one p.
+
+815
+01:04:09,162 --> 01:04:11,377
+And and I thought maybe this is just
+
+816
+01:04:11,754 --> 01:04:16,416
+an old time way of writing right. Yeah. I noticed that this time as well. I also,
+
+817
+01:04:16,992 --> 01:04:21,319
+you know, had to look up the song because I've I've heard those statues of Song Lyrics
+
+818
+01:04:22,214 --> 01:04:23,524
+a few times, but
+
+819
+01:04:24,184 --> 01:04:28,164
+Hale the gangs all here what they're seeing at the end, which is very appropriate.
+
+820
+01:04:28,944 --> 01:04:30,744
+I guess it's from Pirates pens ants.
+
+821
+01:04:31,796 --> 01:04:32,296
+And
+
+822
+01:04:32,951 --> 01:04:39,804
+must have been just huge in the popular imagination at the time. I don't think it's something that we would casually seeing anymore.
+
+823
+01:04:41,501 --> 01:04:42,721
+That's probably true.
+
+824
+01:04:43,339 --> 01:04:46,436
+I also wanna talk about if there's appearances and other media.
+
+825
+01:04:47,495 --> 01:04:52,089
+So This... To my knowledge, this was never used as the basis for a
+
+826
+01:04:52,509 --> 01:04:54,529
+story, which many of them will have been.
+
+827
+01:04:54,989 --> 01:04:56,424
+But I think famously,
+
+828
+01:04:57,844 --> 01:04:59,704
+there's a sequence in the opening
+
+829
+01:05:00,484 --> 01:05:05,196
+that is an homage to this. If you go back and watch the theme song.
+
+830
+01:05:05,854 --> 01:05:07,790
+There is a mummy
+
+831
+01:05:08,208 --> 01:05:13,993
+waking up, looking at a red glowing ring, and I think that's you know, again, part of the mis
+
+832
+01:05:14,611 --> 01:05:15,671
+because I definitely
+
+833
+01:05:16,010 --> 01:05:16,510
+seen
+
+834
+01:05:17,088 --> 01:05:21,518
+Ducktales by the time I read this. Even if I read Barks stories earlier.
+
+835
+01:05:22,175 --> 01:05:24,690
+You know, that gave me reason to expect a real money.
+
+836
+01:05:25,408 --> 01:05:26,946
+There just never was.
+
+837
+01:05:27,883 --> 01:05:29,541
+There there aren't any
+
+838
+01:05:31,010 --> 01:05:32,706
+I haven't talked to you about
+
+839
+01:05:33,043 --> 01:05:34,540
+Mark's other career
+
+840
+01:05:35,156 --> 01:05:36,932
+as as an oil painter,
+
+841
+01:05:37,469 --> 01:05:37,969
+but
+
+842
+01:05:38,545 --> 01:05:41,814
+that's something that I will highlight in these episodes
+
+843
+01:05:42,153 --> 01:05:44,928
+if he ever based a painting off this one.
+
+844
+01:05:45,306 --> 01:05:48,580
+To my knowledge, there aren't any big oil paintings.
+
+845
+01:05:49,353 --> 01:05:51,449
+Taken from this story.
+
+846
+01:05:52,544 --> 01:06:00,249
+Do you have any final thoughts about this story? Oh, I let me let me interject really quick because I did forget
+
+847
+01:06:00,869 --> 01:06:05,249
+to talk about... We talked about how we felt about story, but for the general
+
+848
+01:06:05,549 --> 01:06:05,824
+consensus
+
+849
+01:06:06,643 --> 01:06:12,578
+I like to take a look at there's a website called Index, i d u c k s
+
+850
+01:06:12,957 --> 01:06:16,828
+that's kind of Al aggregate where they rate all of the
+
+851
+01:06:17,286 --> 01:06:24,353
+Disney stories is they let users rate them. So they get a pretty good critical consensus for many of these stories.
+
+852
+01:06:24,932 --> 01:06:35,400
+And this one had a pretty strong seven point six rating, which puts it as two hundred and fifty four out of more than forty thousand
+
+853
+01:06:35,779 --> 01:06:37,759
+stories. Not just Barks stories.
+
+854
+01:06:38,779 --> 01:06:47,756
+That doesn't put it like in the very, very upper echelon, but that would put this as a pretty well regarded Barks story. So I would say that just...
+
+855
+01:06:48,253 --> 01:06:55,911
+you know, as is fitting, but this is the first Barks story, and I'll let this kind of be my my final thoughts.
+
+856
+01:06:57,606 --> 01:07:02,395
+The the... This is really the story that set the template
+
+857
+01:07:02,855 --> 01:07:06,715
+for what Barks was going to do going forward. You know, these really
+
+858
+01:07:07,415 --> 01:07:09,715
+grand adventures where through happens
+
+859
+01:07:10,950 --> 01:07:13,450
+they get swept up into something,
+
+860
+01:07:14,190 --> 01:07:15,450
+and they have to
+
+861
+01:07:16,030 --> 01:07:18,663
+figure out their way out a pretty big jam.
+
+862
+01:07:19,482 --> 01:07:21,620
+And along the way, we
+
+863
+01:07:22,199 --> 01:07:24,058
+oftentimes get treated to
+
+864
+01:07:24,517 --> 01:07:25,896
+some really interesting
+
+865
+01:07:26,435 --> 01:07:29,230
+x exploration of another culture
+
+866
+01:07:29,890 --> 01:07:30,390
+or,
+
+867
+01:07:31,250 --> 01:07:34,605
+you know, some some cool aspect of of mythology.
+
+868
+01:07:35,821 --> 01:07:38,155
+So I I think it was just a really
+
+869
+01:07:38,532 --> 01:07:42,182
+really fun to revisit this one. And I'm really glad that I got too.
+
+870
+01:07:42,799 --> 01:07:45,708
+Do you have any any closing thoughts about this.
+
+871
+01:07:47,086 --> 01:07:47,786
+I think,
+
+872
+01:07:48,844 --> 01:07:50,542
+you know, for for a debut
+
+873
+01:07:51,161 --> 01:07:52,100
+story essentially,
+
+874
+01:07:53,693 --> 01:07:55,951
+pretty impressive. I would I would have expected,
+
+875
+01:07:56,610 --> 01:07:56,770
+you know,
+
+876
+01:07:57,569 --> 01:08:00,786
+any any creators first attempt to be a little bit more of
+
+877
+01:08:01,540 --> 01:08:07,940
+a bundle and we're kind feeling out, You don't really have the right the right tone yet. You don't really have the right pacing yet.
+
+878
+01:08:09,955 --> 01:08:10,455
+And
+
+879
+01:08:12,195 --> 01:08:13,775
+I I think it shows a lot of
+
+880
+01:08:14,115 --> 01:08:14,615
+creativity
+
+881
+01:08:15,155 --> 01:08:15,655
+and
+
+882
+01:08:16,929 --> 01:08:21,545
+kind of Al interest in, you know, really telling something interesting instead of...
+
+883
+01:08:21,964 --> 01:08:24,701
+I think a lot of the comics of this era might have been more
+
+884
+01:08:26,174 --> 01:08:26,794
+you know
+
+885
+01:08:27,532 --> 01:08:29,191
+I don't know it could have been something very
+
+886
+01:08:29,890 --> 01:08:31,549
+overly tame and
+
+887
+01:08:32,687 --> 01:08:36,395
+boring because you know, you can sell it for for a dime and
+
+888
+01:08:36,853 --> 01:08:41,600
+and they'll just buy whatever. So why make it good, but he made it good anyway. Alright.
+
+889
+01:08:42,453 --> 01:08:46,509
+Yeah. There's a lot of love care that's gone into this, obviously.
+
+890
+01:08:46,848 --> 01:08:46,888
+Well,
+
+891
+01:08:47,926 --> 01:08:50,458
+Brian thank you so much. For for joining me.
+
+892
+01:08:51,177 --> 01:08:52,736
+Really thrilled to get to do this.
+
+893
+01:08:53,295 --> 01:08:53,795
+And
+
+894
+01:08:54,533 --> 01:08:57,805
+looking forward to having you back for some more of these
+
+895
+01:08:59,305 --> 01:09:00,965
+So if you
+
+896
+01:09:01,625 --> 01:09:02,685
+have any
+
+897
+01:09:03,025 --> 01:09:04,745
+thoughts or comments, listeners,
+
+898
+01:09:05,718 --> 01:09:10,906
+You can feel free to drop us line at Barks mark's at g mail dot com.
+
+899
+01:09:11,703 --> 01:09:12,203
+And
+
+900
+01:09:12,622 --> 01:09:18,669
+please join us the next time on Mark's remarks when we talk about too many pets.
+
+901
+01:09:19,069 --> 01:09:20,528
+Thank you very much.
+
+902
+01:09:21,746 --> 01:09:29,990
+And this is Barks jumping in one last time. I had forgotten to mention a couple of things in my notes.
+
+903
+01:09:30,685 --> 01:09:33,185
+The fact that Barks copied some of the landmarks
+
+904
+01:09:33,805 --> 01:09:34,465
+that he
+
+905
+01:09:34,965 --> 01:09:37,305
+saw in the National geographic article,
+
+906
+01:09:37,685 --> 01:09:39,836
+daily Life, in Inch Egypt.
+
+907
+01:09:40,729 --> 01:09:48,822
+Some of the sites depicted in this story include great sphinx of Gi on page seventeen, the Skyline of Cairo on Page seventeen and eighteen.
+
+908
+01:09:49,720 --> 01:09:50,899
+The pyramid of May
+
+909
+01:09:51,638 --> 01:09:57,630
+may do on Page nineteen, the pyramid of Joe on page twenty and the Barks temple of hat
+
+910
+01:09:58,090 --> 01:09:58,590
+shit
+
+911
+01:09:59,010 --> 01:10:01,789
+on page twenty one and twenty two as well as the
+
+912
+01:10:02,249 --> 01:10:03,249
+of mem.
+
+913
+01:10:04,142 --> 01:10:08,650
+And I wanted to introduce our ask kids segments,
+
+914
+01:10:09,687 --> 01:10:21,760
+so give a lesson. Hello. This is Ryan. I'm back for the Ask kid segment, and I am here with an actual kid. What is your first name kit? Penny. Penny. And what grade are you in? First gray.
+
+915
+01:10:22,560 --> 01:10:23,819
+Okay. So
+
+916
+01:10:24,198 --> 01:10:26,835
+we just read Dun duck and the mummy ring.
+
+917
+01:10:27,690 --> 01:10:30,507
+So you have some experience with comics? Do you...
+
+918
+01:10:30,966 --> 01:10:32,605
+Did you like this one? Mh.
+
+919
+01:10:33,404 --> 01:10:36,361
+And did you feel like you understood what was going on?
+
+920
+01:10:37,694 --> 01:10:39,849
+Kind of? Were there some parts that were hard to understand?
+
+921
+01:10:40,368 --> 01:10:41,167
+No. No.
+
+922
+01:10:41,965 --> 01:10:46,755
+Was it scary? No. No. Were you worried for the for the nephews?
+
+923
+01:10:47,568 --> 01:10:48,366
+Yeah. No...
+
+924
+01:10:49,203 --> 01:10:50,102
+Why weren't you worried?
+
+925
+01:10:50,600 --> 01:10:51,398
+I don't yeah.
+
+926
+01:10:52,395 --> 01:10:54,031
+You knew they were gonna be okay? Mh.
+
+927
+01:10:54,804 --> 01:10:55,624
+Okay. And
+
+928
+01:10:56,724 --> 01:10:58,545
+so what was your favorite part? Patrick
+
+929
+01:11:00,164 --> 01:11:00,664
+and
+
+930
+01:11:01,405 --> 01:11:02,045
+nine three.
+
+931
+01:11:03,299 --> 01:11:03,799
+Okay.
+
+932
+01:11:04,136 --> 01:11:05,614
+Did you think the book was fun?
+
+933
+01:11:06,651 --> 01:11:06,771
+Yeah.
+
+934
+01:11:08,687 --> 01:11:09,506
+Would you
+
+935
+01:11:10,323 --> 01:11:11,800
+read more of these? If there were more of these?
+
+936
+01:11:13,811 --> 01:11:17,264
+No. I think I like guys our books bit better. Yeah.
+
+937
+01:11:17,682 --> 01:11:18,160
+Okay. Okay.
+
+938
+01:11:19,398 --> 01:11:20,595
+And I like keith.
+
+939
+01:11:21,729 --> 01:11:23,829
+That's pretty great. Who doesn't let Kitties?
+
+940
+01:11:24,609 --> 01:11:24,769
+Alright.
+
+941
+01:11:25,489 --> 01:11:28,409
+Thank you, Ryan, and thank you, Penny. We'll see you all next time.
+

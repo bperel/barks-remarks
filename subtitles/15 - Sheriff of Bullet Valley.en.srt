@@ -1,0 +1,2800 @@
+1
+00:00:21,422 --> 00:00:48,505
+Hello, and welcome to Barks remark. The podcast where we talk about the stories from the legendary Carl Barks, creator of sc Mc and writer and artist of the greatest Donald and Scrooge comics of all time. Join us as we explore his longer adventure stories in their chronological publishing or We'll talk about what makes them so enduring their historical context and how well they hold up today. So get out your reprint and get ready to enjoy our remarks.
+
+2
+00:00:48,960 --> 00:00:59,228
+Welcome back. I am excited to be back with another returning guest host for the classic story sheriff of bullet Valley, but
+
+3
+00:00:59,924 --> 00:01:06,225
+introductions first. Guest host. Who are you? My name is Eric Hart, Al lover of Ducktales and Western.
+
+4
+00:01:06,838 --> 00:01:12,241
+Awesome. So that was gonna be my first question, Eric. Are are you a western fan because
+
+5
+00:01:12,579 --> 00:01:12,738
+boy,
+
+6
+00:01:13,456 --> 00:01:14,771
+it's it's gonna help with this one.
+
+7
+00:01:16,025 --> 00:01:20,325
+Yeah. I I grew up on Western as a kid. I have had to do
+
+8
+00:01:20,945 --> 00:01:21,445
+projects
+
+9
+00:01:21,865 --> 00:01:34,884
+on hop cassidy, some versed in the old era. Big fan of the lessons of the air is from this cop as well. Nice. So even specifically this era, right? And and we are talking sheriff of bullet valley in the late forties.
+
+10
+00:01:35,860 --> 00:01:44,280
+So let's see we've got what... I think treasure of the Sierra Andre came out the same year as this one. Yeah. I don't know that is qualified as a western.
+
+11
+00:01:44,660 --> 00:01:56,604
+It's it's the that time frame. Yeah. But... Yeah. John Wayne was in his his heyday around this Mh. So I'm glad to hear it. I thought you might have been western fan. I'm I'm not a big western fan,
+
+12
+00:01:57,102 --> 00:01:57,602
+but
+
+13
+00:01:58,658 --> 00:01:59,637
+you're you're gasping.
+
+14
+00:02:01,069 --> 00:02:14,095
+But I do like... I mean, I like some western adjacent stories. And I I mean, this one, I I think I introduced it as Al classic. I I love this story. I'm so excited to talk about this one.
+
+15
+00:02:14,435 --> 00:02:16,990
+So so let's get into it.
+
+16
+00:02:17,970 --> 00:02:21,090
+Hey, really quickly though. What what are some of your favorite western?
+
+17
+00:02:21,810 --> 00:02:24,330
+Winchester seventy six with Jimmy Stewart very good.
+
+18
+00:02:25,104 --> 00:02:26,243
+This some classic
+
+19
+00:02:26,861 --> 00:02:27,681
+man with donate
+
+20
+00:02:28,779 --> 00:02:29,857
+clint east.
+
+21
+00:02:30,257 --> 00:02:31,795
+There was some early
+
+22
+00:02:32,149 --> 00:02:35,222
+I've seen some really telling. The the sons of Katie elder is one of his good ones.
+
+23
+00:02:35,901 --> 00:02:36,380
+True grit,
+
+24
+00:02:37,697 --> 00:02:44,401
+later ones in the eighties, I grew up on the one called Silver silverado with Kevin Kevin Klein and then just so many
+
+25
+00:02:44,740 --> 00:02:45,799
+western novels
+
+26
+00:02:46,258 --> 00:02:55,803
+from Ou moore when we do Road trips as a kid, just all sorts of them. Wow. So so... Yeah. So you're like, the the target audience for this one, basically.
+
+27
+00:02:57,021 --> 00:02:57,820
+Yes. Yes.
+
+28
+00:02:58,435 --> 00:03:01,935
+So do you like... Do you think you like like, the spaghetti West,
+
+29
+00:03:02,395 --> 00:03:06,475
+the classic aero ones, the like later era revision ones?
+
+30
+00:03:07,090 --> 00:03:16,725
+Well, the they'll have place. I think of those three, the later revision ones, I'm not the big fan of because the Western
+
+31
+00:03:17,785 --> 00:03:21,685
+growing up and how they are modeled in society was always the
+
+32
+00:03:22,025 --> 00:03:24,125
+lone hero or the
+
+33
+00:03:24,519 --> 00:03:27,796
+struggling farmer against the the the land Barks.
+
+34
+00:03:28,315 --> 00:03:28,815
+And
+
+35
+00:03:29,514 --> 00:03:30,014
+when
+
+36
+00:03:30,353 --> 00:03:34,264
+they brought them up the new one, the revisions wants that a week. Late
+
+37
+00:03:35,400 --> 00:03:41,726
+always all on the x... Just a lot more file lot more gritty which certainly has its place
+
+38
+00:03:42,119 --> 00:03:47,124
+but it's just very different western they grew up with so I'm not the biggest fan. I guess.
+
+39
+00:03:47,701 --> 00:03:50,970
+The original Magnificent seven was fantastic. Yeah. The remake,
+
+40
+00:03:51,703 --> 00:03:57,906
+Not so much. It was it was an entertaining movie. But far as Western go, it just... It didn't do it for me. So
+
+41
+00:03:58,363 --> 00:04:00,995
+sheriff from bullet Valley is a real love letter.
+
+42
+00:04:01,728 --> 00:04:04,978
+To Tv and movie western. Right? This is
+
+43
+00:04:05,754 --> 00:04:06,950
+incredibly of its time.
+
+44
+00:04:08,146 --> 00:04:13,605
+This this is gonna be fun to talk about. So the story is published in
+
+45
+00:04:14,301 --> 00:04:19,746
+October of nineteen forty eight in the comic four color number one hundred and ninety nine
+
+46
+00:04:20,539 --> 00:04:31,885
+I checked number of reprint. This one's been reprint quite a lot in the Us ten ten different prints were listed. And this is one of our longer stories that we've looked. This is a thirty two pager.
+
+47
+00:04:32,585 --> 00:04:33,085
+And
+
+48
+00:04:34,025 --> 00:04:37,885
+Eric, I didn't talk to you about this, but you wanna you wanna give the synopsis
+
+49
+00:04:38,878 --> 00:04:41,695
+or do you want me to go for it? I got this...
+
+50
+00:04:42,394 --> 00:04:45,150
+Essentially, this story is donald in and nephews.
+
+51
+00:04:45,764 --> 00:04:47,543
+And they come across a
+
+52
+00:04:48,282 --> 00:05:06,134
+town area called both valley you see a poster saying you know, rust in the area, big reward available and Donald does love with Western besides the angles. I know Hud beings for cut us. I'm gonna go assignments up up those deputy convince this year that he should be good deputy goes up to trying to find the the
+
+53
+00:05:06,631 --> 00:05:07,131
+Wrestlers
+
+54
+00:05:07,988 --> 00:05:08,847
+and then
+
+55
+00:05:09,424 --> 00:05:11,121
+comes across individuals
+
+56
+00:05:11,579 --> 00:05:20,409
+who say, no. We're getting russell. Turns out that they are the real rust, and they've got a quite the neat trick as to convince everyone the brand
+
+57
+00:05:20,803 --> 00:05:25,130
+they're... Their their cat actually hit. Once the net couldn't,
+
+58
+00:05:25,666 --> 00:05:26,663
+show up to say the day,
+
+59
+00:05:27,340 --> 00:05:36,302
+convince Donald that he was wrong. The bad guy gets away and Dom has to track him for the badlands and use his gum if you will to
+
+60
+00:05:36,613 --> 00:05:44,905
+beat the villain and capture capture the evil catalyst foot. Right on. Yeah. So his his knowledge of the angles is gonna pay off eventually.
+
+61
+00:05:45,439 --> 00:05:49,051
+Yeah. So this this is really about Cowboy cliches.
+
+62
+00:05:49,509 --> 00:05:56,329
+Right? And about the the idea of the west and the idea of the Hollywood wild West.
+
+63
+00:05:56,746 --> 00:05:58,484
+And is interesting
+
+64
+00:05:58,902 --> 00:06:03,208
+how we're meant, I think at the beginning to think of Donald
+
+65
+00:06:03,545 --> 00:06:04,961
+as you know, foolish
+
+66
+00:06:05,498 --> 00:06:07,393
+and wrong headed and
+
+67
+00:06:08,208 --> 00:06:10,795
+then we're really supposed to regard him as
+
+68
+00:06:11,455 --> 00:06:13,195
+heroic by the end. So
+
+69
+00:06:13,535 --> 00:06:14,195
+this is
+
+70
+00:06:14,615 --> 00:06:16,195
+an interesting love letter
+
+71
+00:06:16,615 --> 00:06:22,923
+to what I I've heard called the horse opera. Yes. The the proper term for Domino's be green horn.
+
+72
+00:06:23,341 --> 00:06:24,919
+Right. Yeah. Excellent.
+
+73
+00:06:25,497 --> 00:06:28,650
+So here's Al little bit of background trivia about this story.
+
+74
+00:06:29,144 --> 00:06:35,469
+I read a pretty good article by the editor Jeffrey Blu in in my reprint of this. And
+
+75
+00:06:35,927 --> 00:06:43,943
+Blu talks about how Carl Barks was well known as being a fan of horse opera, you know, it it's very obvious and this one that he
+
+76
+00:06:44,281 --> 00:06:46,992
+wanted to create this kind of love letter.
+
+77
+00:06:47,491 --> 00:06:55,037
+I did learn some new stuff from this one. I found that this story it uses some elements from a a Mickey mouse cartoon
+
+78
+00:06:55,416 --> 00:07:00,090
+that Barks had had story boarded back when he was working for the film division.
+
+79
+00:07:01,062 --> 00:07:02,957
+That that never ended up being
+
+80
+00:07:03,574 --> 00:07:05,727
+completed. It was called Northwest mounted,
+
+81
+00:07:06,285 --> 00:07:09,350
+it had pete as the villain. So, you know, black snake
+
+82
+00:07:10,210 --> 00:07:11,230
+kinda of fits nicely
+
+83
+00:07:11,650 --> 00:07:15,590
+into that villain slot in this one. And the little yoyo
+
+84
+00:07:15,890 --> 00:07:22,933
+segment, the treatment that he gives black snake at the end is taken straight from that story board. And what... Don't don't waste a good idea.
+
+85
+00:07:23,652 --> 00:07:27,026
+Right. And Bo is gonna go back to this well a few times
+
+86
+00:07:27,339 --> 00:07:32,430
+for his stories. You know, there's gonna be a few of these wild west sort of dude ranch
+
+87
+00:07:32,808 --> 00:07:33,787
+themed stories.
+
+88
+00:07:34,165 --> 00:07:35,163
+It's a setting that he likes.
+
+89
+00:07:36,081 --> 00:07:41,106
+He doesn't do it too much in the adventure length ones. I can think of in old California
+
+90
+00:07:42,203 --> 00:07:45,616
+offhand and then a few like old mining town ones
+
+91
+00:07:46,567 --> 00:07:55,660
+oh the one, the good mystery of the ghost town railroad, I think it was called. But... Yeah, he he does... He definitely enjoys... Enjoys this genre.
+
+92
+00:07:57,071 --> 00:08:10,693
+I thought it was interesting that right in the beginning of this one, it seems to be one of a small number of times that Donald is gonna break the fourth wall where he kind of addressed is the reader directly. And then there is a fun little car of Barks
+
+93
+00:08:11,212 --> 00:08:15,324
+himself on the very last page of this. That people can keep an eye for.
+
+94
+00:08:15,984 --> 00:08:19,824
+He's I think he's in a wanted poster or something like this that he drove himself.
+
+95
+00:08:20,744 --> 00:08:22,044
+A few of the
+
+96
+00:08:22,519 --> 00:08:32,242
+I didn't share with you the titles from around the world. Can I send it to the chat real quick? Here. This is this will be fun just doing it like,
+
+97
+00:08:32,999 --> 00:08:36,487
+right off the top. Alright. I've sent you some of the titles
+
+98
+00:08:37,279 --> 00:08:39,297
+oh, the top one is Denmark.
+
+99
+00:08:39,635 --> 00:08:44,904
+Let me let me do Denmark. So the Danish title from Denmark, this one is Cher
+
+100
+00:08:45,285 --> 00:08:46,885
+e six Logo Al
+
+101
+00:08:47,685 --> 00:08:52,645
+where the sheriff of the six Gun Valley, I believe is the pronunciation. Wow.
+
+102
+00:08:53,300 --> 00:08:54,360
+Do you wanna do...
+
+103
+00:08:54,740 --> 00:08:57,040
+You wanna try France? Do you wanna try Spam?
+
+104
+00:08:57,820 --> 00:08:59,180
+Start Friends. Alright.
+
+105
+00:09:00,993 --> 00:09:01,493
+Louie.
+
+106
+00:09:02,150 --> 00:09:02,230
+Alright.
+
+107
+00:09:03,507 --> 00:09:14,713
+Who calls the shots. Yeah. And that one is like I think a eu in french. Right? Who's Who's the shock collar? Alright. And then in Spain, this one is El cher, D la the last.
+
+108
+00:09:15,847 --> 00:09:17,920
+Share valley of the bullets. Yeah.
+
+109
+00:09:19,290 --> 00:09:22,301
+Let's see you wanna do the Dutch title there for Netherlands.
+
+110
+00:09:22,758 --> 00:09:24,015
+Hang on dishes
+
+111
+00:09:25,667 --> 00:09:26,146
+google Al,
+
+112
+00:09:26,919 --> 00:09:28,657
+Yep. Direct. You're
+
+113
+00:09:29,276 --> 00:09:30,774
+Valley. Awesome awesome.
+
+114
+00:09:31,513 --> 00:09:33,810
+And then I'll do... I'll do Italy and Leave you Mexico.
+
+115
+00:09:34,602 --> 00:09:35,621
+Italy is
+
+116
+00:09:38,230 --> 00:09:38,730
+mit
+
+117
+00:09:39,745 --> 00:09:40,803
+sheriff of
+
+118
+00:09:41,579 --> 00:09:44,290
+machine gun valley, I think is is actually the
+
+119
+00:09:44,750 --> 00:09:46,570
+translation in Mexican awesome.
+
+120
+00:09:46,910 --> 00:09:47,410
+Mexico.
+
+121
+00:09:48,470 --> 00:10:02,018
+By at least the sheer happy bell. Yeah. I I don't know why that printing calls it happy valley. But but there you go. Alright. So we've got our background trivia. We've got our titles from around the world.
+
+122
+00:10:02,757 --> 00:10:03,257
+So
+
+123
+00:10:03,675 --> 00:10:11,105
+value wise, I found a nine point two edition of this that was sold for two thousand five hundred dollars.
+
+124
+00:10:11,685 --> 00:10:11,765
+So...
+
+125
+00:10:12,685 --> 00:10:14,825
+Yeah. These are getting a little bit more affordable.
+
+126
+00:10:15,285 --> 00:10:20,540
+There there may come a point where we don't where we're not really interested in the value anymore. But.
+
+127
+00:10:21,100 --> 00:10:23,800
+Yeah. Still fun to know. So the background
+
+128
+00:10:24,314 --> 00:10:38,115
+I'm not gonna talk too much right now about this because I think we can touch on it naturally throughout the story. But to me, like the sub of this, the cultural sub is like the collision of the old West and the new west.
+
+129
+00:10:38,811 --> 00:10:38,890
+Right?
+
+130
+00:10:39,648 --> 00:10:51,585
+We've got... We've got kind of the the cowboys, the the ranch hands that have been doing this the old way and the story versus the new modern way and then we've got
+
+131
+00:10:51,979 --> 00:10:52,919
+Of course,
+
+132
+00:10:53,377 --> 00:10:58,570
+all of the Hollywood cliches and how that intersect with the reality of the west.
+
+133
+00:10:59,265 --> 00:11:02,165
+And then, of course, you know, we've got this this era
+
+134
+00:11:02,865 --> 00:11:03,365
+consistent
+
+135
+00:11:03,865 --> 00:11:13,921
+fascination with like ray gun. Are gonna show up in this one. Right? Radar, it's the same thing with, like, uranium and and atomic energy.
+
+136
+00:11:14,474 --> 00:11:17,843
+How it's kind of this catch all. Right? And it can do anything.
+
+137
+00:11:18,539 --> 00:11:28,780
+I mean, I I love it. I love it. As a Mac ago in this story, I think it I think it feels very natural, but, you know, it's it's definitely a little bit of, like, magic story juice.
+
+138
+00:11:29,380 --> 00:11:30,534
+Sure. It's just...
+
+139
+00:11:30,912 --> 00:11:38,975
+It's that error right after the Wall war and, you know, and radar was a big thing, and it was just says okay. Well, let's do rays.
+
+140
+00:11:39,549 --> 00:11:44,099
+Yeah to discover all this aspect to like traumatic from Al that scale.
+
+141
+00:11:44,858 --> 00:11:50,705
+Yeah. Exactly. A notable appearances in this one. You know, he's a one off villain, but Black snake
+
+142
+00:11:51,585 --> 00:11:57,225
+To me is very notable. He is one of the cooler villains I think Barks has ever used.
+
+143
+00:11:58,040 --> 00:12:00,780
+Yeah. He he has a good development
+
+144
+00:12:02,120 --> 00:12:02,900
+and good
+
+145
+00:12:03,240 --> 00:12:15,295
+come up in a really good actual really good plan for ben he's a solid day yeah. Yeah. It's true. And and do you know what I really like about him unlike a lot of Disney villains,
+
+146
+00:12:15,710 --> 00:12:16,930
+I I never
+
+147
+00:12:17,270 --> 00:12:20,690
+have any doubt that he will straight up murder Donald.
+
+148
+00:12:22,230 --> 00:12:48,295
+Yes. He is yes. He an intense frightening going to me. So as far as Donald goes, which version of him we've got this is the one where he starts out is very over confident and then he kinda of calibrate and and and switches into that sort of determined get it done version of don. Yeah. We don't really see the cow version of him from that we saw in Bear Mountain. Yeah. That's true. That's the most recent one.
+
+149
+00:12:49,467 --> 00:13:02,240
+Apart from from Barks Africa. We did that one recently where, you know, Barks needed him to be a coward in this one he needs him to be brave. So that's that's what he does. He's Donald as his every man. Alright. Eric...
+
+150
+00:13:03,059 --> 00:13:06,835
+Any any other pre story comments before we talk about the actual
+
+151
+00:13:07,149 --> 00:13:08,088
+part of this one?
+
+152
+00:13:08,426 --> 00:13:16,685
+Well, I I just quickly on when your last comment was. Donald is... Yes, he's not coward but in this aspect, he's so
+
+153
+00:13:17,105 --> 00:13:18,845
+inundated and obsessed with Western
+
+154
+00:13:19,305 --> 00:13:33,378
+that he's convinced himself. I've watched them all. I can do this. This is what I am. So that kinda overcomes that typical coward to stop him even those nephews are like really? He's like, absolutely. I can do this and that never really waivers.
+
+155
+00:13:33,755 --> 00:13:51,965
+Yeah. Yeah. That's a good... That's a good sum submission of it. Right. Alright. So the Sheriff of bullet Valley opens with a kind of sol on the old west. We've got Donald and the Nephews driving through the west, but the the focus is more on the scenery first. And the Barks is
+
+156
+00:13:52,305 --> 00:14:00,527
+describing the classic west of cinema. With some really, like flo language about des autos and rust and rim lift sheriff.
+
+157
+00:14:00,906 --> 00:14:20,870
+And the Ducktales drive passed Al classic boot hill and then they enter a small western town where the narration box abruptly halt to let them investigate a wanted poster that promises two thousand dollars for the capture of the gain of rust that are now cleaning out what we learn is bullet Valley. And one nephew you mentions
+
+158
+00:14:21,264 --> 00:14:25,115
+thinking that he thought cattle wrestlers only came to life in the movies.
+
+159
+00:14:25,493 --> 00:14:28,866
+And this is the part where Donald actually wink at the audience
+
+160
+00:14:29,418 --> 00:14:36,630
+and he informs them of his intention to collect that reward stating that he's seen enough western movies to know all the angles.
+
+161
+00:14:37,165 --> 00:14:42,325
+And we get a quick initial look at bullet Al, which really is straight out of the movies.
+
+162
+00:14:42,964 --> 00:14:44,720
+The both Al great
+
+163
+00:14:45,259 --> 00:14:47,956
+I love the little things in the sides, the
+
+164
+00:14:48,615 --> 00:14:51,912
+cow running and then a random gun just lying somewhere
+
+165
+00:14:52,371 --> 00:14:53,090
+in the dirt.
+
+166
+00:14:53,703 --> 00:14:55,998
+Is is a great depiction of this law
+
+167
+00:14:56,615 --> 00:14:59,047
+tough value that people live in. Yeah.
+
+168
+00:14:59,765 --> 00:15:03,155
+Alright. And so Donald goes in to meet the sheriff of bullet Al.
+
+169
+00:15:03,848 --> 00:15:25,469
+And he strides in confidently and tells him that he'd like to clean out those wrestlers for him. The sheriff seems to be a very relaxed man with a sleepy look who favors a pipe. He tells Donald, these rust are a job for the Us marines. But Donald isn't discouraged, and he describes a bunch of scenarios that Hollywood heroes like sage brush, savage,
+
+170
+00:15:26,009 --> 00:15:31,044
+wild bill carson and trigger true shot used to capture the bad
+
+171
+00:15:31,503 --> 00:15:34,417
+again, claiming that it's all in knowing the angles.
+
+172
+00:15:34,856 --> 00:15:41,837
+And the sheriff decides to take him on. And Eric, I can't figure out, you know, if the sheriff was like humor him
+
+173
+00:15:42,653 --> 00:15:44,630
+because he thinks it's gonna be harmless,
+
+174
+00:15:45,566 --> 00:15:52,590
+or if he's looking to have a little bit of fun with him, i can't quite place a beat on it because the sheriff seems like a very, like kind
+
+175
+00:15:52,969 --> 00:15:54,128
+understanding man, you know?
+
+176
+00:15:54,687 --> 00:16:15,054
+I get the sense that he's just two rooms saying listen them but everything you want you wanna try, go for it. And obviously, can't convince you to not do it, so here run with it. Yep. And so as Donald is sworn in as Deputy sheriff. The the sheriff counsel him that he's gonna have to get evidence on these rust, and they'll need to catch some red hand.
+
+177
+00:16:15,551 --> 00:16:22,971
+Donald reference is Ram rod Ram Branson, catching them with their brand and irons in the fire in gunfire on the Rio,
+
+178
+00:16:23,429 --> 00:16:27,083
+and he rides off on on an incredibly fat horse
+
+179
+00:16:27,501 --> 00:16:30,655
+and contrary to what the narration box says.
+
+180
+00:16:31,229 --> 00:16:36,269
+The sleepy inhabitants of bullet valley are totally dis in the new deputy,
+
+181
+00:16:36,829 --> 00:16:39,629
+as they mentioned that the previous four never came back.
+
+182
+00:16:40,443 --> 00:16:40,943
+And
+
+183
+00:16:41,519 --> 00:16:48,489
+he's gonna disappoint Huey, dewey and Louie by telling them that they need to get a room at the hotel and keep out of his way. And as he leaves
+
+184
+00:16:48,989 --> 00:16:53,164
+town, he comes to a sign post that tells us about some of the local ranches,
+
+185
+00:16:53,503 --> 00:16:55,980
+which includes the double x outfit.
+
+186
+00:16:56,434 --> 00:16:58,411
+Which has been the one that's complaining
+
+187
+00:16:58,948 --> 00:17:01,942
+loudest of of theft. So he goes there first.
+
+188
+00:17:02,621 --> 00:17:05,276
+And as a fan of western and of
+
+189
+00:17:05,909 --> 00:17:11,109
+this important that on on this side, they show different brands of each range.
+
+190
+00:17:12,189 --> 00:17:18,260
+The brands being such an important part of Western of people been identify which catalog theirs and
+
+191
+00:17:18,679 --> 00:17:21,875
+very distinct that it's a very very common plant devices.
+
+192
+00:17:22,275 --> 00:17:22,775
+So
+
+193
+00:17:23,488 --> 00:17:23,988
+many
+
+194
+00:17:24,366 --> 00:17:28,478
+western is the type of brand that branches have.
+
+195
+00:17:29,076 --> 00:17:35,738
+Right. Exactly. And this is a neat little bit of universe build Or we we learn about the diamond ranch in the w ranch
+
+196
+00:17:36,156 --> 00:17:36,656
+and
+
+197
+00:17:37,073 --> 00:17:38,412
+one that I can't pronounce?
+
+198
+00:17:39,109 --> 00:17:51,542
+So Donald rides for a while and half on Al alone un branded calf in a stream. He hurts it along intending to lead it to a cow when he comes upon a tough looking cowboy
+
+199
+00:17:52,001 --> 00:18:10,535
+who draws a gun on him and accuses him of stealing the cat. Donald introduces himself as the new deputy protest that it was un branded, but the man demands that he rides to the calf other side where Donald is shocked to see the Double x brand. So Eric, this is our first look at
+
+200
+00:18:10,995 --> 00:18:14,195
+Black snake. And tell tell me what you think about him.
+
+201
+00:18:14,970 --> 00:18:16,390
+Oh, he is your pro
+
+202
+00:18:16,810 --> 00:18:31,015
+villain. The minute you see it on screen, you gonna like, yep. That's the bad guy. No matter what they say, what they do? Yes. That is the bad guy. Yeah. He's got a literal black hat. Right? He's always got a cigarette in his mouth.
+
+203
+00:18:31,509 --> 00:18:41,615
+And and Donald has no idea initially, but we know he's a villain right away. Boy, this this Western scenery that Donald is riding through. Sure. Sure is beautiful.
+
+204
+00:18:42,115 --> 00:18:45,975
+Yeah. It's very picturesque. Alright. So the man ins
+
+205
+00:18:46,275 --> 00:18:51,503
+the Donald is just posing as a deputies so he can russell cattle and he mentions
+
+206
+00:18:52,160 --> 00:19:02,965
+catching previous deputies also stealing caps. Just then one of his fellow Cowboys tells the man that Donald horse and saddle look like his as well.
+
+207
+00:19:03,485 --> 00:19:04,905
+And he promptly
+
+208
+00:19:05,205 --> 00:19:09,816
+identifies them. Again, by the brand before threatening to shoot Donald.
+
+209
+00:19:10,335 --> 00:19:15,490
+This is this is a great setup for the mystery of like, where what's gonna happen? What's the device how's that going on?
+
+210
+00:19:16,065 --> 00:19:19,265
+Because you can go back look through the comma. And say, no. That horse was brandon, but now it is.
+
+211
+00:19:19,905 --> 00:19:23,125
+What's the trick? I think it's a great way to pull the audience in as to
+
+212
+00:19:23,425 --> 00:19:24,545
+give a mystery epic to solve.
+
+213
+00:19:25,280 --> 00:19:35,872
+Yeah. That's that's a good point. Right? Because if you're the reader, you you definitely have the luxury of going back to check and and I definitely did. I assume you did as well.
+
+214
+00:19:36,291 --> 00:19:36,791
+Sure.
+
+215
+00:19:37,130 --> 00:19:51,360
+Right. So the reader gets really drawn in because they know that definitely wasn't there before. Alright. And so Donald is very rattled by what's going on. And he leaps down to go on foot to clear things up with the sheriff in town.
+
+216
+00:19:51,895 --> 00:19:55,955
+And the man we we find out, he's he is black snake mc.
+
+217
+00:19:56,495 --> 00:20:03,677
+He does let him leave and he tells him to tell the sheriff to stop his deputies from stealing livestock.
+
+218
+00:20:04,533 --> 00:20:08,481
+And Donald walks through the brush pondering this mysterious mix up.
+
+219
+00:20:09,055 --> 00:20:14,255
+And this is the part where he's gonna start smelling a plot that's right out of his favorite movies.
+
+220
+00:20:14,695 --> 00:20:23,850
+In particular, the one where Horace mustang jailed hundreds of innocent men before he discovered that the leader of the rust was his kindly old grandmother.
+
+221
+00:20:25,190 --> 00:20:38,820
+And meanwhile, we cut back to black snake who's gang is eyeing the fat steer in the nearby diamond ranch and is lee planning to pay old jim diamond to visit. I wanna see the movie Fa fangs.
+
+222
+00:20:39,280 --> 00:20:41,660
+That sounds like great great movie.
+
+223
+00:20:42,000 --> 00:20:47,035
+Yeah. That sounds awesome some I and I thought that was hilarious his description of that movie
+
+224
+00:20:47,455 --> 00:20:55,900
+about the kindly old grandmother. And right away the at this one, I I like how Barks is bringing us in on black snakes, you know,
+
+225
+00:20:56,738 --> 00:20:58,315
+conversations, his scheming.
+
+226
+00:20:59,172 --> 00:21:07,935
+We we don't know explicitly yet that he's the villain even though as the reader we can tell, but I I really like this sort of parallel development.
+
+227
+00:21:08,590 --> 00:21:18,701
+Yeah. It's it's nice that they're using this bill, but they're also not giving away how he does right. So it's still a mystery to get solved later on. To keep the reader and suspense. Alright. So on the next page,
+
+228
+00:21:19,280 --> 00:21:19,780
+Donald
+
+229
+00:21:20,119 --> 00:21:22,816
+decides to delay heading back into town
+
+230
+00:21:23,330 --> 00:21:29,790
+due to him being suspicious of the sheriff. And so his hike takes him to the diamond ranch
+
+231
+00:21:30,210 --> 00:21:41,495
+where he meets the previously mentioned old gym. Who is a a very agreeable rancher who knows a little bit about Barks snake. Donald tells him about the mix up with the calf and his horse.
+
+232
+00:21:42,029 --> 00:21:48,011
+And old Jim Vows that Barks snake better not try to find his brand on any of his cattle.
+
+233
+00:21:48,489 --> 00:21:58,382
+And just then black snake and this gang arrived on horse back and I I really like this little panel where they arrive. I find it, you know, very men.
+
+234
+00:21:58,960 --> 00:22:04,946
+Oh, it's fantastic. You can see them telling up five riders in a distance with their guns drawn
+
+235
+00:22:05,565 --> 00:22:15,196
+and the look of shock and of surprise on old jim Diamond and Donald gives you... Everything you need to know is like, oh oh, this is trouble.
+
+236
+00:22:15,794 --> 00:22:17,650
+Right. I find this really
+
+237
+00:22:17,987 --> 00:22:22,608
+cinematic, like, I can I can hear the sound effects. The who's stopping
+
+238
+00:22:23,982 --> 00:22:25,279
+clapping when I read this.
+
+239
+00:22:25,616 --> 00:22:29,878
+Yep. I can hear the... I can hear the soundtrack swelling right now, because there's gonna be a standoff.
+
+240
+00:22:30,374 --> 00:22:39,261
+Right. Alright. So Donald, an old gym noticed the very men thing sub submachine guns that black snake gang is packing.
+
+241
+00:22:39,957 --> 00:22:41,893
+And when he arrives
+
+242
+00:22:42,789 --> 00:22:43,767
+on an absolutely
+
+243
+00:22:44,304 --> 00:22:45,540
+livid looking horse,
+
+244
+00:22:46,195 --> 00:22:47,455
+black snake points
+
+245
+00:22:48,195 --> 00:22:56,546
+at Jim's herd and he claims to wanna look at them to verify that they aren't his stolen steer, carrying the Double x brand. And
+
+246
+00:22:57,362 --> 00:23:06,090
+he he's he demands it and he snips his way through Jim's fence who's just fuming, but he allows him to too because he's confident he has nothing to hide.
+
+247
+00:23:06,667 --> 00:23:11,876
+But sure enough, black snake gang starts to round up the steer and when Jim protest
+
+248
+00:23:12,908 --> 00:23:16,122
+Points out the Double x brand again on
+
+249
+00:23:16,819 --> 00:23:17,319
+everyone.
+
+250
+00:23:18,255 --> 00:23:23,597
+Yes. So that instant, okay. There's a gag here. Is you getting his brand on so many things so fast.
+
+251
+00:23:25,211 --> 00:23:26,468
+And it's it's been
+
+252
+00:23:27,444 --> 00:23:30,097
+it's interesting that this is the only thing they're using as
+
+253
+00:23:32,326 --> 00:23:33,244
+the proof... I mean,
+
+254
+00:23:34,162 --> 00:23:36,179
+really back in Western, they would have
+
+255
+00:23:36,917 --> 00:23:40,185
+certification Al how big cattle was. They record their Birthday log
+
+256
+00:23:40,923 --> 00:23:43,578
+all those things that they have is how many had they had. So
+
+257
+00:23:43,916 --> 00:23:45,294
+I mean, ideally,
+
+258
+00:23:45,752 --> 00:23:48,506
+and this is the the little thing product. So I don't mean to do that. Ideally,
+
+259
+00:23:49,079 --> 00:23:51,992
+if Mc were to come into this valley and establish a ranch,
+
+260
+00:23:52,591 --> 00:23:55,104
+they would have document and how many head a cat had,
+
+261
+00:23:55,703 --> 00:24:01,011
+so they could know wait you've got way more than you should have. But again, this is this is a western
+
+262
+00:24:01,470 --> 00:24:05,047
+Right. So all those small towns stuff. It's it's not always
+
+263
+00:24:06,438 --> 00:24:09,330
+well documented it in the in historically.
+
+264
+00:24:10,027 --> 00:24:11,523
+That's exactly what a podcast
+
+265
+00:24:12,020 --> 00:24:15,085
+is for. Right, to to nerd out over the little
+
+266
+00:24:15,865 --> 00:24:18,005
+Al little trivia and and player
+
+267
+00:24:18,425 --> 00:24:23,245
+inconsistencies. Right? Because we know that, you know, he has to take some liberties
+
+268
+00:24:23,625 --> 00:24:28,331
+with this. And and if you really examine the plot, it would fall apart, but
+
+269
+00:24:28,748 --> 00:24:36,282
+it's fun to have this. It it is fun. It i... To me it works very well under its own like, tight definition.
+
+270
+00:24:38,454 --> 00:24:39,352
+Alright. So
+
+271
+00:24:39,969 --> 00:24:41,027
+old gym
+
+272
+00:24:41,580 --> 00:24:42,080
+is
+
+273
+00:24:42,860 --> 00:24:49,700
+outraged. But when he approaches sure enough, he is totally flu to see black snake brand on all of his peers.
+
+274
+00:24:50,354 --> 00:24:54,491
+And black snake implies that he could have jim jailed for wrestling.
+
+275
+00:24:54,950 --> 00:25:02,897
+But Jim pro that he's innocent, any he demands to know where his years could be black snake dis this is not his problem,
+
+276
+00:25:03,356 --> 00:25:05,953
+but rather it's deputy Donald problem.
+
+277
+00:25:06,513 --> 00:25:11,182
+And so Donald then old Jim ponder, you know, what's going on?
+
+278
+00:25:12,398 --> 00:25:15,951
+I I like the diamond jim just in confused Al the audience is what?
+
+279
+00:25:16,829 --> 00:25:18,266
+Doesn't that makes sense. How is he doing this?
+
+280
+00:25:19,119 --> 00:25:29,648
+Yeah. And and I really feel for Diamond Jim, You know, He's really well drawn, and I just... I feel like I get a a good idea of his character. Again, just a decent rancher
+
+281
+00:25:30,225 --> 00:25:31,403
+trying to do right,
+
+282
+00:25:32,498 --> 00:25:36,109
+who is totally Al a loss in this situation?
+
+283
+00:25:37,657 --> 00:25:44,433
+So I think in this story Barks does a really nice job of developing these side characters with a very little time.
+
+284
+00:25:46,363 --> 00:25:47,661
+So Donald is
+
+285
+00:25:48,040 --> 00:25:48,540
+dis
+
+286
+00:25:48,958 --> 00:25:49,897
+of Jim
+
+287
+00:25:50,235 --> 00:25:50,735
+and
+
+288
+00:25:51,113 --> 00:26:04,240
+he his his instincts aren't exactly right on. And he asked gym if he has any other steer. And Jim tells him about another herd that consists of rescued range steer that he's comb out of the hills.
+
+289
+00:26:04,695 --> 00:26:07,150
+That are hidden in a box cannon in behind his homestead.
+
+290
+00:26:08,008 --> 00:26:20,810
+Donald sounds him out about who else works the ranch. And when Jim says that it's just him there, Donald Lasso him and he ties him to a post telling him that he's under arrest for cattle wrestling.
+
+291
+00:26:22,024 --> 00:26:25,300
+What do you what do you think about Donald instincts here, Eric?
+
+292
+00:26:26,059 --> 00:26:32,679
+I think he's hedging his bets. He's like, you know I can't be sure. I'm an air in the side of caution
+
+293
+00:26:33,295 --> 00:26:34,690
+because I saw movie about this once.
+
+294
+00:26:35,647 --> 00:26:37,502
+And I'm gonna tie him up and
+
+295
+00:26:37,975 --> 00:26:40,992
+It he isn't too bad, if he is, then I stopped him.
+
+296
+00:26:41,850 --> 00:26:42,350
+Yeah.
+
+297
+00:26:42,968 --> 00:26:45,485
+You know, something else that I like about this one as I read it.
+
+298
+00:26:46,300 --> 00:26:48,720
+Again, is just the little micro geography,
+
+299
+00:26:49,060 --> 00:26:49,960
+you know, of
+
+300
+00:26:50,460 --> 00:26:57,575
+these little places in this canyon that's behind the the ranch it feels very, like, lived into to me.
+
+301
+00:26:57,915 --> 00:27:03,748
+Yeah. It's it's well developed for area wise for the the whole geography and build up in the...
+
+302
+00:27:04,245 --> 00:27:05,583
+How the Al set up?
+
+303
+00:27:06,639 --> 00:27:09,471
+Yeah. The Al feels like feels like a place to me.
+
+304
+00:27:10,845 --> 00:27:20,240
+After lashing jim to the post, Donald does locate the three hundred head of cattle in the box canyon, and he makes note of their diamond brand, so we get see that.
+
+305
+00:27:20,739 --> 00:27:27,211
+He surmise then that Jim hid his thin steer in the canyon so that he could replace them.
+
+306
+00:27:28,104 --> 00:27:32,287
+With black snakes heard and that the sheriff must also be in on it.
+
+307
+00:27:33,164 --> 00:27:36,109
+Meanwhile, we go to the nephews who have taken Donald car
+
+308
+00:27:36,766 --> 00:27:41,134
+determined not to let their uncle be the only one having fun.
+
+309
+00:27:41,791 --> 00:27:45,855
+Tell me what you think on this, but I definitely wanna hear what you think about the Nephews driving off.
+
+310
+00:27:47,153 --> 00:27:50,210
+Well, first off, I wanna say this in these scenes visually,
+
+311
+00:27:50,589 --> 00:27:58,000
+they make a very specific effort. He makes very specific effort to show them the Diamond brand and all the cattle and on the horse.
+
+312
+00:27:58,800 --> 00:28:04,435
+So obviously, the brands are important and he's using that as a... He's been then the background so you notice some.
+
+313
+00:28:04,855 --> 00:28:08,635
+But, of course, the net driving off the tom's car. I just...
+
+314
+00:28:09,135 --> 00:28:17,260
+Alright. Well, pete i'll else i here. Let's go for a drive. That's so fantastic. These guys are good Barks at ten years old. Right. For writing this car,
+
+315
+00:28:17,819 --> 00:28:24,495
+you'll look for. And no one questions him. I was I was impressed when I said go get a hotel room you stay there. Like.
+
+316
+00:28:25,412 --> 00:28:32,564
+Okay, guys. I'm gonna go fight crime. You be responsible for yourselves Yeah. Like, what a poor poor jobs is an uncle?
+
+317
+00:28:33,602 --> 00:28:39,111
+And to be fair, I think there's just some expectation that he knows how independent his nephews can be.
+
+318
+00:28:40,005 --> 00:28:46,725
+That's that's true, but but still. I'm gonna say this isn't the first time and keep taking this car for Ride. Probably not.
+
+319
+00:28:48,018 --> 00:28:52,786
+So the nephews ponder that they are gonna avoid Donald while they scout for
+
+320
+00:28:53,124 --> 00:29:00,015
+rust in bullet valley. And meanwhile Donald is trailing black snake, but as he approaches his ranch,
+
+321
+00:29:00,775 --> 00:29:06,918
+a warning shot fires from a lookout, and that stops him from crossing the past that separates
+
+322
+00:29:07,495 --> 00:29:08,252
+black snakes.
+
+323
+00:29:09,448 --> 00:29:14,715
+And that random shot of the car with the bunnies in the foreground is just absolutely
+
+324
+00:29:15,255 --> 00:29:16,355
+fantastic. Yeah.
+
+325
+00:29:16,935 --> 00:29:18,715
+Yeah. I love that. Those
+
+326
+00:29:19,375 --> 00:29:20,355
+prolific bunnies
+
+327
+00:29:21,230 --> 00:29:28,450
+And and again, a little bit of, like, this sort of micro geography where we know that black snake is hiding something
+
+328
+00:29:28,790 --> 00:29:29,185
+because
+
+329
+00:29:29,842 --> 00:29:32,215
+the past, the only pass into his
+
+330
+00:29:32,871 --> 00:29:34,146
+his lair is guarded.
+
+331
+00:29:34,863 --> 00:29:35,602
+Alright. And
+
+332
+00:29:36,337 --> 00:29:36,837
+so
+
+333
+00:29:37,350 --> 00:29:56,725
+the lookout is using a walkie talkie, which must have been the height of technology at the time based on how donald reacts. To summon black snake, and then he hides behind the pass, while Black snake is talking with Donald. And so Donald is telling Black snake that he's figured out how Jim Dim stole his steer,
+
+334
+00:29:57,103 --> 00:29:57,603
+and
+
+335
+00:29:58,181 --> 00:30:02,491
+the hidden look out is just like beside himself with silent laughter.
+
+336
+00:30:03,820 --> 00:30:08,104
+Well while Donald is is revealing things to black snake. And
+
+337
+00:30:08,600 --> 00:30:16,770
+as he reveals this so called steam. Donald slips that Jim has another herd of hidden steer and black snake,
+
+338
+00:30:17,703 --> 00:30:24,165
+is, you know, very excited dear this, and he yet again points out the Double x brand on Donald horse.
+
+339
+00:30:24,859 --> 00:30:27,796
+Who looks just as surprised as Donald is.
+
+340
+00:30:28,814 --> 00:30:32,205
+Yes. This is the second time Donald had that trick pulled on him and
+
+341
+00:30:32,663 --> 00:30:37,488
+we'll see how the things to that. If he gets finally gets suspicious or not. Right.
+
+342
+00:30:38,405 --> 00:30:41,396
+Yeah. I I feel like Barks snake is really pushing his leg here.
+
+343
+00:30:42,169 --> 00:30:44,447
+I also really like the artist that Barks.
+
+344
+00:30:45,766 --> 00:30:51,515
+I guess, more of the the composition that Barks has done in having this, like
+
+345
+00:30:52,374 --> 00:30:57,709
+conversation from these two perspectives. Right, Don conversation with Barks snake, and then the
+
+346
+00:30:58,128 --> 00:31:00,626
+the the Hen listening in
+
+347
+00:31:01,498 --> 00:31:04,871
+and seeing these different reactions, you know, the
+
+348
+00:31:05,648 --> 00:31:07,106
+black snake kind of
+
+349
+00:31:07,523 --> 00:31:10,670
+silently trying to to keep from laughing
+
+350
+00:31:11,007 --> 00:31:16,580
+and then the hen just just busting up with. He he still asked to be quiet, but he can
+
+351
+00:31:17,239 --> 00:31:17,739
+visually
+
+352
+00:31:18,198 --> 00:31:21,374
+show his his reaction. I think this is really
+
+353
+00:31:21,713 --> 00:31:23,630
+that's that's good job. That's good artwork work right there.
+
+354
+00:31:24,324 --> 00:31:25,023
+Alright. And
+
+355
+00:31:25,440 --> 00:31:40,910
+Donald again bog at how this brand keeps appearing. And when Barks snake finds it on his saddle too, he threatens to fill Donald full of let. However, his hen talks him down because he calls Donald so dumb that he's useful.
+
+356
+00:31:41,404 --> 00:31:42,981
+And black snake,
+
+357
+00:31:43,798 --> 00:31:46,532
+you know, he unleashes the old western cliche
+
+358
+00:31:47,149 --> 00:31:48,585
+of making him dance.
+
+359
+00:31:49,798 --> 00:31:59,214
+By shooting at his feet. Donald walks away nursing his feet, sour black snake grumpy attitude while black snake prepares to rust the diamond steer.
+
+360
+00:31:59,752 --> 00:32:03,064
+And Al that moment Huey, dewey and Louis arrive at the diamond ranch.
+
+361
+00:32:03,663 --> 00:32:06,736
+Oh, yeah. Make them dance. That's that's that's very typical.
+
+362
+00:32:08,070 --> 00:32:09,370
+Best version of that
+
+363
+00:32:09,710 --> 00:32:10,630
+back to the future three.
+
+364
+00:32:11,990 --> 00:32:24,055
+Yeah. That's the one that comes to my mind too. And I have to admit, I can't think of a time when it was done straight. Right? Like, I can only think of it being done as a parody or, you know, referencing what gets done.
+
+365
+00:32:25,509 --> 00:32:35,172
+Only in the later one. So I would oh, no back in the day it was very common just feed and seconds and watch them hop and then the left. If it was usually done
+
+366
+00:32:35,550 --> 00:32:36,050
+at,
+
+367
+00:32:36,428 --> 00:32:42,690
+like, the Quaker type characters who were not violence, and didn't have a gun on them anyway, but it was just a way to
+
+368
+00:32:43,150 --> 00:32:51,150
+bully and menace them. Yeah. Know it oftentimes in front of the whole gang Right. That way, the the victim would feel extra shame and gil.
+
+369
+00:32:51,845 --> 00:32:58,025
+And I I think that some of these western cliches, you know, they happened all the time in, like, the really pull
+
+370
+00:32:59,058 --> 00:33:09,182
+Tv ones and sort of a Saturday Mat New ones, but I don't think they really come up that much whereas much. And, like, the ones that are really remembered, you know, the old east woods.
+
+371
+00:33:11,671 --> 00:33:13,247
+No. In in those areas
+
+372
+00:33:13,560 --> 00:33:17,740
+not so much is very much and the what he's what the movies that Donald is referencing.
+
+373
+00:33:18,320 --> 00:33:19,060
+Are those
+
+374
+00:33:19,360 --> 00:33:22,835
+po Saturday mat Ones where it's, you know, the same
+
+375
+00:33:23,455 --> 00:33:25,575
+five plots every two weeks.
+
+376
+00:33:26,095 --> 00:33:28,395
+Yeah. I feel like the John Wayne stuff
+
+377
+00:33:29,215 --> 00:33:29,850
+would have
+
+378
+00:33:30,268 --> 00:33:33,994
+already been kind of more on the cutting edge. Right? Like Barks is probably
+
+379
+00:33:34,410 --> 00:33:44,719
+referencing stuff that's kind of classic even Al at this time. So probably he's he's probably thinking more of like, late thirties early forties these stuff. Oh, yeah. Definitely
+
+380
+00:33:45,095 --> 00:33:48,184
+help cassie with Cisco kid those types.
+
+381
+00:33:48,840 --> 00:33:50,734
+Alright. So upon investigating
+
+382
+00:33:51,405 --> 00:33:52,064
+the Nephews
+
+383
+00:33:52,403 --> 00:33:59,755
+discover gym tied to the post, and they asked to hear his story before they're gonna agree to turn him loose and allow him to go to the sheriff.
+
+384
+00:34:00,289 --> 00:34:07,800
+Jim explains to them his side of the story. And the nephews indicate that they really wanna believe him that they can't trust him until they establish it.
+
+385
+00:34:08,773 --> 00:34:11,626
+Jim asks him to verify that the Canyon...
+
+386
+00:34:12,003 --> 00:34:15,831
+The the Canyon herd is still there and still bear the Diamond brand.
+
+387
+00:34:16,350 --> 00:34:17,528
+I love the reasonable
+
+388
+00:34:18,519 --> 00:34:26,510
+to nephew going like, well, I mean, they seem in trouble like, wait. Why is he tied up? They asked that question They tell him mike he tells them okay. We're looking for rust.
+
+389
+00:34:27,085 --> 00:34:32,220
+Of them must have done per reason. We don't know. We're gonna get more information before we do anything for sure
+
+390
+00:34:32,559 --> 00:34:33,898
+because they don't wanna get in trouble
+
+391
+00:34:34,237 --> 00:34:37,629
+and they wanna make sure they're they're being safe And I appreciate that.
+
+392
+00:34:38,048 --> 00:34:40,905
+Right. Yeah. They're incredibly level headed for
+
+393
+00:34:41,444 --> 00:34:43,322
+three kids who have just taken a car.
+
+394
+00:34:45,495 --> 00:34:53,095
+They're they're not even worried about the about taking the car. Like, although the bone gonna get back and see that we took the car when on and down, like, they doesn't even phase them i love it.
+
+395
+00:34:53,908 --> 00:34:56,679
+Right. They probably got enough experience to know that
+
+396
+00:34:57,015 --> 00:35:00,561
+he'll overlook Al once they inevitably save his hide. Yeah.
+
+397
+00:35:01,335 --> 00:35:02,435
+Alright. So
+
+398
+00:35:02,895 --> 00:35:11,330
+after establishing that the herd is safe. The boys learn from Jim about Barks snake. You know, we get a a little bit of nice kind of natural background.
+
+399
+00:35:12,150 --> 00:35:17,185
+He is apparently new to the area and has made camp in the flats beyond Rocky pass
+
+400
+00:35:17,685 --> 00:35:24,885
+and and they find out about what happens when he finds his brand on other Ranchers steer. And the ponder this mystery,
+
+401
+00:35:25,780 --> 00:35:43,807
+when they realized that black snake and his writers have suddenly arrived. And they they engage... You wanna tell us about the quick thinking that they do here. Well, the they realize they have to hide and there's no place too hide. So it's the typical let's jump, Huey,. Well, it's vary the that's buried the rancher
+
+402
+00:35:44,304 --> 00:35:49,948
+and hide with him so we can stay safe. Yeah. I like this. Is this something that you've seen done
+
+403
+00:35:50,366 --> 00:35:51,722
+in in any of the classics?
+
+404
+00:35:52,494 --> 00:35:56,063
+Someone tied up being thrown in the Huey,, no but hiding the Huey,? Absolutely.
+
+405
+00:35:57,117 --> 00:36:05,128
+Right. No. I like that purring normal. I like that part where you're captive, You know, you don't have time un tie him. So I I thought that was a neat touch.
+
+406
+00:36:05,545 --> 00:36:05,864
+Yeah.
+
+407
+00:36:06,382 --> 00:36:08,318
+I love the geography too
+
+408
+00:36:08,735 --> 00:36:15,034
+and the flats beyond Rocky pass because it's a past to the rocks. So what else are you're gonna call it? Rocky brands.
+
+409
+00:36:15,651 --> 00:36:33,056
+Yeah. Again, it feels very lived in. Alright. So they hear black snake talk about taking Jim steer. And they figured that that's enough proof to un gym. But they know that they still need more evidence against Barks snake. So they set up above the Canyon intending to spy as
+
+410
+00:36:33,530 --> 00:36:36,070
+drives away a heard of diamond cattle.
+
+411
+00:36:36,450 --> 00:36:42,050
+But again, they're astonished to see that each steer now bears the double x brand.
+
+412
+00:36:42,825 --> 00:36:45,402
+I really like the panel where they're just
+
+413
+00:36:45,901 --> 00:36:47,160
+overwhelmed with puzzle
+
+414
+00:36:48,338 --> 00:36:53,008
+Al as both gym and the Nephews are like, how does that brand get there?
+
+415
+00:36:53,747 --> 00:36:54,846
+So confusing.
+
+416
+00:36:55,345 --> 00:37:01,455
+Alright. So at this point, the group split up, Jim is gonna head to town to get the sheriff while the kids investigate
+
+417
+00:37:01,835 --> 00:37:09,950
+the bottom and the top of the canyon. And up on top, they see what resembles tank tracks, which is their only clip.
+
+418
+00:37:10,490 --> 00:37:12,950
+Alright. And this just been back into the whole branding issue
+
+419
+00:37:13,690 --> 00:37:15,765
+because when the rust would
+
+420
+00:37:16,184 --> 00:37:25,596
+Russell cattle, they would be random them. That's why the shape of the brand is important they would put the new brand or the old brand. And that's me like, oh, no. That brand's burned on, which they always are.
+
+421
+00:37:26,290 --> 00:37:27,590
+The way to
+
+422
+00:37:28,250 --> 00:37:30,910
+prove it is to kill one of the steer
+
+423
+00:37:31,210 --> 00:37:32,430
+and skin it
+
+424
+00:37:32,770 --> 00:37:34,923
+because the cattle is branded
+
+425
+00:37:35,459 --> 00:37:36,676
+when they're young,
+
+426
+00:37:37,212 --> 00:37:38,230
+that brand
+
+427
+00:37:38,806 --> 00:37:40,979
+grows and so they're scar, there's tissue
+
+428
+00:37:41,610 --> 00:37:49,810
+So when russ come log in re random them, they then skin where the brand is, and they can see that it's the the the old scars out there so they can prove.
+
+429
+00:37:50,465 --> 00:37:52,362
+That that cattle has been b.
+
+430
+00:37:52,979 --> 00:37:55,914
+But I think the confusion and this one is
+
+431
+00:37:56,332 --> 00:37:58,987
+how did they do this so quickly? Because it takes
+
+432
+00:37:59,659 --> 00:38:01,334
+so much time and effort to do that.
+
+433
+00:38:02,011 --> 00:38:05,582
+Right? Yeah I I appreciate that little gruesome detail.
+
+434
+00:38:06,039 --> 00:38:08,692
+I didn't know about branding and proving
+
+435
+00:38:09,085 --> 00:38:10,065
+cattle fidelity.
+
+436
+00:38:11,243 --> 00:38:14,060
+But... yeah, I think the whole premise behind black snake
+
+437
+00:38:14,559 --> 00:38:18,751
+plot here, right is that no one's gonna check too hard if everything
+
+438
+00:38:20,251 --> 00:38:22,911
+if if you if you can believe your eyes. Right?
+
+439
+00:38:23,331 --> 00:38:23,831
+U
+
+440
+00:38:24,665 --> 00:38:25,963
+Alright. So the nephews
+
+441
+00:38:26,300 --> 00:38:27,677
+follow the tracks
+
+442
+00:38:28,334 --> 00:38:36,149
+of this vehicle until they intersect with black snake and his gang and the herd driving toward Rocky gas. And meanwhile
+
+443
+00:38:36,488 --> 00:38:43,601
+Donald has been on foot. Right? This this most of this time. So he settles down to rest in the near vicinity,
+
+444
+00:38:44,135 --> 00:38:44,635
+and
+
+445
+00:38:45,174 --> 00:38:46,873
+exhausted he snooze
+
+446
+00:38:47,452 --> 00:38:55,598
+as first, the three hundred Stolen steer, then old Jim Diamond and finally is use past him unnoticed
+
+447
+00:38:56,337 --> 00:38:56,837
+below.
+
+448
+00:38:57,215 --> 00:39:03,538
+And the Nephews arrive at the past and they decide to approach cautious thinking that it looks like a good spot for Al ambush.
+
+449
+00:39:03,898 --> 00:39:06,034
+Yep. And the nephew always being reasonable,
+
+450
+00:39:06,731 --> 00:39:08,726
+and someone falling to asleep on lookout duty.
+
+451
+00:39:09,700 --> 00:39:10,960
+So typical.
+
+452
+00:39:11,340 --> 00:39:17,660
+Yeah. Although I do feel some sympathy for Donald. Right? He's he's been without horse for for much of this.
+
+453
+00:39:18,234 --> 00:39:30,240
+Yeah. He said a rough, I'm not knocking him falling asleep. I'm just saying it's cliche shake, very you used. It makes me think of the movie the John Wayne movie sons of Katie there were they're kind of the whole thing
+
+454
+00:39:30,860 --> 00:39:44,246
+stem the whole conflict between, the two groups stems from a young kid falling asleep and waking up during look lookout dude and taking a shot at somebody else and get killed because of it because, you know, don't sleep on look out duty. Yeah.
+
+455
+00:39:45,180 --> 00:39:46,280
+Alright. So
+
+456
+00:39:47,060 --> 00:39:58,403
+the nephews climbed at the top of the pass and gazing at the value below they're able to see thousands of cattle. Far more than the few had the black snake was said to have started with.
+
+457
+00:39:58,781 --> 00:40:08,895
+And approaching the hideout out, they spot a large vehicle with padded wheels and what looks like a double x antenna that seems to have made the tread that they follow.
+
+458
+00:40:09,894 --> 00:40:12,725
+And getting a closer look, they decide that it's
+
+459
+00:40:13,584 --> 00:40:18,999
+suspicious enough to take it to the sheriff. And as they do this is they engage in a little more,
+
+460
+00:40:20,536 --> 00:40:20,896
+hijacking,
+
+461
+00:40:21,709 --> 00:40:28,691
+black snake and his gang are discussing breaking their camp and leaving Bullet valley the next day because there's nothing left to steal.
+
+462
+00:40:29,305 --> 00:40:35,199
+And then when they see that their jeep has been stolen, they opened fire on it. So apparently, the nephews
+
+463
+00:40:36,017 --> 00:40:41,361
+taking a drawer right was not actually just goofy fun, but it's a plot device instead of this fact later on.
+
+464
+00:40:41,698 --> 00:40:42,717
+Yeah. It
+
+465
+00:40:43,174 --> 00:40:47,561
+it establishes the what they are capable of and and that they can do this.
+
+466
+00:40:48,494 --> 00:40:49,754
+Alright. So the Nephews
+
+467
+00:40:50,172 --> 00:41:00,712
+are able to plow past black snake hen and leave through the past as fast as possible with black snake and men and pursuit looking to recover the evidence that could send them to the pen.
+
+468
+00:41:01,289 --> 00:41:10,830
+And eventually, the Nephews meet up with old gym and the sheriff with a policy of men, By this time, the nephews have figured out that the jeep is equipped with a ray gun
+
+469
+00:41:11,568 --> 00:41:20,620
+ray or radar gun that beams heat through the Double x antenna on the roof, and it can brand livestock or anything else at a great distance
+
+470
+00:41:20,958 --> 00:41:23,072
+and they demonstrate this on a nearby tree.
+
+471
+00:41:23,885 --> 00:41:25,702
+Of mystery is solved.
+
+472
+00:41:26,400 --> 00:41:26,599
+Yeah.
+
+473
+00:41:27,557 --> 00:41:32,927
+And and I remember as a kid reading this and just, you know, loving this mechanism.
+
+474
+00:41:33,799 --> 00:41:35,615
+For for how this was accomplished.
+
+475
+00:41:36,192 --> 00:41:40,898
+I really like the sheriff's comment during the dana radar and tan.
+
+476
+00:41:41,576 --> 00:41:48,166
+And then mom yeah. We'll wonders never see. Yeah. Just... You have it's a little poke you down and the got.
+
+477
+00:41:48,906 --> 00:41:52,141
+You got technology it is. Can believe me a little the boy Yep.
+
+478
+00:41:52,961 --> 00:41:59,253
+Alright. And so the Nephews and the sheriff pos are gonna decide to set up an ambush for black snake,
+
+479
+00:42:00,170 --> 00:42:00,670
+Group.
+
+480
+00:42:01,167 --> 00:42:08,008
+But they happen to be underneath Donald resting spot. And as he wakes up, he's processing the situation
+
+481
+00:42:08,560 --> 00:42:09,739
+he doesn't see the nephews.
+
+482
+00:42:10,678 --> 00:42:16,551
+He d introduces that an innocent black snake is about to ride into the crooked sheriff's ambush.
+
+483
+00:42:17,045 --> 00:42:25,376
+I like donald, you know, explains that even though I hate him, I can't let him get shot. Right. Yeah. His hard is in the right place even if his brain isn't.
+
+484
+00:42:26,270 --> 00:42:41,182
+So Donald warns the villain and the sheriff loses some of the element of surprise. And as the pos opens fire, it's seems like the outlaw are gonna escape, but the nephews turn the tide of the the battle by aiming the branding ray on the criminals.
+
+485
+00:42:41,661 --> 00:42:43,896
+Burning their butts, knocking them out of the saddle,
+
+486
+00:42:44,791 --> 00:42:47,771
+every double x rider gets apprehended
+
+487
+00:42:48,071 --> 00:42:53,711
+except for black snake, the leader of the gang, who does make it to cover. And how do you know their x writers?
+
+488
+00:42:54,683 --> 00:42:57,576
+It got the brand on them. Yeah. It
+
+489
+00:42:57,913 --> 00:43:00,368
+it all comes around. In the end
+
+490
+00:43:02,500 --> 00:43:03,497
+all you couldn't resist.
+
+491
+00:43:05,269 --> 00:43:10,325
+This is great. You know, i love I love the sequence of the Nephew
+
+492
+00:43:10,864 --> 00:43:12,922
+turning the the ray on
+
+493
+00:43:13,716 --> 00:43:20,236
+frying their butts from a distance them leap out. This is this is exciting. This is funny. This is some of the best.
+
+494
+00:43:20,850 --> 00:43:27,331
+It is. I just have questions about how the rate works when it's just an antenna. Like, there's no directional quotient or targeting
+
+495
+00:43:27,828 --> 00:43:37,811
+apparatus on this thing that's just spinning on the top. Just have to know which side is the front which side is the back to shoot it? It's it's fantastic. There's no up or down on I can just shoot straight, but it hits like
+
+496
+00:43:38,390 --> 00:43:42,645
+elevated and, you know, up and that. It's great. It's great science fiction.
+
+497
+00:43:43,264 --> 00:43:43,464
+Right.
+
+498
+00:43:44,103 --> 00:43:47,970
+You're right. You pointed out. It doesn't seem to have the kind of like z axis
+
+499
+00:43:48,904 --> 00:43:57,947
+yaw whatever you would need to brand's steer from the top of a canyon, but But again, I'm gonna forgive it because to me, this is just very tightly
+
+500
+00:43:58,284 --> 00:44:01,232
+constructed within it's own own it's absolutely fantastic.
+
+501
+00:44:01,845 --> 00:44:09,226
+Alright. So the sheriff attempts to explain the situation to Donald who still believes him to be the wrestler.
+
+502
+00:44:09,721 --> 00:44:12,261
+He dismiss the ray machine as nonsense,
+
+503
+00:44:12,601 --> 00:44:14,981
+you know, probably having missed its use
+
+504
+00:44:16,001 --> 00:44:17,401
+in the chaos of the fight.
+
+505
+00:44:18,294 --> 00:44:25,781
+And then the nephews are just noting that when Donald is this stubborn, there'll only be one way to convince him. And so they they
+
+506
+00:44:26,478 --> 00:44:33,772
+mark a Double x right on his stubborn but instantly making him a believer. And I'm sure they don't mind doing it at all,
+
+507
+00:44:35,182 --> 00:44:37,876
+Yeah. I think they probably took a little bit of re in that.
+
+508
+00:44:38,333 --> 00:44:47,623
+Alright. So we transition to later that night when the pos returns with bad news. They've lost track of black snake at the edge of the badlands
+
+509
+00:44:48,121 --> 00:44:51,933
+where it is nearly impossible to track him. And then the sheriff
+
+510
+00:44:52,566 --> 00:44:57,819
+says he kind of gloom in tones that it's his duty to go after black snake.
+
+511
+00:44:58,398 --> 00:45:04,071
+One of one of the members tells him it's a suicide mission, but the sheriff feels duty bound.
+
+512
+00:45:04,371 --> 00:45:08,811
+And Donald is just wrapped with guilt that this mess is his fault.
+
+513
+00:45:09,386 --> 00:45:24,276
+So a short time later, there's a commotion of the corral, and it turns out to have been donald who hijacked the sheriff's horse and went to make the arrest in his s. And the whole sheriff guinea for a fatal ride is just so western
+
+514
+00:45:25,455 --> 00:45:29,849
+But the line, tell my folks remember me when the bloom is on the sage.
+
+515
+00:45:30,768 --> 00:45:31,268
+So
+
+516
+00:45:31,767 --> 00:45:35,738
+western poetic Yeah. Yeah. It's that great Cowboy poetry.
+
+517
+00:45:36,577 --> 00:45:39,794
+I really feel, you know, Mcdonald's like Anguish
+
+518
+00:45:40,253 --> 00:45:40,993
+in that
+
+519
+00:45:41,372 --> 00:45:42,291
+circular panel.
+
+520
+00:45:42,825 --> 00:45:47,397
+Where he's just just feeling so terrible. Yeah. And we get another
+
+521
+00:45:47,895 --> 00:45:51,967
+one of the nice, like, nighttime silhouette panels that Barks seems to like to do.
+
+522
+00:45:52,701 --> 00:45:53,561
+Alright. And
+
+523
+00:45:54,701 --> 00:45:56,441
+again, some great
+
+524
+00:45:56,981 --> 00:45:59,821
+sense of place as the next morning.
+
+525
+00:46:00,316 --> 00:46:07,196
+At the dawn of the next morning, we transitioned to the badlands, which is this very men place full of fearsome wildlife.
+
+526
+00:46:07,531 --> 00:46:09,789
+And we see black snake Mc
+
+527
+00:46:10,168 --> 00:46:12,665
+driving his horse, like a man possessed.
+
+528
+00:46:13,363 --> 00:46:20,904
+He's got like a fire in his eyes and vows is a violent revenge one down bullet valley. And again, I absolutely
+
+529
+00:46:21,562 --> 00:46:30,014
+believe him. And we see Donald hot on Barks snakes trail determined to redeem himself because he doesn't want the kids to tease him for the rest of his days.
+
+530
+00:46:30,790 --> 00:46:42,899
+And so he sykes himself up for an ar person suit, but he's shocked to realize that he has the drop on black snake who is facing away from him letting his horse take water. This is one of my favorite
+
+531
+00:46:43,237 --> 00:46:43,737
+sequences
+
+532
+00:46:44,075 --> 00:46:51,896
+in all of Barks comics with a villain. I just think that this is composed so perfectly because again, this in this panel,
+
+533
+00:46:52,396 --> 00:46:52,896
+I
+
+534
+00:46:53,276 --> 00:46:59,376
+have no doubt that he wants to do exactly what he's gonna say. This is just one of the, like, hardest
+
+535
+00:46:59,890 --> 00:47:03,403
+most vicious villains I think Barks has ever created.
+
+536
+00:47:04,201 --> 00:47:08,812
+And I feel like he's created such a nice sense of like this
+
+537
+00:47:09,126 --> 00:47:10,585
+you know, per pursuit.
+
+538
+00:47:11,203 --> 00:47:12,702
+This is the point in the western
+
+539
+00:47:13,441 --> 00:47:15,180
+where the heroes Al is lowest.
+
+540
+00:47:15,718 --> 00:47:18,571
+And and he's become like the lone man now at this point. Right?
+
+541
+00:47:19,531 --> 00:47:38,821
+Yeah. The loan man is out to just for vengeance now not for profit for anything else. I just wanna get back to the people who ruined my plans. Now, Mark, I wanna bring into this... I wanna make great attention to the aspect of him riding away with the sn and then right below it is a nice contrast to Donald chasing him. Yeah. Just it's a it's a neat
+
+542
+00:47:39,161 --> 00:47:41,321
+contrast of how they are him, you know, black snake.
+
+543
+00:47:42,014 --> 00:47:48,356
+Heavy on the heavy and whipping horse and, you know, the horse is angry. Donald is hopeful and resolute.
+
+544
+00:47:48,770 --> 00:47:54,504
+But and the horse is determined as well. And and I love the contrast of the villain is
+
+545
+00:47:54,922 --> 00:48:02,716
+primarily colored in red, but, you know, the red saddle, the red rains, the red shirt, it's very prominent. And Donald is right, the blue
+
+546
+00:48:03,016 --> 00:48:11,324
+saddle, the blue reins and the big blue prominent hat give you nice contrast of, you know, good guy bad guy. Yeah. It is a good choice on the color part.
+
+547
+00:48:12,102 --> 00:48:28,183
+Barks wouldn't have how to say in that, but I'm sure that's what he was, you know, imagining as he drew this. And and this, you know, this the page where it's gonna kinda diver. Right? At the... At the end of this page, Donald kinda shocked when it it starts to not play out
+
+548
+00:48:28,642 --> 00:48:34,715
+like the movies. Right? Because You know usually, you don't, usually get the drop on the bad guy like this. So
+
+549
+00:48:35,135 --> 00:48:53,286
+Donald curse the bad luck that he doesn't get to be a hero and he announces himself startling black snake who reaches for the sky. And black snake here is gonna code donald into whole his guns and drawing from, like an even posture, which is a critical mistake.
+
+550
+00:48:53,900 --> 00:48:57,800
+Because black snake shoots donald right through his h,
+
+551
+00:48:58,420 --> 00:49:15,413
+and he seems to struck donald with every shot here. Classic, Go shape the guns out, Don't put them away. Yeah. There's a yeah plenty of western where you get the drop on someone and you'll let me get a fair fight have you seen that h trick in any of them? You know, I have it, but it's an easy way
+
+552
+00:49:15,792 --> 00:49:16,971
+to get around
+
+553
+00:49:17,325 --> 00:49:22,825
+having a quick drop on test. Yeah. I like that. And and it's... I think we're meant to really
+
+554
+00:49:23,165 --> 00:49:26,679
+be impacted by that last panel. Right? Because Donald
+
+555
+00:49:27,777 --> 00:49:29,995
+This is a very convincing looking
+
+556
+00:49:30,374 --> 00:49:37,157
+panel of Donald being shot to today. Yes, which is imagine especially at the end at the end of the page, and like, what?
+
+557
+00:49:37,734 --> 00:49:45,788
+Right. Yeah. I'm I I have to guess that it was deliberately paced like that. So you have to turn the page see what happened. Alright. So
+
+558
+00:49:46,686 --> 00:50:07,563
+black snake walks over Donald body and he's y a cow song and pondering his next move. Donald seems surely dead. He's got an ex over as a visible eye. And there's, like vulture lee Al him in the background. But gradually he does come to... We realized that he's been saved by the old trope of the sheriff's badge,
+
+559
+00:50:08,021 --> 00:50:30,055
+stopping the bullets. And so he mounts his horse determined to catch black snake against. And when he comes on black snake, he is again easy picking as why wouldn't he be Barks snake thinks that he's killed donald? He them at the Blessings a pretty good shot that have Al his... Oh just hit that giant mother of star autumn. Yeah, especially right through the h.
+
+560
+00:50:30,475 --> 00:50:35,348
+Alright. So Donald approaches him from behind A rock. And he pretends to haunt him.
+
+561
+00:50:35,727 --> 00:50:44,235
+But black snake doesn't believe in ghosts, and he toss a live grenade over and past Donald terrified face,
+
+562
+00:50:44,615 --> 00:50:47,075
+y another song happily as it d.
+
+563
+00:50:47,855 --> 00:50:49,276
+But Donald is sing
+
+564
+00:50:49,615 --> 00:51:02,613
+but alive. He tells Barks snake the grenade exploded in a badger hole. And then Donald shoots out the support of a really precarious rock toppling it on black. Name. I think this is my favorite exchange
+
+565
+00:51:02,952 --> 00:51:20,004
+in this in this comic. This ridiculous fight where they both think they have the other person gender wright and the ridiculous of how to get out of it. Yeah. I agree. This is a great sequence. Right? Because this is like a a very violent fight and it it just because more and more unlikely
+
+566
+00:51:20,463 --> 00:51:21,323
+and ridiculous.
+
+567
+00:51:21,822 --> 00:51:27,696
+And I think it's kind of crashing in on Donald fantasy of, you know, how the west is supposed to work.
+
+568
+00:51:28,868 --> 00:51:35,752
+And it's also playing with, like, black snake use of of technology and violence because who brings the grenade,
+
+569
+00:51:36,345 --> 00:51:38,418
+to their their cattle ranch.
+
+570
+00:51:38,977 --> 00:51:40,213
+Yeah. I mean, who...
+
+571
+00:51:40,931 --> 00:51:45,956
+Guns were a factor to shoot animals and and things like that, but you've got running ranch,
+
+572
+00:51:46,570 --> 00:51:47,750
+Why did you ever been grenade?
+
+573
+00:51:48,610 --> 00:51:57,045
+No. Let's take a diet. I'd be more believable, but still grenades fun. Yeah. Alright. So the rocks crash over black snake, and
+
+574
+00:51:57,385 --> 00:52:20,266
+Donald stands atop the pile he haul him to come out, but black snakes also had a very unlikely stroke of luck as the rocks knocked him through the roof of a cave, you know, as you mentioned, this battle kind of dev evolves into a farce. Black snake can't Donald because he's like being jo around by the fire of his guns, and he can't hit black snake for basically the same reason.
+
+575
+00:52:21,118 --> 00:52:21,976
+And eventually,
+
+576
+00:52:23,190 --> 00:52:31,442
+Belt buckle breaks under the weight of all the stray bullets that have filled up his pants. And he flee due to his guns being empty.
+
+577
+00:52:32,061 --> 00:52:40,890
+Donald gets the drop on black snape, black snake, who's down to his underwear but then his guns go dry as well. You know, I really liked the
+
+578
+00:52:41,510 --> 00:52:42,570
+Donald comments.
+
+579
+00:52:43,030 --> 00:52:45,790
+That never happened in trigger true shots pictures.
+
+580
+00:52:46,285 --> 00:52:47,723
+And then when his guns go dry.
+
+581
+00:52:48,602 --> 00:52:59,182
+My gosh, these things do run dry dante there. I love the line move around, so you'll get in the way of my bullets. But basically he's not best shot he's just like... No. What. Yeah. Everything,
+
+582
+00:52:59,520 --> 00:53:02,773
+everything written on this page is kind of maximizing
+
+583
+00:53:03,685 --> 00:53:08,250
+that combination of, like cowboys speak and and humor.
+
+584
+00:53:08,627 --> 00:53:34,812
+Alright. So Donald pursues black snake on his horse intending to lasso him. And black snakes leaves them to a log over a chasm and he spins them both on that law. But Donald horse is able to keep it up with him. And then suddenly, the horse clamps his hoo tight sending black snake down into the Chasm. Donald catches him with that la. And just for good measure, he turns him into a human yoyo
+
+585
+00:53:35,444 --> 00:53:39,972
+acknowledging that it's not what Rim fire Remington would do, but it is more fun. Yeah.
+
+586
+00:53:40,588 --> 00:53:44,656
+Yeah. And and as I mentioned, you know, it looks like this is something that Barks
+
+587
+00:53:45,428 --> 00:53:50,827
+really just wanted to repurpose from that story board that he had done in that cartoon.
+
+588
+00:53:51,164 --> 00:54:08,361
+So it's it's a little silly, but it's fun. Yep. I love the horse being so sure footage. Yeah. It that they're gonna spin Al log above this canyon and with no worries, but the logs spinning out of control and them all falling down. Right. That's our... That's some of our cartoon physics for the for the issue.
+
+589
+00:54:08,856 --> 00:54:12,636
+And the horse is it's fun how the horses is in this kind of person persona
+
+590
+00:54:13,255 --> 00:54:24,465
+the the emotions of their writers. It's a nice little comic touch. Well So on the the final page, we've got Donald leading the captured black snake back in the glow of the Western Twilight
+
+591
+00:54:25,086 --> 00:54:33,435
+Donald ad the colors of Sunset head, but black snake moan that everything looks magenta to him. I assume through his like, black eyes.
+
+592
+00:54:34,171 --> 00:54:41,705
+And then later on, we transitioned to the sheriff deciding that his time for retirement this come and he decides leave his job to a younger
+
+593
+00:54:42,045 --> 00:55:04,847
+able man Donald Duck. And then we get a fun little epi vlog where a man approaches the sheriff's of office desperate with the news of a Barks robbery, but he stopped by Huey, doing Louie who tell him to simmer down and share if Doug will take care of it just after the show, which turns out to be the newest horse opera at the red Saddle theater where Sheriff duck clearly goes to keep up on the latest western
+
+594
+00:55:05,186 --> 00:55:05,545
+Shenanigans.
+
+595
+00:55:06,119 --> 00:55:06,557
+Yes.
+
+596
+00:55:06,956 --> 00:55:20,326
+And I love that messenger falls down and and here... The you see the the p as the messenger falls down and shot the the shifts Al the movies. Right. Yeah. Very classic. So that is the sheriff of Bullet Valley.
+
+597
+00:55:21,004 --> 00:55:38,375
+You know, I think I I think I've already tipped my hat by just if using on how much I enjoyed so much of this one. But, you know, what do you think Eric, how as a western fan yourself how did this one stack up? What what are your thoughts on it? Oh, I think it's fantastic. I think it's the perfect blend of western
+
+598
+00:55:38,890 --> 00:55:40,110
+tropes, cliches
+
+599
+00:55:40,410 --> 00:56:03,965
+and donald Ducktales and that Donald still is the fool, but like a true western and he redeem himself and has that one on one showdown with the bad guy, which is fantastic and that you just be a typical gun fight. It becomes this whole scene of Don the mono model, and it's it's fantastic. Yeah. I I completely agree. I think this one is one of Barks masterpieces.
+
+600
+00:56:04,945 --> 00:56:11,483
+It's so tightly paced it's very exciting. It's very funny. It has a fantastic art.
+
+601
+00:56:11,900 --> 00:56:13,356
+Just a really
+
+602
+00:56:13,692 --> 00:56:14,192
+vicious
+
+603
+00:56:14,664 --> 00:56:39,146
+villain with as you said a really great plan and just enough of a mystery to make this just incredibly training. So I I've never really thought before about how I would rank some of these stories, but I'm I'm pretty confident if I sit down and do it, this is gonna be like a top ten or top twenty or so Barks story for me. So I think this is a masterpiece
+
+604
+00:56:39,700 --> 00:57:09,052
+I'm I'm glad to hear that you really enjoy this one. Any thoughts any other thoughts before I check in on on the general community's opinion of this one? No. Like I said, I think I've I've read this one before and I remember liking in the read read rebate I'm like, wait a minute dead user a ray. Right? Yes. But reading again allowed me to say that look look for those western tropes like yeah, as you said and like... Oh my gosh. Yes. This is referencing that. That's referencing this. And just the the goof of the small town the, you know, at the this
+
+605
+00:57:09,511 --> 00:57:42,725
+city dwell her, green horn coming in to clean up the town because of his knowledge of western and he never shook his stuff in. That he could do it. And I think that's fantastic. Right. Yeah. As you say, this one is best appreciated it if you come in from the perspective of it being like a a love letter to or a meditation on western and on the wild West. It's self. And, you know, our ideas of the Wild west come from Hollywood. So this this is really the perfect way to think about it and to poke some general fun at it. Absolutely.
+
+606
+00:57:43,185 --> 00:57:59,759
+So the the community agrees with both of us this one is an incredibly well regarded one. As of when I looked it up, this one had had an eight point four out of ten rating on the Index website where we go to look at general consensus. And that was good for fourteenth
+
+607
+00:58:00,576 --> 00:58:11,634
+overall out of all the nearly forty one thousand Disney comic stories that are rated on dutch So that places this. Yeah. And in the very very highest tier of comics.
+
+608
+00:58:12,373 --> 00:58:15,325
+So people people love this one. It's
+
+609
+00:58:16,345 --> 00:58:34,235
+very well remembered very well regarded. And then, you know, as far as reflecting on how well it holds up, this one is an interest one to think about right? Because, like, it is incredibly dated, but it's like dated in a way that's very purposeful and deliberate. Right? It's I feel like he's
+
+610
+00:58:34,815 --> 00:59:01,320
+already kind of reflecting on those myths of the old west and already acknowledging that they're myths. So like, it's it's hard to... It's hard to accuse this one of being dated because that's kind of the point of it in all way. And even even when you get some of the like technology stuff like the old Fashioned Walkie Talkie, you know, that's still modern technology for the old west in a lot of ways. Well, that that's what makes it Al classic. And, you know,
+
+611
+00:59:02,880 --> 00:59:04,620
+rewatch some of the movies
+
+612
+00:59:06,534 --> 00:59:28,290
+that came out back then that were current and modern then. I'm sure people we're like, wow this is very. We have... You know, like, gonna understand this. Looking at it back now, we look at him and say well it's extremely dated because it's very, you know, no cell phones, all this other stuff. No modern convenience is but you look at more as a snapshot of the era. And appreciating it. And like, wow, this is a classic. It helps me understand that era better.
+
+613
+00:59:29,009 --> 00:59:42,854
+And I think that's what this does. It's because it's so well done and and all that. So I I definitely appreciate it making... And it it is a classic. Yeah. And and the thing is that, like, the the genre of the Western has basically,
+
+614
+00:59:43,272 --> 00:59:47,124
+like, falling off a cliff. Right? We don't... They're incredibly rare nowadays.
+
+615
+00:59:47,661 --> 00:59:53,681
+They were at their height of their popularity at a time in history where it kind of made more sense.
+
+616
+00:59:54,018 --> 00:59:56,392
+And I feel like the genre
+
+617
+00:59:56,809 --> 01:00:24,005
+it kinda had a limited number of stories to tell. Right? So to me, this is kind of the best way to look at it is is, like, reflecting on it as, you know, what are the ideas that led to the west stern. But but it's fascinating to me how, like, they were so ubiquitous at this time when Barks was writing this love letter to them, and they basically don't exist anymore. No. Not really. There's not many people appreciate good western.
+
+618
+01:00:24,660 --> 01:00:27,600
+Or know what they referring to and the western aren't. They definitely...
+
+619
+01:00:27,900 --> 01:00:43,480
+Their heyday has passed. And I don't think we will ever see that again. Yeah. And and a big part of... I mean, I think it's very understandable why the Heyday has passed. Right? And And a and a big part of it is just some so many of our ideas of the old west are not
+
+620
+01:00:43,938 --> 01:00:47,964
+not in fashion anymore. And Oh, this story
+
+621
+01:00:48,303 --> 01:00:52,998
+is very fortunate too to have avoided some of the like tropes
+
+622
+01:00:53,617 --> 01:01:07,955
+so much of the horse opera stuff was about Indians. Right? And yeah. And it's it's a it's a relief that he wasn't really interested in that Cowboy and Indian story. He was more interested in that open range cattle wrestling story because
+
+623
+01:01:08,575 --> 01:01:17,610
+we don't really have to talk about some of the stuff that hasn't Al aged well because again, it it didn't age well in in the same way that noah western
+
+624
+01:01:18,150 --> 01:01:36,294
+sure aged well, but it it's still there's nothing really like that that makes me cringe or that I feel like I have to explain away if I read this to my ten year old. No. Not at all. It's very straightforward. There's a good guy. There's a bad guy. Bad guy gets cool. But yeah. A good guy learns going on.
+
+625
+01:01:36,813 --> 01:01:37,930
+Ops the bad guy. Yeah.
+
+626
+01:01:39,222 --> 01:01:42,993
+So as far as appearances and other media go,
+
+627
+01:01:43,610 --> 01:01:45,605
+Barks did have a lit graph.
+
+628
+01:01:46,340 --> 01:01:51,580
+An oil painting based on his cover for this one that I'll have to share with you.
+
+629
+01:01:52,620 --> 01:01:55,140
+Do you do you have the means to look it up really quick actually?
+
+630
+01:01:55,594 --> 01:02:19,625
+It's it's just called, I would just Google oil painting sheriff of bullet Al. It's it's really stunning. That's football well. Yeah. So that's that's a great lit graph or oil painting that I know has been used as the cover art for at least one reprint of this one. I don't think that black snake ever been used again, which I think is unfortunate because I again, I thought he was a great villain.
+
+631
+01:02:20,158 --> 01:02:25,683
+And to my knowledge, you know, they never tried to adapt this for duck tales or anything. As far as
+
+632
+01:02:26,021 --> 01:02:37,227
+as far as educational value, you know, this one did have some meat kind of western themed vocabulary. It's not the most educational one. But I learned what a c use is from this one.
+
+633
+01:02:38,777 --> 01:02:41,710
+And there's just some some good sort of cowboy poetry
+
+634
+01:02:42,247 --> 01:02:48,211
+throughout this one. Well, that is a good painting. Yeah. Yeah. That's a really neat when I like I think the colors really pop.
+
+635
+01:02:48,890 --> 01:02:56,080
+And I love the original cover, that, you know, that's in the adaptation of the cover for this one. There are a ton of really
+
+636
+01:02:56,380 --> 01:03:00,780
+beautiful and cool panels. In this one, many of which we've already talked about,
+
+637
+01:03:01,515 --> 01:03:03,655
+are there any that really stand out to you?
+
+638
+01:03:04,955 --> 01:03:14,211
+I'm just trying to look at them. I I really like the intro and it's setting the setting the pace and setting the the scene. Yeah, You talking about the, like, landscape
+
+639
+01:03:14,787 --> 01:03:41,187
+the landscape. And then I also, like trying to think I'm looking there go like, man, there's just so many. They're really are. That's one of the great things about a western people always talk about this that the old well the hero wrote this. The backdrop and the landscape of western are so important, they're so pretty and it's such beautiful country that you, like, oh, wow. And so I like a lot of these things when they have distant shots and you see things like the nephews,
+
+640
+01:03:41,939 --> 01:03:42,439
+are
+
+641
+01:03:42,778 --> 01:03:45,475
+watching the cab... This the cattle
+
+642
+01:03:46,174 --> 01:03:49,391
+Russell is just a nice shot of the geography and everything.
+
+643
+01:03:50,385 --> 01:03:51,365
+Going to the badlands.
+
+644
+01:03:51,865 --> 01:04:02,228
+It's just so fantastic. I don't know if there's any one panel that is obviously my favorite. And then the this one is such good artwork in this so many of the the classic Barks silhouette scenes.
+
+645
+01:04:03,265 --> 01:04:05,917
+Donald leading the leading him back into town
+
+646
+01:04:06,254 --> 01:04:09,803
+To deal with the sunrise I think it's just very pretty very good artwork work.
+
+647
+01:04:10,181 --> 01:04:17,887
+So I... It'd be hard pressed Honestly, I probably depend... But... I don't know if it's the panel, but the whole page, we talked about it when they're chasing each other the badlands,
+
+648
+01:04:18,306 --> 01:04:19,685
+that whole page
+
+649
+01:04:20,024 --> 01:04:23,521
+is amazing. Yeah. I I agree with you. I really
+
+650
+01:04:23,994 --> 01:04:25,092
+keyed then on those
+
+651
+01:04:25,946 --> 01:04:30,669
+panels of black snake vowing retribution. I don't know why those stick with me.
+
+652
+01:04:31,460 --> 01:04:36,354
+But I I really noticed too, there's a lot of great reaction shots just of characters
+
+653
+01:04:37,213 --> 01:04:41,839
+thinking and and reacting of things, you know, Donald anguish, the sheriff's
+
+654
+01:04:42,256 --> 01:04:42,756
+resignation,
+
+655
+01:04:43,294 --> 01:04:45,908
+the sheriff delight Al seeing the Nephews
+
+656
+01:04:47,180 --> 01:04:48,120
+burning the radar
+
+657
+01:04:48,420 --> 01:04:50,800
+on the bridges of the the rust.
+
+658
+01:04:51,300 --> 01:04:54,320
+There's a ton of great great art and great sequences.
+
+659
+01:04:55,195 --> 01:04:55,695
+Yeah.
+
+660
+01:04:56,075 --> 01:04:57,335
+I I did like the
+
+661
+01:04:57,635 --> 01:05:10,275
+the slaps factor that they included in this one with Al lot of the reactions with a question Barks, so it's so many federal characters different times. And then, you know, the slaps of them getting burned And the horses,
+
+662
+01:05:10,695 --> 01:05:11,195
+particularly,
+
+663
+01:05:11,535 --> 01:05:14,455
+these are not well drawn horses when it comes to a horse.
+
+664
+01:05:15,095 --> 01:05:15,855
+Right. Very much.
+
+665
+01:05:16,509 --> 01:05:25,175
+They're very much a cartoon animated horse where they're just got the floppy legs. Right. And it's it's it's so fantastic and keeps that slaps steak color with
+
+666
+01:05:25,834 --> 01:05:32,326
+feel too very well. Yeah. I I've been reread some of the old Mickey floyd got and stories. And I think that
+
+667
+01:05:33,200 --> 01:05:38,100
+cartoon that Barks was working on was originally meant to be a vehicle for
+
+668
+01:05:38,520 --> 01:05:39,020
+Mickey
+
+669
+01:05:39,880 --> 01:05:46,235
+horse from the comic strip tang foot, which had this, like brief brief little burst of popularity
+
+670
+01:05:47,055 --> 01:05:48,155
+in the thirties.
+
+671
+01:05:49,228 --> 01:05:53,578
+I I think that's kind of where some of that humor with the worse might might come from.
+
+672
+01:05:54,416 --> 01:05:55,913
+Yeah So anyway,
+
+673
+01:05:56,371 --> 01:06:05,500
+we we've had a lot to say about this one. I'll just note before before finishing that at an eight point four, this is the second best
+
+674
+01:06:05,839 --> 01:06:10,528
+rated one out of the storage that we've talked about so far, I think only adventure down under
+
+675
+01:06:11,225 --> 01:06:12,820
+clicked in a tiny bit higher.
+
+676
+01:06:13,274 --> 01:06:17,423
+Do you... Eric have any any closing thoughts before we wrap it up?
+
+677
+01:06:18,222 --> 01:06:34,155
+Know just that it's fantastic and I love it. It sits I think it it's well married in in it's spot as a classic. It's a it's a great comic. It explains itself start to finish it has the resolution it has the explanation, and it's it's an a wonderful o to
+
+678
+01:06:34,855 --> 01:06:36,965
+western. Which I very much appreciate.
+
+679
+01:06:37,661 --> 01:06:44,875
+Yeah. I totally agree. I love it even as someone who doesn't really care for a western. So great story all around.
+
+680
+01:06:45,215 --> 01:06:51,635
+Eric, thank you so much for joining me again and thanks to all of our listeners for joining us.
+
+681
+01:06:52,055 --> 01:06:59,116
+If you have any thoughts or comments, you can drop us Al line at Barks remarks at g mail dot com
+
+682
+01:06:59,534 --> 01:07:01,290
+or or on the Facebook page.
+
+683
+01:07:02,103 --> 01:07:05,637
+We have gotten a little bit a couple of our first
+
+684
+01:07:06,095 --> 01:07:08,791
+email feedback which I was
+
+685
+01:07:09,249 --> 01:07:11,106
+very pleased to see
+
+686
+01:07:11,619 --> 01:07:13,316
+So I heard from
+
+687
+01:07:14,293 --> 01:07:16,149
+Rubin had given me some
+
+688
+01:07:16,807 --> 01:07:19,381
+feedback on the audio quality
+
+689
+01:07:19,854 --> 01:07:22,268
+of Christmas on Bear Mountain and
+
+690
+01:07:22,885 --> 01:07:29,526
+was able to go back and improve some of that. So he had some positive things to say, but I was glad that we could
+
+691
+01:07:29,959 --> 01:07:35,473
+improve the audio quality on that one and I'm I'm always trying to keep that strong going forward.
+
+692
+01:07:36,152 --> 01:07:38,265
+And then Roger had emailed
+
+693
+01:07:38,684 --> 01:07:40,743
+providing some very kind feedback
+
+694
+01:07:41,761 --> 01:07:42,261
+and
+
+695
+01:07:42,599 --> 01:07:43,579
+saying that he
+
+696
+01:07:43,998 --> 01:07:45,656
+routinely was searching
+
+697
+01:07:46,608 --> 01:08:03,038
+Apple podcasts, I think for Carl Barks podcasts. And the last time he did it was pleased to actually see that one existed. So you know, I promote this on the Carl Facebook group, but I'm glad that people are finding it from other sources as well. So thank you guys for
+
+698
+01:08:03,376 --> 01:08:05,927
+chi in. I really appreciate it.
+
+699
+01:08:06,265 --> 01:08:06,765
+And
+
+700
+01:08:07,103 --> 01:08:12,330
+please join us next time on B Barks when we get to talk about the Golden Christmas tree.
+
