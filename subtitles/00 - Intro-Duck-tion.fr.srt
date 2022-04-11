@@ -1,0 +1,771 @@
+﻿1
+00:00:21,387 --> 00:00:33,804
+Bonjour et bienvenue dans Barks Remarks, le podcast où l'on parle des histoires du légendaire Carl Barks, créateur de Balthazar Picsou et scénariste et dessinateur des plus grandes bandes dessinées de Donald et Picsou de tous les temps.
+
+2
+00:00:33,804 --> 00:00:39,130
+Rejoignez-nous alors que nous explorons ses histoires longues dans leur ordre chronologique de publication.
+
+3
+00:00:39,130 --> 00:00:45,163
+Nous parlerons de ce qui les rend si intemporelles, de leur contexte historique et de ce qu'il reste d'elles aujourd'hui.
+
+4
+00:00:45,163 --> 00:00:48,621
+Alors sortez votre magazine et préparez-vous à lire ces histoires en profitant de nos commentaires.
+
+5
+00:00:48,980 --> 00:00:52,835
+Bienvenue dans Barks Remarks !
+
+6
+00:00:53,588 --> 00:00:59,607
+Je m'appelle Mark. Je suis un fan de longue date de Carl Barks.
+
+7
+00:01:00,484 --> 00:01:11,025
+Ceci est introduction, notre épisode zéro, où nous parlons de ce que j'espère faire dans ce podcast,
+
+8
+00:01:11,759 --> 00:01:21,340
+et vous donner un peu de contexte et de structure pour le reste des épisodes ; la mission de Barks Remarks
+
+9
+00:01:21,916 --> 00:01:31,193
+est que, avec l'aide de quelques invités, nous parlions de nos impressions et du contexte
+
+10
+00:01:31,193 --> 00:01:37,710
+de toutes les histoires d'aventures de Picsou et Donald réalisées par Carl Barks.
+
+11
+00:01:38,603 --> 00:01:41,996
+Ce seront donc les histoires au format long.
+
+12
+00:01:43,273 --> 00:01:56,260
+Les fans de Barks savent qu'il existe des centaines d'histoires. La plupart d'entre elles sont des bandes dessinées "gag" de dix pages qui ont peuplé les produits et les histoires de Walt Disney.
+
+13
+00:01:57,153 --> 00:02:07,000
+Mais dans ce podcast, encore une fois, nous allons passer en revue les histoires plus longues qui s'étendent généralement sur une vingtaine de pages.
+
+14
+00:02:07,896 --> 00:02:18,164
+Je veux faire cela chronologiquement et parler de la façon dont ces histoires de Carl Barks avec Donald Duck et Oncle Picsou ont évolué.
+
+15
+00:02:19,481 --> 00:02:23,349
+Comme je l'ai mentionné, je suis un fan de longue date de Barks.
+
+16
+00:02:24,367 --> 00:02:33,108
+Je lis les histoires depuis mes 7 ans, en 1987.
+
+17
+00:02:34,124 --> 00:02:40,510
+J'ai donc cette perspective en tant que fan de longue date, un fan obsessionnel,
+
+18
+00:02:40,930 --> 00:02:51,826
+mais je vais amener des invités et ils vont jouer le rôle de fans plus occasionnels de Barks,
+
+19
+00:02:51,826 --> 00:02:59,720
+ou parfois quelqu'un qui n'est pas familier avec cet univers.  J'aimerais donc prendre un moment pour présenter mes invités d'aujourd'hui.
+
+20
+00:03:02,220 --> 00:03:07,829
+- Je m'appelle Eric. Je suis un ami de Marc. J'ai toujours été un lecteur de bande dessinée
+
+21
+00:03:08,428 --> 00:03:10,705
+grâce à mes frères aînés qui en collectionnaient.
+
+22
+00:03:11,082 --> 00:03:19,796
+J'ai été exposé aux bandes dessinées de Disney quand j'étais enfant, mon père les achetait toujours comme matériel de lecture pour les voyages en voiture en famille
+
+23
+00:03:19,896 --> 00:03:25,558
+parce que ces bandes dessinées sont géniales, elles sont idéales pour faire circuler dans une camionnette pleine d'enfants.
+
+24
+00:03:25,558 --> 00:03:29,645
+Chacun à son tour nous les lisions puis les passions à l'enfant suivant, et si on aimait l'histoire on la récupérait plus tard.
+
+25
+00:03:30,379 --> 00:03:34,914
+Ce que j'aimais avec les bandes dessinées quand j'étais enfant, en particulier celles de Disney,
+
+26
+00:03:35,333 --> 00:03:40,882
+c'est que vous pouvez simplement les lire et les relire même s'il n'y a qu'une histoire, vous n'êtes pas obligé d'aller chercher toutes les autres.
+
+27
+00:03:41,580 --> 00:03:51,279
+J'ai grandi en lisant Donald Duck. Je n'ai jamais reconnu Carl Barks comme dessinateur mais je me souviens m'être souvent dit "Ah oui, j'ai déjà vu ça auparavant."
+
+28
+00:03:51,279 --> 00:03:54,760
+Je pense que tu as m'avais d'ailleurs donné quelques magazines...
+
+29
+00:03:54,760 --> 00:03:58,858
+- Dis-moi, que sais-tu de Carl Barks ?
+
+30
+00:03:59,377 --> 00:04:02,911
+- Eh bien, de Carl Barks, j'ai beaucoup appris en lisant...
+
+31
+00:04:03,289 --> 00:04:04,587
+Eh bien, en lisant les histoires de Don Rosa.
+
+32
+00:04:04,965 --> 00:04:12,293
+Comme je l'ai dit, je ne suis pas la meilleure personne pour identifier les dessinateurs de bandes dessinées.
+
+33
+00:04:13,244 --> 00:04:15,342
+J'ai beaucoup grandi avec La Bande à Picsou, le dessin animé,
+
+34
+00:04:16,161 --> 00:04:23,705
+et j'ai compris que Barks avait été une grande source d'inspiration
+
+35
+00:04:24,242 --> 00:04:28,424
+pour beaucoup d'histoires classiques de la Bande à Picsou.
+
+36
+00:04:28,424 --> 00:04:34,308
+- Bien sûr. Tu es un enfant des années 80 comme moi., alors évidemment, nous avons regardé la Bande à Picsou.
+
+37
+00:04:34,628 --> 00:04:43,820
+Je me souviens que j'aimais énormément les histoires de la Bande à Picsou, et je voudrais parler un peu de cette série au cours du podcast.
+
+38
+00:04:43,820 --> 00:04:51,811
+L'accent sera principalement mis sur les histoires de Barks, mais beaucoup d'entre elles ont inspiré ces dessins animés ainsi que le reboot diffusé récemment.
+
+39
+00:04:52,470 --> 00:05:00,419
+C'est un sujet délicat avec certains fans de Barks parce que certains fans de Barks considèrent
+
+40
+00:05:00,839 --> 00:05:04,779
+que ces dessins animés ne sont pas à la hauteur des histoires de Barks. Mais je pense que ce sont des dessins animés amusants.
+
+41
+00:05:05,120 --> 00:05:11,694
+Donc, même si ce n'est pas ce dont je veux le plus parler, je vais aussi parler un peu de la Bande à Picsou.
+
+42
+00:05:11,694 --> 00:05:14,851
+Et parfois d'autres références à la culture pop...
+
+43
+00:05:15,308 --> 00:05:15,808
+- Bien sûr.
+
+44
+00:05:16,719 --> 00:05:20,096
+- Je pense que la culture pop a été très influencée
+
+45
+00:05:20,475 --> 00:05:27,164
+au cours du temps par les histoires de Barks.
+
+46
+00:05:28,124 --> 00:05:29,984
+- Alors Mark, en tant qu'enfant des années 80,
+
+47
+00:05:30,884 --> 00:05:36,071
+Carl Barks étant déjà âgé à cette époque, et puisque ces histoires ont été imprimées pour la première fois dans les années 40, 50...
+
+48
+00:05:36,071 --> 00:05:39,595
+En tant qu'enfant des années 80, comment as-tu découvert ces bandes dessinées ?
+
+49
+00:05:42,211 --> 00:05:52,224
+- Eh bien, j'aimerais pouvoir te dire exactement comment.  Je me souviens du premier numéro que j'ai reçu, et je crois que c'était juste dans un kiosque à journaux ou quelque chose comme ça.
+
+50
+00:05:53,518 --> 00:05:58,436
+Gladstone, la société qui les a publiés dans les années 80, a récupéré la licence
+
+51
+00:05:58,436 --> 00:06:06,609
+après une période d'inactivité et a commencé à publier ces histoires de Barks à nouveau.
+
+52
+00:06:07,506 --> 00:06:14,685
+Après ça ils ont aussi commencé à publier les histoires de Don Rosa et les histoires de William Van Horn.
+
+53
+00:06:15,342 --> 00:06:20,046
+Je me souviens que c'était un magazine "Uncle Scrooge".
+
+54
+00:06:21,182 --> 00:06:28,042
+C'était l'histoire avec... ah, je ne me souviens plus, j'irai regarder ça.
+
+55
+00:06:28,042 --> 00:06:36,704
+C'était quelques mois avant que je me lance dans la bande à Picsou, donc je me suis lancé dans les bandes dessinées juste avant de connaître la bande à Picsou.
+
+56
+00:06:37,001 --> 00:06:43,180
+J'étais tellement excité à l'idée de rentrer de l'école et regarder cette série !
+
+57
+00:06:43,960 --> 00:06:53,106
+En tout cas c'est comme ça que je suis entré dans l'univers de Carl Barks, et on dirait que de ton coté tu l'as juste découvert par hasard, mais que tu ne savais pas nécessairement qui il était.
+
+58
+00:06:53,106 --> 00:06:58,716
+C'est par moi que tu as appris qui était "le bon artiste" ?
+
+59
+00:07:01,927 --> 00:07:04,944
+- Je ne pense pas que Don Rosa vous contredirait là-dessus, c'est ce qui est drôle.
+
+60
+00:07:06,082 --> 00:07:12,768
+J'ai peut-être vu son nom quelque part. Je veux dire, je sais que ça sonne familier.
+
+61
+00:07:12,768 --> 00:07:19,078
+Je ne pense pas avoir fait l'association jusqu'à ce que tu me montres les histoires. Mais quand tu l'as fait, je me suis dit "oh, d'accord, oui, je me souviens de ces histoires."
+
+62
+00:07:19,078 --> 00:07:30,084
+- Oui. Et ces histoires se démarquent. Je l'appelle "le bon artiste", "le bon artiste des ducks" parce que c'est ainsi qu'il s'est fait connaître des fans à l'origine.
+
+63
+00:07:30,084 --> 00:07:40,439
+Cela me fait penser : je pense que nous devrions prendre un moment pour les besoins de ce podcast pour simplement se poser la question
+
+64
+00:07:40,439 --> 00:07:50,108
+de qui diable est ce Carl Barks, et pourquoi serait-il assez important pour lui consacrer un podcast dédié.
+
+65
+00:07:51,105 --> 00:07:59,041
+Carl Barks, vous le connaissez certainement en tant que créateur d'Oncle Picsou. C'est en quelque sorte ce qui justifie sa gloire.
+
+66
+00:07:59,898 --> 00:08:11,900
+Carl Barks est célèbre pour avoir réalisé des centaines de bandes dessinées mettant en vedette Oncle Picsou, ainsi que Donald Duck.
+
+67
+00:08:11,900 --> 00:08:19,042
+Il a également créé un certain nombre d'autres personnages de Disney, dont certains sont devenus très célèbres
+
+68
+00:08:19,421 --> 00:08:24,165
+et utilisés dans d'autres productions des studios de Walt Disney.
+
+69
+00:08:24,165 --> 00:08:37,224
+Il n'était pas très connu quand il a commencé dans les années 40, il travaillait assez anonymement,
+
+70
+00:08:37,642 --> 00:08:44,857
+ce qui était un peu le style Disney à l'époque : ces bandes dessinées ne donnaient pas vraiment de place pour qui que ce soit
+
+71
+00:08:45,235 --> 00:08:47,250
+d'autre que Walt Disney lui-même.
+
+72
+00:08:47,707 --> 00:08:59,165
+Mais les fans de bandes dessinées, eux … Je pense qu'il est important de comprendre à quel point les bandes dessinées étaient quelque chose d'énorme en ces temps qu'on nomme l'âge d'or et l'âge d'argent de la bande dessinée.
+
+73
+00:08:59,165 --> 00:09:04,836
+Je veux dire, des millions de lecteurs payaient 10 centimes de dollars à l'épicerie du coin pour ces bandes dessinées.
+
+74
+00:09:05,389 --> 00:09:11,364
+Et Disney était énorme. Il l'est toujours, mais je pense que c'était probablement beaucoup plus gros à l'époque.
+
+75
+00:09:11,364 --> 00:09:17,606
+Il y avait moins de variété dans les bandes dessinées. Ces bandes dessinées avaient moins d'historique.
+
+76
+00:09:17,606 --> 00:09:28,435
+Ces bandes dessinées c'était donc quelque chose d'énorme et les fans ont vraiment commencé à différencier la qualité et le style artistique de certaines de ces histoires.
+
+77
+00:09:29,013 --> 00:09:38,709
+Et parmi les fans occasionnels, ces centaines d'histoires ont été reconnues comme celles qui ont été faites par "le bon artiste".
+
+78
+00:09:39,406 --> 00:09:54,931
+Et bien plus tard dans sa carrière, Carl Barks a commencé à en être crédité et une communauté de fans s'est vraiment formée autour de l'appréciation de ces histoires.
+
+79
+00:09:56,465 --> 00:10:01,407
+Je trouve que c'est vraiment intéressant que cela ait été fait de manière rétroactive.
+
+80
+00:10:01,785 --> 00:10:07,930
+Il y avait cet énorme marché de bandes dessinées qui ont été publiées à l'époque, et puis les générations suivantes comme moi,
+
+81
+00:10:08,584 --> 00:10:17,855
+ne les ont découvertes qu'à travers des réimpressions, ainsi que via leur adaptation dans les différentes émissions de télévision.
+
+82
+00:10:18,670 --> 00:10:35,212
+Je trouve ça génial que ces histoires aient en quelque sorte traversé les années et qu'elles aient juste résisté à une telle épreuve du temps, qu'elles aient pu surmonter cette obscurité dans lequel Barks travaillait.
+
+83
+00:10:35,212 --> 00:10:44,855
+Et, oui, Carl Barks a obtenu beaucoup de reconnaissance dans ses dernières années, il a été fait... Disney a cette désignation de "légendes Disney".
+
+84
+00:10:45,475 --> 00:10:53,561
+Il a été fait "légende Disney", et beaucoup de fans et de collectionneurs apprécient non seulement les bandes dessinées,
+
+85
+00:10:53,561 --> 00:10:58,838
+mais également son travail des deux dernières décennies de sa vie,
+
+86
+00:10:59,556 --> 00:11:03,208
+ce qui a peut-être été plus long qu'il n'a réellement travaillé sur les bandes dessinées elles-mêmes...
+
+87
+00:11:04,440 --> 00:11:13,716
+Il a fait des peintures à l'huile vraiment spectaculaires qui atteignent des cotes incroyables ces dernières années.
+
+88
+00:11:13,716 --> 00:11:18,870
+Ce sont des objets de collection très précieux et vraiment cool.
+
+89
+00:11:18,870 --> 00:11:25,517
+Ces peintures ont été imprimées sous forme de reproductions lithographiques et il y a eu une grande variété de figurines créées.
+
+90
+00:11:26,094 --> 00:11:39,828
+Cet homme a donc couvert une très longue période avec de très nombreuses histoires publiées par des tonnes d'éditeurs différents.
+
+91
+00:11:41,086 --> 00:11:50,554
+J'ai mentionné, Eric, certains des personnages... Barks est devenu célèbre pour avoir inventé beaucoup de personnages.
+
+92
+00:11:51,574 --> 00:11:59,838
+Y en a-t-il qui te viennent à l'esprit ? Pas de souci si tu te trompes bien sûr, mais est-ce que tu sais quels personnages il a créés ?
+
+93
+00:12:01,011 --> 00:12:07,727
+- Dans l'univers Duck ?  Ou dans l'univers Disney en général ?
+- Dans l'univers Duck.
+- Évidemment, Picsou.
+- Exact.
+
+94
+00:12:09,444 --> 00:12:14,716
+- Donald n'était évidemment pas l'une de ses créations... Je ne crois pas que les neveux l'étaient non plus.
+
+95
+00:12:15,088 --> 00:12:21,355
+J'imagine... J'imagine que Gontran Bonheur était...
+- Oui. Gontran Bonheur est une de ses créations.
+
+96
+00:12:21,894 --> 00:12:28,225
+- Et autour de Donald...
+- Je ne veux pas te mettre dans l'embarras. Il a créé des personnages iconiques...
+
+97
+00:12:29,058 --> 00:12:32,926
+- Pas de souci. J'essaie de penser aux différents personnages de cet univers.
+
+98
+00:12:35,079 --> 00:12:42,333
+Je ne me souviens pas de tous les noms de famille...
+- Ses méchants sont assez connus.
+
+99
+00:12:43,108 --> 00:12:51,600
+- Oh, ses méchants. Ah oui, ces deux-là...Gripsou ?
+- Oui.
+- Miss Tick ?
+- Oui.
+
+100
+00:12:53,215 --> 00:13:06,785
+- Les Rapetou.
+- Les Rapetou, oui. Et une grande partie de l'univers autour de Picsou également.
+
+101
+00:13:07,282 --> 00:13:10,894
+Il a créé Picsou, oui, mais il a aussi créé l'idée de Picsou.
+
+102
+00:13:12,762 --> 00:13:22,146
+- Le mythe.
+- Le mythe, oui.
+- "Plus dur que les durs, plus malin que les petits malins", "Toujours droit et carré"...
+- Ouais, c'est vrai.
+
+103
+00:13:22,146 --> 00:13:32,621
+Le célèbre mythe du cireur de chaussures en Ecosse qui a dû partir en Amérique pour faire fortune, même si cela n'a pas été facile.
+
+104
+00:13:33,199 --> 00:13:42,420
+Et le mythe que comme il était si pingre, il a pu obtenir assez d'argent pour tout acheter,
+
+105
+00:13:42,420 --> 00:13:50,885
+son empire commercial a explosé pendant la grande dépression.
+
+106
+00:13:50,885 --> 00:13:57,366
+- Exact. Et je pense qu'une grande partie de cette histoire nous est probablement venue à travers certaines des histoires de Don Rosa.
+
+107
+00:13:57,366 --> 00:14:06,154
+- Tout à fait, tout à fait. Mais oui, Carl Barks a fait de Picsou l'explorateur ultime.
+
+108
+00:14:06,774 --> 00:14:11,954
+Il a donc développé son entreprise grâce à l'économie, mais il l'a rendue plus riche grâce à l'aventure.
+
+109
+00:14:12,734 --> 00:14:14,689
+- Oui.  Je pense que c'est une bonne description.
+
+110
+00:14:16,229 --> 00:14:24,664
+Beaucoup d'artefacts liés à Balthazar Picsou ont ​​également été créés par Barks. L'idée du coffre sur la colline...
+
+111
+00:14:25,203 --> 00:14:36,949
+Picsou est comme un avatar pour la richesse et la cupidité : le fait de nager dans l'argent... ça aussi a été créé par Barks ; le sou fétiche également.
+
+112
+00:14:38,489 --> 00:14:41,689
+Oui, tout cet univers autour de lui.
+
+113
+00:14:42,584 --> 00:14:45,242
+Je pense donc qu'il y a beaucoup à dire.
+
+114
+00:14:45,581 --> 00:14:56,280
+J'aimerais juste passer en revue un peu la structure de ce que j'aimerais faire dans chaque épisode, avant de conclure.
+
+115
+00:14:56,280 --> 00:15:01,310
+Donc, ce que nous allons faire, c'est que nous allons parler de chaque histoire.
+
+116
+00:15:01,310 --> 00:15:06,592
+Nous n'allons pas nous plonger trop profondément dans le résumé de l'histoire.
+
+117
+00:15:07,250 --> 00:15:10,958
+On fera simplement un bon synopsis.
+
+118
+00:15:11,297 --> 00:15:18,484
+Je vois qu'Eric soulève sa très appropriée chemise Donald Duck Disneyland.  J'ai donc dû lui donner un petit sourire appréciatif.
+
+119
+00:15:19,544 --> 00:15:27,297
+Oh et j'aurais dû porter ma seule et unique chemise Oncle Picsou, mais j'aurai des vêtements plus appropriés pour le podcast la prochaine fois.
+
+120
+00:15:27,636 --> 00:15:35,540
+Donc, dans chaque épisode, nous allons parler de l'histoire bien sûr. Nous allons donner un aperçu de ce qui se passe.
+
+121
+00:15:36,276 --> 00:15:45,112
+Mais pour moi, une grande partie de la raison pour laquelle ces histoires sont si distrayantes
+
+122
+00:15:45,112 --> 00:15:49,249
+en dehors de l'art et des intrigues intéressantes, c'est tout ce que j'ai appris d'elles.
+
+123
+00:15:49,249 --> 00:15:58,896
+Je plaisante souvent en disant qu'une grande partie de mes connaissances en géographie, en mythologie et en sciences...
+
+124
+00:15:59,689 --> 00:16:04,858
+Et beaucoup de vocabulaire vraiment pointu est né de la lecture de ces bandes dessinées.
+
+125
+00:16:05,436 --> 00:16:15,595
+Et c'est bizarre parce que nombre d'entre elles ont eu lieu 30 ou 40 ans avant ma naissance. Donc parfois j'ai l'impression d'avoir une connaissance très précise de la culture pop.
+
+126
+00:16:16,208 --> 00:16:26,047
+De cette période.
+- Bien sûr. Les connaissances historiques qu'apportaient ces histoires étaient très intéressantes à lire en tant qu'enfant.
+
+127
+00:16:26,424 --> 00:16:31,191
+Parce que dans les années 80, il n'y avait pas Internet pour acquérir de nouvelles connaissances...
+
+128
+00:16:31,649 --> 00:16:36,553
+"Il y a une légende urbaine venant d'Amérique du Sud à propos d'un homme en or", c'est le genre de choses que j'apprenais en lisant les histoires.
+
+129
+00:16:37,090 --> 00:16:41,760
+Et ce sont ces choses intéressantes qui permettent d'élargir notre vision du monde.
+
+130
+00:16:42,653 --> 00:16:47,983
+C'était tellement plus intéressant intellectuellement, que certaines autres bandes dessinées,
+
+131
+00:16:48,361 --> 00:16:53,745
+par exemple les bandes dessinées d'Archie, tu vois...
+
+132
+00:16:54,403 --> 00:17:00,590
+- Je suis tout à fait d'accord, cela dit j'avais également une assez grosse collection de bandes dessinées Archie quand j'étais enfant.
+
+133
+00:17:01,285 --> 00:17:13,960
+- Et je les ai lues moi aussi, mais les histoires de canard ont un effet durable : l'histoire avec les poules carrées, je m'en souviens encore...
+
+134
+00:17:14,260 --> 00:17:15,279
+- Oh oui, tout à fait.
+
+135
+00:17:15,374 --> 00:17:18,272
+- Dans les histoires de Barks il y avait des choses qui étaient tout simplement incroyables.
+
+136
+00:17:18,291 --> 00:17:20,828
+Si vous lisez une bande dessinée Archie, vous les avez toutes lues.
+
+137
+00:17:21,507 --> 00:17:28,099
+Picsou et les canards sont très différents. Ils vous emmènent dans le monde entier.
+
+138
+00:17:28,639 --> 00:17:32,879
+- Ils m'ont ouvert à beaucoup de cultures et de légendes différentes.
+
+139
+00:17:33,454 --> 00:17:35,792
+D'une manière vraiment intéressante. Cela dit...
+
+140
+00:17:36,970 --> 00:17:44,159
+Je voudrais parler du consensus critique.  Tu as mentionné les poules carrées et les œufs carrés.
+
+141
+00:17:44,940 --> 00:17:49,700
+Ça vient de "Perdu dans les Andes", qui est l'une des histoires les plus appréciées.
+
+142
+00:17:50,754 --> 00:18:00,226
+Toutes ces histoires ne se valent pas.  Donc j'aimerais parler de ce qui fait que certaines d'entre elles résistent mieux au temps que d'autres.
+
+143
+00:18:01,644 --> 00:18:09,475
+Je ne veux certainement pas ignorer le fait que certaines d'entre eux ne tiennent vraiment pas le coup.
+
+144
+00:18:10,174 --> 00:18:14,247
+Ce sont vraiment des produits de leur époque.
+
+145
+00:18:17,615 --> 00:18:23,394
+Carl Barks est né, je crois en 1900 exactement.
+
+146
+00:18:24,815 --> 00:18:33,169
+Et l'oncle Picsou est sans aucun doute l'un des prototypes de l'impérialisme.
+
+147
+00:18:33,710 --> 00:18:36,129
+C'est un super-capitaliste.
+
+148
+00:18:36,950 --> 00:18:44,706
+Et il y a beaucoup de passif qui va avec.  Donc, bien sûr je ne suis pas ici pour dire qu'il ne faut plus lire Carl Barks.
+
+149
+00:18:45,519 --> 00:18:53,770
+Ou quoi que ce soit de ce genre. Je suis sans conteste un super fan qui aime ces histoires.
+
+150
+00:18:54,583 --> 00:19:00,387
+Et qui aime en parler. Mais je ne veux pas non plus éviter de parler de certains aspects très datés.
+
+151
+00:19:00,764 --> 00:19:13,439
+Nous allons donc prendre un peu de temps pour réfléchir pendant ces épisodes de podcasts sur ce qui tient et ne tient pas bien.
+
+152
+00:19:13,777 --> 00:19:21,396
+- Je peux poser une question, Mark ?
+- Bien sûr.
+- D'accord. Il est donc né en 1900, il a commencé à écrire des histoires quand il avait la quarantaine ou la cinquantaine.
+
+153
+00:19:21,809 --> 00:19:26,005
+Cela me fait penser : il n'est pas trop tard pour commencer notre carrière de dessinateur.
+
+154
+00:19:26,124 --> 00:19:30,280
+- Je pense que c'est une excellente idée.  Il n'est jamais trop tard.
+
+155
+00:19:31,814 --> 00:19:42,484
+- Oui. Bon sang, il n'a commencé à peindre qu'à 60 ans, une deuxième carrière pour lui. C'était vraiment un retardataire.
+
+156
+00:19:43,063 --> 00:19:49,046
+Et tu as tout à fait raison.  Il a aussi fait beaucoup de choses avant de faire ces histoires.
+
+157
+00:19:49,901 --> 00:19:54,085
+Je veux dire avant les histoires de Donald Duck et Oncle Picsou.
+
+158
+00:19:55,536 --> 00:20:05,207
+Et je ne compte pas trop parler de son début de carrière dans les épisodes
+principaux.  Mais j'ai réfléchi à la possibilité
+
+159
+00:20:05,207 --> 00:20:15,339
+qu'il pourrait y avoir peut-être des épisodes bonus où on parlerait de certaines des autres
+choses qu'il a faites pour des publications comme "Calgary eye opener"
+
+160
+00:20:16,879 --> 00:20:26,327
+ou le travail qu'il a fait avec Barney Bear, que je n'ai jamais lu personnellement.
+- Je n'en ai jamais entendu parler pour ma part.
+
+161
+00:20:26,966 --> 00:20:35,439
+- Et puis il y a des bandes dessinées et des histoires de 10 pages vraiment incroyables.
+
+162
+00:20:36,219 --> 00:20:37,899
+Je les aime beaucoup.
+
+163
+00:20:38,634 --> 00:20:50,074
+Donc, même si je prévois de faire la plupart des épisodes sur les histoires d'aventure... ce qui est déjà une définition vague, parce que certaines histoires d'aventure sont des simplement des histoires plus longues...
+
+164
+00:20:50,074 --> 00:20:56,930
+Eh bien, il pourrait y avoir de la place pour quelques-unes de ces histoires de 10 pages pour un épisode bonus ou quelque chose du genre.  Nous verrons comment ça se passe.
+
+165
+00:20:57,427 --> 00:21:01,010
+Donc je suis vraiment excité à l'idée de commencer ce podcast, Eric.
+
+166
+00:21:01,010 --> 00:21:04,999
+Je te suis vraiment reconnaissant d'être le premier invité.
+
+167
+00:21:05,579 --> 00:21:19,113
+J'ai hâte de te revoir pour parler du premier épisode du podcast
+
+168
+00:21:19,113 --> 00:21:25,265
+où nous allons parler de "Donald Duck et le trésor du pirate".
+
+169
+00:21:26,002 --> 00:21:29,859
+Ce sera le tout premier dont nous parlerons.
+
+170
+00:21:29,859 --> 00:21:38,994
+Barks a fait une histoire Disney antérieure, "Pluto sauve le bateau", je crois, mais elle n'a pas vraiment de sens par rapport au reste de la série.
+
+171
+00:21:39,754 --> 00:21:51,207
+Et à bien des égards, "Donald Duck et le trésor du pirate" n'est pas non plus sa propre création, mais il sera intéressant d'en parler dans notre premier épisode officiel.
+
+172
+00:21:52,023 --> 00:21:59,322
+J'espère donc avoir des nouvelles des auditeurs et j'attends avec impatience tous les commentaires que les gens pourraient écrire.
+
+173
+00:22:00,019 --> 00:22:07,600
+Je n'ai pas encore de médias sociaux spécifiques pour obtenir les commentaires des auditeurs
+
+174
+00:22:07,600 --> 00:22:13,249
+mais ce sera sans doute le cas une fois que nous aurons fait quelques épisodes.
+
+175
+00:22:13,587 --> 00:22:18,297
+Je créerai un compte Gmail où les gens pourront me contacter.
+
+176
+00:22:19,136 --> 00:22:30,882
+Eric, tu as des commentaires finaux sur ce qu'il te tarde d'aborder en tant qu'invité récurrent pour Barks Remarks ?
+
+177
+00:22:31,260 --> 00:22:33,655
+Eh bien, je suis un grand fan de Picsou.
+
+178
+00:22:35,132 --> 00:22:37,567
+Et il a toujours été l'un des personnages auxquels je m'identifie le plus.
+
+179
+00:22:39,219 --> 00:22:44,933
+Ces histoires d'aventures sont des classiques dans mon esprit.  C'est le genre d'histoires que j'adorais quand j'étais enfant.
+
+180
+00:22:45,412 --> 00:22:50,941
+Donc ce sera l'occasion de discuter de tout ce que ces histoires contiennent, que ce soit les affrontements entre le bien et le mal,
+
+181
+00:22:51,016 --> 00:22:56,319
+les héros courageux, les méchants, les scènes de paysages...
+
+182
+00:22:56,699 --> 00:23:07,014
+Ce sont des histoires géniales. Et j'ai hâte d'en parler et de revivre certaines de ces bandes dessinées et certaines de ces histoires,
+
+183
+00:23:07,014 --> 00:23:14,408
+que j'ai lues étant enfant. Il me tarde vraiment !
+- Oui, il y a certaines histoires que n'ai pas lu depuis longtemps, certaines sont dans des cartons.
+
+184
+00:23:14,408 --> 00:23:17,021
+C'est donc une excellente excuse pour les en retirer.
+
+185
+00:23:17,021 --> 00:23:25,744
+Et j'espère que les gens écouteront... J'ai plaisanté avec toi en disant que je m'attends  à ce que des dizaines de scandinaves écoutent ce podcast.
+
+186
+00:23:26,244 --> 00:23:36,466
+Mais j'espère vraiment que les gens qui choisissent d'écouter liront et redécouvriront peut-être quelque chose à propos de ces histoires.
+
+187
+00:23:36,924 --> 00:23:42,814
+Nous avons donc hâte de revenir et prenez soin de vous tous.
+
+188
+00:23:43,494 --> 00:23:43,994
+- Au revoir.
