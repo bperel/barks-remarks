@@ -79,11 +79,11 @@ or sometimes someone who is not familiar. So I'd like to take a moment to introd
 - My name is Eric. I'm a friend of Marc's. I have been a lifelong comic reader from my brothers,
 
 21
-00:03:08,428 --> 00:03:10,005
+00:03:08,428 --> 00:03:10,705
 older brothers collecting comics.
 
 22
-00:03:11,182 --> 00:03:19,896
+00:03:11,082 --> 00:03:19,796
 My exposure to what Disney comics was from as a kid my dad would always buy them as reading material for family road trips
 
 23
@@ -195,11 +195,11 @@ As a child of the 80s, how did you get exposure to these comics?
 Well, I wish I could tell you exactly. I do remember the first issue that I got, and I feel like it was just in a generic, like 7-11 news stand or something.
 
 50
-00:05:53,518 --> 00:05:58,836
+00:05:53,518 --> 00:05:58,436
 But Gladstone, the company that published them in the 80s,
 
 51
-00:05:58,836 --> 00:06:07,009
+00:05:58,436 --> 00:06:06,609
 they picked up the license after a period of inactivity, and they started running those Barks reprints.
 
 52
@@ -374,7 +374,7 @@ In the Duck universe? Or in the Disney Universe in general?
 - Right.
 
 94
-00:12:09,444 --> 00:12:13,316
+00:12:09,444 --> 00:12:14,716
 Donald obviously was not one of his... I don't believe the nephews were either.
 
 95
@@ -408,7 +408,7 @@ Oh, his villains. Both, yeah. Of course. That's gonna be... Fintheart?
 100
 00:12:53,215 --> 00:13:06,785
 Trying to think...
-- The Beagle Boys. 
+- The Beagle Boys.
 - The Beagle Boys, yes.
 - And a lot of the lore around Scrooge, you know, how we think of Scrooge...
 
@@ -549,15 +549,15 @@ you know, than the Archie comics you know...
 - And I've read those, but the Duck stories have a lasting effect: [...] the square chickens...
 
 134
-00:17:14,260 --> 00:17:14,779
+00:17:14,260 --> 00:17:15,279
 - Oh, yes.
 
 135
-00:17:15,674 --> 00:17:17,572
+00:17:15,374 --> 00:17:18,272
 - You know, these are things that were just amazing.
 
 136
-00:17:17,991 --> 00:17:20,828
+00:17:18,291 --> 00:17:20,828
 If you read one Archie comic, you read them all.
 
 137
@@ -621,13 +621,13 @@ And loves to celebrate them. But I also don't wanna shy away from some of the ve
 So we'll take a little bit of time to kind of reflect during these episodes of podcasts on what does and does not hold up well.
 
 152
-00:19:13,777 --> 00:19:20,596
+00:19:13,777 --> 00:19:21,396
 - Can I ask a question, Mark?
 - Yeah, shoot.
 - Alright. So he's born in 1900, he started printing in his late 40s and 50s.
 
 153
-00:19:21,809 --> 00:19:24,805
+00:19:21,809 --> 00:19:26,005
 That's telling me : it's not too late for us to start our cartooning careers.
 
 154
@@ -736,7 +736,7 @@ And he's always been one of the characters I identify with the most.
 And those adventure stories are classics in my mind. Those the kind of stories I love as a kid.
 
 180
-00:22:45,412 --> 00:22:49,641
+00:22:45,412 --> 00:22:50,941
 So like a chance to discuss them the very simple good versus evil,
 
 181
@@ -769,6 +769,5 @@ But I really hope people that choose to listen willl read along and maybe re-dis
 So we'll look forward to coming on again and take care everyone.
 
 188
-00:23:43,494 --> 00:23:43,774
+00:23:43,494 --> 00:23:43,994
 - Bye.
-
