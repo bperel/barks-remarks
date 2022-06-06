@@ -1,3240 +1,3324 @@
 1
-00:00:21,422 --> 00:00:48,505
-Hello, and welcome to Barks remark. The podcast where we talk about the stories from the legendary Carl Barks, creator of sc Mc and writer and artist of the greatest Donald and Scrooge comics of all time. Join us as we explore his longer adventure stories in their chronological publishing or We'll talk about what makes them so enduring their historical context and how well they hold up today. So get out your reprint and get ready to enjoy our remarks.
+00:00:21,382 --> 00:00:37,861
+Hello, and welcome to Barks Remarks. The podcast where we talk about the stories from the legendary Carl Barks creator of Scrooge Inducks and writer Al artist of the greatest Donald and unscrew comments of all time. Join us as we explore his longer adventure stories in their chronological
 
 2
-00:00:49,477 --> 00:00:54,442
-Hello, and welcome back to Barks remarks. I am still Barks Sever.
+00:00:38,200 --> 00:00:48,545
+publishing or order. We'll talk about what makes them so enduring their historical context and how well they hold up today. So get out your reprint and get ready to enjoy our remarks.
 
 3
-00:00:54,938 --> 00:00:57,330
-Still a grown man who enjoys donald dot comics.
+00:00:49,437 --> 00:00:54,442
+Hello, and welcome back to Barks remarks. I am still Barks sever,
 
 4
-00:00:58,182 --> 00:00:59,080
-I've managed
+00:00:54,978 --> 00:00:57,330
+still a grown man who enjoys donald dot com.
 
 5
-00:00:59,497 --> 00:01:02,109
-to con yet another friend into
+00:00:58,182 --> 00:00:59,040
+I've managed
 
 6
-00:01:02,645 --> 00:01:04,956
-letting me talk about comics with him.
+00:00:59,377 --> 00:01:02,069
+to khan yet another friend into
 
 7
-00:01:06,050 --> 00:01:11,630
-We have a first time guest today. If you can introduce yourself, please.
+00:01:02,645 --> 00:01:04,996
+letting me talk about comments with him.
 
 8
-00:01:11,970 --> 00:01:19,205
-Hello? My name is Ben Johnson. I'm a big comic book nerd, but not as big as smart and, yeah, I'm excited
+00:01:06,050 --> 00:01:08,810
+We have a first time guest today.
 
 9
-00:01:20,105 --> 00:01:23,580
-to talk about Donald Duck. He's one of my favorite disney characters.
+00:01:09,370 --> 00:01:11,410
+If you can introduce yourself, please.
 
 10
-00:01:24,360 --> 00:01:24,860
-Excellent.
+00:01:11,930 --> 00:01:19,165
+Hello. My name is Ben Johnson. I'm a big comic nerd, but not as big as smart. And yeah, I'm excited
 
 11
-00:01:25,480 --> 00:01:29,040
-Ben, do you have any experience with the Carl Barks
+00:01:20,065 --> 00:01:23,580
+to talk about donald Ducktales. Is one of my favorite Disney characters.
 
 12
-00:01:29,655 --> 00:01:30,495
-stories at all?
+00:01:24,360 --> 00:01:29,315
+Excellent. The bend, do you have any experience with the Karl Barks
 
 13
-00:01:31,015 --> 00:01:47,900
-No. Not really. I you know, introduced to watching Donald cartoons when I was younger and, you know, Ducktales when I was whenever that was on the Disney afternoon and stuff. Yeah. Those were great. Right. And and Ducktales was, of course, based on many of the Barks stories.
+00:01:29,655 --> 00:01:30,595
+stories at all?
 
 14
-00:01:49,152 --> 00:01:49,652
-But
+00:01:30,975 --> 00:01:47,900
+No. Not really. I, you know, introduced to watching Donald Cartoons when I was younger and, you know, duck when i was whenever that was on the Disney afternoon stuff. Yeah. Those were great. Right. And and Ducktales was, of course, based on many of the Barks stories.
 
 15
-00:01:50,549 --> 00:01:52,766
-he actually did work on a lot of those early
+00:01:49,072 --> 00:01:49,572
+But
 
 16
-00:01:53,184 --> 00:01:54,123
-duck cartoons
+00:01:50,510 --> 00:01:53,623
+he actually did work on a lot of those early Inducks
 
 17
-00:01:54,462 --> 00:01:57,895
-too before he transitioned over to doing the comment.
+00:01:53,583 --> 00:01:54,083
+cartoons
 
 18
-00:01:59,105 --> 00:01:59,605
-Excellent.
+00:01:54,422 --> 00:01:57,895
+too before he transitioned over to doing the comment.
 
 19
-00:01:59,982 --> 00:02:00,482
-And
+00:01:59,105 --> 00:02:00,402
+Excellent. And
 
 20
-00:02:00,938 --> 00:02:03,310
+00:02:00,898 --> 00:02:03,231
 we are here to discuss
 
 21
-00:02:03,766 --> 00:02:05,475
+00:02:03,727 --> 00:02:05,462
 adventure down under
 
 22
-00:02:06,015 --> 00:02:08,435
+00:02:06,015 --> 00:02:08,355
 which is kind of the mandatory
 
 23
-00:02:09,455 --> 00:02:11,355
-Australian foray. The
+00:02:09,415 --> 00:02:11,355
+Australian four a. The
 
 24
-00:02:11,895 --> 00:02:17,450
-sort of every Tv series or ever every adventure series has to have the Australia
+00:02:11,895 --> 00:02:14,050
+sort of every Tv series or
 
 25
-00:02:17,830 --> 00:02:18,690
-episode. Right?
+00:02:14,670 --> 00:02:17,370
+every adventure series has to have the Australia
 
 26
-00:02:19,070 --> 00:02:31,517
-Yeah. You know, that's pretty unique place. And so you can't really have where adventures take place and not do an Australian episode or issue. Right. And and we've been... We've been around the globe where just about,
+00:02:17,790 --> 00:02:18,350
+episode. Right?
 
 27
-00:02:31,973 --> 00:02:33,310
-I think, ten
+00:02:19,070 --> 00:02:31,437
+Yeah. You know, it's pretty unique place. And so you can't really have where adventures take place and not do Al an Australian episode or issue. Right. And and we've been... We've been around the globe where just about,
 
 28
-00:02:33,926 --> 00:02:40,697
-episodes in and we've been on in a mississippi river. We've been Egypt we've been in the West Indies.
+00:02:31,933 --> 00:02:33,190
+I think ten
 
 29
-00:02:41,114 --> 00:02:42,930
-We've been all over the place. So
+00:02:33,886 --> 00:02:40,697
+episodes in, and we've been along the The mississippi River. We've been egypt, we've been in the West Indy indies.
 
 30
-00:02:43,307 --> 00:02:47,888
-Al lot of fun globe t in the Carl Barks stories. You actually
+00:02:41,074 --> 00:02:42,890
+We've been all over the place. So
 
 31
-00:02:48,224 --> 00:02:49,959
-spend some time in Australia
+00:02:43,307 --> 00:02:47,848
+Al lot of fun globe t in the Carl Barks stories, you actually
 
 32
-00:02:50,455 --> 00:02:54,195
-yourself, which is a big part of why I wanted this to be your first
+00:02:48,184 --> 00:02:49,959
+spent some time in Australia
 
 33
-00:02:54,813 --> 00:03:00,859
-episode. Yeah. Yeah. I'm very familiar with Kangaroo and I was there for two years out in the bush. So
+00:02:50,415 --> 00:02:54,195
+yourself which is a big part of why I wanted this to be your first
 
 34
-00:03:01,317 --> 00:03:12,425
-I was pretty much went through all the same things that Donald went through here. So... Yeah. You you actually did get to be in the Al west west populated part hunt. Yeah. Yeah. Alright. So
+00:02:54,773 --> 00:03:00,859
+episode. Yeah. Yeah. I'm very familiar with Kangaroo, and I was there for two years out in the bush. So
 
 35
-00:03:12,885 --> 00:03:15,145
-let's go into a little bit of the
+00:03:01,317 --> 00:03:12,385
+I was pretty much went through all the same things that Donald went through here. So... Yeah. You you to get to be in the Al less less populated part Yeah. Yeah. Alright. So
 
 36
-00:03:15,485 --> 00:03:17,105
-overview about this issue.
+00:03:12,845 --> 00:03:17,105
+let's go into a little bit of the overview about this issue.
 
 37
-00:03:18,299 --> 00:03:20,956
+00:03:18,299 --> 00:03:20,996
 Again, adventure down under is
 
 38
-00:03:21,775 --> 00:03:31,711
-from July of nineteen forty seven. This one was published in four color one hundred and fifty nine, which is the same issue
+00:03:21,735 --> 00:03:32,469
+from July of nineteen forty seven. This one was published in four color one hundred and fifty nine, which is the same issue that
 
 39
-00:03:32,048 --> 00:03:33,440
-that our last
+00:03:32,846 --> 00:03:33,440
+our last
 
 40
-00:03:34,098 --> 00:03:41,223
-episode. Our last story ghost of the g was in and that one had the cover story or the cover art rather,
+00:03:34,098 --> 00:03:41,183
+episode. Our last story, ghost of the g was in, and that one had the cover story or the cover art rather,
 
 41
 00:03:42,000 --> 00:03:43,473
 but it's it's kind of
 
 42
-00:03:43,850 --> 00:04:03,793
-note notable. I think that these two major and very well remembered stories were originally published together. That's not something that happens all the time. It has, of course, been reprinted many many times. I first read in Donald Ducktales adventures number eleven Barks I think in nineteen eighty nine, this one is twenty five pages
+00:03:43,850 --> 00:03:46,304
+note notable, I think that these two
 
 43
-00:04:04,252 --> 00:04:19,045
-and new to the podcast, I've decided that I should be having our guests offer up our brief synopsis of the story before we go into the narrative later. So Ben. Let's hear it. What is this story about
+00:03:46,642 --> 00:04:03,793
+major and very well remembered stories were originally published together. That's not something that happens all the time. It has, of course, been reprinted many many times. I first read it in donald Ducktales adventures number eleven Barks I think in nineteen eighty nine. This one is twenty five pages,
 
 44
-00:04:19,742 --> 00:04:25,785
-Well, you know, it starts off just like any adventure. They're sitting at home. Trying to think of something like fun to do. They
+00:04:04,252 --> 00:04:19,045
+and new to the podcast, I've decided that I should be having our guests offer up our brief synopsis of the story before we go into the narrative later. So ben. Let's hear it. What is this story about
 
 45
-00:04:26,162 --> 00:04:28,576
-walk out of the street and come across a h
+00:04:19,423 --> 00:04:25,745
+Oh well, you know, it starts off just like any adventure they're sending Al home, trying to think it's something like fun to do. They
 
 46
-00:04:28,889 --> 00:04:30,786
-which I think all good stories
+00:04:26,162 --> 00:04:30,786
+walk out of the street and come across a hip test. Which I think all good story
 
 47
-00:04:31,204 --> 00:04:32,840
-start by people getting h ties.
+00:04:31,204 --> 00:04:32,800
+start by people getting ties.
 
 48
-00:04:33,798 --> 00:04:40,285
-Donald gets h baptized into thinking he's a kangaroo and filling homes sick So he's they find a way to
+00:04:33,758 --> 00:04:40,265
+Donald gets hepatitis into thinking he's a kangaroo and filling homes sick So he's they find a way to
 
 49
-00:04:40,685 --> 00:04:41,905
-Australia and
+00:04:40,605 --> 00:04:41,105
+Australia
 
 50
+00:04:41,485 --> 00:04:41,985
+and
+
+51
 00:04:42,525 --> 00:04:43,305
 meet a
 
-51
-00:04:43,765 --> 00:04:49,234
-kind of a shady character with a mustache, and that sends him off hunting Kangaroo,
-
 52
-00:04:49,731 --> 00:04:58,155
-and there's some aboriginal and all kinds of of hi and sue. Yeah. Lot lots of very Australian elements.
+00:04:43,765 --> 00:04:46,585
+kind of a shady character with a mustache
 
 53
-00:04:58,855 --> 00:05:05,710
-And we'll talk about... Yeah. I I I like that I've got you on, and I can ask you, you know, how true some of the stuff rings.
+00:04:47,337 --> 00:04:49,234
+sends him off hunting kangaroo,
 
 54
-00:05:06,350 --> 00:05:08,370
-Sure. Yeah. Thank you for that.
+00:04:49,731 --> 00:04:51,547
+and there's some aboriginal
 
 55
-00:05:08,990 --> 00:05:11,984
-So a little bit of sort of background Trivia.
+00:04:51,925 --> 00:04:58,155
+and all kinds of of hygiene and sue. Yeah. Lot lots of very Australian elements.
 
 56
-00:05:12,720 --> 00:05:15,254
-I mentioned already that this is the b story
+00:04:58,855 --> 00:05:08,330
+And we'll we'll talk about. I I I like that I've got you on and I can ask you, you know, how true some of this stuff rings? Oh sure. Yeah. Thank you for that.
 
 57
-00:05:15,830 --> 00:05:17,447
-that was after it goes to the g.
+00:05:08,990 --> 00:05:11,944
+So a little bit of sort of background Trivia.
 
 58
+00:05:12,680 --> 00:05:15,254
+I mentioned already that this is the b story
+
+59
+00:05:15,830 --> 00:05:17,266
+that was after goes to the g.
+
+60
 00:05:17,984 --> 00:05:20,930
 This is the second story that we've done that is
 
-59
-00:05:21,509 --> 00:05:30,863
-rated in the top fifty and is actually our first to be topped a top ten rated story of learning end up. Which will go into a little bit more.
-
-60
-00:05:31,202 --> 00:05:34,100
-Another new thing that I'd like to do now
-
 61
-00:05:34,439 --> 00:05:37,896
-starting this episode, I I've noticed when doing research
+00:05:21,470 --> 00:05:30,843
+rated in the top fifty and is actually our first to be top a top ten rated story already end up. Which will go into a little bit more.
 
 62
-00:05:38,275 --> 00:05:44,330
-that these stories, the titles get translated in kind of a variety of ways around the world.
+00:05:31,202 --> 00:05:34,060
+Another new thing that I'd like to do now
 
 63
-00:05:44,930 --> 00:06:04,942
-And this one seemed to have a particular... They're particularly wide number of titles. So I wanted to just talk about what some of those were because I think it's fine, and I like to try to wrap my wrap my math around saying things in languages that I don't speak, well probably not very successfully. But in Brazil, this was called I was a Kangaroo
+00:05:34,439 --> 00:05:37,896
+starting this episode, I... I've noticed when doing research
 
 64
+00:05:38,235 --> 00:05:44,550
+that these stories, the titles get translated in kind of a variety of ways around the world,
+
+65
+00:05:44,930 --> 00:06:04,902
+and this one seem to have a particular they're particularly wide number of titles. So I wanted to just talk about what some of those were because I think it's fine and I like to try to wrap my wrap my mouth around saying things in languages that I don't speak. Well probably not very successful But in Brazil, this was called I was a kangaroo
+
+66
 00:06:05,359 --> 00:06:05,859
 or
 
-65
-00:06:07,353 --> 00:06:07,853
-kangaroo
-
-66
-00:06:08,191 --> 00:06:10,046
-in France, this is
-
 67
-00:06:10,464 --> 00:06:12,896
-the generic Donald in Australia. Al.
+00:06:06,795 --> 00:06:07,813
+fu kangaroo
 
 68
-00:06:14,546 --> 00:06:16,100
-In Germany, this is
+00:06:08,191 --> 00:06:10,086
+in France. This is
 
 69
-00:06:16,578 --> 00:06:17,676
-Australian adventure
+00:06:10,464 --> 00:06:13,117
+the generic Donald in Australia. Don't.
 
 70
-00:06:19,009 --> 00:06:19,249
-Al
+00:06:14,506 --> 00:06:17,636
+In Germany, this is Australian adventure
 
 71
-00:06:20,723 --> 00:06:24,329
-toy, I think. In Italy, it's Kangaroo Hunter
+00:06:18,372 --> 00:06:19,249
+throughout, Al,
 
 72
-00:06:25,246 --> 00:06:25,746
-D.
+00:06:21,241 --> 00:06:24,488
+I think. In Italy, it's Kangaroo Hunter Al
 
 73
-00:06:27,002 --> 00:06:27,502
-Mexico
+00:06:25,246 --> 00:06:25,746
+Dick.
 
 74
-00:06:28,000 --> 00:06:29,498
-is Australian adventure
+00:06:26,962 --> 00:06:27,462
+Mexico
 
 75
-00:06:30,035 --> 00:06:31,129
-they are Claudia.
+00:06:28,040 --> 00:06:31,109
+is Australian Adventure Ventura, They are Australia.
 
 76
 00:06:31,608 --> 00:06:32,108
 Netherlands
 
 77
-00:06:32,447 --> 00:06:32,947
+00:06:32,487 --> 00:06:32,987
 is
 
 78
-00:06:33,366 --> 00:06:34,905
-adventure in the anti
+00:06:33,326 --> 00:06:34,745
+Adventure in the
 
 79
-00:06:36,363 --> 00:06:39,060
-or Ava tour b did
+00:06:36,363 --> 00:06:37,063
+or Ave
 
 80
-00:06:39,494 --> 00:06:40,592
-hanging waters.
+00:06:37,761 --> 00:06:39,020
+b did
 
 81
-00:06:42,406 --> 00:06:45,039
-And then in Spain, it's different than Mexico.
+00:06:39,414 --> 00:06:39,914
+he.
 
 82
-00:06:47,089 --> 00:06:48,069
-I was a kangaroo.
+00:06:42,406 --> 00:06:46,058
+And then in Spain, it's different than Mexico. It was y.
 
 83
-00:06:48,688 --> 00:06:50,866
-Another bit of trivia
+00:06:47,089 --> 00:06:48,029
+I was a kangaroo.
 
 84
-00:06:51,365 --> 00:06:53,983
-the... I'll just the on that too, I wanna add
+00:06:48,648 --> 00:06:50,826
+Another bit of trivia,
 
 85
-00:06:54,402 --> 00:06:55,861
-the down under
+00:06:51,325 --> 00:06:55,821
+the Just on that too, I wanna add if the down under
 
 86
 00:06:56,974 --> 00:07:01,834
 probably doesn't have... They're they're down under to us, but maybe in Brazil
 
 87
-00:07:02,174 --> 00:07:02,914
-down under
+00:07:02,134 --> 00:07:02,914
+down under...
 
 88
-00:07:03,694 --> 00:07:11,832
-right like, a little bit to the left, over. And I like say... Yes. You don't i I would imagine that the... That's probably the reason for
+00:07:03,294 --> 00:07:03,794
+That's
 
 89
-00:07:12,329 --> 00:07:14,721
-changing it in some of those languages and countries
+00:07:04,174 --> 00:07:11,832
+like, a little bit to the left over. And I like say. Yeah. They don't I I would imagine that the... That's probably the reason for
 
 90
-00:07:15,080 --> 00:07:21,061
-Right. Is that something that I I think they do refer to themselves as being down under. Right?
+00:07:12,329 --> 00:07:14,703
+changing it in some of those languages and countries
 
 91
-00:07:21,479 --> 00:07:25,703
-Yeah. I mean, they're familiar with it. I don't think they refer to themselves
+00:07:15,040 --> 00:07:21,021
+Alright. Is that something that... I I think they do refer to themselves is being down under. Right?
 
 92
-00:07:26,040 --> 00:07:32,340
-as being down under, but they are aware that Americans refer to them because they're not down under to themselves. Right. Right.
+00:07:21,479 --> 00:07:25,663
+Yeah. I mean, they're familiar with it I don't think they refer to themselves
 
 93
-00:07:33,033 --> 00:07:38,000
-Make any me? Yeah. I mean... And and America has gone through, like, it's Australia
+00:07:26,000 --> 00:07:32,300
+as being down under, but they are aware that Americans refer to them because they're not down under to themselves. Right. Right.
 
 94
-00:07:38,458 --> 00:07:40,529
-fascination with the right or like
+00:07:33,033 --> 00:07:33,533
+Making.
 
 95
-00:07:40,990 --> 00:07:47,789
-he's with crocodile cut and never. And I imagine it must be kind of infuriating. Well, it's kinda interesting to see something in the context of, you know...
+00:07:33,871 --> 00:07:38,000
+Yeah. I mean, and and America has gone through, like, it's Australia
 
 96
-00:07:48,564 --> 00:07:50,264
-For Steve Irwin and
+00:07:38,458 --> 00:07:38,958
+fascination
 
 97
-00:07:51,365 --> 00:08:05,534
-Crocodile Dundee movies because Yeah. I think if this had taken place after, maybe it would have a character like that in here. But we don't have that stereotype yet. It's true. I think this must have been fairly early in the like
+00:07:39,295 --> 00:07:40,029
+Right. Or like,
 
 98
-00:08:06,314 --> 00:08:15,165
-fascination with Australia. Right? Because this isn't the latest forties. And I can't think of a lot of media that is that sort of owe american in Australia.
+00:07:40,990 --> 00:07:47,789
+he's with crocodile done and everything anything. And I imagine it must be kind of infuriating. Well, it's kinda interesting to see something in the context of, you know,
 
 99
-00:08:15,599 --> 00:08:16,317
-From that era.
+00:07:48,525 --> 00:07:50,264
+for Steve Irwin and
 
 100
-00:08:16,835 --> 00:08:20,884
-I also found it to be notable that the
+00:07:51,365 --> 00:08:01,039
+Crocodile Dundee Movies because... Yeah. I think if this had taken place after, maybe it would have a character like that in here. But we don't have that stereotype yet.
 
 101
-00:08:21,301 --> 00:08:24,872
-the aboriginal in this were among the very first human
+00:08:01,379 --> 00:08:15,125
+It's true. I think this must have been fairly early in the, like, fast fascination with Australia. Right? Because this isn't the late of, and I can't think of a lot of media that is that sort of oh american in Australia
 
 102
-00:08:25,344 --> 00:08:25,844
-characters
+00:08:15,599 --> 00:08:20,844
+from that era. I I also found it to be notable that the
 
 103
-00:08:26,380 --> 00:08:30,626
-that Barks has drawn so far. You know, he doesn't usually
+00:08:21,301 --> 00:08:24,792
+the app originals in this were among the very first human
 
 104
-00:08:31,163 --> 00:08:55,256
-put characters as like humans. Huey, he depicts them as like dog usually. And and we'll talk about, you know, there Barks certainly problems with their depiction but they are sure. Unlike most of the background characters, they're actually those humans. Yeah. It is... I haven't thought about I I mean, when I was a kid, I remember thinking because there's regular animals in the in this universe
+00:08:25,304 --> 00:08:25,804
+characters
 
 105
-00:08:55,674 --> 00:08:57,452
-and they're different from the ant
+00:08:26,340 --> 00:08:28,173
+that Barks has drawn.
 
 106
-00:08:58,004 --> 00:09:05,225
-animals in it. And I I always wondered about that. Yeah. And when I bring people and in for the these newbie
+00:08:28,612 --> 00:08:30,587
+So far. You know, he doesn't usually
 
 107
-00:09:05,858 --> 00:09:17,818
-slots like urine. This is always one of the things that they get focused on. Right? Like, are these... Are these animals are these? And any answer is Huey, human. You know, like, they're there are people
+00:08:31,840 --> 00:08:52,502
+characters as like humans he he depicts him as, like, a dog nose usually. And and we'll talk about, you know, there there certainly problems with their depiction but they are sure. Unlike most of the background characters, they're actually those humans. Yeah. It is... I haven't thought about that. I i mean, when I was a kid, I remember thinking... Because there's regular
 
 108
-00:09:18,275 --> 00:09:20,370
-they're duct people on dog people.
+00:08:52,920 --> 00:08:55,256
+animals in the in this universe.
 
 109
-00:09:21,225 --> 00:09:22,643
-And we only occasionally
+00:08:55,674 --> 00:08:57,452
+And they're different from the ant
 
 110
-00:09:22,980 --> 00:09:28,505
-think about the fact that they're also animals. And I guess this story is one of those rare times too.
+00:08:58,244 --> 00:09:05,164
+animals in it. And I I wondered about that. Yeah. And when I bring people in in for the these newbie,
 
 111
-00:09:29,983 --> 00:09:33,220
-Alright. So for the value range of this one,
+00:09:05,778 --> 00:09:17,778
+slots like urine. This is always one of the things that they get focused on. Right? Like are these? Are these animals are these? Any answer is they're Huey,. You know, like, they're there people...
 
 112
+00:09:18,275 --> 00:09:20,330
+They're duct people on dog people,
+
+113
+00:09:21,225 --> 00:09:22,563
+and we only occasionally
+
+114
+00:09:22,940 --> 00:09:28,465
+think about the fact that they're also animals. And I guess this story is one of those rare times too.
+
+115
+00:09:29,943 --> 00:09:33,220
+Alright. So for the value range of this one,
+
+116
 00:09:33,794 --> 00:09:37,890
 The highest documented sale was seventy five hundred dollars
 
-113
-00:09:38,308 --> 00:09:38,808
+117
+00:09:38,229 --> 00:09:38,729
 for.
 
-114
-00:09:40,226 --> 00:09:54,384
-Yeah. Nine point six rate. Which is the same mh as it was last episode. Right? Because this is from ghosts, this has the same is in the same comic as ghost of the g. So we're gonna launch now into a little bit of
-
-115
-00:09:54,881 --> 00:10:00,345
-one of my favorite parts, the the background where we talk about some historical and geographical context.
-
-116
-00:10:01,477 --> 00:10:08,641
-Again, we are in nineteen forty seven right now. And I think that American attitudes
-
-117
-00:10:09,154 --> 00:10:15,321
-from about Australia, or probably not the same as they are today. Right? It was probably
-
 118
-00:10:15,819 --> 00:10:23,256
-regarded as much more remote and, you know, i I think we get a taste to that when Donald talks about how now it civilized.
+00:09:40,266 --> 00:09:54,384
+Yeah. Nine point six rate. Which is the same Mh. As it was last episode. Right? Because this is from Ghost. This has the same is in the same comic as ghost of the garage. So we're gonna launch now into a little bit of
 
 119
-00:10:23,695 --> 00:10:27,962
-And I think there was this feeling that until recently it hadn't been civilized.
+00:09:54,881 --> 00:09:59,888
+one of my favorite parts the the background where we talk about some historical and geographical
 
 120
-00:10:28,540 --> 00:10:30,237
-Yeah. It's probably... you know, once
+00:10:00,225 --> 00:10:00,345
+context.
 
 121
-00:10:30,854 --> 00:10:37,075
-air travel has become, like, because I mentioned air... you know, feet travels was there by playing. And, you know, and...
+00:10:01,437 --> 00:10:08,021
+Again, we are in nineteen forty seven right now, and I think that American
 
 122
-00:10:37,451 --> 00:10:38,567
-Yeah. That that...
+00:10:08,460 --> 00:10:15,281
+Attitudes from about Australia we're probably not the same as they are today. Right? It was probably
 
 123
-00:10:38,926 --> 00:10:45,900
-That was weird... And I can't remember where it was when it meets that stranger with the mustache it seemed out a context like comments about
+00:10:15,779 --> 00:10:23,217
+regard as much more remote and, you know, I I think we get a taste to that when, Donald talks about how now it civilized.
 
 124
-00:10:46,278 --> 00:10:57,251
-civilized. I see, I couldn't quite follow what they were talking about. Yeah. And and, you know, it's one of the things that I think is the undertone for a lot of these stories is that idea of civilization,
+00:10:23,695 --> 00:10:27,661
+And I think there was this feeling that until recently, it hadn't been civilized.
 
 125
-00:10:57,709 --> 00:10:58,209
-but
+00:10:28,540 --> 00:10:30,237
+Yeah. It's probably, you know, once
 
 126
-00:10:58,587 --> 00:11:01,243
-but it also makes for some very interesting
+00:10:30,854 --> 00:10:37,075
+air travel has become like, because I mentioned air you know, few travels there by playing and, you know, and
 
 127
-00:11:01,581 --> 00:11:04,589
-and adventure stories. Yeah. For, you know,
+00:10:37,451 --> 00:10:38,567
+yeah, That that...
 
 128
-00:11:05,427 --> 00:11:18,188
-for children and and viewing things with a sense of, like civilization versus something worth exploring and I give them a little leeway just to seem a little bit more interesting No ben. These stories are
+00:10:38,926 --> 00:10:45,860
+That was weird and I can't remember where it was when it meets that stranger with the mustache. It seemed out of context like comments about
 
 129
-00:11:18,724 --> 00:11:19,362
-one year old.
+00:10:46,238 --> 00:10:57,251
+civilized. I was... See I couldn't quite follow what they talking about. Yeah. And, you know, it's one of the things that I think is the tone for a lot of these stories is that idea of civilization
 
 130
-00:11:20,735 --> 00:11:21,714
-Having a podcast.
+00:10:57,669 --> 00:10:58,169
+but
 
 131
-00:11:22,855 --> 00:11:26,314
-What I mean clearly. Yes. Yes. Absolutely to fully
+00:10:58,907 --> 00:11:01,243
+it also makes for some very interesting
 
 132
-00:11:26,735 --> 00:11:30,966
-we we appreciate that these are are and stories and
+00:11:01,581 --> 00:11:18,148
+and adventure stories. Yeah. For, you know, they for children and in in viewing things with a sense of like, civilization versus something worth exploring and I give them a little lay leeway just to seem a little bit more interesting No ben. These stories are
 
 133
-00:11:31,501 --> 00:11:33,276
-that Barks has put so much
+00:11:18,963 --> 00:11:19,663
+year old
 
 134
-00:11:33,891 --> 00:11:40,711
-care into them that I think they've been so well remembered. I... It comes up to me, because when I read this, that's one thing I've been...
+00:11:20,735 --> 00:11:22,035
+having a podcast.
 
 135
-00:11:41,250 --> 00:12:13,854
-Especially this issue is it's brought to the forefront. I can tell Carl Barks he's he's very good at almost like Calvin and Hobbes where it's an adult, but he tells a story from the perspective of a child. There's so much media and content that we see now. You can tell it's adult trying to write things four children, but you can tell he has a way of making it almost seem like it's from the perspective of a child. Yeah. And and I think... And he never talks down. Yeah. Yeah. Even a little bit. And and sometimes some of that's just an effect of
+00:11:22,855 --> 00:11:26,274
+Oh i clearly. Yes. Yes. Absolutely fully
 
 136
-00:12:14,594 --> 00:12:18,890
-you know, in the forties and fifties, like kids, there was kind of a different attitude
+00:11:26,735 --> 00:11:27,435
+we we
 
 137
-00:12:19,429 --> 00:12:24,578
-about childhood and kids were more independent. So some of that stuff is kind of jarring. But
+00:11:28,535 --> 00:11:29,569
+these are our
 
 138
-00:12:25,075 --> 00:12:28,226
-but it's great that he never never Barks down. Yeah.
+00:11:30,107 --> 00:11:33,276
+stories and fact Rx has put so much
 
 139
-00:12:28,864 --> 00:12:29,364
-Definitely.
+00:11:33,812 --> 00:11:40,671
+care into them, but I think they've been so well remember. I... It comes up to me, because when I read this, that's one thing I've been...
 
 140
-00:12:29,781 --> 00:12:46,889
-So for for the background to me one of the natural things to focus on is this just the idea of the Kangaroo as the national animal of Australia. And you know, I think one of the really striking things in this comic is the depiction of them as pests.
+00:11:41,210 --> 00:12:13,854
+Especially this app issue is it's brought to the forefront I can tell a Carl Barks He's he's very good at almost like Calvin and Hobbs where it's an adult, but it tells us story from the perspective of a child. There's so much media content that we see now you can tell it's adult trying to write things for children. But you can tell he has a way of making it almost seem like it's from a perspective of a child. Yeah. And and I think... And he never talks down. Yeah. Yeah. Even a little bit. And and sometimes, some of that's just an effect of
 
 141
-00:12:47,309 --> 00:12:50,889
-Right? I think I think if you're familiar with Australia,
+00:12:14,594 --> 00:12:18,890
+you know, in the forties and fifties, like, kids, there was kind of a different attitude
 
 142
-00:12:51,389 --> 00:12:52,504
-that is
+00:12:19,429 --> 00:12:24,539
+about childhood, and kids were more independent, so some of that stuff is kind of jarring. But...
 
 143
-00:12:52,884 --> 00:12:52,964
-like,
+00:12:25,075 --> 00:12:27,987
+But it's great that he never never Barks down. Yeah.
 
 144
-00:12:53,843 --> 00:13:06,949
-very logical. Right? Yeah. I imagine you have some experience with that. But I think to most Americans when they first read it, it might be jarring to think about their, like, iconic animal as a pest. Yeah. They're
+00:12:28,864 --> 00:12:29,364
+Definitely
 
 145
-00:13:07,864 --> 00:13:13,118
-I wouldn't put them exactly in the same category as a pest. I guess I don't mean like a pest like...
+00:12:29,781 --> 00:12:46,849
+So for for the background to me, one of the natural things to this on is this just the idea of the kangaroo as the national animal of Australia. And, you know, I think one of the really striking things in this comic is the depiction of them as pests.
 
 146
-00:13:13,457 --> 00:13:22,201
-But but kinda like in the in the same vein as diet for America? Yeah. Yeah. Well, the main the main risk, there was a a small village I was living in. That was
+00:12:47,269 --> 00:12:50,789
+Right? I think I think if you're familiar with Australia,
 
 147
-00:13:23,114 --> 00:13:26,128
-you or it's about a three hour drive that I would do pretty regularly
+00:12:51,269 --> 00:12:51,769
+that
 
 148
-00:13:26,825 --> 00:13:59,574
-for one little town to another town. And if you go at Don or dusk you can't go five miles without seeing a, you know, car of a kangaroo and and they they have the tendency to just stand on the edge of the road and they have this look, like, twitch look in the eyes, like, am Not gonna jump. Can I jump? And I think they they think that they can jump over the cars. Their ability to judge how fast they're going. And and so it's they're a danger for people driving those roads. And they even have... They have... And they install these things called Barks that it comes out of the grill, and it goes
+00:12:52,109 --> 00:12:52,924
+is like,
 
 149
-00:14:00,074 --> 00:14:25,909
-up above the driver's side and sometimes on the passenger side... And basically, so it just kinda tears the kangaroo in half to either side of you. Rather than going through the windshield and killing it because they jump right before impact going right through the windshield instead of hitting the bumper. So it's they're not... So not really a pest and they don't go in and, you know, in this in the comic, they're terror... They're gone and and ruining the crops and you know, they're doing some things that cares, you know, don't really do. They...
+00:12:53,803 --> 00:13:06,909
+very logical. Right? Yeah. I imagine you have some experience with that. But I think to most Americans when they first read it, It might be jarring to think about their, like, iconic animal as a pest. Yeah. They're
 
 150
-00:14:26,389 --> 00:14:29,664
-And I read a little bit that maybe they don't terror
+00:13:07,664 --> 00:13:12,658
+I I wouldn't put them exactly in the same category as a pest. I guess I don't mean like a pest, like,
 
 151
-00:14:30,241 --> 00:14:34,692
-crops in this way, but I I think that there have been periods
+00:13:13,457 --> 00:13:22,201
+but but kinda like in the in the same vein as deer for America. Yeah. Yeah. Well, the main the main risk, there was a a small village I was living in that was...
 
 152
-00:14:35,030 --> 00:14:45,843
-based on my reading correct me if I'm wrong, where like, they are a real menace to to heard ranch and to agriculture when they've been Al their like, over populated
+00:13:22,819 --> 00:13:26,128
+If you or it's about a three hour drive that I would do pretty regularly
 
 153
-00:14:46,181 --> 00:14:46,681
-key.
+00:13:26,825 --> 00:13:59,574
+for one little town to another town. And if you go at Don or desk, You can't go five miles without seeing a, you know, Barks kangaroo and and they they have the tendency to just stand on the edge of the road and and this look like twitch look in their eyes, like, I'm am not gonna jump. Can I jump? And I think they they think that they can jump over the cars. They're ability to judge how fast they're going and and so it's they're they're a danger for people driving those roads. And they even have... They have... And they install these things called Barks that comes out of the grill and it goes
 
 154
-00:14:47,194 --> 00:14:53,169
-Yeah. By the time I was there, population control wasn't really Al issue was mainly mainly just
+00:14:00,074 --> 00:14:25,869
+up above the driver side and sometimes on the passenger side. And it basically... So it just kinda tears the kangaroo and half to either side of you. Rather than going through the windshield and killing it because they jump right before impact going right through the windshield instead of hitting the bumper. So it's They're not... So not really a pest, and they don't go in and, you know, in this in the comic, they're tear they're going in and ruining the crops and you know, they're doing some things that cares, you know, don't really do. They...
 
 155
+00:14:26,389 --> 00:14:29,624
+And I read a little bit that maybe they don't terrorized
+
+156
+00:14:30,161 --> 00:14:34,692
+props in this way, but I I think that there have been periods
+
+157
+00:14:35,030 --> 00:14:37,385
+based on my reading. Correct me if I'm wrong.
+
+158
+00:14:37,959 --> 00:14:46,601
+Where, like they are a a real menace to to her ranch and to agriculture when they've been Al their, like, over populated kia.
+
+159
+00:14:47,194 --> 00:14:53,169
+Yeah. By the time I was there, population control wasn't really Al issue mainly. Mainly just
+
+160
 00:14:53,548 --> 00:14:54,048
 dangerous
 
-156
-00:14:54,467 --> 00:14:57,979
-for people driving down the roads. Right. Yeah. And
-
-157
-00:14:58,318 --> 00:15:08,898
-I I know I read that they have, like, a calling quota where they... There's a certain number of them that are allowed to be killed because they do try so to manage the population. Yeah. They
-
-158
-00:15:09,554 --> 00:15:12,607
-i was friends with some aboriginal people there. And
-
-159
-00:15:13,024 --> 00:15:16,209
-apparently, the aboriginal are allowed to hunt them and they actually just
-
-160
-00:15:16,788 --> 00:15:25,981
-go and you you'll go camping and they'll... And I actually went camping with them a few times and literally just sw over the side of the road when they see one pull out a rifle
-
 161
+00:14:54,467 --> 00:15:08,898
+for people driving down the roads. Right. Yeah. And I I know. I read that they have, like a calling quota where they there's a certain number of them that are allowed to be killed because they do try so to manage the population. Yeah. They
+
+162
+00:15:09,794 --> 00:15:16,209
+friends with some aboriginal people there. And apparently, the aboriginal are allowed to hunt them and they actually just
+
+163
+00:15:16,748 --> 00:15:25,981
+go and you you'll go camping and they'll... And I actually went camping with them a few times and you'd literally just sw over the side of the road and they see one pull out rifle,
+
+164
 00:15:26,374 --> 00:15:26,874
 and
 
-162
-00:15:27,410 --> 00:15:31,178
-just shoot one and put in the back of the pickup truck and that was our dinner.
-
-163
-00:15:31,794 --> 00:15:33,330
-There you then how is Kangaroo?
-
-164
-00:15:33,986 --> 00:15:38,339
-It's Well you you can go to the grocery store, you know, we didn't have a lot of money there. So
-
 165
-00:15:38,759 --> 00:15:46,548
-I was like, oh, this is a way cheaper than ground beef for my spaghetti. So it it's definitely it really game, not not very good, but if you had enough
+00:15:27,370 --> 00:15:31,138
+just shoot one and put in the back of the pickup truck, and that was our dinner.
 
 166
-00:15:47,125 --> 00:15:49,461
-know pasta the sauce to it, you know.
+00:15:31,595 --> 00:15:32,294
+One there...
 
 167
-00:15:49,879 --> 00:15:58,214
-And then the last thing to say about kangaroo is something that, like, everyone knows at this point, but it kind of Barks saying that the the pouch
+00:15:32,631 --> 00:15:38,339
+Is kangaroo meat. It's Well, you can go to the grocery store. You know, we didn't have a lot of money there. So
 
 168
-00:15:58,591 --> 00:15:59,804
-never works the way.
+00:15:38,759 --> 00:15:46,508
+I was like, oh, this is way cheaper than ground beef for my spaghetti. So it it's definitely an it's really gaming. Not not very good, but if you have enough
 
 169
-00:16:00,523 --> 00:16:04,339
-Never works the way that they depicted in the cartoons.
+00:15:47,445 --> 00:15:49,041
+pasta sauce to it, you know?
 
 170
-00:16:04,838 --> 00:16:08,415
-It's a lot gui. Right? It's it doesn't it's the other
+00:15:49,919 --> 00:15:58,174
+And then the last thing to say about kangaroo is something that, like, everyone knows at this point, but it kind of bears saying that the the pouch
 
 171
-00:16:08,849 --> 00:16:11,943
-background in this that, you know, is is a little less
+00:15:58,591 --> 00:15:59,764
+never works the way.
 
 172
-00:16:12,441 --> 00:16:23,373
-fun to talk about is the depiction of of the aboriginal. Right? Like... And I was really interested it by it because, you know, you have to acknowledge right away that it's it's a it's cara.
+00:16:00,843 --> 00:16:04,339
+Works the way that they depicted in the cartoons.
 
 173
-00:16:23,711 --> 00:16:27,699
-You know, they're using that pigeon speed. They're depicted as as cannibal,
+00:16:04,798 --> 00:16:08,415
+It's a lot go. Right? It's doesn't is the other
 
 174
-00:16:28,519 --> 00:16:30,379
-I think long past
+00:16:08,849 --> 00:16:11,903
+background in this that, you know, is is Al little less
 
 175
-00:16:30,839 --> 00:16:32,139
-when that
+00:16:12,441 --> 00:16:23,333
+fun to talk about is the depiction of of the app originals. Right. Like... And I was really interested it by because, you know, you have to acknowledge right away that it's it's a it's a clearer,
 
 176
-00:16:32,519 --> 00:16:34,819
-would have been a concern
+00:16:23,671 --> 00:16:26,959
+you know, they're using that pigeon speed. They're depicted is Al,
 
 177
-00:16:35,654 --> 00:16:45,119
-I I read a little bit about it. And and from what I can tell, there's no greater incidence of cannibalism in Australia compared to, like, any other
+00:16:28,519 --> 00:16:30,299
+I think, long past
 
 178
-00:16:45,698 --> 00:16:46,198
-indigenous
+00:16:30,839 --> 00:16:32,019
+when that
 
 179
-00:16:46,736 --> 00:16:47,236
-society
+00:16:32,519 --> 00:16:34,739
+would have been a concern.
 
 180
-00:16:47,615 --> 00:16:48,475
-around the world.
+00:16:35,534 --> 00:16:42,107
+I I read a little bit about it and and from what I can tell, there's no greater incidents of cannibalism
 
 181
-00:16:49,054 --> 00:16:56,513
-So that's unfortunate. But the the interesting thing to me was it looked like he went out of his way to, like, visually
+00:16:42,446 --> 00:16:45,079
+in Australia compared to, like, any other
 
 182
-00:16:56,930 --> 00:16:59,503
-depict them at least somewhat accurately.
+00:16:45,658 --> 00:16:46,158
+indigenous
 
 183
-00:17:00,398 --> 00:17:05,058
-Yeah. I mean, it takes I mean, obviously, the car is or the over
+00:16:46,696 --> 00:16:47,196
+society
 
 184
-00:17:05,634 --> 00:17:06,134
-characterized
+00:16:47,575 --> 00:16:48,435
+around the world.
 
 185
-00:17:07,068 --> 00:17:13,250
-depiction is a little problematic, but it's they have the dot... The dot style artwork
+00:16:48,974 --> 00:16:56,513
+So, that's unfortunate. But the that interesting thing to me was it looks like he went out of his way to, like, visually
 
 186
-00:17:14,148 --> 00:17:15,047
-on their bodies,
+00:16:56,930 --> 00:16:59,463
+depict them at least somewhat accurately.
 
 187
-00:17:15,905 --> 00:17:26,654
-which you do see an aboriginal artwork is that, you know, the the doc... I don't know. There's a word for it I can't remember, but it's where they, you know, represent sort of lines. It's through dots. There's
+00:17:00,398 --> 00:17:05,058
+Yeah. I mean, it takes I mean, obviously the character troy or the over
 
 188
-00:17:27,034 --> 00:17:31,894
-snakes and lines that, you know, it's close. It's it's as good as someone
+00:17:06,072 --> 00:17:06,572
+characterized
 
 189
-00:17:32,834 --> 00:17:37,869
-expect from somebody in the forties days to do. Right. I... I'm sure it's like mixing elements.
+00:17:07,068 --> 00:17:08,166
+depiction is a little
 
 190
-00:17:38,169 --> 00:17:39,909
-But the thing is that it really
+00:17:08,543 --> 00:17:13,250
+problematic, but it's They have the dot... The dot style artwork
 
 191
-00:17:40,249 --> 00:17:51,285
-contrasts with just, like, their look. Is a lot more accurate than like, you know, I think the sort of savage way that he depicts them. The is kind of a mixture of different things.
+00:17:14,148 --> 00:17:15,007
+on their bodies,
 
 192
-00:17:51,779 --> 00:17:57,127
-There's a boot... We have Al boomerang. You gotta have a boomerang ring. So that's that's it's good story. Yeah. Alright.
+00:17:15,945 --> 00:17:26,654
+which you do see an original artwork is that, you know, the the... I don't know. There's a word for it I can't remember, but it's where they, you know, represent instead of lines. It's through dots, there's
 
 193
-00:17:57,806 --> 00:18:04,824
-As far as notable appearances go, we have mourn mary I would say is the most notable one. We don't have any
+00:17:26,994 --> 00:17:31,894
+snakes and lines that... You know, it's close. It's it's as good as someone
 
 194
-00:18:05,480 --> 00:18:20,392
-characters that are gonna go on to be reoccurring. And then I've been talking about kind of the version of of the hero that we get. And what's interesting, I I called Donald in this passive Donald. Right? Because throughout this whole story, He's very
+00:17:32,314 --> 00:17:37,869
+right. Expect from somebody in the forties to do. Right. I'm I'm sure it's like mixing elements.
 
 195
-00:18:20,849 --> 00:18:21,349
-compliant.
+00:17:38,169 --> 00:17:39,869
+But the thing is that it really
 
 196
-00:18:21,727 --> 00:18:29,779
-He's just kind of Al long for the ride. Right? At the very beginning, the kids are able to just really easily convince him to go go make vacation.
+00:17:40,209 --> 00:17:51,285
+contrasts with just like, their look is a lot more accurate than, like you know, I think the sort of savage way that he fix them. It... Yeah is kind of a mixture of different things.
 
 197
-00:18:30,679 --> 00:18:32,219
-He immediately gets h
+00:17:51,779 --> 00:17:56,888
+There's a... We have a boomerang. You gotta have a boomerang. So that's that's it's a good story. Yeah. Alright.
 
 198
-00:18:32,559 --> 00:18:37,059
-in a passive way. He he gets quickly pressed into bounty hunting kangaroo.
+00:17:57,766 --> 00:18:04,824
+As far as notable appearances go, we have more full mary, I would say is the most notable one. We don't have any
 
 199
-00:18:38,092 --> 00:18:42,276
-And then, you know, he's extremely passive when he's taken by at first by more
+00:18:05,440 --> 00:18:20,392
+characters that are gonna go on to be reoccurring And then I've been talking about kind of the version of of the hero that we get. And what's interesting. I I call Donald in this passive Donald. Right? Because throughout this whole story, he's very
 
 200
-00:18:43,193 --> 00:18:45,465
-And then by the aboriginal.
+00:18:20,730 --> 00:18:21,230
+compliant.
 
 201
-00:18:45,999 --> 00:18:51,659
-And then again, my mourn marriage. So, like, he's always just kind of being passive, and he's always at someone else's
+00:18:21,687 --> 00:18:29,779
+He's just kind of long for the right. Right at the very beginning, the kids are able to just really easily convince him to go and make patient.
 
 202
-00:18:52,679 --> 00:18:53,599
-command or, you know,
+00:18:30,679 --> 00:18:37,279
+He immediately gets baptized in a passive way. He he gets quickly pressed into bounty Hunting kangaroo cruz,
 
 203
-00:18:54,439 --> 00:18:58,350
-control in this one which was striking to me. I mean, he was.
+00:18:38,092 --> 00:18:45,465
+And then, you know, he's extremely passive when he's taken by first by more full Mary, and then buy the originals,
 
 204
-00:18:58,929 --> 00:18:59,629
-He was.
+00:18:45,999 --> 00:18:51,659
+and then again, i'm more full married. So, like, he's always just kind of being passive, and he's always at someone else's
 
 205
-00:19:00,287 --> 00:19:01,746
-Yeah. So... Yeah.
+00:18:52,599 --> 00:18:53,599
+command or, you know,
 
 206
-00:19:02,125 --> 00:19:08,493
-Alright. So are you ready to go into the actual content of the story? Well, let's do it.
+00:18:54,359 --> 00:18:59,629
+control in this language which was in striking to me. I mean he was advertised. He was.
 
 207
-00:19:09,132 --> 00:19:11,710
-Alright. So adventure down under
+00:19:00,287 --> 00:19:01,326
+Yes. So Yeah.
 
 208
-00:19:12,224 --> 00:19:13,641
-opens up with
+00:19:02,085 --> 00:19:08,533
+Alright. So are you ready to go into the actual content of the story? Well, let's do it.
 
 209
-00:19:14,298 --> 00:19:16,553
-the... Just kind of a very boring
+00:19:09,092 --> 00:19:10,072
+Alright. So
 
 210
-00:19:17,250 --> 00:19:28,043
-sedentary life for Donald and the kids. At home, you know, Donald is there's a really nice sight got right away in the very first panel where Donald just reading boarding Ducktales
+00:19:10,411 --> 00:19:11,710
+adventure down under
 
 211
-00:19:28,083 --> 00:19:29,981
-by W blow hard
+00:19:12,184 --> 00:19:13,641
+opens up with
 
 212
-00:19:30,478 --> 00:19:38,859
-looking very to. And the kids are asking him if they can't take a vacation before their school starts up again. And un
+00:19:14,298 --> 00:19:16,514
+the... Just kind of a very boring
 
 213
-00:19:39,839 --> 00:19:40,339
-donald
+00:19:17,250 --> 00:19:28,043
+sedentary life Donald than the kids. At home. You know, donald is there's a really nice site gag right away in the very first panel where Donald just reading boring Ducktales
 
 214
-00:19:40,999 --> 00:19:45,539
-breeze right away and says that they should enjoy some time in Catalina.
+00:19:28,043 --> 00:19:29,760
+by Inducks blow hard,
 
 215
-00:19:46,319 --> 00:19:48,074
-Island off coast of California.
+00:19:30,439 --> 00:19:31,338
+looking very.
 
 216
-00:19:48,734 --> 00:19:52,194
-Right? I think that was a much more popular vacation
+00:19:31,716 --> 00:19:38,859
+And the kids are asking him if they can't take a vacation before their school starts up again. And un
 
 217
-00:19:52,534 --> 00:19:55,594
-site once upon a time. I don't know. I lived in California
+00:19:39,799 --> 00:19:40,299
+Donald
 
 218
-00:19:55,949 --> 00:20:02,515
-for many years and never made it out there. At any rate, Donald grabs some of their savings and they go to get
+00:19:40,959 --> 00:19:45,499
+agrees right away and says that they should enjoy some time in Catalina
 
 219
-00:20:03,252 --> 00:20:07,877
-some airline tickets and they and they passed by a outdoor
+00:19:46,319 --> 00:19:52,194
+Island off coast of California. Right? I think that was a much more popular vacation
 
 220
-00:20:08,454 --> 00:20:09,473
-radio station
+00:19:52,494 --> 00:20:02,475
+site once upon a time. I don't know. I lived in California for many years and never made it out there. At any rate, Donald grabs some of their savings and they go to get
 
 221
-00:20:09,970 --> 00:20:11,707
-broadcast where someone
+00:20:03,252 --> 00:20:07,877
+some airline tickets and they... And they pass by a outdoor
 
 222
-00:20:12,659 --> 00:20:16,675
-the radio announcer or Dj is introducing a professor
+00:20:08,454 --> 00:20:09,513
+radio station
 
 223
-00:20:17,133 --> 00:20:20,390
-with one of those great Barks cnn names Argus Gi.
+00:20:09,890 --> 00:20:11,667
+broadcast where someone
 
 224
-00:20:20,744 --> 00:20:31,295
-And this professor Gi is going to h digitize a volunteer from the crowd. And he's got a great sort of generic mystic accent and says how's do.
+00:20:12,419 --> 00:20:16,635
+the the radio and announcer or Dj is introducing a professor
 
 225
-00:20:31,993 --> 00:20:33,411
-Ben, what do you think of
+00:20:17,133 --> 00:20:23,524
+with one of those great Barks ian names Argo Gi i. And this professor Gi is going to him
 
 226
-00:20:33,909 --> 00:20:35,026
-esther Barks
+00:20:23,824 --> 00:20:31,215
+a volunteer from the crowd. And he's got a great sort of generic mystic accent and says how do?
 
 227
-00:20:35,186 --> 00:21:01,914
-Gi with i there? So first of all, that's... I love his depiction with his fur brow. Like, he... I... I'm kind of h just looking at him. His eyes just pull me in and like I'll I'll I'll become like kangaroo if he tells me to. Yeah. He's he's got that top hat and a bow tie, but man in hence looked on his face. And he was really born for the job. And I have to say I... That... Like i like I mentioned earlier about
+00:20:31,993 --> 00:20:33,371
+Then, what do you think of
 
 228
-00:21:02,531 --> 00:21:04,626
-understanding how kids see the world. I
+00:20:33,909 --> 00:21:01,874
+esther? Barks kim with I there? So first of all, that's, I love his depiction with his fur brow. Like, he... I I'm kind of hepatitis just looking at him. Okay. His eyes just pull me in. And like, I'll I'll I'll become a kangaroo if he tells me too. Yeah. He's got that top hat and a bow tie, but, man, that and hence looked on his face. He was really born for the job. And I have to say I... That... Like I... Like I mentioned earlier about
 
 229
-00:21:05,098 --> 00:21:06,295
-excite in the beginning.
+00:21:02,531 --> 00:21:04,586
+understanding how kids see the world. I
 
 230
-00:21:06,774 --> 00:21:12,560
-I I feel like all kids see books that adults read as having that having titles like that.
+00:21:05,098 --> 00:21:06,295
+site guy in the beginning...
 
 231
-00:21:13,294 --> 00:21:26,587
-I see that is like that's it was hilarious. I mean... I I guess actually left out loud because it caught off guard when I saw that Donald just reading a book called boring tales. I also just... Just like you said, looking at the professor.
+00:21:06,774 --> 00:21:08,391
+I I feel like all kids
 
 232
-00:21:28,319 --> 00:21:30,772
-Very pretty. Yeah. That's just a great
+00:21:08,729 --> 00:21:12,560
+see books that adults read as having that having titles like that.
 
 233
-00:21:31,523 --> 00:21:36,366
-it's exactly what I would imagine somebody in the forties would look like who would advertise people.
+00:21:13,294 --> 00:21:26,587
+I see that it's like... That's it was hilarious. I mean. I I guess actually laughed out loud. Because a caught off guard when I saw that Donald was reading a book called boring tales. I also just just like you said, looking at the professor
 
 234
+00:21:28,319 --> 00:21:28,819
+very.
+
+235
+00:21:29,236 --> 00:21:30,733
+Yeah. That's just a great
+
+236
+00:21:31,364 --> 00:21:36,605
+it it's exactly what I would imagine somebody in the forties would look like who people on.
+
+237
 00:21:37,898 --> 00:21:38,969
 Excellent. So
 
-235
-00:21:39,508 --> 00:21:46,154
-On the next page, Donald, and the kids are approaching and they they hear that whoever volunteers to get h,
-
-236
-00:21:46,532 --> 00:21:47,484
-can expect
-
-237
-00:21:48,184 --> 00:22:02,257
-ten dollars, and nice little line here ten dollars and cool, cr cash. Definitely sounds like, you know, an old time Dj would say that. And Donald is, you know, he's seen that as spending money in Catalina. So he volunteers.
-
 238
-00:22:02,935 --> 00:22:09,193
-And and we get a a really cool and weird panel here where we get fate
+00:21:39,508 --> 00:21:44,797
+On the next page, Donald, and the kids are approaching and they they hear that whoever
 
 239
-00:22:09,770 --> 00:22:10,270
-personified.
+00:21:45,135 --> 00:21:47,484
+volunteers to get him ties, can expect
 
 240
-00:22:11,165 --> 00:22:13,817
-Alright? And and kind of crying and w
+00:21:48,104 --> 00:21:49,003
+ten dollars.
 
 241
-00:22:14,968 --> 00:22:15,947
-and just
+00:21:49,542 --> 00:22:02,296
+A nice little line here ten dollars and cool cream cash definitely sounds like, you know, an old tiny dj would say that. And Donald is, you know, he's seen that as spending money in Catalina. So he volunteers.
 
 242
-00:22:17,203 --> 00:22:59,101
-foreshadowing for us that Donald, you're going to be sorry, it it trails off. And it could me threw me off. I I had to read it, like, three times I'm like, is that? I've never seen fate. Fade is depicted Al like, yeah, this is the way things are going, but fate seems like sad that this is the way things are going. Yeah. And... And this is a very unusual panel. I think he doesn't... He didn't do this very often so I... There was some similar stuff in ghost of the g where it was very overt. And that just might have been what he wanted to experiment with that. That month, But I really like it. So Donald is super eager with the the radio Dj. He's anticipating his every question answering what his name is
+00:22:02,975 --> 00:22:09,153
+And and we get a a really cool and weird panel here where we get fate
 
 243
-00:23:00,094 --> 00:23:02,994
-ahead of time that confirming he's never been h.
+00:22:10,168 --> 00:22:10,487
+personified.
 
 244
-00:23:03,774 --> 00:23:04,274
-So
+00:22:11,085 --> 00:22:13,777
+Right? And and kind of buying and w
 
 245
-00:23:04,854 --> 00:23:06,074
-the Dj
+00:22:15,007 --> 00:22:15,907
+and just
 
 246
-00:23:06,709 --> 00:23:14,729
-sets it up and, you know, ponder, what what is he gonna h ties him into is he gonna make him a dog or a monkey or a sea going groundhog
+00:22:16,804 --> 00:22:40,914
+fore foreshadowing for us the donald, you're going to be sorry. It it trails off. Yeah. That could've took me have threw me off. I And i had to read it, like, three times I'm like, is that? I've never seen faith fade always is depicted Al like, yeah, This is the way things are going, but fate seems like said that this is the way things are going. Yeah. Interesting. And this is a very unusual panel. I think he doesn't he didn't do this very often. So...
 
 247
-00:23:15,069 --> 00:23:17,024
-and we get to see
+00:22:41,614 --> 00:22:59,101
+There was some similar stuff in ghost of the g where it was very over. And that just might have been what he wanted to experiment with that that month. But I really like. So Donald is super eager with the the radio Dj. He's anticipating his every question answering what his name is
 
 248
-00:23:17,642 --> 00:23:26,029
-Donald being put into a tran by the professor. It's a the kind of depiction you would expect and a little jedi mind trick. What
+00:23:00,054 --> 00:23:03,354
+ahead of time that confirming he's never been h ties.
 
 249
-00:23:26,369 --> 00:23:28,769
-gone there. Yeah. He's got the little wavy fingers,
+00:23:03,734 --> 00:23:04,234
+So
 
 250
-00:23:29,369 --> 00:23:29,869
-classic.
+00:23:04,814 --> 00:23:06,074
+the Dj
 
 251
-00:23:30,729 --> 00:23:34,900
-We get a great he give... He hit Donald with a doo.
+00:23:06,709 --> 00:23:09,969
+sets it up and, you know, ponder, what, what is he gonna
 
 252
-00:23:35,380 --> 00:23:37,118
-He tells him you are a kangaroo
+00:23:10,269 --> 00:23:14,689
+hepatitis him into is he gonna make him a dog or a monkey or a sea going ground?
 
 253
-00:23:37,577 --> 00:23:47,489
-and you are very very home sick. And what... You know, what a great, great way to set up an Australian adventure story, I think.
+00:23:15,069 --> 00:23:16,984
+And we get to see
 
 254
-00:23:48,029 --> 00:23:48,189
-Right,
+00:23:17,563 --> 00:23:25,129
+Donald being put into a trans the professor. It's a the kind of depiction you would expect a little jedi mind trick.
 
 255
-00:23:49,084 --> 00:23:51,704
-Alright. So the the last panel in this page
+00:23:25,809 --> 00:23:26,309
+And
 
 256
-00:23:52,284 --> 00:24:05,650
-has the nephews observing and and the crowd observing donald whim and crying and he's posture like a kangaroo. It's clearly worked out really well. Yeah. I don't know. I find it odd that the h would add the homes part.
+00:23:26,689 --> 00:23:28,749
+there. Yeah. He's got the little wavy fingers.
 
 257
-00:24:06,344 --> 00:24:08,322
-Because I don't feel like that would add much
+00:23:29,329 --> 00:23:34,900
+Classic ge. But we get a great he give... He hits donald with a du.
 
 258
-00:24:08,981 --> 00:24:18,399
-entertainment value. It's almost like he's he wants him to just go to Australia. Right? He's gil the lily a little bit there. And but I think...
+00:23:35,340 --> 00:23:37,078
+He tells him you are a kangaroo
 
 259
-00:24:18,737 --> 00:24:21,250
-Maybe he's playing to the radio audience, you know Yeah.
+00:23:37,577 --> 00:23:47,449
+and you are very very home sick. And what, you know, what a great great way to set up an Australian adventure story, I think.
 
 260
-00:24:21,984 --> 00:24:35,455
-But I I just... I love the setup for this. Alright. So I like the dotted lines going from the eyes and his just limp arms like Huey, He's he's definitely there. Yep. So on the next page, we see him
+00:23:47,989 --> 00:23:48,824
+Right. Like
 
 261
-00:24:35,794 --> 00:24:44,580
-acting like the homes kangaroo that he believes himself to be the the Dj j is really selling it. It's talking about him acting homes sick and
+00:23:49,164 --> 00:23:51,704
+Alright. So the the last panel in this page
 
 262
-00:24:45,078 --> 00:24:46,337
-facing the west
+00:23:52,244 --> 00:24:05,650
+has the Nephews observing and the and the crowd observing donald whim and crying and he's posture, like the kangaroo. It's clearly worked out really well. Yeah. I don't know. I find it odd that the humid would add the home sick part.
 
 263
-00:24:46,676 --> 00:24:47,935
-to smell
+00:24:06,344 --> 00:24:08,282
+Because I don't feel like that would add much
 
 264
+00:24:08,941 --> 00:24:18,359
+entertainment value. It's almost like he's... He wants him to just go to Australia. Right? He's gil lily a little bit there. And but I think
+
+265
+00:24:18,737 --> 00:24:35,375
+maybe he's playing to the radio audience, you know? Yeah. But I I just... I love the setup for this. Alright. So I like the dotted lines going for their eyes and gives just limp arms, like Huey, He's he's definitely there. Yep. So on the next page, we see him
+
+266
+00:24:35,794 --> 00:24:44,620
+acting like the Homes kangaroo that he believes in himself to be. The the Dj is really selling it. It's talking about him acting homes sick and
+
+267
+00:24:45,078 --> 00:24:47,855
+facing the west to smell
+
+268
 00:24:48,249 --> 00:24:51,003
 sniff at the air and dream of far off
 
-265
-00:24:51,442 --> 00:25:01,966
-Australia. As you mentioned, he refers to it in the far off entities. I think anti is just means the, like bottom half of the earth, but or or the... Yeah. Why
-
-266
-00:25:02,821 --> 00:25:03,639
-of the earth.
-
-267
-00:25:04,589 --> 00:25:08,641
-I had to look at it's like that region of New zealand Australia.
-
-268
-00:25:09,419 --> 00:25:11,794
-Donald has a thought balloon of him
-
 269
-00:25:12,332 --> 00:25:20,991
-crying and thinking about kangaroo like him. And I... That's a great panel right there. I love that panel. It sums it up. And all of a sudden, he
+00:24:51,402 --> 00:24:55,095
+Australia. As you mentioned, he refers to it in the far off and.
 
 270
-00:25:21,369 --> 00:25:25,957
-bounds off with a happy look in his face stunning the crowd, the h
+00:24:55,552 --> 00:24:56,332
+I think
 
 271
-00:25:26,456 --> 00:25:43,909
-professor can't get in contact with him because he's too far away, and he is bounding off much faster and higher than you should be able to. And, you know, the nephews are worried. The h says it should wear off in a few hours, but who knows what could happen This is why we...
+00:24:56,670 --> 00:24:59,894
+is just means the, like, bottom half of their earth, but
 
 272
-00:25:44,429 --> 00:25:52,824
-Most modern hit just make people signed waivers because of stuff like this. That's right. On the next page Donald bounds off to the
+00:25:00,231 --> 00:25:01,169
+or or the
 
 273
-00:25:53,203 --> 00:25:55,400
-airline office to buy a ticket.
+00:25:02,542 --> 00:25:03,321
+inside of.
 
 274
-00:25:55,840 --> 00:25:56,340
-And
+00:25:04,589 --> 00:25:08,601
+I had to look at. It's like that region of New Zealand and Australia.
 
 275
-00:25:56,799 --> 00:26:02,508
-I I really like the fact that he is now na. He's got human speech even though he's a kangaroo.
+00:25:09,379 --> 00:25:11,755
+Donald has a thought balloon of him
 
 276
-00:26:03,127 --> 00:26:06,943
-He's saying, I'm a home kangaroo and I know how to go home.
+00:25:12,173 --> 00:25:20,951
+crying and thinking about kangaroo like him. That's a great panel right there. I love that panel. It sums it up. And all of a sudden, he
 
 277
-00:26:07,442 --> 00:26:14,905
-And he explains this to the tickets seller. Mh who tells him, oh, your home would be australia. Just a moment kangaroo.
+00:25:21,289 --> 00:25:25,917
+bounds off with a happy look in his face stunning the crowd, the hi
 
 278
-00:26:16,999 --> 00:26:19,335
-And, you know, Donald very kind
+00:25:26,416 --> 00:25:44,049
+professor can't get in contact with him because he's too far away, and he is bounding off much faster and higher than you should be able to. And, you know, the nephews are worried the hi says it should wear off in a few hours, but who knows what could happen this is why we...
 
 279
-00:26:19,688 --> 00:26:42,929
-asks him to make a four tickets so that his kangaroo nephews can come too. And the ticket seller completes the transaction for four hundred dollars. Didn't look up what that would be, but sound definitely sounds like a lot. And clerk wishes him well until he does a double take and and says gracious six, that wasn't a kangaroo. That was a person. Kangaroo don't have four hundred dollars.
+00:25:44,429 --> 00:25:52,784
+Most modern hip just make people find waivers because of stuff like this. That's right. On the next page, Donald bounds off to the
 
 280
-00:26:43,909 --> 00:26:53,244
-I love the a joke was funny because it's the the money aspect of it. That was the part. That it was funny. They're wait a minute. It's like saying,
+00:25:53,443 --> 00:25:55,400
+airline office to buy a ticket.
 
 281
-00:26:53,939 --> 00:27:02,399
-C don't have blue hats. Yeah. And I remember even as a kid. I loved this interaction. It was just so ridiculous. And totally dis.
+00:25:55,880 --> 00:25:56,380
+And
 
 282
-00:27:03,594 --> 00:27:05,492
-Cleric, literally thinking oh.
+00:25:56,799 --> 00:26:02,508
+I I really like the fact that he is now na. He's got human speech. Even though he's a kangaroo.
 
 283
-00:27:05,872 --> 00:27:08,250
-Because the eyes are just barely open the sliver.
+00:26:03,127 --> 00:26:06,863
+He's saying, I'm a home kangaroo, and I know how to go home.
 
 284
-00:27:08,749 --> 00:27:42,786
-Right. So on the next page, the nephews have caught up with Donald who beck and them to follow him, and he leads them to what he calls the clipper base. I guess that's where these clipper planes takeoff off. This is a pretty cool way to travel. It seems Well, at any anyway, they they see him board the Australia clipper and they're freaked out. They've gotta get him out, but he refuses. He says home to kangaroo Is Australia. And they asked the captain for help getting him out. But the captain's like, why should I he gave me four tickets to Australia?
+00:26:07,402 --> 00:26:10,714
+And he explains this to the ticket seller.
 
 285
-00:27:43,465 --> 00:27:44,285
-So the Nephews
+00:26:11,092 --> 00:26:14,785
+Who tells him oh, your home would be awesome kelly. Just a moment to.
 
 286
-00:27:44,838 --> 00:27:48,206
-yeah. You know, He can't really beat his logic. He was given tickets.
+00:26:16,999 --> 00:26:19,256
+And, you know, Donald very kindly
 
 287
-00:27:49,060 --> 00:27:52,763
-Yeah. I I know. Very sound right. Alright. So the Nephews,
+00:26:19,688 --> 00:26:42,709
+ask soon to make it four tickets so that his kangaroo nephews can come to. And the ticket seller completes the transaction for four hundred dollars. Didn't look up what that would be, but definitely sounds like a lot. And the Clerk wishes him well until he does a double take and and says gracious six, that wasn't a kangaroo. That was a person. Kangaroo don't have four hundred dollars.
 
 288
-00:27:53,658 --> 00:28:01,256
-you know, they convene and they talk about the fact that, hey, Mcdonald's got tickets for all of us. So we get to go to Australia. Hours,
+00:26:43,909 --> 00:26:53,284
+I love the a joke was funny because it's the the money aspect of it. That was the part. Yeah. It was funny. There... Wait a minute. That's like saying,
 
 289
-00:28:01,929 --> 00:28:16,346
-pass a really nice panel nighttime panel of them descending. The Donald is the first of the ducks to wake up. And, you know, he he looks out of the plane he's kinda coming to. He's wondering why he doesn't remember getting the catalina tickets and
+00:26:54,419 --> 00:27:02,799
+Don't have blue hats. Yeah. And I I remember even as a kid. I loved this interaction. It's just so ridiculous. And totally dis interested.
 
 290
-00:28:17,019 --> 00:28:21,704
-flight attendant tells him to buckle up because they're about to land in Sydney, Australia.
+00:27:03,554 --> 00:27:04,872
+Clark, literally thinking
 
 291
-00:28:22,120 --> 00:28:38,399
-Alright. So on the next page, Donald has realized what's going on and we don't see the explanation which is nice because we know what's going on. It just transitions to to later. And you know what I think is interesting here. We fly into I guess, Sydney Harbor.
+00:27:05,831 --> 00:27:08,250
+Because eyes are just barely open to sliver.
 
 292
-00:28:38,939 --> 00:28:43,165
-There's Al lot of cloud cover there. So we don't really see a lot of the city skyline.
+00:27:08,749 --> 00:27:12,885
+Alright. So on the next page, the nephews have caught up with Donald who beck
 
 293
-00:28:43,662 --> 00:28:48,187
-And then the next panel just transitions to, like a generic city, The only
+00:27:13,359 --> 00:27:42,706
+them to follow him and he leads them to what he calls the clipper base. I guess that's where these clipper plans take off. This is a pretty cool way to travel. It seems Well, Al rate, they they see him bored the os australia clipper, and they're freaked doubt they've gotta get him out, but he refuses. He says, home to kangaroo cruz is Australia and they asked the captain for help getting him out, but the captain like, why should I? He gave me four tickets to Australia?
 
 294
-00:28:48,539 --> 00:29:07,369
-thing that really indicates that it's Australia is a poster for cricket matches. Yeah. It seems like such a gimme to like show, you know, the shorthand for Australia and Sydney Harbor is the opera house. And I I realized that it hasn't even no built at this time that was by first not too. I when I saw this. I was like, are they
+00:27:43,465 --> 00:27:44,245
+So the nephews,
 
 295
-00:29:07,906 --> 00:29:24,167
-just putting clouds there? Because they don't wanna draw it. And then I'm like, you know what, maybe didn't exist yet. You know. Yeah. I looked it up. I I... Because this this struck me on hindsight, but but it was definitely later. I wanna say nineteen fifty seven. Is like when the planning commission got away. But
+00:27:44,798 --> 00:27:48,166
+Yeah. You know. Mean can't really beat his logic. He was given tickets.
 
 296
-00:29:24,505 --> 00:29:26,562
-there's not really a lot of other
+00:27:49,020 --> 00:27:52,723
+Yeah. I I know. Very sound. Right. Alright. So the nephews,
 
 297
+00:27:53,618 --> 00:28:01,216
+you know, they convene and they talk about the fact that, hey, Donald got tickets for all of us, so we get to go to Australia. Hours
+
+298
+00:28:01,769 --> 00:28:21,562
+pass, a really nice panel, nighttime panel of them descending. The Donald is the first of the Ducktales wake up. And, you know, he he looks out of the plane he's kinda coming too. He's wondering why he doesn't remember getting the catalina tickets and a flight attendant tells him to buckle the lot because they're about to land in Sydney, Australia.
+
+299
+00:28:22,120 --> 00:28:38,359
+Alright. So on the next page, Donald just realize what's going on and we don't see the explanation which is nice because we know what's going on. It just transitions to to later. And you know what I think is interesting here, we fly into, I guess, Sydney Harbor.
+
+300
+00:28:38,939 --> 00:28:43,165
+There's a lot of cloud cover there. So we don't really see a lot of the City skyline.
+
+301
+00:28:43,662 --> 00:28:48,187
+And then the next panel just transitions to, like, a generic city. The only
+
+302
+00:28:48,539 --> 00:29:07,369
+thing that really indicates that it's Australia is a poster for cricket matches. Yeah. It seems like such a gimme to, like, show, you know, the shorthand for Australia and Sydney Harbor is the opera house and I I realized that it hasn't even built at this time That was by first not too. I when I saw this. I was like, are they
+
+303
+00:29:07,906 --> 00:29:24,127
+just putting clouds there because They don't wanna draw it. And then I'm like, you know what? Maybe didn't exist yet. Know. Yeah. I looked it up. I I because this this brought me on hindsight, but but it was definitely later, I wanna say nineteen fifty seven is like when the planning commission got away. But
+
+304
+00:29:24,465 --> 00:29:26,562
+there's not really a lot of other
+
+305
 00:29:28,178 --> 00:29:32,050
 for here we're in Australia until you are in the outback. Right?
 
-298
-00:29:32,822 --> 00:29:36,251
-Yeah. You know, it's it's the opera house and the the bridge there.
+306
+00:29:32,783 --> 00:29:36,211
+Yeah. You know. It's it's the opera house and the the bridge there.
 
-299
+307
 00:29:36,689 --> 00:29:41,029
-Yeah. You know, I attribute. Well, I saw the bridge and that's when I was looking for the opera house, but i
+Yeah. You know, I attribute it. Well, I saw the bridge, and that's when I was looking for the upper house, but I
 
-300
+308
 00:29:41,926 --> 00:29:45,217
 I mean, yeah, there's not really any distinguishing
 
-301
+309
 00:29:45,753 --> 00:29:46,253
 features.
 
-302
-00:29:47,068 --> 00:29:48,884
-So Australia rules football
-
-303
-00:29:49,301 --> 00:30:07,420
-was from the people I knew there was a a bigger deal than than cricket. Maybe Barks didn't wanna get confusing with Right. Because I don't think they call it Aussie rules football there. They just called it football ball. But fucking. Yeah. That would be a a cricket he's like, alright. What do we... What I got to work with here? And there's a
-
-304
-00:30:07,839 --> 00:30:14,421
-recognizable bridge and they play cricket there. Well we'll we'll be in the outback soon and and you'll be reminded constantly.
-
-305
-00:30:14,998 --> 00:30:20,382
-But for now, Donald is just grip, you know, he's he's in a bad mood pretty understandably.
-
-306
-00:30:20,841 --> 00:30:41,594
-And the Nephews are like, come on. Stop driving. Let's have some fun and, you know, this prompts dawn, Will just say that you can have any fun in Australia. The country is too civilized, you know, which which it seems like a weird thing to say. But I think it's just the setup, right? For us to meet this. Yeah. This stranger with the pretty spectacular
-
-307
-00:30:42,014 --> 00:30:45,249
-mustache, and he is the one that makes the off
-
-308
-00:30:46,188 --> 00:30:50,323
-to the Nephews. He he encourages them to come to his
-
-309
-00:30:50,782 --> 00:30:51,282
-station
-
 310
-00:30:51,900 --> 00:30:55,612
-his sheep station, station being the term for ranch.
+00:29:47,068 --> 00:30:07,420
+So Australia rules football was from the people I knew there was a a bigger deal than than cricket. Maybe carl Barks didn't wanna get confused with Right. Because I don't think they call it A rules football there. They just called it the football. But. Yeah. That would be... So cricket he's like, alright. What do we... What do I got to work with here? And there's a
 
 311
-00:30:56,430 --> 00:30:59,128
-And the he'll pay them to hunt
+00:30:07,799 --> 00:30:14,381
+recognizable bridge and they play cricket there. Well, we'll we'll be in the outback soon, and and you'll be reminded constantly.
 
 312
-00:30:59,707 --> 00:31:00,207
-and,
+00:30:14,958 --> 00:30:20,382
+But for now, Donald is just g, you know, he's he's in a bad mood pretty understandably.
 
 313
-00:31:00,546 --> 00:31:03,897
-you know, don all this like, Huey, me. You want me to hunt,
+00:30:20,841 --> 00:30:41,594
+And the nephews are, like, come on, stop driving. Let's have some fun and, you know, this prompts Donald, i'll just say that you can have any fun in Australia. The country is too civilized. You know, which which seems like a weird thing to say. But I think it's just the setup, right? For us to meet this Yeah. This stranger with the pretty spectacular
 
 314
-00:31:04,515 --> 00:31:07,489
-and we get a good faint gag where he says Kangaroo.
+00:30:41,974 --> 00:30:45,249
+mustache, and he is the one that makes the off
 
 315
-00:31:08,346 --> 00:31:27,092
-Yeah. I thought it was interesting that like, if there were some wild Indians or more buffalo or I don't know, some kind of native Australian animal. Like, almost like you forget that i suspect Kangaroo exist. I was confusing that he mentions Buffalo and he's looking for something interesting. But he literally was just p digitized as a kangaroo
+00:30:46,148 --> 00:30:50,283
+to the nephews. He he encourages them to come to his
 
 316
-00:31:27,524 --> 00:31:32,464
-and he gets here and they're, like, oh, if only, there was some kind of wild native animal
+00:30:50,782 --> 00:30:51,282
+station.
 
 317
-00:31:32,804 --> 00:31:33,604
-anywhere around here.
+00:30:51,820 --> 00:30:55,532
+And his sheep station station being the term for ranch.
 
 318
-00:31:34,164 --> 00:31:34,359
-Exactly.
+00:30:56,470 --> 00:30:58,968
+And the he'll pay them to hunt
 
 319
-00:31:35,017 --> 00:31:36,156
-And Huey, literally
+00:30:59,707 --> 00:31:03,778
+and, you know, Donald is like, pain me when you want me to hunt
 
 320
-00:31:36,653 --> 00:31:38,907
-describing, like, the American frontier.
+00:31:04,475 --> 00:31:07,449
+and we got a good faint thing ga where he says kangaroo.
 
 321
-00:31:39,404 --> 00:31:47,064
-Right? Mh. And so much American media at this time was like like fascinated by the American frontier.
+00:31:08,346 --> 00:31:27,092
+Yeah. I thought it was interesting that like, if there were some wild Inducks or or buffalo. I don't know some kind of native Australian and animal. Like, like it for forgets that us that kangaroo exist. I was confusing that he mentions his buffalo and he's looking for something interesting. But he literally was just hepatitis as a kangaroo
 
 322
-00:31:47,444 --> 00:31:49,064
-Right? Could you see all those western
+00:31:27,524 --> 00:31:32,464
+then he gets here and, like, oh, if only, there was some kind of wild native animal
 
 323
-00:31:49,364 --> 00:32:05,604
-and stuff. So I think some of this is just kind of playing out a frontier fantasy in a different kind of Yeah. Well, I... Yeah. I kind of after thinking about it a little more. I think they just wanted to in case we couldn't do it on our own because the whole concept of a frontier
+00:31:32,804 --> 00:31:33,444
+anywhere around here.
 
 324
-00:32:06,024 --> 00:32:08,404
-is something familiar, but maybe his readers
+00:31:34,124 --> 00:31:34,284
+Exact.
 
 325
-00:32:08,799 --> 00:32:13,046
-aren't familiar as much with Australia. So in one panel, it says
+00:31:35,017 --> 00:31:36,156
+And he's literally
 
 326
-00:32:13,463 --> 00:32:17,112
-wild Indians and Buffalo and then the next panel, bush
+00:31:36,613 --> 00:31:38,867
+describing, like, the American Frontier.
 
 327
-00:32:17,464 --> 00:32:32,629
-and hunting and then talking about Heroes. So I think he just wanted to put those concepts side by side. Right. It's it's very Australia one zero one. Yeah. Yeah. I think they're lang setting a table that maybe we don't really need these days, but they needed.
+00:31:39,364 --> 00:31:39,864
+Right?
 
 328
-00:32:33,504 --> 00:32:39,033
-Alright. So on the next page, you know, Donald recovers, and the man explains that
+00:31:40,601 --> 00:31:47,024
+And so much American Media at this time was, like like fascinated by the American Frontier.
 
 329
-00:32:39,531 --> 00:32:49,511
-he will pay two pounds for every kangaroo that they bring in and five hundred pounds for mourn mary, either dead or alive.
+00:31:47,404 --> 00:31:49,064
+Right. Could you see all those western
 
 330
-00:32:49,851 --> 00:32:52,683
-He explains that she is the queen of the kangaroo.
+00:31:49,364 --> 00:32:05,564
+and stuff. So I think some of this is just kind of playing out Frontier fantasy in a different kind yeah. Well, I... Yeah. I I kinda after thinking about it a little more. I think they just wanted to in case we couldn't do it on our own because the whole concept of a frontier
 
 331
-00:32:53,940 --> 00:32:58,395
-She lost her baby months ago and has been, like, leading
+00:32:05,984 --> 00:32:08,404
+is something familiar, but maybe his readers
 
 332
-00:32:58,869 --> 00:32:59,369
-Kangaroo
+00:32:08,759 --> 00:32:12,904
+aren't familiar as much with Australia. So in one panel, it says,
 
 333
-00:32:59,749 --> 00:33:06,409
-rating on ranchers pasture. And the Ducktales decide, yeah. Let's do it. We're gonna be kangaroo hunters.
+00:32:13,423 --> 00:32:17,112
+wild Inducks and Buffalo and then the next panel, Bush
 
 334
-00:33:07,203 --> 00:33:09,299
-They're gonna have some adventure and
+00:32:17,504 --> 00:32:32,969
+and hunting and then talking about kangaroo. So I think he just wanted to put those concepts side by side. Right. It's it's very Australia one zero one. Yeah. Yeah. I think they're link... Setting a table that maybe we don't really need these days, but they needed problem.
 
 335
+00:32:33,504 --> 00:32:38,993
+Alright. So on the next page, you know, Donald recovers, and the man explains that
+
+336
+00:32:39,451 --> 00:32:49,471
+he will pay two pounds for every kangaroo that they bring in and five hundred pounds for more full mary, either dead or alive.
+
+337
+00:32:49,851 --> 00:32:52,643
+He explains that she is the queen of the kangaroo.
+
+338
+00:32:53,900 --> 00:32:58,355
+She lost her baby months ago and has been, like, leading
+
+339
+00:32:58,829 --> 00:32:59,329
+kangaroo
+
+340
+00:32:59,709 --> 00:33:06,369
+rating on Rancher pasture. And the Inducks decide, yeah, let's do it. We're gonna be kangaroo to hunters.
+
+341
+00:33:07,203 --> 00:33:09,379
+They're gonna have some adventure and
+
+342
 00:33:09,996 --> 00:33:13,626
 maybe make the five hundred pounds that they need to... I don't know, get tickets home.
 
-336
-00:33:14,798 --> 00:33:22,893
-So they they fly out to his sheep station. It's a pretty cool panel depicting the sheep nation. The
-
-337
-00:33:23,709 --> 00:33:24,728
-station manager
-
-338
-00:33:25,386 --> 00:33:28,400
-tells them where they can find kangaroo and he
-
-339
-00:33:28,738 --> 00:33:37,680
-dives the plane down low. Scatter several dozen homes so that they can see how overrun with Kangaroo the area is. Yeah. That was
-
-340
-00:33:38,273 --> 00:33:40,925
-one thing that stood out here is, you know, because
-
-341
-00:33:41,421 --> 00:33:49,311
-now they used dollars that they they have Australian dollars. So they'd I was, like, pounds. They don't use pounds there, but then I was remembering
-
-342
-00:33:49,729 --> 00:33:50,229
-Yeah.
-
 343
-00:33:50,766 --> 00:34:00,474
-They they originally did use the British pound and I don't know when... So I guess when this was written, they probably did use pounds there. But they they just use the word dollars now.
+00:33:14,798 --> 00:33:22,893
+So they they fly out to his sheep station. It's a pretty cool panel depicting the sheep foundation. The
 
 344
-00:34:01,311 --> 00:34:11,764
-Just like we do, but it's the Australian dollar. Right. Yeah. And I thought about that too. I didn't check when they made that transition. But as you say, some sometime after this story. Yeah. This sheep
+00:33:23,709 --> 00:33:24,688
+station manager
 
 345
-00:34:12,264 --> 00:34:14,082
-stations are pretty common there.
+00:33:25,386 --> 00:33:28,360
+tells them where they can find kangaroo and he
 
 346
-00:34:14,541 --> 00:34:19,675
-I spent some time out on some of these sheep stations. And, yeah, they the legitimately did pay people
+00:33:28,698 --> 00:33:37,680
+dives the plane down low. Scatter several dozen them so they can see how overrun with Kangaroo the area is. Yeah. That was
 
 347
-00:34:20,148 --> 00:34:21,525
-you know, they pay them per
+00:33:38,273 --> 00:33:40,885
+one thing that stood out here is, you know, because
 
 348
-00:34:21,902 --> 00:34:25,593
-pay people to thin out the herd and just
+00:33:41,381 --> 00:33:49,271
+now they use dollars, that they they have Australian dollar. So they'd I was like, pounds, they don't use pounds there, but then I was remembering
 
 349
-00:34:26,050 --> 00:34:34,034
-when maybe get over populated, so that's not an uncommon thing back then. Right. Alright. So as they dive down, you know, they see
+00:33:49,729 --> 00:33:49,809
+Yeah.
 
 350
-00:34:34,335 --> 00:34:37,489
-they see kangaroo jumping over the wings up Al plain
+00:33:50,766 --> 00:33:53,461
+They that they originally did use the British pound
 
 351
-00:34:37,909 --> 00:34:41,409
-pretty fan, but Al little a little site visual.
+00:33:53,774 --> 00:34:00,474
+and I don't know when... So I guess when this was written, they probably did use pounds there. But they they just use the word dollars now.
 
 352
-00:34:42,509 --> 00:34:47,263
-And they land so that they can get to where. And the nephews used point out
+00:34:01,311 --> 00:34:11,650
+Just like we do, but it's the Australian dollar. Right. Yeah. And I thought about that too. I didn't check when they made that transition. But as you say, some sometime after this story. Yeah. That's sheep.
 
 353
+00:34:12,264 --> 00:34:14,042
+Stations are pretty common there.
+
+354
+00:34:14,501 --> 00:34:19,635
+I spent some time out on some of these cheap stations. And, yeah, they the legitimately did pay people
+
+355
+00:34:20,188 --> 00:34:21,525
+you know, they pay them per
+
+356
+00:34:21,863 --> 00:34:25,593
+pay people to thin out the herd and just
+
+357
+00:34:26,050 --> 00:34:33,994
+when they get over populated. So that's not an uncommon thing back then. Right. Alright. So as they dive down, you know, they see
+
+358
+00:34:34,335 --> 00:34:37,369
+they see kangaroo jumping over the wings up the plain
+
+359
+00:34:37,909 --> 00:34:41,309
+pretty fancy but little any little site visual.
+
+360
+00:34:42,509 --> 00:34:47,223
+And they land so that they can get to work. And the nephews point out
+
+361
 00:34:47,639 --> 00:34:53,201
 one of the kangaroo on top of the plane, and the station manager instantly
 
-354
-00:34:53,776 --> 00:34:57,729
-recognizes it. As mourn Mary who has, you know, a pretty
-
-355
-00:34:58,229 --> 00:35:03,189
-vicious looking Al on her face. She plants herself. She jumps on his chest.
-
-356
-00:35:04,082 --> 00:35:04,582
-And
-
-357
-00:35:04,921 --> 00:35:06,578
-hops away and
-
-358
-00:35:07,195 --> 00:35:09,190
-he is upping his auntie.
-
-359
-00:35:09,629 --> 00:35:16,850
-He's upping the bounty now to thousand pounds reward for her hide, again, dead or alive. Yeah. That's...
-
-360
-00:35:17,428 --> 00:35:22,693
-I I don't think I saw any kangaroo jumping over airplanes. When I was there. But...
-
-361
-00:35:23,191 --> 00:35:31,489
-Yeah. They get... I I don't know. It'd be interesting to see how... I I know they can go at least, you know, six feet or so I've read they can jump just
-
 362
-00:35:32,109 --> 00:35:34,766
-incredibly far. Probably a lot higher. Yeah I've
+00:34:53,737 --> 00:34:57,729
+recognizes it, as more info Mary who has, you know, a pretty
 
 363
-00:35:35,145 --> 00:35:38,900
-seen them jump pretty high, but I like... yeah, just like the image of, like,
+00:34:58,229 --> 00:35:03,189
+vicious looking Al on her face. She plants herself she jumps on his chest,
 
 364
-00:35:39,833 --> 00:35:46,569
-flying airplane and it's jumping over. Right. Alright. So we transition to the the Ducktales kind of
+00:35:04,082 --> 00:35:06,578
+and hops away, and
 
 365
-00:35:47,109 --> 00:35:49,366
-already having tried for a while
+00:35:07,115 --> 00:35:16,810
+he is upping his anti. He he's up in the bounty out to thousand pounds reward for her high. Again, dead or alive. Yeah. And
 
 366
-00:35:49,825 --> 00:35:50,325
-to
+00:35:17,428 --> 00:35:22,693
+I I don't think I saw any kangaroo jumping over airplanes. I was there. But...
 
 367
-00:35:50,704 --> 00:35:54,094
-trap her. You know? They have obviously been Al it
+00:35:23,191 --> 00:35:24,011
+Yeah. They get...
 
 368
-00:35:55,072 --> 00:35:59,344
-they explained that it's really hard to catch her snare and pits don't work.
+00:35:24,509 --> 00:35:31,489
+I don't know. It'd be interesting to see how... I I know they can go at least, you know, six feet. So... Have read i can jump just
 
 369
-00:36:00,302 --> 00:36:04,049
-One of the Nephews is citing through some bin. He sees
+00:35:32,069 --> 00:35:34,766
+incredibly far. Probably a lot higher. Yeah. I've
 
 370
-00:36:04,509 --> 00:36:07,806
-her on a rock some miles, a mile away
+00:35:35,145 --> 00:35:38,860
+seen them jump pretty high, but I like... Yeah. Just like the image of, like,
 
 371
-00:36:08,384 --> 00:36:16,245
-watching what they're doing, which is how she knows what's going on. And he says that she looks sad, but I can't tell whether she's weeping or laughing.
+00:35:39,793 --> 00:35:46,569
+flying airplane and it's jumping over. Right. Alright. So we transition to the the docs kind of
 
 372
-00:36:17,540 --> 00:36:22,546
-It's really interesting to me that, you know, Barks has created this like really interesting
+00:35:47,109 --> 00:35:49,286
+already having tried for a while
 
 373
-00:36:22,979 --> 00:36:29,186
-animal character here. Right? And this is definitely an animal. This is not one of the human, like, the people
+00:35:49,785 --> 00:35:50,285
+to
 
 374
-00:36:29,644 --> 00:36:30,144
-characters.
+00:35:50,664 --> 00:35:53,900
+trap her. You know. They have obviously been Al it.
 
 375
-00:36:31,600 --> 00:36:39,554
-So she... She's an animal who's feeling this sorrow. It's it's there it's some interesting path though some some
+00:35:55,072 --> 00:35:59,304
+They explained that it's really hard to catch her snare and pitt don't work.
 
 376
-00:36:40,189 --> 00:36:42,067
-to this. Yeah. It gives us... Well,
+00:36:00,302 --> 00:36:02,878
+One of the nephews is siding through some.
 
 377
-00:36:43,386 --> 00:36:47,482
-and even just the name more more info, Mary gives... Yeah. It's...
+00:36:03,296 --> 00:36:04,035
+He sees
 
 378
-00:36:48,061 --> 00:36:58,627
-You know, it gives the gives her an extra layer of depth. That's it's kinda nice. It's not just doing it. It doesn't like I like that aspect of it because it's not implying that Kangaroo
+00:36:04,469 --> 00:36:07,806
+her on a rock some miles, a mile away
 
 379
-00:36:59,258 --> 00:37:08,418
-in their nature in their nature to go and just terror things, you know, get she has a reason for it. She's trying to find her baby. Right. It's retribution or something.
+00:36:08,384 --> 00:36:16,206
+watching what they're doing, which is how she knows what's going on. And he says that she looks sad, but I can't tell whether she's weeping or laughing.
 
 380
-00:37:09,632 --> 00:37:12,063
-She's very... I find her very sympathetic.
+00:36:17,540 --> 00:36:22,507
+It's really interesting to me that, you know, Barks has created this, like, really interesting
 
 381
-00:37:13,179 --> 00:37:14,215
-Yeah. Yeah. Definitely.
+00:36:22,979 --> 00:36:29,147
+animal character here. Right? And this is definitely an animal. This is not one of the human, like, the people
 
 382
-00:37:14,749 --> 00:37:16,008
-And and so Donald
+00:36:29,604 --> 00:36:30,104
+characters.
 
 383
-00:37:16,906 --> 00:37:21,280
-recalls. He remembers, so that that's the reason that they do call her more
+00:36:31,560 --> 00:36:35,834
+So She... She's an animal who's is feeling the sorrow. It's
 
 384
-00:37:21,674 --> 00:37:28,974
-because she lost her baby. So that gives him an idea. He drives into town for something. And he yes the nephews used to cover one of the
+00:36:36,254 --> 00:36:39,554
+there it's some interesting path though. Some some
 
 385
-00:37:29,274 --> 00:37:33,146
-pits. With some brush. And I like the line from the nephew.
+00:36:40,189 --> 00:36:42,067
+to this. Yeah. Gives us... Well,
 
 386
-00:37:34,364 --> 00:37:39,912
-Just I wish Shank Mcdonald wouldn't get ideas that would get ideas that didn't make so much work.
+00:36:43,386 --> 00:36:47,482
+and even just the name more more mary gives yeah. It's,
 
 387
-00:37:41,087 --> 00:37:47,939
-And then they see him come back. They see his car, but it's actually a kangaroo driving the car, so they think
+00:36:48,101 --> 00:36:58,587
+you know, gives the gifts her extra layer of debts. It's it's kinda nice. It's not just doing it. It doesn't I I like that aspect of it because it's not implying that kangaroo
 
 388
-00:37:50,233 --> 00:37:57,654
-Yeah. A couple of things here. I don't know if you noticed the steering wheels on the incorrect side of the car there for Australia
+00:36:59,258 --> 00:37:01,790
+and their native in their nature to go and just
 
 389
-00:37:57,994 --> 00:37:58,814
-driving vehicle.
+00:37:02,206 --> 00:37:08,379
+things. You know, they get she has a reason for it. She's trying to find her baby. Right. It's retribution or something.
 
 390
-00:37:59,234 --> 00:38:03,949
-I didn't. I loved... I I love the gag of the kangaroo driving the car back
+00:37:09,632 --> 00:37:12,364
+She's very... I find her very sympathetic.
 
 391
-00:38:05,449 --> 00:38:07,109
-that's just another... Just a great...
+00:37:13,179 --> 00:37:14,255
+Yeah. Yeah. Definitely.
 
 392
-00:38:08,289 --> 00:38:09,589
-Good Al little visual bag.
+00:37:14,749 --> 00:37:15,968
+And and so Donald
 
 393
-00:38:10,089 --> 00:38:12,669
-And also like and they've got what looks like maybe,
+00:37:16,826 --> 00:37:33,106
+recalls, he remembers. So that that's the reason that they do call her more inform. Because she lost her baby. So that gives him an idea. He drives into town for something. And he asks the nephews to cover one of the pit. With some brush. And I like the line from the Nephew.
 
 394
-00:38:13,169 --> 00:38:16,661
-like ten foot pit for a kangaroo that just jumped over, you know,
+00:37:34,324 --> 00:37:39,872
+Just... I wish On Domino wouldn't get ideas that would get ideas that didn't make so much work.
 
 395
-00:38:17,500 --> 00:38:18,519
-flying airplane.
+00:37:40,449 --> 00:37:47,939
+Sure And then they see him come back. They see his car, but it's actually a kangaroo driving the car. So they think
 
 396
-00:38:19,258 --> 00:38:22,334
-Right. We don't think about that too hard. Don't think about that too much.
+00:37:50,233 --> 00:37:57,614
+Yeah. Couple of things here. I don't know if you noticed the steering wheels on the incorrect side of the car they're for Australia
 
 397
-00:38:23,989 --> 00:38:30,189
-So they they leap at the the kangaroo. They call them an uber overhead grasshopper or a great little line.
+00:37:57,954 --> 00:37:58,814
+driving vehicle.
 
 398
-00:38:31,203 --> 00:38:37,515
-You know, ask what did you do with our uncle? And then Donald reveals that it's actually him in this disguise.
+00:37:59,234 --> 00:38:05,449
+I didn't I love. I I love the gag of the kangaroo driving the car Barks
 
 399
-00:38:38,768 --> 00:38:45,941
-Saying that, you know, since she's lost her own, baby, she might want to adopt one. He's gonna stand on that pit and look very
+00:38:05,449 --> 00:38:07,069
+That's just another just great...
 
 400
-00:38:46,360 --> 00:38:47,079
-very sad.
+00:38:08,289 --> 00:38:09,189
+Been a little visual.
 
 401
-00:38:47,814 --> 00:38:48,314
-And
+00:38:10,089 --> 00:38:12,629
+And like they've got what looks like maybe,
 
 402
-00:38:49,292 --> 00:38:53,947
-hope that she takes the bait and crashes into the into the pit.
+00:38:13,169 --> 00:38:18,519
+like, ten foot hit for a kangaroo that just jumped over, you know, Right flying airplane.
 
 403
-00:38:54,406 --> 00:39:02,712
-And they they watch him from a distance. They note that he's putting on a great act because, you know, he is Al experienced kangaroo now.
+00:38:19,258 --> 00:38:22,334
+Right. We don't think about that too hon. Nothing think about that too much.
 
 404
-00:39:03,651 --> 00:39:04,990
-And one of the Nephews
+00:38:23,949 --> 00:38:30,149
+So they they leap at the the kangaroo, they call in an fed grasshopper, a great little line.
 
 405
-00:39:05,464 --> 00:39:07,044
-sites mourn Mary,
+00:38:31,203 --> 00:38:34,479
+You know, ask, what did you do with our uncle? And then Donald reveal,
 
 406
-00:39:07,664 --> 00:39:09,924
-spotting him through the bin,
+00:38:34,918 --> 00:38:37,575
+that it's actually him in this disguise
 
 407
-00:39:10,664 --> 00:39:14,399
-and I like her reaction shot where she's like, very surprised.
+00:38:38,728 --> 00:38:45,941
+saying that, you know, since she's lost her own, baby, she might wanna adopt one. He's gonna stand on that pit and look very
 
 408
-00:39:14,959 --> 00:39:17,539
-Had a a little lost baby kangaroo.
+00:38:46,320 --> 00:38:47,079
+very sad.
 
 409
-00:39:19,454 --> 00:39:27,865
-Yeah. This is... So I find it... I find it interesting that Donald, who has recently been h baptized into thinking, he's a kangaroo
+00:38:47,854 --> 00:38:48,354
+And
 
 410
-00:39:28,458 --> 00:39:29,476
-his first
+00:38:49,292 --> 00:38:53,766
+hope that she takes the bait and crashes into the into the pit.
 
 411
-00:39:30,172 --> 00:39:32,027
-plan of action is to
+00:38:54,366 --> 00:39:02,672
+And they they watch him from a distance. They note that he's putting on a great act because, you know, he isn't experienced kangaroo room now.
 
 412
-00:39:32,723 --> 00:39:34,318
-become a kangaroo. U.
+00:39:03,651 --> 00:39:04,950
+And one of the nephews
 
 413
-00:39:34,836 --> 00:39:37,743
-Like maybe there's some residue effects that are still lingering.
+00:39:05,424 --> 00:39:07,004
+sites mourn full Mary
 
 414
-00:39:38,080 --> 00:39:41,410
-He's still feeling Al. Like, I I still kinda wanna be a Kangaroo.
+00:39:07,584 --> 00:39:10,084
+spotting him through the bin particulars.
 
 415
-00:39:42,185 --> 00:39:43,164
-And I'm also...
+00:39:10,704 --> 00:39:17,499
+And I like her reaction shot where she's, like, very surprised. I had a a little lost baby kangaroo.
 
 416
-00:39:44,059 --> 00:39:45,197
-I think it's really
+00:39:19,454 --> 00:39:25,507
+Yes. This is... So I find it. I find it interesting that Donald who has recently been
 
 417
-00:39:45,828 --> 00:39:51,403
-convenient that the station happened to have a kangaroo costume and his size too that.
+00:39:26,006 --> 00:39:27,825
+into thinking he's a kangaroo.
 
 418
-00:39:51,822 --> 00:39:53,740
-Yeah. I don't like think too deeply about that.
+00:39:28,458 --> 00:39:29,476
+His first
 
 419
-00:39:57,385 --> 00:39:58,283
-That's true.
+00:39:30,132 --> 00:39:31,908
+plan action is to
 
 420
-00:39:59,338 --> 00:40:03,039
-Yeah. Alright. So on the next page, we cut
+00:39:32,683 --> 00:39:33,582
+become a kangaroo.
 
 421
-00:40:03,499 --> 00:40:10,489
-to mourn Mary's perspective for most of it. And she's like, squeaking excited and hopping over to him.
+00:39:33,919 --> 00:39:34,158
+U.
 
 422
-00:40:11,624 --> 00:40:18,744
-Donald feeling very confident and triumphant, but, you know, she stops her jump a little bit short. She's sniffing.
+00:39:34,796 --> 00:39:37,703
+Like maybe there's some residue effects that are still lingering.
 
 423
-00:40:19,677 --> 00:40:22,691
-Suspiciously at the pit as Donald watches on easily.
+00:39:38,080 --> 00:39:41,370
+He's still feeling... Like, I I still kinda wanna be a kangaroo.
 
 424
-00:40:23,188 --> 00:40:33,554
-And then we see her kind of take a big wind up. And just zoom straight across the pit, grabbing Donald by the head. Join.
+00:39:42,504 --> 00:39:43,164
+I'm also...
 
 425
-00:40:34,290 --> 00:40:35,947
-Yeah. Shocking the Nephews,
+00:39:44,059 --> 00:39:45,157
+I think it's really
 
 426
-00:40:37,098 --> 00:40:40,235
-She stuffs him in in her pouch
+00:39:45,789 --> 00:39:51,163
+convenient that the station happened to have a kangaroo custom and his size too
 
 427
-00:40:41,214 --> 00:40:48,444
-and and bounds off with Don calling out for help and and she's got little cartoon hearts around her head.
+00:39:51,822 --> 00:39:53,740
+Yeah. I don't like thing too deeply about that.
 
 428
-00:40:49,104 --> 00:40:55,379
-And I just... I loved that sequence. I thought it was whole area. His look of surprise.
+00:39:57,345 --> 00:39:58,283
+That's true.
 
 429
-00:40:56,559 --> 00:41:04,547
-He shouldn't have been surprised there and this was very predictable to the reader, but it's still whole hilarious. And I love it. It's one of my favorite parts in the story.
+00:40:00,135 --> 00:40:10,450
+Alright. So on the next page, we cut too mourn mary's perspective for most of it. And she's like, squeaking excited and hopping over to him.
 
 430
-00:41:05,762 --> 00:41:06,701
-Yeah. Yeah. It's
+00:40:11,584 --> 00:40:14,444
+Donald feeling very confident in triumph,
 
 431
-00:41:08,155 --> 00:41:09,373
-it works a little too
+00:40:14,784 --> 00:40:18,884
+but, you know, she stops her jump a little bit short. She's sniffing
 
 432
-00:41:10,667 --> 00:41:11,305
-bait anyways.
+00:40:19,637 --> 00:40:22,630
+suspiciously at the pit as Donald watches on easily.
 
 433
-00:41:11,919 --> 00:41:12,419
-Yep.
+00:40:23,188 --> 00:40:28,730
+And then we we see her kind of take a big wind up and just zoom
 
 434
-00:41:14,556 --> 00:41:15,895
-Alright. So Donald
+00:40:29,067 --> 00:40:33,794
+straight across the pit. Grabbing donald by the head. Right talking.
 
 435
-00:41:16,314 --> 00:41:17,992
-kinda straps in for his ride.
+00:40:34,290 --> 00:40:35,907
+Yeah. Shocking the nephews
 
 436
+00:40:37,098 --> 00:40:40,155
+she stuffs him in in her pouch
+
+437
+00:40:41,214 --> 00:40:48,384
+and and bounds off with Donald calling out for help, and and she's got little cartoon hearts around her head.
+
+438
+00:40:49,104 --> 00:40:55,259
+And I I just... I loved that sequence. I thought it was whole hilarious. His of surprise.
+
+439
+00:40:56,559 --> 00:41:04,587
+He shouldn't have been surprised there. And this was very predictable to the reader, but it's still whole hilarious. And I love it. It's one of my favorite Barks in the story.
+
+440
+00:41:05,722 --> 00:41:06,121
+Yeah. Yes.
+
+441
+00:41:08,155 --> 00:41:09,572
+That works a little too well
+
+442
+00:41:10,508 --> 00:41:11,305
+the bait anyways.
+
+443
+00:41:11,919 --> 00:41:11,999
+Yeah.
+
+444
+00:41:14,516 --> 00:41:15,815
+Alright. So Donald
+
+445
+00:41:16,314 --> 00:41:18,072
+kinda straps in for his ride.
+
+446
 00:41:18,831 --> 00:41:19,710
 He can't get out.
 
-437
-00:41:21,161 --> 00:41:24,212
+447
+00:41:21,121 --> 00:41:24,212
 Miles, you know, she goes miles into the bush
 
-438
-00:41:24,629 --> 00:41:31,764
-with Donald getting stressed. And the Nephews are in a pretty bad situation because they have to take off in pursuit of him,
+448
+00:41:24,629 --> 00:41:31,724
+with Donald getting stressed. And the nephews are in a pretty bad situation because they have to take off in pursuit of him,
 
-439
-00:41:32,421 --> 00:41:32,921
+449
+00:41:32,461 --> 00:41:32,961
 and
 
-440
+450
 00:41:33,498 --> 00:41:36,884
 they don't really have a ton of water, but they they can't
 
-441
+451
 00:41:37,544 --> 00:41:41,024
 they have to follow him while the trail is fresh.
 
-442
-00:41:42,464 --> 00:41:44,564
+452
+00:41:42,505 --> 00:41:44,524
 And, you know, we start to get
 
-443
+453
 00:41:44,984 --> 00:41:45,484
 more,
 
-444
-00:41:46,104 --> 00:41:46,224
+454
+00:41:46,064 --> 00:41:46,144
 like,
 
-445
-00:41:47,479 --> 00:41:51,419
-detail of some of the wildlife and some of the scrub looking
+455
+00:41:47,439 --> 00:41:49,299
+detail of some of the wildlife
 
-446
-00:41:52,119 --> 00:41:52,619
-Flo
+456
+00:41:49,639 --> 00:41:51,419
+and some of the scrub looking
 
-447
-00:41:52,999 --> 00:41:54,679
-of the Australian bush.
+457
+00:41:52,079 --> 00:41:52,579
+floor
 
-448
-00:41:55,213 --> 00:41:55,713
+458
+00:41:52,999 --> 00:41:54,739
+of the Australian bush
+
+459
+00:41:55,254 --> 00:41:55,754
 And
 
-449
-00:41:56,451 --> 00:41:56,951
+460
+00:41:56,411 --> 00:41:56,911
 then
 
-450
+461
 00:41:57,728 --> 00:42:01,061
 I don't know if you got to hear much of this in the previous
 
-451
+462
 00:42:01,400 --> 00:42:05,942
-episodes, but know, Barks used a lot of older national geographic features
+episodes. But, know, Bark used a lot of older national geographic features
 
-452
-00:42:06,797 --> 00:42:11,574
-has, like, reference for a lot of these stories. And and so to my eye, he's
+463
+00:42:06,757 --> 00:42:11,574
+Al, like, reference for a lot of these stories. And and so to my eye, he's
 
-453
-00:42:12,194 --> 00:42:13,494
+464
+00:42:12,154 --> 00:42:13,414
 gone to some care
 
-454
-00:42:13,794 --> 00:42:17,874
-to depict some of the Australian outback. What what did you think of this?
+465
+00:42:13,794 --> 00:42:17,994
+to depict some of the Australian out outback. What what did you think of this?
 
-455
+466
 00:42:19,688 --> 00:42:20,348
-Yeah. Everything,
+Yeah. Everything
 
-456
-00:42:23,084 --> 00:42:33,234
-everything... I mean, you know, Australia, a lot of people don't realize his land mass wise is the same size as the United States. And so they're pretty clear. They do have a... They do have a pretty
+467
+00:42:23,084 --> 00:42:23,584
+everything...
 
-457
-00:42:34,188 --> 00:42:37,005
-wide, you know, their ski resorts in Australia.
+468
+00:42:23,922 --> 00:42:33,274
+I mean, you know, Australia, a lot of people don't realize is land mask wise is the same size as the United States. And so they're pretty cool. They have a... They do have a pretty
 
-458
-00:42:37,584 --> 00:42:38,084
+469
+00:42:34,108 --> 00:42:36,965
+wide, you know, they're ski resorts in Australia.
+
+470
+00:42:37,544 --> 00:42:38,044
 There's,
 
-459
+471
 00:42:38,662 --> 00:42:38,862
 you know,
 
-460
-00:42:39,701 --> 00:42:44,930
-it's not all outback, but the... Part has a mediterranean climate I've heard?
+472
+00:42:39,701 --> 00:42:40,760
+it's not all
 
-461
+473
+00:42:41,314 --> 00:42:44,930
+outback. But the... It has a Mediterranean climate that I've heard.
+
+474
 00:42:45,709 --> 00:42:50,219
-Yeah. And there's the northern territory that's actually tropical. And so they're... you know, they're
+Yeah. And there's the Northern territory that's actually tropical. And so they're, you know, they're
 
-462
-00:42:51,039 --> 00:42:53,219
-but the outback which they specifically,
+475
+00:42:51,039 --> 00:42:53,179
+But the outback, which they specifically,
 
-463
-00:42:53,799 --> 00:42:58,659
-you know, the the bushes and the color of the dirt and the rock formations all seem
+476
+00:42:53,759 --> 00:42:58,659
+you know, the the bushes and the color of the dirt and the rock formations, all seem
 
-464
-00:42:59,574 --> 00:43:03,154
+477
+00:42:59,574 --> 00:43:03,194
 even just the the design of the the sheep station.
 
-465
-00:43:03,814 --> 00:43:04,474
-Yeah. Everything
+478
+00:43:03,934 --> 00:43:04,434
+Everything
 
-466
-00:43:05,094 --> 00:43:05,594
+479
+00:43:05,054 --> 00:43:05,554
 looks
 
-467
+480
 00:43:07,348 --> 00:43:07,848
 it
 
-468
-00:43:08,584 --> 00:43:09,820
+481
+00:43:08,544 --> 00:43:10,099
 looks in place to me.
 
-469
-00:43:10,698 --> 00:43:15,922
-Yeah. I I really like these outback vaccines scenes. I I thought they looked really cool as a kid.
-
-470
-00:43:17,054 --> 00:43:17,554
-Yeah.
-
-471
-00:43:18,370 --> 00:43:18,870
-So
-
-472
-00:43:19,328 --> 00:43:25,269
-finally, Mary stops and Donald takes his chance to jump out and he immediately takes off
-
-473
-00:43:26,047 --> 00:43:26,547
-but
-
-474
-00:43:27,364 --> 00:43:33,012
-there there's a great line. He now when I need to be a kangaroo, no hit distance around.
-
-475
-00:43:34,243 --> 00:43:39,786
-And then he he Nick... He references her. He says back off, you gallo brief case.
-
-476
-00:43:40,305 --> 00:43:43,655
-I like these sort of nickname names for the kangaroo.
-
-477
-00:43:45,067 --> 00:43:47,005
-But he he takes off the costume.
-
-478
-00:43:47,384 --> 00:43:50,880
-He reveals that, you know, he's not a kangaroo, and he kind of
-
-479
-00:43:51,474 --> 00:43:55,814
-confronts her, and she grabs him and puts him over her
-
-480
-00:43:56,354 --> 00:43:58,894
-and paddle him like an naughty child
-
-481
-00:43:59,807 --> 00:44:02,620
-And he's he's realized that,
-
 482
-00:44:03,236 --> 00:44:06,687
-you know, she loves him in a mother way
+00:43:10,698 --> 00:43:15,922
+Yeah. I I really like these outback. I I thought they looked really cool as a kid.
 
 483
-00:44:07,304 --> 00:44:09,614
-regardless of what he is at this point.
+00:43:17,054 --> 00:43:17,133
+Yeah.
 
 484
-00:44:10,230 --> 00:44:19,077
-And he... By the end of this, he says, well, looks like I'm adopted, but how will I get away? Yeah. It's kinda interesting. It's like you know, the moms like, you know,
+00:43:18,331 --> 00:43:18,831
+So
 
 485
-00:44:19,536 --> 00:44:24,244
-okay. It cost... At first, I'm like, well, in these cartoons, the mom, you know, when you dress
+00:43:19,288 --> 00:43:25,269
+finally, Mary stops and john... Donald takes his chance to jump out, and he immediately takes off
 
 486
-00:44:24,584 --> 00:44:32,729
-up bugs bunny dresses up as a girl bunny or a girl version of whatever, you know, thing and they fall in love anyways and
+00:43:26,007 --> 00:43:26,507
+But
 
 487
-00:44:33,429 --> 00:44:38,009
-yeah. I think, you know, there there's just a void that was left when she lost her baby and even though
+00:43:27,324 --> 00:43:32,932
+there there's a great line. He has now when I need to be a kangaroo. No hit and the distance around.
 
 488
+00:43:34,163 --> 00:43:39,747
+And and he he nick... He references her. And he says back off, you gallo the case.
+
+489
+00:43:40,305 --> 00:43:42,121
+I like these sort of
+
+490
+00:43:42,498 --> 00:43:43,636
+nickname for the kangaroo.
+
+491
+00:43:45,067 --> 00:43:46,966
+But he he takes off the costume.
+
+492
+00:43:47,344 --> 00:43:50,840
+He reveals that, you know, you know he's not a kangaroo, he kind of
+
+493
+00:43:51,434 --> 00:43:55,814
+confronts her and she grabs him and puts him over her
+
+494
+00:43:56,354 --> 00:43:58,714
+and paddle him like an naughty child.
+
+495
+00:43:59,767 --> 00:44:02,580
+And he's he's realized that,
+
+496
+00:44:03,236 --> 00:44:06,687
+you know, she loves him in know a mother y way
+
+497
+00:44:07,264 --> 00:44:09,574
+regardless of what he has at this point.
+
+498
+00:44:10,190 --> 00:44:18,617
+And he... By the end of this, he says, well, looks like I'm adopted, but how will I get away? Yeah. It's kinda interesting. It's like and know the mom's like, you know,
+
+499
+00:44:19,456 --> 00:44:24,244
+Okay. It cost... At first, I'm like, well, in these cartoons, the mom, you know, when you dresses it
+
+500
+00:44:25,343 --> 00:44:32,729
+bugs bunny and dresses up as a girl bunny or a girl version of whatever, you know, thing and they fall and love anyways. And
+
+501
+00:44:33,429 --> 00:44:37,969
+Yeah. I think, you know, they're they're just a void that was left when she lost her baby and even though
+
+502
 00:44:38,389 --> 00:44:40,029
 this isn't her baby. She's like, you know what?
 
-489
-00:44:41,005 --> 00:44:43,964
-You're my baby now. Yeah. She's in full on gosh.
-
-490
-00:44:45,285 --> 00:44:45,785
-I'm
-
-491
-00:44:46,565 --> 00:44:49,077
-it's we're in this. Alright. So
-
-492
-00:44:49,494 --> 00:44:52,645
-this is kind of a sequence that makes me feel hot and thirsty.
-
-493
-00:44:53,921 --> 00:45:01,181
-We cut to the nephews on the next page, still tracking them. It's it's a pretty rough tracking because there's so many kangaroo tracks.
-
-494
-00:45:01,920 --> 00:45:06,035
-They just know that mourn was heading west so they keep going that way.
-
-495
-00:45:06,888 --> 00:45:09,938
-They have to eventually camp out in in a dune.
-
-496
-00:45:10,354 --> 00:45:12,528
-There is a random little sequence
-
-497
-00:45:13,144 --> 00:45:17,608
-panel where there's kind of visual of the moon with the personified
-
-498
-00:45:17,946 --> 00:45:18,446
-face
-
-499
-00:45:18,984 --> 00:45:31,350
-looking at them. And again, this is kind of out of character for Barks he doesn't do this too often. But he did it in the previous story as well and ghost of the g. And and looks worried. Yeah. Yeah. It definitely does.
-
-500
-00:45:32,245 --> 00:45:40,125
-And then kind of in parallel way, Donald having a rough time. Mourn Mary's is eating some grass. He's feeling hungry he pines for some chop to.
-
-501
-00:45:40,738 --> 00:45:43,589
-And she she makes him eat grass
-
-502
-00:45:43,925 --> 00:45:57,190
-and she's just got a very stern maternal look. So he's gotta do it. I like the the panel a lot where he's trying to to choke down that grass. And oh oh well. Maybe it's full of vitamins. Yeah. He seems very...
-
 503
-00:45:57,970 --> 00:46:05,405
-know, like he said, passive. Like, he... Like, I don't know. Maybe it's just because he was... Some of the h digitizing is still wearing off because worries he's
+00:44:40,964 --> 00:44:43,864
+You're my baby now. Yeah. She's in full on
 
 504
-00:46:05,983 --> 00:46:12,627
-Al little bit. He's still eight percent kangaroo. Yeah. He's willing to go he's it. He's always just long for the ride.
+00:44:44,204 --> 00:44:44,704
+mode.
 
 505
-00:46:14,257 --> 00:46:16,991
-So Al at night, on the next page at nighttime,
+00:44:46,565 --> 00:44:49,037
+It's we're in this. Alright. So
 
 506
-00:46:17,568 --> 00:46:20,875
-she's fallen asleep, so he has the chance to sneak off
+00:44:49,494 --> 00:44:52,685
+this is kind of a sequence that makes me feel hot and thirsty.
 
 507
-00:46:21,692 --> 00:46:22,192
-and
+00:44:53,921 --> 00:45:01,181
+We cut to the nephews on the next page still tracking them. It's it's a pretty rough tracking because there's so many kangaroo tracks.
 
 508
-00:46:22,529 --> 00:46:25,779
-he he heads off, although he doesn't know in what direction.
+00:45:01,920 --> 00:45:06,035
+They just know that more formula mary was heading west so they keep going that way.
 
 509
-00:46:26,474 --> 00:46:31,654
-And by morning, you know, the nephews have woken up and they're they're looking pretty rough. They're
+00:45:06,888 --> 00:45:09,858
+They have to eventually camp out in a in a dune
 
 510
-00:46:32,830 --> 00:46:38,053
-wandering off through the bush. And, you know... This is incredibly dangerous. Right? Like
+00:45:10,354 --> 00:45:12,528
+there is a a random little sequence
 
 511
-00:46:38,471 --> 00:46:42,541
-in in real life, you're pretty much dead if you don't have a good supply of water out here.
+00:45:13,104 --> 00:45:17,089
+panel where there's a kind of a visual of the moon with the
 
 512
-00:46:43,419 --> 00:46:45,596
-And and so we cut back to Donald
+00:45:17,467 --> 00:45:18,446
+personified face
 
 513
-00:46:45,949 --> 00:46:49,442
-also in a rough patch. He's walking past some
+00:45:18,984 --> 00:45:31,310
+looking at them. And again, this is kind of out of character for Barks he doesn't do this too often. But he did it in the previous story as well and ghost of the g. And it looks worried. Yeah. Yeah. It definitely does.
 
 514
-00:46:50,100 --> 00:46:51,177
-clumps of grass,
+00:45:32,245 --> 00:45:43,368
+And then kind of in parallel way, Donald having a rough time, more mary eating some grass. He's feeling hungry. He pines for some chopped to we. And she she makes him eat grass,
 
 515
-00:46:52,455 --> 00:46:56,645
-hearing some what he thinks to be owl hoo sounds
+00:45:43,925 --> 00:45:57,190
+and she's just got a very stern maternal look. So he's gotta do it. I like the the panel a lot where he's trying to to choke down that grass and, oh, oh well maybe it's full of vitamins Yeah. He seems very...
 
 516
-00:46:57,265 --> 00:46:58,765
-and seeing some vicious
+00:45:57,970 --> 00:46:05,405
+Yeah, like you said passive. Like, he... Like, I don't know maybe it's just because he was some of the advertising is still wearing off because where he's
 
 517
-00:46:59,065 --> 00:47:05,220
-spines poking out of them and in his state. He doesn't realize that it's bush. It's aboriginal,
+00:46:06,183 --> 00:46:12,906
+little bit. He's still eight percent kangaroo. Yeah. He's willing to go use it. He's always just along for the ride this.
 
 518
-00:47:05,960 --> 00:47:11,395
-watching him very men seemingly. I like the panel with the bushes with the spears
+00:46:14,217 --> 00:46:20,875
+So at at night on the next page at nighttime, she's fallen the asleep, so he has the chance to sneak off
 
 519
-00:47:11,973 --> 00:47:15,547
-be kinda trying to match the the little thing sticking out of the bushes.
+00:46:21,732 --> 00:46:25,677
+and he... He heads off, although he doesn't know what direction.
 
 520
-00:47:16,005 --> 00:47:18,461
-Right. Alright. So the Nephews
+00:46:26,474 --> 00:46:31,654
+And by morning, you know, the nephews of woken up and they're they're looking pretty rough. They're
 
 521
-00:47:19,119 --> 00:47:20,257
-are approaching
+00:46:32,830 --> 00:46:37,593
+wandering off through the bush. And, you know, that this is incredibly dangerous. Right? Like,
 
 522
-00:47:21,410 --> 00:47:26,590
-pile a big mound of rocks and they see a kangaroo ahead that turns out to be more
+00:46:38,471 --> 00:46:42,502
+in in real life, you're pretty much dead if you don't have a good supply of water out here.
 
 523
-00:47:27,050 --> 00:47:28,005
-weeping again
+00:46:43,419 --> 00:46:45,556
+And and so we cut back to Donald
 
 524
-00:47:28,622 --> 00:47:29,521
-So they figured
+00:46:45,949 --> 00:46:49,402
+also in a rough patch. He's walking past some
 
 525
-00:47:29,898 --> 00:47:34,863
-that Donald has escaped and, you know, I'll take a moment to feel pretty bad for more
+00:46:50,060 --> 00:46:51,278
+clumps of grass
 
 526
-00:47:35,479 --> 00:47:45,021
-losing another child there. And so they track down pull their their uncles tracks, which they find but they see some
+00:46:52,415 --> 00:46:56,565
+hearing some what he thinks to be howell h sounds
 
 527
-00:47:46,614 --> 00:47:47,473
-footprints also
+00:46:57,265 --> 00:47:05,220
+and seeing some vis spines poking out of them and in his state. He doesn't realize that it's bush man, it's originals
 
 528
-00:47:48,052 --> 00:47:51,568
-converging and they can see where he has been captured.
+00:47:05,920 --> 00:47:07,819
+watching him very men.
 
 529
-00:47:52,128 --> 00:47:55,425
-And and so they they run off after him
+00:47:08,240 --> 00:47:11,395
+I like the panel with the bush with the spears
 
 530
-00:47:55,900 --> 00:47:58,319
-emo the fact that he's gonna be eaten by cannibal.
+00:47:11,973 --> 00:47:15,486
+they kinda tried to match the the little things sticking out of the bushes.
 
 531
-00:47:58,900 --> 00:48:00,520
-And then we cut to Donald
+00:47:15,965 --> 00:47:18,421
+Right. Alright. So the Nephews
 
 532
-00:48:01,099 --> 00:48:02,880
-surrounded by the aboriginal
+00:47:19,119 --> 00:47:20,990
+are approaching a
 
 533
+00:47:21,330 --> 00:47:28,005
+pile a big amount of rocks, and they see a kangaroo ahead that turns out to be more inform weeping again
+
+534
+00:47:28,622 --> 00:47:29,481
+So they figured
+
+535
+00:47:29,858 --> 00:47:34,863
+that Donald has escaped and, you know, I'll take a moment to feel pretty bad for more
+
+536
+00:47:35,439 --> 00:47:35,939
+losing
+
+537
+00:47:36,276 --> 00:47:45,740
+another child there. And so they track down on... Their their uncle uncles tracks, which they find, but they see some originals
+
+538
+00:47:46,574 --> 00:47:47,473
+footprints also
+
+539
+00:47:48,052 --> 00:47:51,509
+converging and they can see where he has been captured.
+
+540
+00:47:52,168 --> 00:47:55,245
+And and so they they run off after him.
+
+541
+00:47:55,700 --> 00:47:58,280
+Be promoting the fact that he's gonna be eaten by cannibal.
+
+542
+00:47:58,940 --> 00:48:00,480
+And then we cut to Donald
+
+543
+00:48:01,060 --> 00:48:02,880
+surrounded by the app originals
+
+544
 00:48:03,474 --> 00:48:04,934
 they're using some pretty
 
-534
-00:48:05,474 --> 00:48:07,015
-bad pigeon speed
-
-535
-00:48:07,515 --> 00:48:08,575
-saying that he's...
-
-536
-00:48:08,954 --> 00:48:19,336
-He looks hungry. He needs to be fe up and Donald understands that there's only one reason for that. Well, you know, that... So maybe maybe I'm wrong here, but I feel like he
-
-537
-00:48:19,794 --> 00:48:21,651
-intentionally avoided directly
-
-538
-00:48:22,084 --> 00:48:31,796
-stating that they were going to eat him. It's Donald the only one who mentions that they mentioned that he's skinny and that he will make a fine prize
-
-539
-00:48:32,710 --> 00:48:36,650
-But I I haven't seen any indication that they're actually
-
-540
-00:48:36,990 --> 00:48:42,453
-trying to kill him or eat him that comes directly from them. I and I think maybe he did that
-
-541
-00:48:42,910 --> 00:48:43,410
-intentionally
-
-542
-00:48:43,906 --> 00:48:46,935
-to... It's it's implied but not directly stated.
-
-543
-00:48:47,910 --> 00:48:50,450
-Right. You think maybe there's some ambiguity.
-
-544
-00:48:50,910 --> 00:48:59,374
-I... That's a very generous reading. I like that you're being generous but you know, there there are gonna be a few more stories
-
 545
-00:49:00,549 --> 00:49:04,559
-coming up that also have some of these, like, savage
+00:48:05,434 --> 00:48:06,974
+bad pigeon speak
 
 546
-00:49:05,215 --> 00:49:05,450
-depict.
+00:48:07,474 --> 00:48:08,494
+saying that he's...
 
 547
-00:49:06,347 --> 00:49:15,201
-This is one of the realities of a lot of great comic creators of this time. Right? Like, I... I'm not trying to call out Carl marx here.
+00:48:08,954 --> 00:48:19,296
+He looks hungry. He needs to be found up and donald understands that there's only one reason for that. Well, you know, that... So maybe maybe I'm wrong here, but I feel like he
 
 548
-00:49:16,575 --> 00:49:29,890
-You know, I've seen like twenty thousand leagues under the sea from Disney and Swiss family, Robinson that they have these kinds of depict of savages in the movies. Go and and U dare in the Asterisk
+00:48:19,714 --> 00:48:20,214
+intentionally
 
 549
-00:49:30,350 --> 00:49:36,381
-comment, ten ten, you know, the tin ten comment. So like, I'm not trying to pick on Barks specifically.
+00:48:20,592 --> 00:48:21,651
+avoided directly
 
 550
+00:48:22,084 --> 00:48:31,756
+stating that they were going to eat him. It's Donald the only one who mentions that they mentioned that he's skinny and that he will make a fine price
+
+551
+00:48:32,230 --> 00:48:42,413
+mh But I I haven't seen any indication that they're actually trying to kill him or eat him that comes directly from them. I and I think maybe he did that
+
+552
+00:48:42,870 --> 00:48:43,370
+intentionally.
+
+553
+00:48:43,866 --> 00:48:46,935
+To it's it's implied, but not directly stated.
+
+554
+00:48:47,830 --> 00:48:50,270
+Right. You you think maybe there's some ambiguity.
+
+555
+00:48:50,870 --> 00:48:56,043
+I... That's a very generous reading. I like that you're being generous but
+
+556
+00:48:56,482 --> 00:48:59,374
+You know, there there are gonna be a few more stories
+
+557
+00:49:00,470 --> 00:49:04,519
+coming up that also have some of these, like, savage
+
+558
+00:49:05,016 --> 00:49:05,450
+du depiction.
+
+559
+00:49:06,307 --> 00:49:15,161
+This is one of the realities of a lot of great comic creators of this time. Right? Like, I... I'm not trying to call out Carl Barks here.
+
+560
+00:49:16,575 --> 00:49:22,355
+You know, I've seen, like, twenty thousand leads under the sea from Disney and Swiss Family Robinson
+
+561
+00:49:22,655 --> 00:49:28,290
+they have these kinds of du depiction of savages in the movies. Go and and Oh dare
+
+562
+00:49:28,590 --> 00:49:29,810
+in the Asterisk
+
+563
+00:49:30,270 --> 00:49:36,381
+comet, ten ten, you know, the ten ten common So like, I'm not trying to pick on barb specifically.
+
+564
 00:49:37,040 --> 00:49:38,059
 But unfortunately,
 
-551
-00:49:38,598 --> 00:49:44,110
-he's got these really timeless freight stories that are are marred by
+565
+00:49:38,558 --> 00:49:43,990
+he's got these really timeless breaks stories that are are marred by
 
-552
+566
 00:49:44,610 --> 00:49:47,830
 by some of these depictions. And like this is
 
-553
-00:49:48,210 --> 00:49:55,588
+567
+00:49:48,170 --> 00:49:55,548
 something that American society was really interested in at this time. Yeah. See it all over the place. It's just that his stories have held up.
 
-554
-00:49:56,005 --> 00:50:06,251
-So we we end up having to compare them to media from today where where we should be comparing it to other stuff of its time and just kind of understanding
+568
+00:49:55,965 --> 00:50:06,251
+So we we end up having to compare them to media from today where we're should be comparing it to other stuff of its time and just kind of understanding
 
-555
-00:50:07,401 --> 00:50:08,300
-But we do
+569
+00:50:07,162 --> 00:50:08,261
+But but we do
 
-556
-00:50:08,758 --> 00:50:11,890
+570
+00:50:08,718 --> 00:50:11,789
 recognize that, you know, these these are not great depictions.
 
-557
-00:50:12,707 --> 00:50:13,406
+571
+00:50:12,707 --> 00:50:13,366
 We do
 
-558
-00:50:13,719 --> 00:50:15,994
-as you know, they they mentioned, you know,
+572
+00:50:13,719 --> 00:50:15,416
+as you know, maybe they mentioned,
 
-559
-00:50:16,793 --> 00:50:17,692
-prize at the,
+573
+00:50:15,755 --> 00:50:17,891
+you know, a price Al the cara,
 
-560
-00:50:18,230 --> 00:50:24,692
-which is a fun term. I I'm... I learned that in second grade during our unit on our Australia. It's like the big
+574
+00:50:18,230 --> 00:50:24,652
+which is a fun term. I... I'm... I learned that and second grade during our unit on our Australia. It's like a big
 
-561
-00:50:25,390 --> 00:50:26,408
-aboriginal festival.
+575
+00:50:25,350 --> 00:50:26,369
+original festival.
 
-562
-00:50:26,746 --> 00:50:30,059
-Oh, yeah. I attended one when I was there. Awesome. How was that?
+576
+00:50:26,707 --> 00:50:29,282
+Oh yeah. I attended one when I was there. Awesome.
 
-563
-00:50:30,937 --> 00:50:32,509
-We didn't have Ducktales.
+577
+00:50:29,660 --> 00:50:30,059
+How was that?
 
-564
-00:50:32,469 --> 00:50:33,568
+578
+00:50:30,937 --> 00:50:32,010
+We didn't have duct
+
+579
+00:50:32,509 --> 00:50:33,608
 I think it was
 
-565
+580
 00:50:34,187 --> 00:50:34,687
 sandwiches.
 
-566
-00:50:35,106 --> 00:50:38,802
-Oh, good. Yeah. Yeah. It was good it was really it was really
-
-567
-00:50:39,181 --> 00:50:39,860
-cool to see.
-
-568
-00:50:40,553 --> 00:50:42,824
-Right on. So Donald, you know,
-
-569
-00:50:43,820 --> 00:50:47,600
-understandably is freaking out and he tries to escape
-
-570
-00:50:48,340 --> 00:50:50,160
-This is our obligatory bank.
-
-571
-00:50:51,260 --> 00:50:52,560
-This is our obligatory
-
-572
-00:50:53,020 --> 00:50:53,520
-boomerang
-
-573
-00:50:54,100 --> 00:50:54,460
-season.
-
-574
-00:50:56,073 --> 00:50:59,250
-Can't not have it can't visit Australia.
-
-575
-00:51:00,189 --> 00:51:02,567
-Without a character not understanding
-
-576
-00:51:02,946 --> 00:51:04,980
-how boomerang works. And,
-
-577
-00:51:05,560 --> 00:51:25,579
-you know, I guess they make make some effort. Barks makes some effort to to not make it look like it does that magic go forward and back. You can you can see some of the arc that a real boomerang has. Right? Oh, yeah. It doesn't do the direct one eighty. And verizon an Barks to it. So on one quick bit of Boomerang trivia.
-
-578
-00:51:26,200 --> 00:51:30,154
-Yeah. There are different types of boomerang rings. That and they actually
-
-579
-00:51:30,854 --> 00:51:33,474
-use boomerang rings for hunting birds
-
-580
-00:51:33,775 --> 00:51:44,969
-and the primary purpose, they they had two types of boomerang rings. They have the standard side kind that you see and the purpose was to not hit the birds with these ones, but it you would throw it
-
 581
-00:51:45,429 --> 00:51:54,705
-around the birds and it would scare the birds towards you. So then you have a whole flock of birds instead of you trying to hunt them and them flying away from you.
+00:50:35,106 --> 00:50:38,482
+Oh, good. Yeah. Yeah. It was good it was really... It was
 
 582
-00:51:55,637 --> 00:52:03,435
-It it gets behind him, makes them all fly towards you. And they had another style of Boomerang rings that was shaped kinda of like a nike symbol
+00:50:39,141 --> 00:50:39,820
+cool to see.
 
 583
-00:52:04,251 --> 00:52:04,804
-that they
+00:50:40,513 --> 00:50:42,824
+Right on. So Donald, you know,
 
 584
-00:52:05,263 --> 00:52:05,862
-called... I don't know.
+00:50:43,780 --> 00:50:47,600
+understandably is freaking out and he tries to escape
 
 585
-00:52:06,700 --> 00:52:14,359
-Person has told me about him just called Him killing william Boomerang where they were just blunt... They didn't... They didn't have any arc to them. They were just blunt and
+00:50:48,340 --> 00:50:50,220
+This is our obligatory Barks
 
 586
-00:52:14,698 --> 00:52:18,594
-you threw them and they just go straight and they they would kill the birds.
+00:50:51,260 --> 00:50:52,560
+this is our obligatory
 
 587
-00:52:19,293 --> 00:52:20,232
-That makes
+00:50:53,260 --> 00:50:53,760
+boomerang
 
 588
-00:52:20,771 --> 00:52:22,284
-immensely more sense
+00:50:56,033 --> 00:50:59,170
+can't not have that. Can't visit Australia
 
 589
-00:52:22,864 --> 00:52:28,124
-then, like, the the the the arc to scare Barks towards you. That makes so much
+00:51:00,149 --> 00:51:02,527
+without a character not understanding
 
 590
-00:52:28,584 --> 00:52:32,449
-kinda stupid. Scrooge them towards you. Yeah. Yeah. It's really And the,
+00:51:02,946 --> 00:51:03,945
+how boomerang works.
 
 591
-00:52:33,026 --> 00:52:33,185
-you know,
+00:51:04,560 --> 00:51:05,060
+And
 
 592
-00:52:34,420 --> 00:52:37,484
-imagination that Americans and I I think probably a lot of other
+00:51:05,560 --> 00:51:20,291
+you know, I guess they make make some effort. Barks me some effort to to not make it look like it does that magic call forward and back. You can you can see some of the arc that real boomerang has. Right? Oh yeah. It doesn't do the direct one eighty
 
 593
-00:52:37,823 --> 00:52:52,298
-have of how boomerang work. Right? Because, like, what's the point of something that comes back to you? Obviously, if you strike something with it, it's just gonna fall with a cla. So anyway, they used it correctly here to bring a bird closer to.
+00:51:20,708 --> 00:51:24,420
+doesn't an Barks to it. So on one quick bit of
 
 594
-00:52:53,115 --> 00:52:54,014
-That's true.
+00:51:24,720 --> 00:51:25,579
+boomerang trivia.
 
 595
-00:52:56,044 --> 00:53:03,914
-So Donald does have a pretty good pit line after the boomerang does bring him down. He says, and I'm the guy that said there was no excitement in this country.
+00:51:26,160 --> 00:51:26,240
+Yeah.
 
 596
+00:51:26,960 --> 00:51:30,114
+There are different types of boomerang. That and they actually
+
+597
+00:51:30,814 --> 00:51:33,434
+use boomerang for hunting birds
+
+598
+00:51:33,775 --> 00:51:44,969
+and the primary purpose, they they had two types of boom boomerang. That'd be standard side kind that you see and the purpose was to not hit the birds with these ones, but it you would throw it
+
+599
+00:51:45,349 --> 00:51:46,529
+around the birds
+
+600
+00:51:46,829 --> 00:51:54,705
+and it would scare the birds towards you. So then you have a whole flock of birds instead of you trying to hunt them and them flying away from you.
+
+601
+00:51:55,637 --> 00:52:03,435
+It it gets behind him, makes them all fly towards you. They had another style of boomerang that was shaped kinda like a Nike symbol
+
+602
+00:52:04,251 --> 00:52:18,554
+that they called... I don't know. Yeah person was told me about it them just called them killing Boom boomerang where they were just blunt. They didn't... They didn't have any arc to them. They were just blunt. And you threw them and they just go straight, and they they would kill the birds.
+
+603
+00:52:19,213 --> 00:52:20,192
+That makes
+
+604
+00:52:20,691 --> 00:52:22,129
+immensely more sense.
+
+605
+00:52:22,824 --> 00:52:28,124
+Then like the the the the arc to scare Barks towards you. That makes so much
+
+606
+00:52:28,544 --> 00:52:32,051
+kinda stupid Scrooge them towards you. Yeah. Yeah. It's really,
+
+607
+00:52:32,986 --> 00:52:33,185
+you know,
+
+608
+00:52:34,460 --> 00:52:39,599
+imagination that Americans, and I I think probably a lot of other people have of boomerang work?
+
+609
+00:52:40,136 --> 00:52:40,636
+Like
+
+610
+00:52:40,974 --> 00:52:41,474
+the
+
+611
+00:52:41,971 --> 00:52:46,738
+that comes Barks to you, obviously, if you strike something with it it's just fall with
+
+612
+00:52:47,689 --> 00:52:52,298
+and we they used it correctly here to bring a bird closer to.
+
+613
+00:52:53,115 --> 00:52:53,974
+That's true.
+
+614
+00:52:56,004 --> 00:53:03,914
+So Donald does have a pretty good pit line after the does bring him down. He says, and I'm the guy that said there was no excitement in this country.
+
+615
 00:53:04,848 --> 00:53:06,465
 So on the next page, the nephews
 
-597
-00:53:07,003 --> 00:53:12,790
-have gotten to the point where they can see smoke coming from what they assume must be the bush camp.
-
-598
-00:53:13,803 --> 00:53:15,779
-And they approach Don
-
-599
-00:53:16,197 --> 00:53:17,735
-where dawn been captured.
-
-600
-00:53:18,592 --> 00:53:21,739
-We cut back to the camp where the aboriginal are
-
-601
-00:53:22,198 --> 00:53:23,914
-offering him some food.
-
-602
-00:53:24,633 --> 00:53:27,368
-He looks at it and he says it's scorched
-
-603
-00:53:27,826 --> 00:53:28,424
-screeching Al
-
-604
-00:53:29,582 --> 00:53:35,999
-Al owl, I think our west or a yeah, Al an American thing, but whatever. It's a fun sink gag.
-
-605
-00:53:36,815 --> 00:53:39,907
-He's... They recognize he's American and we're trying to make him so.
-
-606
-00:53:40,499 --> 00:53:40,999
-Sure.
-
-607
-00:53:41,696 --> 00:53:44,033
-And we see it. It's a pretty gross looking
-
-608
-00:53:44,451 --> 00:53:44,951
-pet.
-
-609
-00:53:46,008 --> 00:53:56,857
-So he doesn't like that. So they offer him what he identifies as wizard and for whatever reason Barks doesn't show that that's kept off the panel. Yeah. I'm wondering if
-
-610
-00:53:57,529 --> 00:54:05,994
-is too morbid to think about eating an animal that isn't generally depicted as food. Yeah or he didn't know... Maybe he didn't have a good reference
-
-611
-00:54:06,414 --> 00:54:08,035
-photo for Australian lizard.
-
-612
-00:54:08,775 --> 00:54:12,115
-Says Donald, you know, is again, he's
-
-613
-00:54:13,295 --> 00:54:16,329
-upset and he must up the strength to try and escape.
-
-614
-00:54:16,710 --> 00:54:21,010
-This time, they say they're gonna pin him with a spear. He throws back the boomerang
-
-615
-00:54:21,869 --> 00:54:26,224
-and then by the next page, you know, it's gonna come switch back and he's gonna accidentally
-
 616
-00:54:26,644 --> 00:54:39,004
-subdue himself Alright. So he's he's good and caught and we transition to the to that night where the nephews are spying at the edge of the camp. One of the Nephews is looking at
+00:53:06,923 --> 00:53:12,750
+have gotten to the point where they can see smoke coming from what they assume must be the bush man's camp.
 
 617
-00:54:39,822 --> 00:54:42,715
-a large bird roasting over the fire.
+00:53:13,803 --> 00:53:15,739
+And they approach donald
 
 618
-00:54:43,053 --> 00:54:46,226
-And the first time I read this I remember being pretty
+00:53:16,237 --> 00:53:17,695
+where donald been captured.
 
 619
-00:54:46,538 --> 00:54:47,437
-wondering If feel.
+00:53:18,592 --> 00:53:21,726
+We cut back to the camp where the aboriginal are
 
 620
-00:54:48,652 --> 00:54:52,382
-But the the other nephew clarifies for him, that... That's an e.
+00:53:22,198 --> 00:53:23,975
+offering him some food
 
 621
-00:54:53,517 --> 00:54:54,735
-In case you're wondering,
+00:53:24,633 --> 00:53:27,328
+He looks at it, and he says it's scorched
 
 622
-00:54:55,512 --> 00:55:06,319
-reassuring him and this is one of the few times that were made to think of about donald as like a bird instead of a human. I think. It really kinda it is jarring.
+00:53:28,105 --> 00:53:28,424
+Al.
 
 623
-00:55:06,839 --> 00:55:11,779
-Yeah. When he's looking at the dead, the screeching, and then you've got this roasting e.
+00:53:29,582 --> 00:53:35,999
+Al, I think are less or a, yeah. Al an American thing, but whatever. It's a fun guy.
 
 624
-00:55:12,932 --> 00:55:13,831
-Yeah. Yeah.
+00:53:36,656 --> 00:53:39,947
+But he's they'd recognize he's American and we're trying to make him himself.
 
 625
-00:55:14,249 --> 00:55:16,425
-Exactly essentially very weird.
+00:53:40,459 --> 00:53:40,959
+Sure.
 
 626
+00:53:41,736 --> 00:53:44,033
+And we see it. It's a pretty gross looking
+
+627
+00:53:44,411 --> 00:53:44,911
+pet
+
+628
+00:53:46,008 --> 00:53:56,857
+So he doesn't like that. So they offer him what he identifies as wizard. And for whatever reason, Barks doesn't show that that's kept off the panel. Yeah. I'm wondering if
+
+629
+00:53:57,609 --> 00:54:05,994
+is too morbid to think about eating an animal that isn't generally depicted as food. Yeah or he didn't know... Maybe he didn't have a good reference
+
+630
+00:54:06,414 --> 00:54:07,994
+photo for Australian and Lizard.
+
+631
+00:54:08,775 --> 00:54:12,035
+So Donald, you know, is, again, he's
+
+632
+00:54:13,255 --> 00:54:16,289
+upset, and he must up the strength to try and escape.
+
+633
+00:54:16,710 --> 00:54:21,069
+This time, they say they're gonna pin him with a spear. He throws back the boomerang,
+
+634
+00:54:21,869 --> 00:54:26,224
+and by the neck page, you know, it's gonna come sw back and he's gonna accidentally
+
+635
+00:54:26,604 --> 00:54:27,564
+subdue himself.
+
+636
+00:54:28,044 --> 00:54:39,004
+Alright. So he's he's good and caught. And we transition to the to that night where the nephews spying at the edge of the camp. One of the nephews is looking at
+
+637
+00:54:39,822 --> 00:54:42,535
+a large bird roast over the fire.
+
+638
+00:54:43,093 --> 00:54:46,226
+And the first time I read this, I remember being pretty
+
+639
+00:54:46,538 --> 00:54:47,278
+wondering if.
+
+640
+00:54:48,612 --> 00:54:50,229
+But the the other nephew you
+
+641
+00:54:50,686 --> 00:54:51,723
+for him that that's Al.
+
+642
+00:54:53,517 --> 00:54:54,735
+In case. Sure wondering,
+
+643
+00:54:55,512 --> 00:54:59,498
+reassuring him and This is one of the few times that were made to think
+
+644
+00:55:00,116 --> 00:55:06,299
+about donald as like a bird instead of a human. I think it really kinda it is jarring.
+
+645
+00:55:06,839 --> 00:55:11,739
+Yeah. When he's looking at the dead, the screeching gel, and then you've got this roasting e
+
+646
+00:55:12,892 --> 00:55:13,411
+Yeah. Yeah.
+
+647
+00:55:14,808 --> 00:55:16,425
+Essentially very weird.
+
+648
 00:55:17,321 --> 00:55:17,821
 So,
 
-627
-00:55:18,638 --> 00:55:22,862
-you know, as they sneak into the camp, they hear someone breathing
+649
+00:55:18,638 --> 00:55:22,822
+you know, as they sneak into the camp. They hear someone breathing
 
-628
-00:55:23,279 --> 00:55:30,693
-maybe a... A century hiding in the grass. So one nephew those to knock him out and barely stops himself before
+650
+00:55:23,279 --> 00:55:30,653
+maybe a a century hiding in the grass someone one nephew goes to knock him out and barely stops himself before
 
-629
-00:55:31,030 --> 00:55:31,530
+651
+00:55:30,990 --> 00:55:31,490
 striking
 
-630
-00:55:31,947 --> 00:55:32,447
+652
+00:55:31,868 --> 00:55:32,368
 bound
 
-631
-00:55:32,944 --> 00:55:36,316
-donald. And they they release him, and,
+653
+00:55:32,865 --> 00:55:33,365
+Donald,
 
-632
+654
+00:55:33,742 --> 00:55:36,316
+and they they release him and,
+
+655
 00:55:37,171 --> 00:55:39,187
 you know, this is another of those
 
-633
-00:55:39,819 --> 00:55:47,209
-awkward moments where he says do thank goodness, those blacks state to me out here, so the police wouldn't find me.
-
-634
-00:55:47,904 --> 00:55:51,204
-I don't think that's meant to be like as
-
-635
-00:55:51,624 --> 00:55:59,269
-as it sounds, but, you know, obviously, it doesn't sound great. This is one of the few times that I hear him kind of reference anything like that.
-
-636
-00:55:59,868 --> 00:56:01,286
-You know, the...
-
-637
-00:56:02,502 --> 00:56:07,605
-Most of the versions that I met they refer to other aboriginal as black.
-
-638
-00:56:08,023 --> 00:56:10,855
-And so I noticed these the word fella here a lot too.
-
-639
-00:56:11,548 --> 00:56:18,574
-Right And that that is a common term and to use the the word black over there while I would never refer to them
-
-640
-00:56:19,513 --> 00:56:24,248
-Right that way, they... That is a common way that they refer to each other you know, even.
-
-641
-00:56:24,987 --> 00:56:39,740
-I I also noticed to. I didn't even notice when I first read this the e cooking on the spit when actually the way that they cook kangaroo, and Al they build a pit and the a fire pit on the ground, and then they bury the car
-
-642
-00:56:40,239 --> 00:56:44,314
-in the ground on the ashes and then we'll leave it for about six hours.
-
-643
-00:56:44,688 --> 00:56:51,173
-And then they'll dig it up and then skin it and everything cooked like that. So sounds a lot more efficient. Alright. So
-
-644
-00:56:51,591 --> 00:56:52,962
-the the Ducktales
-
-645
-00:56:52,962 --> 00:56:58,003
-have a pretty rough night in morning because they have to make as much distance between themselves.
-
-646
-00:56:59,136 --> 00:56:59,636
-And
-
-647
-00:57:00,068 --> 00:57:14,939
-I'm just gonna read these couple lines. One in the f says, we've we've come miles and miles. Can't we stop and rest a while. Donald says no, we don't dare those bush men or best trackers on earth and they must be on our trail by now. And, you know, this was
-
-648
-00:57:15,317 --> 00:57:36,285
-a little more respectful. Right? Because that is something that the aboriginal are are known for it. Yeah. Definitely. And and this this this next page has a just an agonizing sequence that again makes me feel so hot. And first every time I read it, they kinda pull over to a rock to use up their last
-
-649
-00:57:36,782 --> 00:57:40,487
-water rations because Donald hasn't had a drink since yesterday.
-
-650
-00:57:40,825 --> 00:57:52,074
-They... The nephew looks in the canteen. There's a single drop left and donald generously poor on the product and cuts it half ways. It's it's very funny.
-
-651
-00:57:52,814 --> 00:57:53,514
-It's also
-
-652
-00:57:54,374 --> 00:57:55,994
-very very uncomfortable.
-
-653
-00:57:56,469 --> 00:58:00,569
-Gag. What was that... What was that cartoon where they slice a bean?
-
-654
-00:58:01,269 --> 00:58:10,697
-Oh, yeah. A single bean divided equally and that in in Mickey beans stock. That's right. He's... Yeah. Yeah. Yeah. That's what I reminded. That's right.
-
-655
-00:58:11,788 --> 00:58:19,284
-Of that. And was the son made contrast to the moon who the moon seemed worried, but the sun he's enjoying this
-
 656
-00:58:19,904 --> 00:58:22,004
-Yeah. It's pouring down the beat.
+00:55:39,819 --> 00:55:50,404
+awkward moments where he says dewey thank goodness, those Barks state to me out here, so the police wouldn't find me. I don't think that's meant to be like
 
 657
-00:58:22,504 --> 00:58:23,684
-Yeah. That's a personified
+00:55:50,704 --> 00:55:59,410
+as pe as it sounds, but, you know, obviously, it doesn't sound great. This is one of the times that I hear him kind of reference anything like that.
 
 658
-00:58:24,024 --> 00:58:24,524
-sun.
+00:55:59,868 --> 00:56:01,286
+You know, the
 
 659
-00:58:25,784 --> 00:58:38,187
-The water and they keep walking and, you know, there's some pretty cool art in this panel here where you're behind them looking over their shoulders and you can see some heat waves rip in the distance.
+00:56:02,502 --> 00:56:10,855
+most of the that I met they refer to other originals as black fellas. And so I noticed these the work fella here a lot too.
 
 660
-00:58:39,161 --> 00:58:44,857
-Yeah. I almost feel like this panel is inspired by Air rock where you've got just
+00:56:11,548 --> 00:56:14,086
+Right. And that that is a common term
 
 661
-00:58:45,353 --> 00:58:45,853
-it's
+00:56:14,424 --> 00:56:18,379
+and to use the the word black over there well I would never refer to them.
 
 662
-00:58:46,231 --> 00:58:57,176
-out right in the middle of Australia and there's just everything flat for miles and miles. You can't see any mountains or hills. And then Air rock is this giant. What do they call now though it's been renamed to, like,
+00:56:19,513 --> 00:56:24,348
+Right That way, they... That is a common way that they refer to each other, you know, even now.
 
 663
-00:58:58,453 --> 00:59:15,808
-I think? I didn't... I wasn't aware they renamed it. It's not called Airs rock anymore. Right. I I think it was the... I think it was named for the tribe. Yeah. Yeah. I could see that. Is kinda reminiscent of it. And again, it's just looking worse and worse for the depths. They've got scavenger eagles following them.
+00:56:24,947 --> 00:56:39,700
+I I also noticed too. I didn't even notice when I first read this the move cooking on the spit when actually the way that they cook kangaroo, and those as they build a pit on the fire pit and the ground, and then they buried the car
 
 664
-00:59:16,467 --> 00:59:19,005
-We see that the aboriginal are
+00:56:40,239 --> 00:56:44,334
+in the ground on the ashes, and then we'll leave it for about six hours
 
 665
-00:59:19,399 --> 00:59:25,059
-tracking them. The rocks they notice are the ones seemed to be the ones where they saw more,
+00:56:44,688 --> 00:56:51,133
+and then they'll dig it up and then scan it and everything cooked like that. So sounds a lot more efficient. Alright. So
 
 666
-00:59:25,359 --> 00:59:31,066
-which means they're only one day's walk from the station. So maybe they can make it. But unfortunately,
+00:56:51,591 --> 00:56:52,922
+the the Inducks
 
 667
-00:59:31,522 --> 00:59:35,945
-they turn their shoulder over their shoulder they see that the bush are only one minute.
+00:56:52,922 --> 00:56:57,861
+have a pretty rough night in morning because they have to make as much distance between themselves.
 
 668
-00:59:36,998 --> 00:59:42,572
-So they have to make a break for it on the next page here. And as they pass the rock,
+00:56:59,176 --> 00:56:59,676
+And
 
 669
-00:59:43,431 --> 00:59:48,024
-mourn Mary is there she observe them. She squeak
+00:57:00,068 --> 00:57:36,245
+I'm just gonna read these couple lines. One of the f says we've... We've come miles and miles, can't we stop and rest a while. Donald says, no, we don't dare. Those bush men or the best tractors on birth, and they must be on our trail by now. And, you know, this was a a little more respectful. Right? Because that is something that the aboriginal are are known for it. Yeah. Definitely. And and this this this next page has a just an agonizing sequence that, again, makes me feel so hot and thirsty every time i read it. They kinda pull over to a rock to use up their last
 
 670
-00:59:48,364 --> 00:59:48,864
-excited.
+00:57:36,742 --> 00:57:40,448
+water actions because Donald hasn't had a drinks since yesterday.
 
 671
-00:59:49,364 --> 00:59:51,944
-A bunch of cartoon hearts come out of her.
+00:57:40,785 --> 00:57:52,034
+They... The Nephew looks in the. There's a single drop left and Donald generously poor on the pocket and cuts it half ways. It's it's very funny.
 
 672
-00:59:52,644 --> 00:59:54,557
-The the ducks are bracing
+00:57:52,774 --> 00:57:53,514
+It's also
 
 673
-00:59:54,895 --> 00:59:57,588
-themselves for to to be spear.
+00:57:54,334 --> 00:57:55,954
+very very uncomfortable.
 
 674
-00:59:58,005 --> 01:00:00,179
-But just then, of course, mourn
+00:57:56,429 --> 00:58:00,449
+Guy. What was that... What was that cartoon where they slice a bean?
 
 675
-01:00:01,035 --> 01:00:04,423
-leaps in as they throw their spears.
+00:58:01,269 --> 00:58:03,169
+Oh, yeah. A single bean
 
 676
-01:00:05,002 --> 01:00:08,978
-Donald gets in their pouch. The boys climb on their back, and
+00:58:03,523 --> 00:58:05,099
+divided equally and
 
 677
-01:00:09,557 --> 01:00:11,775
-Donald tells her home, mama.
+00:58:05,755 --> 00:58:10,998
+in Mickey beans. That's right. He's... Yeah. Yeah. Yeah. That's what i reminder. That's right
 
 678
-01:00:12,249 --> 01:00:15,426
-So he's definitely leaning in here. I and I like that whole
+00:58:11,788 --> 00:58:19,824
+of that. I was his son really contrast to the moon who... The moon seemed worried. But the sun he's enjoying this Yeah.
 
 679
-01:00:15,924 --> 01:00:20,100
-concept when you have... Because this one doesn't really have a, you know, an antagonist
+00:58:20,544 --> 00:58:21,644
+It's pouring down.
 
 680
-01:00:20,654 --> 01:00:29,924
-directly. It starts off as more from marion so I like the... I like the shift when they introduce the second group and then, you know, the original antagonist.
+00:58:22,464 --> 00:58:23,164
+Yeah. That
 
 681
-01:00:30,299 --> 01:00:32,557
-Comes in and saves the day. It's so... Yeah.
+00:58:23,544 --> 00:58:24,484
+bonafide sun
 
 682
-01:00:32,976 --> 01:00:41,164
-You're right. There's no real villain in this one. Right? I mean, the aboriginal are more like Al a force of nature They're more like a force nature.
+00:58:24,784 --> 00:58:25,404
+with the
 
 683
-01:00:41,664 --> 01:00:45,824
-They're... And I... I'm still standing by it. I don't think their plan was to eat them at all.
+00:58:25,784 --> 00:58:38,187
+the lot. And they keep walking and, you know, there's some pretty cool art in this panel here where you're behind them looking over their shoulders and you can see some heat waves ripping in the distance.
 
 684
-01:00:46,398 --> 01:00:48,275
-Alright. They hadn't... They already had a new.
+00:58:39,201 --> 00:58:44,596
+Yeah. I almost feel like this panel is inspired by Airs rock where you've got just...
 
 685
-01:00:49,193 --> 01:00:49,592
-Know, I mean,
+00:58:45,314 --> 00:58:45,814
+That's
 
 686
-01:00:50,350 --> 01:00:53,884
-I think they were honored guests. He looked hungry. He's trying to feed him.
+00:58:46,231 --> 00:59:15,748
+out right in the middle of Australia, and there's just everything flat for miles and miles. You can't see any mountains or hills And then Arr rock is this giant. What do they call it now though it's been renamed to, like, Lou, I think. I didn't... I wasn't aware they renamed it. It's not called Arr rock anymore. Right. I I think it was the... I think it was named for the tribe. Yeah. Yeah. I could see that. It is kinda of. And again, it's just looking worse and worse for the debts. They've got scavenger your eagles following them.
 
 687
-01:00:54,462 --> 01:01:01,019
-And now the only reason their attack because they're because they're calling the cops, you know, they don't want them to snitch on them which I wouldn't either, you know,
+00:59:16,427 --> 00:59:18,965
+We see that the aboriginal are
 
 688
-01:01:02,016 --> 01:01:04,050
-sure. You're you're really going bat for them.
+00:59:19,399 --> 00:59:31,066
+tracking them. The rocks they noticed are the ones seem to be the ones where they saw more full mary, which means they're only one days walk from the station. So maybe they can make it. But, unfortunately,
 
 689
-01:01:05,406 --> 01:01:06,559
-Al out. It.
+00:59:31,522 --> 00:59:35,985
+they turn their shoulder over their shoulder. They see that the bush are only one minute.
 
 690
-01:01:07,099 --> 01:01:10,679
-So on the next page, you know, they're they're making great time
+00:59:36,998 --> 00:59:42,392
+So they have to make a break for it on the next page here. And as they pass the rock,
 
 691
-01:01:11,139 --> 01:01:14,679
-by Kangaroo. They figure out that they can kinda steer Mary
+00:59:43,391 --> 00:59:47,984
+more info Mary is there she observe them. She squeak
 
 692
-01:01:15,874 --> 01:01:26,430
-and they get back at the station where they were trapping, one big leap over the fence and they unfortunately land right in one of their pits
+00:59:48,324 --> 00:59:48,824
+excited,
 
 693
-01:01:26,730 --> 01:01:33,041
-and and they're all stuck unless someone finds them and when they call help the
+00:59:49,364 --> 00:59:51,684
+a bunch of cartoon hearts come out of her.
 
 694
-01:01:33,458 --> 01:01:48,525
-the station manager comes and they're able to show him that mourn Mary is is with them now. And, you know, you mentioned that it's pretty ridiculous that this know small pit. You know, I changed my mind though because he she was fresh.
+00:59:52,644 --> 00:59:57,508
+The the Ducktales are bracing themselves for to to be smeared.
 
 695
-01:01:49,341 --> 01:01:57,212
-She was fresh. When she jumped over the plane. She's been carrying Donald and three other ducks and they've already shown how hot it is out there. Yeah.
+00:59:57,965 --> 01:00:04,383
+But just then of course, more Mary weep in as they throw their spears.
 
 696
-01:01:57,970 --> 01:02:11,848
-She's probably just tired. That's true. She also landed, like, in a, way she didn't expect. Right? So she is like oh or something. She attacked a bunch of bush, You know, She's had she said kind of a That's been emotional day. You know.
+01:00:04,962 --> 01:00:09,058
+Donald gets in their pouch, the boys climb on their back, and
 
 697
-01:02:12,346 --> 01:02:14,362
-And so the station manager
+01:00:09,477 --> 01:00:11,714
+Donald tells her home Mama.
 
 698
-01:02:14,741 --> 01:02:18,927
-does what station managers do. Right? He's sees the opportunity.
+01:00:12,249 --> 01:00:15,426
+So he's definitely leaning in here. And and I like that whole
 
 699
-01:02:19,864 --> 01:02:20,923
-He prepares
+01:00:15,884 --> 01:00:20,234
+concept when you have. Because this one doesn't really have a, you know, an ant antagonist in
 
 700
-01:02:21,261 --> 01:02:21,761
-to
+01:00:20,614 --> 01:00:29,985
+directly. It starts off as more informed air. So I like the... I like the shift when they introduce the second group and then, you know, the original antagonist
 
 701
-01:02:22,099 --> 01:02:22,958
-shoot her,
+01:00:30,299 --> 01:00:32,137
+comes in and saves the day and so yeah.
 
 702
-01:02:23,337 --> 01:02:26,764
-but the Ducktales protest, you know, she saved their lives
+01:00:32,976 --> 01:00:41,164
+You're right. There's no real villain in this one. Right? I mean... The originals are more like Al a force of nature They're more like four nature
 
 703
-01:02:27,184 --> 01:02:28,842
-she needs to go free.
+01:00:41,624 --> 01:00:45,784
+there. And I I'm still standing by it. I don't think their plan was to eat them at all.
 
 704
-01:02:29,701 --> 01:02:30,520
-He protests.
+01:00:46,359 --> 01:00:48,275
+Alright. They hadn't... They already had an new.
 
 705
-01:02:30,939 --> 01:02:36,168
-I can't let her go free she's wrecking my crops and I'm paying you a thousand pounds. And Donald
+01:00:49,073 --> 01:00:49,592
+You know, I mean,
 
 706
-01:02:36,707 --> 01:02:37,606
-very virtuous
+01:00:50,350 --> 01:00:53,664
+I think they were honored guess. He looked hungry. He's trying to feed him.
 
 707
-01:02:38,105 --> 01:02:44,134
-says that he doesn't want the reward then he'll keep Mary so that she can go free.
+01:00:54,462 --> 01:01:01,019
+And now the only reason they're attached because they're... Because they're calling the cops, you know, they don't want them to snitch on them which I wouldn't either, you know?
 
 708
-01:02:44,514 --> 01:02:54,469
-The station manager uses an American. He says you've made yourself a deal and we transition to them on a ship randomly named the ss asthma.
+01:01:01,857 --> 01:01:04,010
+Sure. You're you're really going bad for them.
 
 709
-01:02:55,369 --> 01:03:09,199
-Failing from Sydney to to the Us. Say, the docs are feeling great. We transition to the fact that Donald is where he always is. He's got a big crowd around him go at the duck riding around in
+01:01:05,406 --> 01:01:06,519
+Al allow. It.
 
 710
-01:03:09,499 --> 01:03:38,595
-mourn mary's, I guess, not so more in full anymore or less more full in her pouch, he says, I don't get tired. I don't find her attire some pet. I do get kinda tired of riding around in her pouch several hours a day to keep her happy. And she does indeed look very happy. So nice sweet little ending there. Yeah. You know, I think I'm standing by the... He's a still a little bit h. He he wants. He wants to be in her pouch. She wants to be a kangaroo
+01:01:07,059 --> 01:01:10,559
+So on the next page, you know, they're they're making great time
 
 711
-01:03:39,309 --> 01:03:40,329
-it's un
+01:01:11,099 --> 01:01:14,639
+by kangaroo. They figure out that they can kinda steer Mary
 
 712
-01:03:40,869 --> 01:03:43,649
-of from what I've seen from Don to just turn down
+01:01:15,914 --> 01:01:19,454
+And they get back at the station where they were trapping,
 
 713
-01:03:43,949 --> 01:03:45,409
-that large amount of money
+01:01:19,794 --> 01:01:26,390
+one big leap over the fence and they unfortunately land right in one of their pitt,
 
 714
-01:03:45,949 --> 01:03:46,689
-to saver
+01:01:26,730 --> 01:01:30,509
+and and they're all stuck unless someone finds them.
 
 715
-01:03:47,364 --> 01:03:51,815
-Yeah. I think it's still... you know... No. It's his cover story you think dwindling
+01:01:30,809 --> 01:01:33,002
+And when they call help, the
 
 716
-01:03:52,552 --> 01:03:53,052
-effects
+01:01:33,458 --> 01:01:35,353
+the station manager comes
 
 717
-01:03:53,390 --> 01:03:54,729
-of the H h.
+01:01:35,690 --> 01:01:48,485
+and they're able to show him that more full Mary is is with them now. And, you know, you mentioned that it's pretty ridiculous that this oh know, small pit. You know I changed my mind though because he she was fresh.
 
 718
-01:03:55,067 --> 01:03:55,665
-Yeah. Well,
+01:01:49,341 --> 01:01:59,405
+She was fresh. When she jumped over the plane. She's been carrying donald and three other dogs, and they've already shown how hot it is out there. Yeah. She's probably just tired.
 
 719
-01:03:56,479 --> 01:04:00,376
-you know, it's it's a very sweet ending to a pretty weird story.
+01:01:59,779 --> 01:02:11,508
+That's true. She also landed, like, in a way, she didn't expect. Right? So she like old all or something. She attacked a bunch of bush, you know, she's had she said kind of Al been promotional day know.
 
 720
-01:04:01,394 --> 01:04:03,932
-We can talk in in a moment about...
+01:02:12,346 --> 01:02:14,323
+And so the station manager
 
 721
-01:04:04,551 --> 01:04:15,548
-Yeah And you know what? Let's go right into tell me, tell me Ben. What how did you feel about this story? I know that you're new to this, but I know that you did read a couple of other stories kind of in preparation. Yeah.
+01:02:14,701 --> 01:02:18,887
+does what station managers do. Right? He's sees the opportunity.
 
 722
-01:04:16,126 --> 01:04:19,660
-Yeah. You know, I I like just seeing the...
+01:02:19,824 --> 01:02:21,641
+He prepares to
 
 723
-01:04:20,118 --> 01:04:22,654
-Like you mentioned that just the art artistic
+01:02:22,059 --> 01:02:22,919
+shoot her
 
 724
-01:04:22,992 --> 01:04:36,683
-depiction of Australia. It's kind of interesting to see, you know, we think of our current tropes and everything that we think of about Australia and stereotypes, but kinda... So it's kind of fun to see a little snapshot
+01:02:23,337 --> 01:02:26,711
+but the du protest, you know, she saved their lives
 
 725
-01:04:37,260 --> 01:04:45,515
-before we had some of the stereotypes we have now. I mean, they're still kangaroo. They're still Boomerang rings and the things that we just don't have here.
+01:02:27,184 --> 01:02:28,762
+she needs to go free.
 
 726
-01:04:46,371 --> 01:04:54,143
-So... yeah. I thought it was a little bit different. The characters are different than the way I remember. I just seem like hue Dewey and Louie were
+01:02:29,661 --> 01:02:36,088
+He protests, I can't let her go free. She's racking my crops, and I'm paying you a thousand pounds. And Donald
 
 727
-01:04:54,877 --> 01:04:59,002
-kind pointless. They the only real purpose they served was
+01:02:36,707 --> 01:02:37,606
+very virtually
 
 728
-01:04:59,712 --> 01:05:33,461
-when he was tied up, and they finally they did on tie him, but, you know, like I see, like, Donald did all the work here. He was the one coming up with the traps. He was the one that dressed Al the kangaroo and I don't know. Maybe I'm remembering it wrong, but I always felt like it was like Donald getting into trouble and they were always the one solving things and they're in the in the terror and the swamp one. I mean, they did... you know, they did a whole bunch of problem solving. Whereas this one, they just kinda were walking. The whole time. They i really think you're right. Right? They're they're usually a lot more resourceful than this. It's kind of more
+01:02:38,065 --> 01:02:44,094
+says that he doesn't want the reward, then he'll keep Mary so that she can go free.
 
 729
-01:05:33,960 --> 01:05:35,633
-that's kind of in that secondary.
+01:02:44,514 --> 01:02:45,614
+The station manager
 
 730
-01:05:36,932 --> 01:05:37,432
-Yeah.
+01:02:45,914 --> 01:02:54,469
+uses as an American isn't. He says you've made yourself a deal, and we transition to them on a ship randomly named the s asthma.
 
 731
-01:05:37,771 --> 01:05:41,707
-And so so maybe they just kinda had to step aside for them to
+01:02:55,329 --> 01:03:34,639
+Failing from Sydney to to the Us say, the decks are feeling great. We transitioned to the fact that Donald is where he always is. He's got a big crowd around him knocking at the duck riding around in more Mary's, I guess not so more in full anymore. Or less more in full. In her pouch. He says, yeah I don't get tired. I don't find her tire some pet. I do get kinda tired of riding around in her pouch several hours a day to keep her happy. And she does indeed look very happy So nice sweet little ending there. Yeah. You know, I think I'm standing by the... He's still a little bit. He he wants.
 
 732
-01:05:42,685 --> 01:05:54,073
-allow this more mary to have her story Barks, you know. And yeah. No. It was... I I enjoyed it It didn't go where I was expecting it too. You kinda have to ignore some of the bush stuff obviously.
+01:03:34,978 --> 01:03:38,555
+He wants to be in her pouch. She wants to be a kangaroo.
 
 733
-01:05:55,328 --> 01:05:56,188
-But Yeah.
+01:03:39,309 --> 01:03:40,329
+It's un
 
 734
-01:05:56,765 --> 01:05:59,818
-You know, for the time, I guess it could've have been worse.
+01:03:40,869 --> 01:03:43,609
+of from what I've seen from Donald to just turn down
 
 735
-01:06:00,929 --> 01:06:02,644
-There wasn't any kind of...
+01:03:43,909 --> 01:03:45,369
+that large amount of money
 
 736
-01:06:03,004 --> 01:06:12,237
-There always seems to be some type... But I guess they h known this part of it like a... I don't know. Some like, a hyper concept hi. Yeah. Hi concept. You know, they're just kinda out in the bush.
+01:03:45,949 --> 01:03:51,775
+to saver her Al Yeah. I think it's still, you know... So it's his cover story you think. Dwindling
 
 737
-01:06:12,955 --> 01:06:17,985
-So I guess they have aspect of it kinda of filled that. But... So it's a little bit diminished he just kind of like,
+01:03:52,512 --> 01:03:53,012
+affects
 
 738
-01:06:18,757 --> 01:06:19,257
-Australia.
+01:03:53,430 --> 01:03:55,665
+of the Hi h diagnosis. Yeah. Well,
 
 739
-01:06:19,674 --> 01:06:32,864
-Right? Was was sort of a high concept in this one. Yeah. I guess maybe that's it. Because I'm so familiar with Australia. It's not as a high concept. So maybe that was enough for the time to for for them. But... So yeah there's a little different...
+01:03:56,479 --> 01:04:00,376
+You know, it's it's a very sweet ending to a pretty weird story.
 
 740
-01:06:33,584 --> 01:06:42,932
-Characters acted it a little bit different than the way I remember him, but... Yeah. It was kind of fun. I like that. Yeah. You know what? I I really liked this one as a kid. I remember...
+01:04:01,394 --> 01:04:03,852
+We can talk in in a moment about...
 
 741
-01:06:43,671 --> 01:06:55,664
-It was one of the earlier comics that I had gotten. And so I read it a lot and I definitely still enjoy it, but I don't enjoy it as much as I did. And that's not just because of the stereotypes,
+01:04:04,511 --> 01:04:15,128
+Yeah. And you know what? Let's go right into tell me tell me Ben, what... How did you feel about this story? I know that you're new to this, but I know that you did read a couple of other stories kind of in preparation. Yeah.
 
 742
-01:06:56,002 --> 01:07:00,092
-although that certainly is is a part of it. It's it's a very unusual
+01:04:16,126 --> 01:04:19,660
+Yeah. I... You know, I I like just seeing the...
 
 743
+01:04:20,118 --> 01:04:22,614
+Like, you mentioned that just the art artistic
+
+744
+01:04:22,992 --> 01:04:36,683
+depiction of Australia. It's kind of interesting to see, you know, we think of our current tropes and everything that we think of about Australia and stereo, but kinda... So it's kind of fun to see a little snapshot
+
+745
+01:04:37,221 --> 01:04:45,374
+before we had some of the stereotypes we have now. I mean, there's still kangaroo. They're still boomerang and there things that we just don't have here.
+
+746
+01:04:46,371 --> 01:04:54,143
+So, yeah, I thought at it was a little bit different. The characters are different than the way I remember them. I just seemed like Huey, dewey and Louis were
+
+747
+01:04:54,877 --> 01:04:59,002
+kinda pointless. They... Only the real purpose they served was
+
+748
+01:04:59,712 --> 01:05:09,793
+when he was tied up, and they finally they they did un him. But, you know, like, it seems like Donald did all the work here. He was the one coming up with the traps. He was the one that dressed Al the kangaroo
+
+749
+01:05:10,410 --> 01:05:35,633
+I don't know. Maybe I'm remembering it wrong, but I always felt like it was like, donald on getting into trouble, and they were always the ones solving things and they're in the in the tear on the swamp one. I mean, they did, you know, they did a whole bunch of problems solving. Whereas this one, they just kinda... Were walking. The whole time. They really Think you're right. Right? They're they're usually a lot more resourceful than this. It's kind of more call that's kind of in that secondary.
+
+750
+01:05:35,973 --> 01:05:36,473
+Yeah
+
+751
+01:05:36,932 --> 01:05:37,011
+Yeah.
+
+752
+01:05:37,771 --> 01:05:41,627
+And so so maybe they just kinda had to step aside for them to
+
+753
+01:05:42,605 --> 01:05:54,073
+allow this more well Mary to have her story. And know. And Yeah, No. It was... I I enjoyed it. It didn't go where I was expecting it to. You kinda have to ignore some of the bush stuff, obviously.
+
+754
+01:05:55,328 --> 01:05:55,727
+But Yeah.
+
+755
+01:05:56,765 --> 01:05:59,818
+You know, for the time, I guess it could been worse.
+
+756
+01:06:00,929 --> 01:06:02,626
+There wasn't any kind of...
+
+757
+01:06:02,963 --> 01:06:08,310
+There always seems to be some type... I guess the hip this part of it. Like I don't know. Some like a concept.
+
+758
+01:06:08,644 --> 01:06:12,237
+High yeah high concept, you know, they're just kinda out in the bush.
+
+759
+01:06:12,955 --> 01:06:19,178
+So I guess they have the to aspect of it kinda filled out but it's a little bit be just kind of like Australia.
+
+760
+01:06:19,634 --> 01:06:42,932
+Right? Was was sort of a high concept in this one. Yeah. I guess maybe that's it because I'm so familiar with Australia. It's it's not as high concepts. So maybe that was enough for the time to to for for them. But so yeah, There's a little different... The characters acted a little bit different. Than the way I remember him. But... Yeah, it was kinda fun. I like it. Yeah. You know what? I I really liked this one as a kid. I remember...
+
+761
+01:06:43,631 --> 01:06:55,664
+It was one of the earlier comments that I had gotten and so I read it a lot, and I definitely still enjoy it, but I don't enjoy it as much as I did. And that's not just because of the stereotypes,
+
+762
+01:06:56,002 --> 01:07:00,052
+although that's certainly is is a part of it. It's it's a very unusual
+
+763
 01:07:00,685 --> 01:07:03,865
 story, right? This, like, kind of motherhood
 
-744
-01:07:04,525 --> 01:07:05,625
-story. Almost.
-
-745
-01:07:06,525 --> 01:07:09,265
-It's got some some kind of weird structure
-
-746
-01:07:09,699 --> 01:07:14,109
-I really like certain individual parts of that. I love the h
-
-747
-01:07:14,447 --> 01:07:28,137
-sequence. I love how he kind of launches the story. I feel like the pacing is a little bit unusual. Yeah. I think he does a really effective job of making the outback feel Frightening and dangerous.
-
-748
-01:07:29,311 --> 01:07:34,355
-So, you know, we we talk about the index rating. Right, which is the community
-
-749
-01:07:34,732 --> 01:07:35,405
-website that
-
-750
-01:07:35,984 --> 01:07:46,128
-people have submitted user reviews for many years. So it gives us a really good aggregate for what the community thinks for this one. And this one, I mentioned
-
-751
-01:07:46,545 --> 01:07:58,032
-at the outset, this is an incredibly highly rated story. This one has an eight point five out of ten. And if you think about, you know, hundreds people rating it. That means like almost universally,
-
-752
-01:07:58,411 --> 01:08:13,779
-they're giving this very high ratings, very few little ratings to pull it down. This is the ninth best rated, not just out of the like five hundred plus Barks stories, but all of the Disney comics that might really. Yeah. So
-
-753
-01:08:14,395 --> 01:08:26,450
-I I I respect it. I think this is a really cool story. You know, it's got some neat, like sadness. I think the the creation of mourn mary is really cool. Her like, relationship
-
-754
-01:08:26,870 --> 01:08:28,310
-with Donald is neat.
-
-755
-01:08:29,042 --> 01:08:54,166
-I I don't quite get why this one is as highly rated though as it is. Because I do think it's a very fun different unique adventure story, but it didn't stick with me the way that some of them. But, I think Australia itself has a mass appeal no matter what country you're in. It's a it's a unique place. And so they might they might be tacking on their own internal
-
-756
-01:08:54,800 --> 01:09:00,340
-fascination with Australia as to why they like this story. And i just see how it would have my.
-
-757
-01:09:00,760 --> 01:09:03,800
-Yeah. Yes. Exactly. Some of those titles from around the world,
-
-758
-01:09:04,414 --> 01:09:16,323
-But again, this is maybe one of those cases where, like, hundreds of Ducktales fans can't be wrong, and maybe I'm... Maybe I'm missing something. I I do like a lot of this story. Right? I just...
-
-759
-01:09:16,662 --> 01:09:18,599
-I just wouldn't put it
-
-760
-01:09:18,937 --> 01:09:30,388
-anywhere near the top. Yeah. So five red three, and I wouldn't put it in the top of the threes that I've read so far. Right. But is enjoyable. Yeah. Yeah. Yeah. I don't I don't want
-
-761
-01:09:30,886 --> 01:09:40,781
-harp. Because again, as a kid I did really really love this. I do still really like it. But I just stack it next to like, we just read ghost to Leg.
-
-762
-01:09:41,254 --> 01:09:48,319
-And in the same issue to me that one is is quite a bit superior, but different rooms. Let's see
-
-763
-01:09:48,779 --> 01:09:56,534
-other reflections, you know, we've already kinda talked about some of the data Barks k things. I don't feel like we need to go to into it. We know what's
-
 764
-01:09:57,034 --> 01:10:03,314
-retro grade and and what's problematic. I did find it interesting to see Australia before the opera house though.
+01:07:04,525 --> 01:07:04,765
+story.
 
 765
-01:10:04,394 --> 01:10:14,842
-Fine Yeah. As far as I'm aware, we talked about if there's been any appearances in other media. I'm not aware of him using any any of these characters again or
+01:07:05,365 --> 01:07:05,725
+Almost.
 
 766
-01:10:15,473 --> 01:10:21,241
-or any other comics creators using them he didn't make any of his oil paintings
+01:07:06,525 --> 01:07:09,225
+It's got some some kinda of weird structure
 
 767
-01:10:21,619 --> 01:10:23,854
-about this story from my knowledge.
+01:07:09,699 --> 01:07:28,097
+I really like certain individual parts of that. I love the hip sequence. I love how he kinda launches the story. I feel like the pacing is a little bit unusual. Yeah. I think he does a really effective job of making the outback feel frightening and dangerous.
 
 768
-01:10:24,549 --> 01:10:27,029
-I did think it had some pretty good educational Al
+01:07:29,311 --> 01:07:35,405
+So, you know, we we talk about the Inducks rating, right? Which is the community website that
 
 769
-01:10:27,869 --> 01:10:29,929
-just because it did have some
+01:07:35,944 --> 01:07:46,048
+people have submitted user reviews for many years. So it gives us a really good aggregate for what the community thinks for this one. And this one I mentioned
 
 770
+01:07:46,665 --> 01:07:58,032
+the, this is an incredibly highly rated story. This one has an eight point five out of ten. And if you think about, you know, hundreds people rating it, That means like, almost universally.
+
+771
+01:07:58,411 --> 01:08:12,064
+They're giving this very high ratings, very few little ratings to pull it down. This is the ninth best rated not just out of the, like, five hundred plus Barks stories, but all of the Disney comics that might.
+
+772
+01:08:12,760 --> 01:08:13,739
+Yeah. So
+
+773
+01:08:14,395 --> 01:08:26,490
+I I I respect it. I think this is a really cool story. You know, it's got some neat like, sadness. I think the the creation of more is really cool. Her, like, relationship
+
+774
+01:08:26,870 --> 01:08:42,630
+with Donald is neat Mh. I I don't quite get why this one is as highly rated though. As it is. Because I do think it's a very fun different unique adventure story, but it didn't stick with me the way that some of them.
+
+775
+01:08:43,109 --> 01:08:54,126
+I think Australia itself has a mass appeal no matter what country you're in. It's a it's a unique place. And so they might and and they might be tacking on their own internal
+
+776
+01:08:54,840 --> 01:09:00,300
+fascination with Australia to why they like this story. And i see how I would have my.
+
+777
+01:09:00,719 --> 01:09:03,800
+Yeah. Yes. Exactly. Some of those titles from around the world.
+
+778
+01:09:04,414 --> 01:09:16,283
+But again, this is maybe one of those cases where, like, hundreds of vaccines can't be wrong, and maybe I'm... Maybe I'm missing something. I I do like a lot of this story. Right? I just...
+
+779
+01:09:16,622 --> 01:09:18,599
+I just wouldn't put it
+
+780
+01:09:18,937 --> 01:09:30,388
+anywhere near the top. Yeah. So five red three, and I wouldn't put it in the top of the three that I've read so far. Right. But it is enjoyable. Yeah. Yeah. Yeah. I don't I don't wanna
+
+781
+01:09:30,845 --> 01:09:48,165
+harp on it. Because again, as a kid I did really really love this when I do still really think. But I just stack it next to, like, we just read ghost to the g. And in the same issue to me that one is is quite a bit of superior. But different rooms. Let's see.
+
+782
+01:09:48,779 --> 01:09:56,534
+Other reflections, you know, we've already kinda talked about some of the data Barks archaic things. I don't feel like we need to go to into it. We know what's
+
+783
+01:09:56,994 --> 01:10:03,275
+retro grade and and what's problematic. I did find it interesting to see Australia before the opera house though.
+
+784
+01:10:04,034 --> 01:10:14,762
+That that's fun. Yeah. As far as I'm aware, we talk about if there's been any appearances and other media. I I'm not aware of him using any any of these characters again or
+
+785
+01:10:15,473 --> 01:10:21,201
+or any other economics creators using them He didn't make any of his oil paintings
+
+786
+01:10:21,619 --> 01:10:23,814
+about this story. From my knowledge.
+
+787
+01:10:24,509 --> 01:10:27,409
+I did think I had some pretty good educational value
+
+788
+01:10:27,869 --> 01:10:29,889
+just because it did have some
+
+789
 01:10:30,349 --> 01:10:30,849
 interesting
 
-771
-01:10:31,469 --> 01:10:32,349
-Australian terms.
+790
+01:10:31,429 --> 01:10:32,409
+Australian terms
 
-772
-01:10:32,804 --> 01:10:47,136
-And I feel like the outback was pretty well depicted. Oh, yeah. The some Australian things they don't quite get the scale of it. Right? And the just even little things like the fact that they took a plane from Sydney to the to the station
+791
+01:10:32,804 --> 01:10:46,995
+and I feel like the outback was pretty well depicted. Oh, yeah. The some Australian things they don't quite get the scale of it Right? And the just even little things like the fact that they took a plane from Sydney to the to the station.
 
-773
-01:10:47,834 --> 01:11:02,825
-you know, like, yeah, you would do that there's not very many things that are within driving distance in Australia. I I feel like he does a good job of capturing the scale of it. Awesome Oh, I don't wanna leave out our favorite panel segment.
+792
+01:10:47,834 --> 01:11:02,804
+You know, like, yeah, you would do that there's not very many things that are within driving distance semester australia, i I feel like he does a good job of capturing the scale of it. Awesome. Oh, I don't wanna leave out our favorite panel segment.
 
-774
-01:11:03,923 --> 01:11:09,432
+793
+01:11:03,883 --> 01:11:09,392
 Ben, did you have any panels that came to mind as as a contender for your favorite.
 
-775
+794
 01:11:11,170 --> 01:11:17,357
-You know, there's a few, you know, artistic. I liked the the character design of the the h,
+You know, there's a few, you know, artistic. I like the the character design of the hit the hit
 
-776
-01:11:17,774 --> 01:11:20,507
-Yeah the the clerk at the travel agency
+795
+01:11:17,734 --> 01:11:20,468
+yeah. They the clerk at the travel agency
 
-777
+796
 01:11:20,925 --> 01:11:26,742
 and the... I didn't care much for the the Australian, you know, sheep station owner.
 
-778
+797
 01:11:27,477 --> 01:11:29,292
-See how the characters really good.
+See Al the characters really good.
 
-779
-01:11:30,505 --> 01:11:34,090
-You know, I I went through and I was looking and I like the
+798
+01:11:30,465 --> 01:11:38,210
+You know, I I went through and I was looking and I like the design of the cooked bird. I really wish I could've seen the lizard.
 
-780
-01:11:34,430 --> 01:11:38,210
-design of the cooked bird. I really wish I could have seen the lizard.
-
-781
+799
 01:11:39,670 --> 01:11:47,410
 There aren't really any the other ones I've read definitely have some favorites, but I I kinda lump... I love this the rock formations
 
-782
-01:11:47,908 --> 01:11:49,060
-art style of just
-
-783
-01:11:49,718 --> 01:11:51,493
-I kinda lump a lot of the...
-
-784
-01:11:51,910 --> 01:11:52,729
-Just to outback
-
-785
-01:11:53,266 --> 01:11:54,045
-the artwork.
-
-786
-01:11:54,462 --> 01:12:00,882
-There's one I'm looking at now with rock formation with creepy old tree with the ultra
-
-787
-01:12:01,301 --> 01:12:05,595
-purse on the top. Oh, yeah. That is a good one. I I just like how every
-
-788
-01:12:05,949 --> 01:12:06,449
-frame
-
-789
-01:12:06,948 --> 01:12:30,089
-without back just kinda has interesting looking bushes and hills and it's not flat. It just everything it looks like it just has a lot of depth to it and layers to it. I think I feel like they took a couple shortcuts because there's a lot of panels where there's just do silhouette work. Are all the comics, just this detail from one panel to another because there's quite a bit of detail. Yeah. I mean know. Spark does is is known for
-
-790
-01:12:30,587 --> 01:12:33,975
-detail, especially in these early comics. There will be some later ones where
-
-791
-01:12:35,633 --> 01:12:44,499
-cuts back a little bit. He's also known for doing those silhouette. And sometimes it might be a little bit of shortcut. But sometimes I think it's done for that effect. I'm noticing
-
-792
-01:12:45,437 --> 01:12:55,501
-whereas I didn't, when I was reading these more casually, going through these chronological, I'm taking note of all that silhouette stuff he does. And I with you. There's some pretty awesome
-
-793
-01:12:55,880 --> 01:13:01,469
-scenes from the outback in this. Yeah. There aren't as many, like, really show panels in this
-
-794
-01:13:02,249 --> 01:13:19,054
-Right? There's not a not a time like some of the other issues. If I had to pick one, you know, hold the spear to my head and pick one, I would probably pick the one the one with the the email... Not there the E roasting, the one above that one where they're just perched over.
-
-795
-01:13:19,709 --> 01:13:23,449
-Looking at the camp below. Oh, yeah. The ne user. It's the...
-
-796
-01:13:23,789 --> 01:13:38,335
-Just because there's some cool lighting there. Yeah. You're you're absolutely right. There's some gray lighting in So something else just pick one of those two frames with the... There's two frames there with the dynamic lighting that just looks pretty cool. I agree. Those are really nice.
-
-797
-01:13:38,988 --> 01:13:49,752
-I think in the absence of a really show panel, which, you know, I'm usually a set for. I really like the panel that shows him h demonetized and crying
-
-798
-01:13:50,131 --> 01:13:50,631
-thinking
-
-799
-01:13:51,290 --> 01:13:51,729
-about his.
-
 800
-01:13:52,489 --> 01:13:54,327
-I I think that pretty awesome.
+01:11:47,908 --> 01:11:51,533
+art style just So I kinda lump a lot of the...
 
 801
-01:13:55,166 --> 01:13:59,317
-The one of the scavenger eagle also pretty cool. Yeah. Awesome.
+01:11:51,870 --> 01:11:54,045
+Just to outback, the artwork
 
 802
-01:14:00,255 --> 01:14:04,849
-Alright. Well, Ben, thank you so much. I hope to have you back for more of these.
+01:11:54,462 --> 01:12:00,882
+There's one I'm looking at now with the rock formation with a creepy little tree with a filter
 
 803
-01:14:05,423 --> 01:14:09,672
-Yeah. This is fun. Alright. So... Yeah. A really really good adventure.
+01:12:01,301 --> 01:12:06,329
+perched on the top. Oh, yeah. That is a good one. I I just like how every frame
 
 804
-01:14:10,129 --> 01:14:14,856
-Great great story to read. I I really appreciate everyone joining us
+01:12:06,948 --> 01:12:30,089
+without outback. Just kinda has interesting looking bushes and hills and it's not flat. It just everything it looks like it just has a lot of depth to it and layers to it. I think that I feel like they took a couple short shortcuts because there's a lot of panels where there's just too silhouette work. Are all the comics just this detail from one panel to another because there's quite a bit of detail. Yeah. I mean that Spark does is is known for
 
 805
-01:14:15,249 --> 01:14:21,941
-If you have any thoughts about this one, you can drop us line at Barks from mark's at g dot com or check us out on Facebook
+01:12:30,547 --> 01:12:34,614
+detail, especially in these early economics. There will be some later ones where he
 
 806
-01:14:22,880 --> 01:14:23,114
-Next
+01:12:35,593 --> 01:12:44,499
+cuts back a little bit. He's also known for doing those silhouette and sometimes it might be a little bit of shortcut. But sometimes I think it's done for that effect. I'm noticing
 
 807
-01:14:23,814 --> 01:14:30,027
-episode. Oh, ben, this is a big one. We are about to do Christmas on bear mountain. Mh.
+01:12:45,437 --> 01:12:55,461
+whereas I didn't when I was reading these more casually like going through these chronological, I'm taking note of all that silhouette stuff he does. And i with you. There's some pretty awesome
 
 808
-01:14:30,645 --> 01:14:35,152
-And as you probably don't know, this is the
+01:12:55,841 --> 01:12:57,638
+scenes from the outback in this.
 
 809
-01:14:35,889 --> 01:14:42,310
-introduction of Uncle Scrooge, Mc mcdowell. Oh no. That's a big one. It is. This is a big deal. So,
+01:12:58,557 --> 01:13:01,469
+There aren't as many like really show panels in this
 
 810
-01:14:42,647 --> 01:14:45,560
-yeah, definitely join us for that. Thank you, please.
+01:13:02,249 --> 01:13:05,489
+Right? There's not a not a time like some of the other issues.
+
+811
+01:13:05,849 --> 01:13:19,054
+If I had to pick one, you know, hold a spirit in my head and pick one, I would probably pick the one The one with the the email... Not the roasting. The one above that one where they're just purged over.
+
+812
+01:13:19,709 --> 01:13:22,529
+Looking at the camp below. Oh, yeah. The nephews.
+
+813
+01:13:22,989 --> 01:13:30,101
+The just because there's some cool lighting there. Yeah. You're you're absolutely right. There's some gray lighting and So something
+
+814
+01:13:30,559 --> 01:13:38,335
+just pick one of those two frames with the... There's two frames there with the dynamic lighting that just looks pretty cool. I agree. Those are really nice.
+
+815
+01:13:38,908 --> 01:13:47,541
+I think in the absence of a really shall panel, which, you know, I'm usually a set for. I really like the panel that shows him
+
+816
+01:13:48,693 --> 01:13:49,552
+and crying
+
+817
+01:13:51,250 --> 01:13:51,610
+about it.
+
+818
+01:13:52,489 --> 01:13:54,327
+I I think that one's pretty awesome.
+
+819
+01:13:55,166 --> 01:13:59,237
+The one of the scavenger eagles also pretty cool yeah. Awesome.
+
+820
+01:14:00,215 --> 01:14:04,849
+Alright. Well, Ben, thank you so much. I hope to have you back for more of these.
+
+821
+01:14:05,423 --> 01:14:09,610
+Yeah. This is fun. Alright. So, yeah. A really really good adventure.
+
+822
+01:14:10,089 --> 01:14:14,816
+Great great story to read. I I really appreciate everyone joining us
+
+823
+01:14:15,249 --> 01:14:18,625
+If you have any thoughts about this one, you can drop us line
+
+824
+01:14:19,004 --> 01:14:21,941
+from Barks at g gmail dot com or check us that on Facebook.
+
+825
+01:14:22,840 --> 01:14:23,114
+Next
+
+826
+01:14:23,814 --> 01:14:29,228
+episode, oh ben, this is a big one. We are about to do Christmas on Barks mountain.
+
+827
+01:14:29,567 --> 01:14:29,766
+Mh.
+
+828
+01:14:30,605 --> 01:14:31,105
+And
+
+829
+01:14:31,419 --> 01:14:35,152
+as you probably don't know. This is the
+
+830
+01:14:35,849 --> 01:14:37,725
+introduction of uncle Scrooge,
+
+831
+01:14:38,124 --> 01:14:45,560
+Dot Oh, No. It's a big one. It is. This is a big deal. So... Yeah. Definitely join us for that. Thank you, thanks.
 

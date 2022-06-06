@@ -1,0 +1,976 @@
+1
+00:00:21,382 --> 00:00:37,861
+Hello, and welcome to Barks Remarks. The podcast where we talk about the stories from the legendary Carl Barks creator of Scrooge Inducks and writer Al artist of the greatest Donald and unscrew comments of all time. Join us as we explore his longer adventure stories in their chronological
+
+2
+00:00:38,200 --> 00:00:48,545
+publishing or order. We'll talk about what makes them so enduring their historical context and how well they hold up today. So get out your reprint and get ready to enjoy our remarks.
+
+3
+00:00:48,919 --> 00:00:52,573
+And hello, everyone. Welcome back to Bark remarks.
+
+4
+00:00:53,071 --> 00:00:54,250
+I'm Mark Sever.
+
+5
+00:00:54,588 --> 00:00:58,460
+I am still a grown man who enjoys donald dot com books.
+
+6
+00:00:59,313 --> 00:01:08,720
+And I really enjoy enjoyed talking about them, and I've dragged along a couple of guest hosts that are going to put up with talking about
+
+7
+00:01:09,139 --> 00:01:09,959
+these comics.
+
+8
+00:01:11,017 --> 00:01:13,774
+Eric, why don't you introduce yourself first this time?
+
+9
+00:01:14,653 --> 00:01:17,330
+My and Eric, I have grown up reading all sorts of comments.
+
+10
+00:01:17,864 --> 00:01:27,376
+Little bit of disney ones in the and then when I was little, Lamar speak to the fan the local Scrooge and up and dial and Barks, and I must enjoy. I have enjoyed
+
+11
+00:01:27,849 --> 00:01:28,349
+immensely,
+
+12
+00:01:29,085 --> 00:01:33,455
+what I've read so far, know it's forwarded to what he's going to show me later. Excellent.
+
+13
+00:01:34,072 --> 00:01:34,910
+And Ryan.
+
+14
+00:01:35,644 --> 00:01:38,741
+I'm Ryan Bailey. I've read the thousands of
+
+15
+00:01:39,320 --> 00:01:41,098
+Marvel comics, and
+
+16
+00:01:41,637 --> 00:01:48,385
+I have been reading these as Mark makes me. So now probably about half a dozen of Carl Barks comics
+
+17
+00:01:48,963 --> 00:01:56,546
+Yeah. And I I guess really quickly, before we launch into this episode of the stories in this episode,
+
+18
+00:01:57,363 --> 00:02:01,496
+which is kind of a weird one, we're gonna be talking about two stories
+
+19
+00:02:02,527 --> 00:02:04,941
+which are the fire bug
+
+20
+00:02:05,358 --> 00:02:08,012
+and Donald Du Adam Barks.
+
+21
+00:02:08,270 --> 00:02:10,405
+I'm gonna take a moment because you guys have
+
+22
+00:02:10,782 --> 00:02:12,812
+been on this Barks journey.
+
+23
+00:02:13,428 --> 00:02:19,526
+Do do you guys have, like, a favorite so far out of the the half dozen or so that we've read?
+
+24
+00:02:20,139 --> 00:02:21,875
+Ryan putting you on the spot.
+
+25
+00:02:22,213 --> 00:02:23,989
+I think mine would be
+
+26
+00:02:24,447 --> 00:02:26,800
+frozen gold. I think that's my favorite one so fun.
+
+27
+00:02:27,455 --> 00:02:27,955
+Excellent,
+
+28
+00:02:28,975 --> 00:02:31,295
+a good choice. And how about you, Eric?
+
+29
+00:02:31,855 --> 00:02:33,255
+I like the one with the money.
+
+30
+00:02:33,935 --> 00:02:36,168
+Alright. The money ring. Very nice.
+
+31
+00:02:36,584 --> 00:02:39,793
+I'm gonna say something different. I would probably
+
+32
+00:02:40,448 --> 00:02:42,321
+have to pick tear of the river.
+
+33
+00:02:43,214 --> 00:02:46,670
+Very narrowly over mystery of the swamp. So
+
+34
+00:02:47,368 --> 00:02:49,725
+that's that's where we are going into these.
+
+35
+00:02:50,779 --> 00:03:01,943
+I assigned you guys these two stories again we are doing the fire bug and Donald du Adam Bomb, and we're just a few up episodes in and
+
+36
+00:03:02,362 --> 00:03:07,257
+we're already breaking the format rules that I established. Right? Because
+
+37
+00:03:07,596 --> 00:03:12,706
+I said that I wanted to make this podcast focused on the
+
+38
+00:03:13,244 --> 00:03:17,634
+full length Karl Barks adventure stories. They're mostly adventures. Stories.
+
+39
+00:03:17,973 --> 00:03:19,832
+Some of them are just much longer.
+
+40
+00:03:20,450 --> 00:03:25,440
+But there there's a couple of reasons behind why I wanted to bring these
+
+41
+00:03:26,098 --> 00:03:29,010
+to shorter stories in and break the format rules.
+
+42
+00:03:29,848 --> 00:03:35,670
+And and first off, I thought about it when I realized that I had been going by wikipedia
+
+43
+00:03:37,325 --> 00:03:41,915
+description of how long each story was. And when you read with Wikipedia,
+
+44
+00:03:42,609 --> 00:03:51,680
+If you scroll down, Donald Du Adam Barks, says that it's thirty pages long. So I identified it as our next one at the end of last episode.
+
+45
+00:03:52,373 --> 00:04:02,576
+And then when I went to read it, I realized... Oh, yeah. I haven't read this one in many, many years, but this is a weird story that had an unusual format,
+
+46
+00:04:03,432 --> 00:04:05,926
+and it was technically printed in thirty pages,
+
+47
+00:04:06,662 --> 00:04:10,530
+but it was printed as part of the cheer give away.
+
+48
+00:04:11,105 --> 00:04:14,925
+In a format that was more like comic strips size.
+
+49
+00:04:15,665 --> 00:04:16,165
+And
+
+50
+00:04:16,785 --> 00:04:19,245
+so it it is thirty pages
+
+51
+00:04:19,998 --> 00:04:23,152
+Wikipedia really needs to have some kind of an asterisk next to that.
+
+52
+00:04:24,030 --> 00:04:24,530
+But
+
+53
+00:04:25,028 --> 00:04:35,956
+about someone should edit Al that page. Yeah. Yeah. I'll I'll get right on it. This stuff. So... But I I thought that actually, this might be a really good opportunity because
+
+54
+00:04:36,493 --> 00:04:38,907
+I had skipped over the fire bug,
+
+55
+00:04:39,300 --> 00:04:45,759
+which is in a kind of a weird spot for the bark stories in terms of length because that one is thirteen pages.
+
+56
+00:04:46,554 --> 00:04:47,054
+And
+
+57
+00:04:47,432 --> 00:04:51,222
+that makes it longer than the hundreds of ten pager he did.
+
+58
+00:04:52,379 --> 00:04:53,957
+But much shorter
+
+59
+00:04:54,748 --> 00:04:58,598
+then most of the others. And they happen to be...
+
+60
+00:04:59,015 --> 00:05:00,592
+They happen to be sequentially,
+
+61
+00:05:01,248 --> 00:05:04,000
+you know, very close in terms of when they were published.
+
+62
+00:05:04,414 --> 00:05:07,625
+So that worked out well, the fact that they're both technically
+
+63
+00:05:08,242 --> 00:05:08,742
+longer
+
+64
+00:05:09,080 --> 00:05:10,098
+than ten pages.
+
+65
+00:05:10,994 --> 00:05:17,096
+And then they're also a good package, I think, be has they are both very unusual
+
+66
+00:05:17,635 --> 00:05:21,051
+kind of dark stories that have a little bit of a notorious
+
+67
+00:05:21,430 --> 00:05:27,179
+history. So I thought that it would be a good opportunity to kind of take them Al package
+
+68
+00:05:27,718 --> 00:05:30,875
+and talk about them talk about them together.
+
+69
+00:05:31,369 --> 00:05:33,108
+As sort of notorious
+
+70
+00:05:33,606 --> 00:05:35,904
+semi band Disney comics.
+
+71
+00:05:36,403 --> 00:05:38,341
+So we are gonna take on
+
+72
+00:05:38,880 --> 00:05:39,314
+the
+
+73
+00:05:39,813 --> 00:05:43,587
+we're gonna take on the fire first because that one did come chronological
+
+74
+00:05:43,925 --> 00:05:44,425
+earlier.
+
+75
+00:05:45,721 --> 00:05:48,789
+And and and then we'll talk about Adam Bomb
+
+76
+00:05:49,168 --> 00:05:52,541
+And, you know, we can take a little bit of time to talk about
+
+77
+00:05:53,198 --> 00:05:56,150
+the two of them and kinda how they compare.
+
+78
+00:05:57,044 --> 00:05:58,103
+A little bit of background.
+
+79
+00:05:58,482 --> 00:05:59,781
+So the fire bug
+
+80
+00:06:00,240 --> 00:06:00,740
+is
+
+81
+00:06:01,599 --> 00:06:07,346
+published in January of nineteen forty six. Is this cover date? It was in four color
+
+82
+00:06:07,844 --> 00:06:09,142
+one hundred and eight
+
+83
+00:06:10,079 --> 00:06:16,942
+which actually makes it a package story with tear of the river. You know, I didn't realize that it was in the same issue.
+
+84
+00:06:17,680 --> 00:06:20,618
+This is the b story for that comment. And
+
+85
+00:06:21,356 --> 00:06:25,229
+this one is I already mentioned it's thirteen pages long.
+
+86
+00:06:26,289 --> 00:06:27,189
+It was
+
+87
+00:06:28,649 --> 00:06:29,149
+reprinted,
+
+88
+00:06:29,729 --> 00:06:49,893
+I think for the first time in nineteen sixty eight, in Donald dot one forty three, and I just find that notable because that's that time around, it got its own cover. Or. It wasn't done by Barks. But it's a fun fun cover from the, I think, the gold era. A little bit of... Well, here's the synapse for this one. So
+
+89
+00:06:50,592 --> 00:06:55,166
+in the fire about donald suffers blow to the head that causes him to become up.
+
+90
+00:06:55,919 --> 00:07:04,659
+And he sets some small, but very creative fires around the city while dodging Huey, dewey and Louie. And then he gets blamed for a series of large fires,
+
+91
+00:07:05,079 --> 00:07:14,329
+but he may not be the real culprit. A little bit more background trivia, this is the only one that he ever did that was this length thirteen pages
+
+92
+00:07:15,068 --> 00:07:20,815
+excluding a few junior wood check stories that he did very late in his career that were collaborations with others.
+
+93
+00:07:21,294 --> 00:07:25,919
+The the really interesting trivia about this one it has to do with the ending of the story
+
+94
+00:07:26,256 --> 00:07:27,713
+because this one
+
+95
+00:07:28,569 --> 00:07:29,867
+caused some real controversy
+
+96
+00:07:30,683 --> 00:07:40,183
+among the publisher, Western publishing thought the the original ending for this was too dark, and they had another artist create an alternate panel.
+
+97
+00:07:40,602 --> 00:07:52,625
+Basically, and it was all a dream. Panel. I also thought that it was this story contrast pretty well with another story from around this era called Fire Donald,
+
+98
+00:07:53,199 --> 00:08:01,171
+I'll share this one with you guys. It's not one that we're gonna end up covering because it is a ten pager. But it's a pretty famous ten page or where he becomes a volunteer
+
+99
+00:08:01,670 --> 00:08:15,408
+firefighter. So We've kinda got both sides of the spectrum in this one. We're not gonna go deep into the value range because we already talked about what this was worth with a tear of the river, I'm gonna go into a little bit
+
+100
+00:08:15,865 --> 00:08:16,883
+of that
+
+101
+00:08:17,540 --> 00:08:18,040
+historical
+
+102
+00:08:18,856 --> 00:08:19,356
+background
+
+103
+00:08:19,893 --> 00:08:23,701
+context to that you guys know I love to do so much.
+
+104
+00:08:24,220 --> 00:08:28,135
+I I looked at what was going on in the world and this time,
+
+105
+00:08:28,629 --> 00:08:38,134
+and this is when we had the Un general assembly meeting for the first time in London. This this month saw the issue of the first Roosevelt dime
+
+106
+00:08:38,792 --> 00:08:42,600
+I am going to talk a little bit about what I read up on
+
+107
+00:08:43,176 --> 00:08:45,948
+regarding the history of the condition of Pi.
+
+108
+00:08:46,779 --> 00:08:51,315
+Oh, good. I was wondering about that one, because... Yeah. It's interesting
+
+109
+00:08:51,854 --> 00:08:55,490
+how these comments, obviously not based into any kind of science.
+
+110
+00:08:56,143 --> 00:08:58,096
+Like to just go up with. I think this is what happens.
+
+111
+00:08:58,534 --> 00:09:00,588
+You hit up the head once. And
+
+112
+00:09:01,722 --> 00:09:03,236
+you go crazy about something. Yeah.
+
+113
+00:09:04,170 --> 00:09:07,509
+And and weirdly, I did see something in the literature
+
+114
+00:09:08,050 --> 00:09:21,809
+that kind of matched What happened to Donald in this one, but like you said, this is very very fantastic. I I did a semi deep dive on Pi. I read a feature on the American Journal site psychiatry.
+
+115
+00:09:22,308 --> 00:09:25,525
+Alright. So higher romania is in the American
+
+116
+00:09:26,223 --> 00:09:29,260
+D m five. Right, The diagnostic manual.
+
+117
+00:09:29,753 --> 00:09:31,051
+But it's kind of been
+
+118
+00:09:32,185 --> 00:09:33,523
+controversial. They've like
+
+119
+00:09:34,020 --> 00:09:43,335
+included it and taking it out as a a legitimate diagnosis, but but it's it's basically one as of now. It it is a real diagnosis.
+
+120
+00:09:44,454 --> 00:09:46,312
+There's still some vigorous debate
+
+121
+00:09:46,651 --> 00:09:48,370
+about whether it really exists.
+
+122
+00:09:48,784 --> 00:09:51,341
+It does have incredibly low incidents.
+
+123
+00:09:51,860 --> 00:09:55,396
+And in a finished study, I got a pan to the scandinavians
+
+124
+00:09:55,775 --> 00:09:56,135
+listening.
+
+125
+00:09:56,788 --> 00:09:59,559
+In a finished study of ninety arson sn
+
+126
+00:09:59,895 --> 00:10:03,343
+only three of them met the criteria for true pi.
+
+127
+00:10:04,013 --> 00:10:06,387
+And they Scrooge that, generally,
+
+128
+00:10:07,283 --> 00:10:07,783
+para
+
+129
+00:10:08,120 --> 00:10:14,178
+are predominantly male, average age is eighteen, and they set five roughly every six weeks.
+
+130
+00:10:14,834 --> 00:10:18,461
+And there are six very specific criteria to differentiate it.
+
+131
+00:10:19,457 --> 00:10:24,794
+One, it has to be a deliberate and purpose full fire setting on more than one occasion, two,
+
+132
+00:10:25,210 --> 00:10:28,875
+there has to be tension or effective arousal before the act.
+
+133
+00:10:29,329 --> 00:10:34,969
+Three, there's gotta be a fascination or interest in carry or curiosity or traction to fire.
+
+134
+00:10:35,569 --> 00:10:49,168
+For. There's has gotta be some kind of pleasure or patient or relief when setting fires or witness them. Five, the fire setting cannot be done for monetary gain, getting revenge, a expression of, like Al ideology.
+
+135
+00:10:49,706 --> 00:10:53,901
+And then finally, the fire setting is not better explained by a Inducks
+
+136
+00:10:54,580 --> 00:10:57,532
+disorder. So we can kinda think about whether donald matches
+
+137
+00:10:58,470 --> 00:10:59,370
+those criteria.
+
+138
+00:11:00,268 --> 00:11:03,405
+And then, of course, we're not calling him a
+
+139
+00:11:03,999 --> 00:11:07,739
+arson in. We're calling him a fire bug, which is
+
+140
+00:11:08,159 --> 00:11:12,926
+a... I really like that nickname. For an arson for a p rather.
+
+141
+00:11:13,764 --> 00:11:19,585
+That... I found that it was first used in eighteen seventy, and, obviously, it means someone that's obsessed with setting fires.
+
+142
+00:11:20,198 --> 00:11:23,292
+Had you guys heard that term before fire?
+
+143
+00:11:23,830 --> 00:11:24,109
+Eric?
+
+144
+00:11:24,748 --> 00:11:28,494
+I'm gonna have to say, probably yes. But just
+
+145
+00:11:29,194 --> 00:11:50,156
+and Al the many camp outs, I went as a scout as a use of the kids that always like to be in charge of the fire. It does... Oh, yeah He's a fire. He's Al fires. How about you, ryan? I think I have heard that term. Yeah. It was... It's did not str this new one I heard. But I feel like I haven't heard a long time, like, since I was a kid. Yeah. I I agree. I feel like it's kinda going out of fashion.
+
+146
+00:11:50,994 --> 00:11:51,773
+Were you guys
+
+147
+00:11:52,231 --> 00:11:54,425
+fire bugs where you guys fire centers as kids?
+
+148
+00:11:55,079 --> 00:11:56,459
+I think Al boys
+
+149
+00:11:57,119 --> 00:11:59,339
+from eleven to fourteen, or probably
+
+150
+00:12:00,920 --> 00:12:05,311
+That that is a yes then. Right. Alright. I I don't think I really was.
+
+151
+00:12:06,368 --> 00:12:19,024
+I knew plenty kids who were, but I know. When I was... That age, I had a healthy respect for fire. Was that really interesting starting water dealing with it. No. I used to... I used to set small fires out behind our our wooden shed.
+
+152
+00:12:20,314 --> 00:12:20,814
+And
+
+153
+00:12:21,393 --> 00:12:23,851
+close to it. Thank thank goodness handle
+
+154
+00:12:24,270 --> 00:12:26,508
+yeah. That's not anything you should be doing. Yeah.
+
+155
+00:12:27,307 --> 00:12:29,285
+Exactly. I think this is a really
+
+156
+00:12:29,720 --> 00:12:30,220
+fascinating
+
+157
+00:12:30,560 --> 00:12:37,459
+story. I think this one's really cool. Do you guys have any comments and any additional comments about kind of that background or
+
+158
+00:12:37,934 --> 00:12:50,615
+I I also looked into it. I asked my long time family doctor web m dot com about it. Yeah. It said the cost was unknown, but it's not to be there's psychiatric issues like anxiety and substance abuse addiction depression,
+
+159
+00:12:51,733 --> 00:12:55,484
+mood disorders, learning disabilities, They think there might be a hereditary
+
+160
+00:12:55,941 --> 00:12:56,960
+component and
+
+161
+00:12:57,297 --> 00:13:03,437
+are other stress like some kind of major loss or abuse or some something like that? And it is not treated
+
+162
+00:13:03,933 --> 00:13:10,551
+with surgery from a random guy in the crowd at court hearing. It's actually treated with cognitive behavioral therapy.
+
+163
+00:13:11,164 --> 00:13:15,539
+Cognitive behavioral is is the answer to many things that
+
+164
+00:13:15,918 --> 00:13:17,457
+used to be treated
+
+165
+00:13:18,115 --> 00:13:21,107
+with a saw or a massive drug.
+
+166
+00:13:21,686 --> 00:13:24,784
+So yeah we're definitely gonna talk about that guy. I I
+
+167
+00:13:25,243 --> 00:13:28,275
+I'm Al fascinated by that doctor at the end in a way that I wasn't
+
+168
+00:13:28,733 --> 00:13:29,631
+as a kid.
+
+169
+00:13:30,366 --> 00:13:30,446
+Alright.
+
+170
+00:13:31,402 --> 00:13:31,902
+So
+
+171
+00:13:32,557 --> 00:13:33,455
+so the fire
+
+172
+00:13:34,031 --> 00:13:35,500
+starts off with
+
+173
+00:13:36,756 --> 00:13:40,567
+It's a very cold morning, and the Nephews are asking Donald
+
+174
+00:13:40,985 --> 00:13:41,485
+to
+
+175
+00:13:41,862 --> 00:13:42,721
+start a fire
+
+176
+00:13:43,194 --> 00:13:47,690
+And Donald suffers Al blow to the head on the way down the stairs.
+
+177
+00:13:48,389 --> 00:13:58,486
+And that that's what turns him into a fire bug. He he is kind of sc at to the need for a fire on the way down and way that four shadows.
+
+178
+00:13:58,824 --> 00:14:03,415
+And then by the time he gets to the bottom after getting injured. He's got
+
+179
+00:14:03,795 --> 00:14:05,375
+a gl in his eye,
+
+180
+00:14:05,755 --> 00:14:07,055
+and he is
+
+181
+00:14:07,435 --> 00:14:09,895
+fascinated by the fire in the fireplace.
+
+182
+00:14:10,690 --> 00:14:15,390
+And Donald goes outside he sets a bunch of fires in the backyard,
+
+183
+00:14:15,850 --> 00:14:16,550
+the nephews
+
+184
+00:14:16,890 --> 00:14:19,850
+and encounter him, and they're very alarmed.
+
+185
+00:14:20,704 --> 00:14:24,480
+Al his behavior, and they recognize very quickly that something is wrong
+
+186
+00:14:24,978 --> 00:14:27,555
+so they lure him into the house
+
+187
+00:14:28,467 --> 00:14:32,753
+and they tie him up and they go to see a doctor
+
+188
+00:14:33,568 --> 00:14:40,019
+The doctor that they see is doctor K fast. And that's a a name that Barks is gonna use for
+
+189
+00:14:40,675 --> 00:14:41,073
+Scrooge
+
+190
+00:14:41,949 --> 00:14:42,888
+long time
+
+191
+00:14:43,758 --> 00:14:47,689
+secretary later on down the road. So I I caught that this time.
+
+192
+00:14:48,266 --> 00:14:48,966
+The doctor
+
+193
+00:14:49,543 --> 00:14:50,043
+is
+
+194
+00:14:51,594 --> 00:14:53,053
+identifies him as a pi,
+
+195
+00:14:54,631 --> 00:15:00,145
+says he has p of the deck. This worries, the nephews, they wanna take care of him themselves,
+
+196
+00:15:00,760 --> 00:15:07,080
+so they rush home, but by the time they get home, he has escaped by burning through the ropes.
+
+197
+00:15:07,520 --> 00:15:10,315
+And so they're off to find him they
+
+198
+00:15:10,855 --> 00:15:13,595
+they see a large fire down at the Harbor,
+
+199
+00:15:14,215 --> 00:15:18,435
+and they see him looking very guilty and coming back
+
+200
+00:15:18,869 --> 00:15:22,925
+from that direction with a can of gasoline and a box of matches.
+
+201
+00:15:23,424 --> 00:15:26,721
+The Nephews ambush him, they take him back home
+
+202
+00:15:27,235 --> 00:15:30,695
+they do some of their own age appropriate Web
+
+203
+00:15:31,235 --> 00:15:32,615
+research in a book
+
+204
+00:15:33,155 --> 00:15:40,951
+and to try and figure out how to take care of him. But by the time they get back into his room, he's burned his way out again.
+
+205
+00:15:41,350 --> 00:15:43,065
+Gone through the floor this time.
+
+206
+00:15:43,783 --> 00:15:44,442
+And then
+
+207
+00:15:45,035 --> 00:15:48,495
+the nephews split up to go and find him. Do sees
+
+208
+00:15:48,875 --> 00:15:51,915
+H camp fire down at near the railroad bridge.
+
+209
+00:15:52,489 --> 00:16:00,531
+And he encounters Donald about to set a series of very, like, artistic fires including a square fire
+
+210
+00:16:01,402 --> 00:16:03,755
+round fire and a hollow fire.
+
+211
+00:16:04,592 --> 00:16:08,939
+Of course, there's three dimensions, so it's really like a cubic fire or spherical fire.
+
+212
+00:16:09,537 --> 00:16:10,236
+And then
+
+213
+00:16:10,589 --> 00:16:15,164
+as Dewey is looking on, there is a very sinister looking police officer
+
+214
+00:16:15,702 --> 00:16:17,615
+observing behind him. And so
+
+215
+00:16:17,954 --> 00:16:25,335
+dewey rush him away and the police officers noting these special fires to report them to head headquarters.
+
+216
+00:16:26,227 --> 00:16:26,727
+And
+
+217
+00:16:27,145 --> 00:16:28,802
+sure enough on the way out,
+
+218
+00:16:29,578 --> 00:16:42,990
+they over here a police dispatch warning about the specific fires that Donald was doing. And so Donald runs away because he doesn't wanna be locked up. Unable to start more fires. And the nephews have to recon.
+
+219
+00:16:43,450 --> 00:16:43,950
+They
+
+220
+00:16:44,930 --> 00:16:50,685
+meet Al the near the oil refineries where they see some buildings that match donald old
+
+221
+00:16:51,622 --> 00:16:53,456
+very elaborate fires burning,
+
+222
+00:16:53,935 --> 00:17:02,870
+a square around and a hollow fire. And again, Al the scene of the crime, they see donald with a Canon of gas celine, and they also encounter
+
+223
+00:17:03,490 --> 00:17:03,990
+that
+
+224
+00:17:04,369 --> 00:17:05,109
+police officer
+
+225
+00:17:05,410 --> 00:17:16,272
+from the from the railroad bridge from the river. They run away from him, they hide in a lumber yard and they looked like they've gotten away, but
+
+226
+00:17:16,730 --> 00:17:18,906
+Donald can't resist burning
+
+227
+00:17:19,260 --> 00:17:20,120
+a new masterpiece.
+
+228
+00:17:20,460 --> 00:17:26,360
+He lights a clover fire and they have to keep running. There's just so much running in this one that the characters
+
+229
+00:17:27,020 --> 00:17:38,779
+even are complaining about it. And so when they finally get away at night, they're catching their breath and Donald is complaining about what what all the fuss is and the nephews are like, well, you burned down half the town.
+
+230
+00:17:39,478 --> 00:17:45,790
+But Donald says, no, he doesn't like to repeat his fires. He's an artist. He invent new kinds of fires.
+
+231
+00:17:46,365 --> 00:17:52,785
+And to prove it, he takes them back down to the the railroad bridge where he can show his newest masterpiece
+
+232
+00:17:53,460 --> 00:17:59,520
+a t shaped fire. And, again, that police officer shows up with another with his partner
+
+233
+00:18:00,300 --> 00:18:04,284
+and they get the drop on the Ducktales. And
+
+234
+00:18:05,059 --> 00:18:06,595
+the original cop
+
+235
+00:18:06,932 --> 00:18:08,308
+tells his partner
+
+236
+00:18:08,939 --> 00:18:09,639
+to go
+
+237
+00:18:10,178 --> 00:18:14,454
+to go basically get back up while he guards the docks.
+
+238
+00:18:15,453 --> 00:18:21,885
+But then he lets his guard down, the docks realize that they can escape and they do... Yeah more running. They take some...
+
+239
+00:18:22,185 --> 00:18:26,045
+They they hide in a steep, and they start to
+
+240
+00:18:26,479 --> 00:18:35,385
+kind of pond or what's been happening and they realized that, you know, if Donald is telling the truth, then there must be another fire bug. And they
+
+241
+00:18:35,925 --> 00:18:41,625
+consider that it's so weird that that cop seems to have basically let them get away. And
+
+242
+00:18:42,325 --> 00:18:58,925
+they surmise that he he must be the fire. And this is another example where there's kind of a bit of a mystery, and I like that they just kinda work through it really quickly. We've seen that a couple of times in the. So they they're they're working it together. They realized that
+
+243
+00:18:59,360 --> 00:19:08,060
+you know, Donald is this fire Al buy, so they need to look for a t shaped to building. That's gonna be the Target. And they see one by the waterfront
+
+244
+00:19:09,224 --> 00:19:09,364
+and
+

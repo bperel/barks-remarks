@@ -47,7 +47,7 @@ const saveTranscription = async (pathToFile) => {
 const processNextEpisode = async () => {
   const {title, url} = episodes[currentEpisodeIndex];
   console.log('Processing ' + title + ' ...')
-  const mp3FilePath = `${fileRoot}${title}.mp3`;
+  const mp3FilePath = `${fileRoot}${title.replace('/', ' - ')}.mp3`;
   if (fs.existsSync(mp3FilePath)) {
     console.log(` ${mp3FilePath} already exists`)
     await saveTranscription(mp3FilePath)
