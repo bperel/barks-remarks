@@ -1,11 +1,11 @@
-import {Deepgram} from '@deepgram/sdk';
+import deepgram from '@deepgram/sdk';
 import fs from 'fs';
 import request from 'follow-redirects';
 import jsdom from "jsdom";
 import {markdownTable} from 'markdown-table'
 
 const deepgramApiKey = fs.readFileSync('deepgram-key.txt').toString()
-const deepgram = new Deepgram(deepgramApiKey);
+const deepgramApi = new deepgram.Deepgram(deepgramApiKey);
 
 const fileRoot = './subtitles/'
 
@@ -22,7 +22,7 @@ const saveTranscription = async (pathToFile) => {
   }
   console.log(` Creating transcription...`)
 
-  const transcription = await deepgram.transcription.preRecorded(
+  const transcription = await deepgramApi.transcription.preRecorded(
     {buffer: fs.readFileSync(pathToFile), mimetype: 'audio/mp3'},
     {
       model: 'phonecall',
